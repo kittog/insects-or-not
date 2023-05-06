@@ -1,24 +1,5 @@
 
-    <title>Neobisiid</title>
-    <ns>0</ns>
-    <id>2063</id>
-    <revision>
-      <id>3400</id>
-      <parentid>3364</parentid>
-      <timestamp>2009-05-26T19:05:54Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>added image</comment>
-      3400
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="508" sha1="smbktus65vj863i4cb60f8nuyqnnz8a" xml:space="preserve">[[File:Neobisium_maritimum.jpg|thumb|208px|''[[Neobisium maritimum]]'']]A neobisiid is a [[pseudoscorpion]] belonging to the [[Neobisiidae]] family. Most of these species have 4 eyes in cave living species. The color ranges from olive shades to brown, to yellow. Their legs are often slightly green. Neobisiids live throughout the Northern Hemisphere in leaf litter and soil. Like most pseudoscorpions, they feed on insects.
-[[Category:Pseudoscorpiones]]
-[[Category:Pseudoscorpions]]
-[[Category:Neobisiidae]]</text>
-      <sha1>smbktus65vj863i4cb60f8nuyqnnz8a</sha1>
-    </revision>
-  </page>
-  
+
+Porcellionid
+Porcellionids are a type of [[isopod]] that resemble tiny bark lice. They belong to the order [[Isopoda]] and the family [[Porcellionidae]]. These crustacious creatures can be found worldwide. About five-hundred species of porcellionids are in existence today.
+[[Category:Isopoda]]

@@ -1,29 +1,15 @@
 
-    <title>Cuckoo wasp</title>
-    <ns>0</ns>
-    <id>3596</id>
-    <revision>
-      <id>5678</id>
-      <timestamp>2016-08-25T18:26:21Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]Commonly known as '''cuckoo wasps''' or '''emerald [[wasp]]s''', the hymenopteran family '''Chrysididae''' is a very large cosmopolitan group (..."</comment>
-        5678
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2245" sha1="o3r6i88fm2zl8lsjerr8uhbzohzts4u" xml:space="preserve">[[File:Placeholder|right|300px]]Commonly known as '''cuckoo wasps''' or '''emerald [[wasp]]s''', the hymenopteran family '''Chrysididae''' is a very large cosmopolitan group (over 3000 described species) of parasitoid or kleptoparasitic wasps, often highly sculptured,[1] with brilliant metallic colors created by structural coloration.[2] They are most diverse in desert regions of the world, as they are typically associated with solitary bee and wasp species, which are also most diverse in such areas.
-==Nomenclature==
-The term "cuckoo wasp" refers to the cuckoo-like way in which wasps in the family lay eggs in the nests of unrelated host species.[1]
 
-Chrysididae, the scientific name of the family, refers to their shiny bodies and is derived from Greek chrysis, chrysid-, "gold vessel, gold-embroidered dress", plus the familial suffix -idae. The common names of many species pay similar tribute to their appearance: jewel wasp, gold wasp, emerald wasp, ruby wasp and so on (cf. French guêpe de feu, fire-wasp, and German Goldwespe, gold-wasp).
-==Ecology and behavior==
-Members of the largest subfamily, Chrysidinae, are the most familiar; they are generally kleptoparasites, laying their eggs in host nests, where their larvae consume the host egg or larva while it is still young, then the food provided by the host for its own juvenile. Chrysidines are distinguished from the members of other subfamilies in that most have flattened or concave lower abdomens and can curl into a defensive ball when attacked by a potential host, in the manner of a pill bug.[1] Members of the other subfamilies are parasitoids, of either sawflies or walking sticks, and cannot fold up into a ball.
+Mutillidae
+[[File:Placeholder|right|300px|link=Special:FilePath/Placeholder]]The '''Mutillidae''' are a family of more than 3,000 species of [[wasp]]s (despite the names) whose wingless females resemble large, hairy [[ant]]s. Their common name velvet ant refers to their dense pile of hair, which most often is bright scarlet or orange, but may also be black, white, silver, or gold. Black and white specimens are sometimes known as panda ants due to their hair coloration resembling that of the giant panda. Their bright colors serve as aposematic signals. They are known for their extremely painful stings, hence the common name cow killer or cow ant. Unlike real ants, they do not have drones, workers, and queens. However, velvet ants do exhibit haplodiploid sex determination similar to other members of the [[Hymenoptera]], including the Vespoidea.
+==Description==
+The exoskeleton of all velvet ants is unusually tough (to the point that some entomologists have reported difficulty piercing them with steel pins when attempting to mount them for display in cabinets). This characteristic allows them to successfully invade the nests of their prey and also helps them retain moisture. Like related families in the Vespoidea, males have wings, but females uniformly are wingless. They exhibit extreme sexual dimorphism. The males and females are distinct enough in their morphology, often making it very hard to decide whether or not a given male and female belong to the same species, unless they are captured while mating. In a few species, the male carries the smaller female aloft while mating, which is also seen in the related family Tiphiidae.
+==Behavior==
+Mature mutillids feed on nectar. Although some species are strictly nocturnal, females are often active during the day. Females of ''Tricholabiodes thisbe'' are sometimes active up to two hours before sunset. Guido Nonveiller (1963) hypothesized the Mutillidae are generally stenothermic and thermophilic; they may not avoid light, but rather are active during temperatures that usually occur only after sunset.
 
-Chrysidids are always solitary, and are closely associated with other solitary wasps. They fly mainly in the hottest and driest months of summer, preferring subtropical and Mediterranean climates. They favor dry areas and sandy soils; each species is confined to a narrow type of microhabitat where adults may rest or find hosts to parasitize, for example on bare soil or on dead wood where other solitary wasps have their nest holes. Some species visit flowers such as of the Umbelliferae, Compositae and Euphorbiae.
-==References==
-[[Category:Wasps]]</text>
-      <sha1>o3r6i88fm2zl8lsjerr8uhbzohzts4u</sha1>
-    </revision>
-  </page>
-  
+=== Defense mechanism ===
+Predation is one of the strongest forces natural selection uses to drive the evolution of an organism’s morphology, physiology, and behavior. During this coevolution, the prey either being consumed by the predator or escaping has resulted in a plethora of impressive defensive strategies in prey species to improve the likelihood of escape. Velvet ants avoid predation using the following defense mechanisms; a venomous sting (if female), aposematic coloration, a stridulatory organ in their abdomen, an alarm secretion from their mandibular gland, and a durable exoskeleton. This array of defenses has contributed to the velvet ants being attributed the title of "the indestructible insect." This title was given to the velvet ants after experimental experiments of interactions between velvet ants and their potential predators that resulted in the survival of the ant and the ultimate avoidance by the predator. 
+
+==Life cycle==
+Male mutillids fly in search of females; after mating, the female enters a host insect nest, typically a ground-nesting bee or wasp burrow, and deposits one egg near each larva or pupa. Only a few species are known to parasitize other types of hosts; exceptions include the European velvet ant, ''Mutilla europaea'', one of the only species that attacks social bees (e.g., ''Bombus''), and the genus ''Pappognatha'', whose hosts are tree-dwelling orchid bees. The mutillid larvae then develop as idiobiont ectoparasitoids, eventually killing their immobile larval/pupal hosts within a week or two. Velvet ants exhibit haplodiploid sex determination, as do other members of the superfamily Vespoidea.
+[[Category:Wasps]]

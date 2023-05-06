@@ -1,25 +1,21 @@
 
-    <title>Mantidfly</title>
-    <ns>0</ns>
-    <id>3149</id>
-    <revision>
-      <id>5105</id>
-      <parentid>5104</parentid>
-      <timestamp>2013-01-12T20:22:56Z</timestamp>
-      <contributor>
-        <username>Majoras revenge!!!</username>
-        <id>5362365</id>
-      </contributor>
-        5105
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1465" sha1="mjmtuic2ruklusfqop8iqk2bsh7r12j" xml:space="preserve">[[File:Mantidfly.jpg|thumb|A mantidfly standing on a leaf. Notice how it looks similar to a mantis.]]Mantidflies are medium sized insects About 5–47 millimetres (0.2–1.9 in) long and with a wingspan of 5–30 mm (0.2–1.2 in) most are brownish with green, yellow and sometimes red hues, larva are often parastoids but are sometimes moble predators.
 
-Mantispinae have the most specialized larval development among all mantidflies studied to date: their campodeiform larvae seek out female Spiders or their egg sacs which they then enter; the scarabaeiform larvae then feed on the spider eggs, draining egg contents through a piercing/sucking tube formed by modified mandibles and maxillae, pupating in the egg sac.
+Owlfly
+[[File:Libelloides lacteus.jpg|alt=|right|304x304px|''Libelloides lacteus (Milky owlfly)'']]
+'''Owlflies''' are dragonfly-like insects with large bulging eyes and strongly knobbed antennae. They are neuropterans in the family Ascalaphidae; they are only distantly related to the true flies, and even more distant from the [[dragonflies]] and [[damselflies]]. They are diurnal or crepuscular predators of other flying insects, and are typically 5 cm (2.0 in) long.
+==Description==
+Owlflies are readily distinguished from dragonflies because the latter have short bristle-like antennae. The closely related antlions (family Myrmeleontidae) have short, weakly clubbed antennae, smaller eyes, and very different wing venation.[1] All but one species of Ascalaphidae have long antennae, easily distinguishing them; the sole exception is the Brazilian ''Albardia furcata'', the only living member of the subfamily Albardiinae, which has short antennae, but the club is very strong (compared to myrmeleontids) and its typical reticulate ascalaphid wing venation demonstrates its actual relationships.
+==Ecology and life cycle==
+Adult owlflies are aerial predators feeding on other insects. When disturbed, some owlflies release a strong, musk-like chemical to deter enemies. Adults of many New World species are most active at sunset and dawn and can often be collected around lights. During the day, such adults rest on stems and twigs with the body, legs, and antennae pressed to the stem. The abdomen in a few species is held up, projecting into the air, to look like a broken twig. Many Old World species, however, are most active during the day, and are brightly colored – many even hold their wings spread at rest like dragonflies; perhaps this is a form of mimicry to benefit from the fact that dragonflies are aggressive predators which smaller predatory insects (for which the average neuropteran would be prey) would be better to avoid. Most owlflies are about 2 inches in length.[2] Adult Ascalaphinae such as ''Ululodes'' have large divided eyes, which is where the common name "owlfly" came from,[2] in addition to their crepuscular habits. Owlflies are worldwide in distribution, though in North America they are primarily southerly.
 
-First-instar mantispids use two strategies to locate spider eggs: larvae may burrow directly through the silk of egg sacs they find, or they may board and be carried by female spiders prior to sac production entering the sac as it is being constructed. Mantispids that board spiders usually adopt positions on or near the base of the abdomen; some species may enter the spider's book lungs. Larvae maintain themselves aboard spiders by feeding on spider hemolymph. transfers of larvae from spider to spider are possible during spider mating or cannibalism. All of the major groups of hunting spiders are attacked by spider-boarding mantispids; the egg sacs of web-building species are also entered by egg-sac penetrators.
-[[Category:Neuroptera]]</text>
-      <sha1>mjmtuic2ruklusfqop8iqk2bsh7r12j</sha1>
-    </revision>
-  </page>
-  
+Eggs are laid on twigs or under stones. Larvae are ambush predators, and lie on the ground or in vegetation, covered with debris, waiting for prey. Larvae resemble those of antlions, but have a "finger-like appendage" on the side of each segment. Some genera actively cement sand and debris onto their bodies as camouflage. Pupation occurs in a spheroidal silk cocoon in leaf litter or soil.
+==Systematics==
+[[Category:Neuroptera]]
+[[Category:Insecta]]
+[[Category:Families]]
+[[Category:Genera]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:InsectFamilies]]
+[[Category:Ascalaphidae]]

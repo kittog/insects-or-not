@@ -1,41 +1,16 @@
 
-    <title>Orange oakleaf Butterfly</title>
-    <ns>0</ns>
-    <id>4004</id>
-    <revision>
-      <id>6683</id>
-      <parentid>6486</parentid>
-      <timestamp>2021-10-19T14:22:49Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        6683
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3713" sha1="2subte6jyqolc0raqx8topip6hd12d1" xml:space="preserve">Kallima inachus, Also known as Orange oakleaf, Indian oakleaf and dead leaf butterfly, is a species of [[Insect|insects]] from the order [[Lepidoptera]] 
 
-{{Insects_Simple|image1=Orange oakleaf.png|caption1=Underside of wings|order=Lepidoptera|family=Nymphalidae|genus=Kallima|species=K. inachus|similar_species=Large tree nymph 
-Kallima paralecta}}
-
-from the family of Nymphalidae from the genus ''Kallima.'' One of the insects with a remarkably excellent mimicry.
+Ascalpha odorata
+{{Insects_Simple|title1=Ascalpha odorata|image1=The black which moth.png|caption1=One of the largest moths with a 24 cm wingspan, Several blood-curdling myths are associated with this species.|order=Lepidoptera|family=Erebidae|genus=Ascalpha|species=A. odorata|similar_species=[[Erebus odora]]
+[[Otosema odora]]
+[[Phalaena Bombyx odorata]]}}The erebid moth Ascalapha odorata, commonly known as the black witch, is a large bat-shaped, dark-colored nocturnal moth, ranging from the southern United States to Brazil. It is the largest noctuoid in the continental United States.
 
 == Morphology ==
-The underside of the wings of the Indian oakleaf butterfly has strikingly similar and deceiving appearance of a dead oak tree leaf with parallel venations and a brown-dull coloration with a dark brown venations present on the underside of wings to fool unsuspecting predators, they can be seen basking on the forest floor at a low-foliage level with slightly dense foliage or clinging onto branches of trees, they are likely to be seen during the ''Autumnal equinox'' (around 20 March and 23 September) As they acknowledge their camouflage ability to fade into the foliage without being noticed by any predators upon obtaining any opportunity to escape, this cunning butterfly will utilize it. The upper side of wings of the wings when open wide out are bright indigo and blue with a broad orange stripe on the forewings with a streak of Prussian blue. The wingspan of the butterfly ranges from 85 to 110 millimeters. The name is derived from their broad orangish vermillion stripe, the appearance of their hindwings and the fact they are native to South-East Asia especially India, Pakistan and Afghanistan. 
+Female moths can attain a wingspan of 24 cm. The dorsal surfaces of their wings are mottled brown with hints of iridescent purple and pink, and, in females, crossed by a white bar. The diagnostic marking is a small spot on each forewing shaped like a number nine or a comma. This spot is often green with orange highlights. Males are somewhat smaller, reaching 12 cm in width, darker in color and lacking the white bar crossing the wings. The larva is a large caterpillar up to 7 cm in length with intricate patterns of black and greenish-brown spots and stripes.
+<br />
 
-== Behavior ==
-[[File:Orange oakleaf camouflage.png|thumb|254x254px]]
-They acknowledge their own cryptid colorations and know how to utilize their ability by clinging onto branches and basking on low foliage, creating a false notion to predators, upon being provided with any opportunities to escape, the Orange oakleaf will do it's best, to counter it's predator with a quick response and charging into the air upon realizing the threat it has gone into. Their upper wings are used to shock their predators with a glare of vibrant blue and orange wings to surprise it's predators by getting them by surprise shocking them.
-
-== Habitat ==
-Orange oakleaves are normally seen basking over low foliage or clinging onto tree branches, these butterflies excel at mimicry and are hard to be spotted by an "Ordinary vision" they have a wide distribution in south-east Asian countries especially India, Pakistan (Recorded living in 2000) and Afghanistan Nepal, Bhutan, Bangladesh, and Myanmar, down to Tenasserim Hills. In Southeast Asia it occurs in southern China, Thailand, Laos, Taiwan, and Vietnam found in tropical regions, they prefer woodlands, semi-arid region or a lush canopy free from predators and thriving with pollen-rich flowers.
-
-== Metamorphosis ==
-Eggs are laid in batches over oakleaves the larva start out yellowish-lime in color as they continue to consume more food, it will develop a more pastel green color as it grows the yellow colors on it's soft body will start fading away, eventually they develop hard pointed structures on their backs that are broad, large and pointed and black in color, the caterpillar's skin keeps becoming darker eventually become darker and their pointed spikes becoming bright orange, and can deliver a painful venom if the caterpillar has been disturbed. Then it will pupate by suspending itself under a tree branch, the pupa has a rough, bumpy feel with mall spikes poking out of it as a protective mechanism, the chrysalis is an irregular pattern of brown colors that looks like a dead leaf hanging from the tree branches.
+== Diet ==
+Black Witch Moths caterpillars eat '''legumes''', and favor acacia and mesquite. They are perfectly harmless, not an agricultural pest, and have no teeth or stingers. The folklore surrounding Black Witch Moth, like the moth itself, is all over the map.
 [[Category:Lepidoptera]]
-[[Category:Insecta]]</text>
-      <sha1>2subte6jyqolc0raqx8topip6hd12d1</sha1>
-    </revision>
-  </page>
-  
+[[Category:Erebidae]]
+[[Category:Insecta]]

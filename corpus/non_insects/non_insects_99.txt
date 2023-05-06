@@ -1,28 +1,10 @@
 
-    <title>Buthus occitanus</title>
-    <ns>0</ns>
-    <id>2061</id>
-    <revision>
-      <id>5996</id>
-      <parentid>4253</parentid>
-      <timestamp>2018-01-14T21:34:09Z</timestamp>
-      <contributor>
-        <username>ILoveSadie2016</username>
-        <id>32909815</id>
-      </contributor>
-      <minor/>
-      5996
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="522" sha1="l4th6c3xaid46t8lrmzbp4zim1xw1zt" xml:space="preserve">[[File:Buthus_occitanus.jpg|thumb]]''Buthus occitanus'' is a [[scorpion]] species that belongs to the [[Buthidae]] family and the [[Scorpiones]] [[Insect orders|order]]. It occurs across the Meditarranean (Northern Africa and Southern Europe) and can be found in logs and under rocks. The venom in its sting is strong enough to kill a child, elderly person, or someone who is allergic to the venom. 
 
-{{Stub}}
-{{ArachnidMove}}
+Fattail scorpion
+[[File:Placeholder|right|300px]]'''Fattail [[scorpion]]''' or '''fat-tailed scorpion''' is the common name given to scorpions of the genus ''[[Androctonus]]'', one of the most dangerous groups of scorpions species in the world.[1] They are found throughout the semi-arid and arid regions of the Middle East and Africa.[1] They are a moderate sized scorpion, attaining lengths of 10 cm (just under 4 in).[2] Their common name is derived from their distinctly fat metasoma, or tail, while the Latin name originates from Greek and means "man killer".[2] Their venom contains powerful neurotoxins and is especially potent.[1] Stings from ''Androctonus'' species are known to cause several human deaths each year.[1] Several pharmaceutical companies manufacture an antivenom for treatment of ''Androctonus'' envenomations.
+==Geographical range==
+''Androctonus'' is widespread in North and West Africa, the Middle East and eastwards to the Hindukush region. Countries where ''Androctonus'' species live include: Armenia, Morocco, Algeria, Tunisia, Libya, Egypt, Togo, Palestine, Israel, India, Lebanon, Turkey, Jordan, Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Kuwait, Iraq, Iran, Afghanistan, Bahrain and Pakistan.
+==Etymology==
+A rough English translation of the name ''Androctonus'' is "man-killer", from the Greek andras (άνδρας), meaning "man" and kteinein (κτείνειν), meaning "to kill". ''Crassicauda'' means fat-tailed, from the Latin crassus meaning "thick" or "fat" and cauda, meaning "tail". ''Androctonus crassicauda'' is widespread throughout the Middle East and its name means "fat-tailed man-killer". Similarly, the Latin word for South is australis, from which ''Androctonus australis'', "southern man-killer", derives.
+==Taxonomy==
 [[Category:Scorpiones]]
-[[Category:Arachnids]]
-[[Category:Buthidae]]
-[[Category:Article stubs]]</text>
-      <sha1>l4th6c3xaid46t8lrmzbp4zim1xw1zt</sha1>
-    </revision>
-  </page>
-  

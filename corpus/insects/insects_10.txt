@@ -1,114 +1,49 @@
 
-    <title>Cetonia aurata</title>
-    <ns>0</ns>
-    <id>2717</id>
-    <revision>
-      <id>8362</id>
-      <parentid>4540</parentid>
-      <timestamp>2023-04-30T11:53:12Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        8362
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="7826" sha1="pkh42rly6s099dz9dnmqlwnxmsgl2wg" xml:space="preserve">{{More_detailed_infobox|title1=Cetonia aurata|image1=Cetonia aurata.JPG|common_name=Rose chafer|order=[[Coleoptera]]|genus=[[Cetonia]]|family=[[Scarabaeidae]]|diet=* Nectarivorous/Herbivorous (Adult)
-* xylo-detrityphagous (Larvae)|activity=Diurnal|distribution=Europe, Northern Africa &amp; Asia|habitat=Various|other_common_names=European rose chafer, green rose chafer}}
 
-Cetonia Aurata, commonly known as '''The green rose chafer''' or '''Rose chafer.''' Is a 
+Dorcus titanus
+{{Infobox|Box title=Dorcus Titanus|Image file=Dorcus titanus.JPG|Image size=255px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Coleopteran families | Coleoptera]]|Row 5 title=[[Family]]|Row 5 info=[[Lucanidae]]|Row 6 title=[[Subfamily]]|Row 6 info=[[Lucaninae]]|Row 7 title=[[Genus]]|Row 7 info=[[Dorcus]]|Row 8 title=[[Species]]|Row 8 info=Dorcus Titanus}}
 
-Scarabaeoid beetle of the genus [[Cetoniinae|Cetonia]].
+'''''Dorcus titanus''''' is a beetle of the family Lucanidae. It was described by Jean Baptiste Boisduval in 1835. This species is widely distributed in Indonesia, the Philippines, Malaysia, Thailand, Vietnam, Laos, Myanmar, India, Japan, China, Taiwan and Korea.
 
 == Morphology ==
-With a striking metallic green exoskeleton with the luster of a golden tint, their appearance can often be misled as for [[Agestrata luzonica]]. C. Aurata may be one of the nature's truly admirable artworks. The propagation of light and the reflection of light affects the colors seen by a human eye ranging from a mix of red, golden, blue, olive green and violet luster. C. Aurata reaches about 20 mm at maximum in adulthood, the underside of the beetle is a coppery-brown colour.  The antennae are lamellate with the last articles that can be spread apart or joined like the pages of a book. C. Aurata can be. Distinguished by the triangular scutellum which sits, adjoining both elytron with the thorax ; have a broad, oblong body.
+Males can grow upto 32.0–111.3 millimetres (1.26–4.38 in) if we include mandibles. Females have been known to reach lengths of approximately 36.5–54 millimetres (1.44–2.13 in). They have an elongated and flat body with a metallic black colored exoskeleton. The Males have large and thick scissor-like pair of antlers that are aligned with several teeth that can penetrate through wood and provide an excellence at rivalry battles. An unusual thing about Dorcus titanus is the enormous head of a large male which has been recorder to reaches nearly the astounding length of its prothorax and abdomen combined.
 
-=== Iridescence ===
-The metallic green coloration of the beetle is created structurally, caused by the reflection of mostly circularly polarised light; like other scarabs this is left circularly polarised. When viewed through a right circular polariser, the beetle appears to be colorless. There are also different colors besides the common green; there is also copper, grey and black. A lot of specimens have white speckles while some have very few or none at all.  It has been described as a left-hand narrow-band elliptical polarizer.
+== Metamorphosis ==
+Dorcus titanus undergoes a complete metamorphosis. Adults can be seen from May to August during the late months of summers to Spring. They tend to feed on sap from trees, what allows them to do so is their large and powerful mandibles with their amazing vitality whenever it comes to rivalry. The main target for Dorcus titanus includes ''Quercus'' species of plants. Females lay eggs on the underground among the roots of a matured Oak tree. The eggs hatch within an approximate time period of about a month and the larvae feed on rotten wood as they reside themselves among the roots of the host plant. The larval period lasts about one year it will pupate among the roots and emerge as an adult during early summers. The complete life cycle can last approximately from 1 to 2 years.
 
-== Biology ==
+== Subspecies ==
 
-=== Life cycle &amp; Activity ===
-Mating occurs in the spring and eggs are laid among compost or in decaying trees during June and July, after which the females die. 
-[[File:Cetonia aurata (4).jpeg|thumb|Larvae]]
-[[File:Cetonia aurata (2).png|thumb]]
-
-==== Infancy ====
-The larvae grow quickly and will moult twice before the winter; they take two years to become fully grown and will pupate from June to August in a subterranean cell in humus-rich soil or among compost or tree-trunk detritus. Larvae have been found in plant pots, feeding on the compost etc. but apparently not harming the plants. . The larvae are typically scarabaeiod; C-shaped with a firm and soft body, small head and large hind body and tiny legs, they are distinguished from other U.K. chafer larvae in having pink head and legs and transverse rows of reddish hairs along the body. They reach 3.5cm when fully grown. They often occur in large numbers among organic matter and are beneficial in breaking down compost and decaying wood. Unlike the larvae of some chafers they do not feed on roots.
-
-==== Pupation ====
-[[File:Cetonia aurata (3).png|thumb|A specimen demonstrating the pupae and the pupation chamber]]
-
-===== Pupal chambers =====
-The mature larva prepares a roundish pupal chamber, with a greater diametre of about 3 cm, cementing the earthy particles with faeces and salivary secretions. Inside it takes place the metamorphosis transforming in a pupa of adecto type, almost completely motionless.
-
-===== Emergence =====
-The adult, after staying for some time in the pupal chamber, with its robust legs opens a passage and rises to the surface. Adults eclose from August and a few become active in the autumn but the majority remain in the pupal cell until the following spring, emerging when the temperature reaches about 15°C; ; the pupae may be found in the same habitats, encrusted in a covering of compost or woody material
-
-==== Adulthood ====
-The adults become active in May, flying in the afternoon and evening, due to their habits of feeding off organic plant matter such as a variety of fruits, they, some years are so serious as pests that baited traps are available to help control their numbers.
-
-=== Food plants ===
-The adults can be observed feeding upon pollen and nectar in a wide range of flowers including umbels, honeysuckle and viburnum but they seem particularly fond of Elder and roses. They may sometimes be seen in numbers flying around the tops of small trees and shrubs towards the evening. On the continent they sometimes feed on soft fruits including peaches and apricots, chewing holes into the fruit and feeding under the skin
-
-=== Defence mechanism ===
-Uric and formic acid impregnate the internal organs and in defense these acids are also excreted externally from the anal cavity, so that using a chemical strategy, the insect is nauseating and not at all attractive to predators.
-
-=== Predation ===
-This beetle is however controlled at the larval level by some natural parasites that keep the population stable: among these we remember some mushrooms of the genus Sporotricum, [[Wasps|scoliid wasps]] and numerous [[diptera]].
-
-== Ecological role ==
-
-=== In Agriculture ===
-Rose chafer is an insect that in the adult state feeds on nectar and sugary substances, also acting as a good pollinator. Occasionally they can cause damage only in some types of flowers (such as roses) that have reproductive organs hidden and inaccessible. In this case, to reach the nectar they ruin the rest of the flower, also because they are quite bulky. They are also attracted to the sap that oozes from the injured broadleaf trunks.
-
-=== Symbolism ===
-Cetonia aurata is one of the most important symbols of Egyptian culture, where it was depicted with wings folded to represent the neophyte and with open wings to symbolize the initiate who took flight to knowledge.
-
-== Subtaxa ==
-
-=== Subspecies ===
-
-* C. a. sicula &lt;small&gt;Aliquo, 1983&lt;/small&gt; (Sicily)
-* C.a. jingkelii &lt;small&gt;Flutsch &amp; Tauzin, 2009&lt;/small&gt; (China.)
-* C. a. pallida &lt;small&gt;(Drury, 1773)&lt;/small&gt; (eastern Mediterranean, Turkey and Asia Minor.)
-* [[Cetonia aurata pisana|C. a. pisana]] &lt;small&gt;Heer, 1841&lt;/small&gt; (Western Europe) 
-* C. a. pokornyi &lt;small&gt;Rataj, 2000&lt;/small&gt; (Western Siberia.)
-* [[Cetonia aurata viridiventris|C. a. vridiventris]] &lt;small&gt;Reitter, 1896&lt;/small&gt; (Kazakhstan and Southern Siberia)
-
-== Distribution ==
-
-=== Range ===
-occurs throughout southern and central Europe north to southern Scandinavia and the U.K. and east to Turkey and Ukraine. At least 6 subspecies have been described, the distribution of which is sometimes sympatric with the typical subspecies, and there are many named colour varieties; almost 40 in France alone.
-
-=== Habitat ===
-The preferred habitat for C. Aurata generally includes foliated woodland areas exposed to plentiful sunlight, generally deciduous forest slopes, sunny and warm patches of grassland ;meadows and urban habitat such as parks, fields, gardens etc. general habitat for this species include a few major features such as ample availability of food and sunlight. They usually prefer temperature not too high or low but moderate.
-
-== Sources ==
-
-# https://antropocene.it/en/2023/01/16/cetonia-aurata-2/#:~:text=Recall%20that%20Cetonia%20aurata%20is,who%20took%20flight%20to%20knowledge.
-# https://en.m.wikipedia.org/wiki/Cetonia_aurata
-# https://www.sciencedirect.com/science/article/pii/S0042698906000770?via%3Dihub
-# https://www.monaconatureencyclopedia.com/cetonia-aurata/?lang=en
-# https://www.ukbeetles.co.uk/cetonia-aurata
-# https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/animals/beetles/rose-chafer/
-
-
+* ''[[Dorcus titanus castanicolor]]''
+* ''[[Dorcus titanus daitoensis]]''
+* ''[[Dorcus titanus elegans]]''
+* ''[[Dorcus titanus fafner]]'' 
+* ''[[Dorcus titanus hachijoensis]]''
+* ''[[Dorcus titanus imperialis]]''
+* ''[[Dorcus titanus isabella]]''
+* ''[[Dorcus titanus karasuyamai]]''
+* ''[[Dorcus titanus mindanaoensi]]''
+* ''[[Dorcus titanus nobuyukii]]''
+* ''[[Dorcus titanus palawanicus]]'' 
+* ''[[Dorcus titanus okinoerabuensis]]''
+* ''[[Dorcus titanus okinawanus]]''
+* ''[[Dorcus titanus pilifer]]''
+* ''[[Dorcus titanus platymelus]]''
+* ''[[Dorcus titanus sakishimanus]]''
+* ''[[Dorcus titanus sika]]''
+* ''[[Dorcus titanus titanus]]''
+* ''[[Dorcus titanus takaraensis]]''
+* ''[[Dorcus rectus|Dorcus titanus tatsutai]]''
+* ''[[Dorcus titanus typhoniformis]]''
+* ''[[Dorcus titanus typhon]]''
+* ''[[Dorcus titanus tokunoshimaensis]]''
+* ''[[Dorcus titanus westermanni]]''
+* ''[[Dorcus titanus yasuokai]]''
 [[Category:Insecta]]
-[[Category:Pterygota]]
+[[Category:Coleoptera]]
+[[Category:Lucanidae]]
+[[Category:Lucaninae]]
+[[Category:Dorcus]]
+[[Category:Beetles]]
 [[Category:Endopterygota]]
 [[Category:Neoptera]]
-[[Category:Holometabola]]
-[[Category:Coleoptera]]
-[[Category:Polyphaga]]
-[[Category:Scarabaeoidea]]
-[[Category:Scarabaeidae]]
-[[Category:Scarabaeiformia]]
-[[Category:Cetoniina]]
-[[Category:Cetoniinae]]
-[[Category:Cetoniini]]
-[[Category:European species]]</text>
-      <sha1>pkh42rly6s099dz9dnmqlwnxmsgl2wg</sha1>
-    </revision>
-  </page>
-  
+[[Category:Pterygota]]

@@ -1,53 +1,25 @@
 
-    <title>Danaus plexippus</title>
-    <ns>0</ns>
-    <id>3981</id>
-    <revision>
-      <id>8206</id>
-      <parentid>8205</parentid>
-      <timestamp>2023-02-02T09:30:19Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        8206
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="5556" sha1="azuw43bahvfhx4eojj3i58sdcwrt00b" xml:space="preserve">'''On an account on it's physiology Not to be confused with [[Limenitis archippus|Limenitis Archippus.]]''' 
 
-Danaus plexippus, (Formerly known as monarch) Is regarded as the most beautiful butterfly on this planet (Alongside being the most  
+Caria sponsa
+One of the most exquisitely beautiful butterflies in Oceania and New Zeeland, Peru and North America, their wings are a mix of metallic green blue and violet, with an
 
-{{Insects_Simple|order=Lepidoptera|family=Nymphalidae|genus=Daunus|species=Danaus plexippus|similar_species=Limenitis archippus          . 
-Danaus gilippus                  .
-Danaus eresimus      .  
-Dione vanillae         .|image1=Daunaus plexippus.png|caption1=|title1=Monarch}}
+{{Insects_Simple|image1=Caria sponsa.png|caption1=A beautiful array of glittering colors on it's wings.|order=Lepidoptera|family=Riodinidae|genus=Caria|species=Glittering mantle|similar_species=Madascan sunset moth
+Zodiac moth  
+Ducalis hairstreak}}
 
-food source is obtained from the milkweed plant making them venomous as an adult. Monarches have been known to do great and wondersome migrations in groups that contain innumerably great quantities of these beautiful butterflies. Also known as the the milkweed butterfly due to it's diet as a juvenile which primarily consists of nectar. 
+exotic shimmering indigo color, their wings are tinted with a wide array of mesmerizing colors, unfortunately they are regarded as endangered and many thought they are now extinct however it is estimated there are more than 800 species alive however they are only seen on highly rare occasions due to their secretive habitats deep into the woodlands and lush-green forests, they are hardly ever seen in urban areas mainly due to habitat loss although fairly common.
 
-== Appearance ==
-They have a vibrant appearance, their bodies are black and have white spots on their bodies, their wings are a shade of vibrant vermillion with black intersecting lines on the fore wings and parallel ones at the hindwings, the borders of their wings are black and spotted with white polka-dots. The alignment of the venation-like patterns can help one differentiate between viceroy butterflies and Monarches as the wings of the viceroy butterflies have parallel lines on both hindwings and forewings that intersect with a single line at the near-end of their wings however viceroy butterflies look exactly similar to monarches on the underside of their wings, I will explain why as we proceed reading this article further. Anyway monarch butterflies can be seen in large swarms of upto 20 million individuals at once travelling from Canada to central America during the fall and looping the same migration annually, one of the most pretty sight in the world is to see the swarm resting idle on trees making them look (Almost) Completely vermillion in color.
+== Morphology ==
+The glittering mantle butterfly has an overwhelmingly beautiful appearance with mesmerizing shades of light green, olive green, indigo, and a wide array of similar colorations with their bodies being Prussian blue with bright green large compound eyes with a lustrous metallic shades occurring between blue to green and Green bordered edges and the center of their wings meeting at the [[thorax]] speckled with metallic green, they also have a pair of large [[Antenna|antennae]] which extend straight outwards being one of the key features to differentiate between lepidopterans (Butterflies and moths) their wingspan has an approximate length which is currently undetermined, a little or no information is available regarding their life cycles neither their is a physical description for the juvenile.
 
-== [[The great monarch butterfly migration|The migration]] ==
-[[The great monarch butterfly migration|The great monarch migration]] is definitely something one can glare at for hours, these butterflies swarm up into huge clouds of butterflies and flutter from Canada to central America during fall and repeating the same process over and over in a cycle again and again. These butterflies will lay their eggs every generation as their maximum lifespan is only for 28 days and the minimum being 18 days. These swarms of fluttering wonders rest idle on trees and cover their leaves with their wings wide open and expanded making the entire forest look vermillion in color, it is a natural process as their caterpillars feed on milkweeds, there are many milkweed plants, plenty for all of the butterflies in total as milkweed is considered as a weed, monarches help in keeping the population of milkweeds under controlled. 
-
-== Behaviors ==
-[[File:Monarch Life cycle.png|thumb|Life cycle]]
-As we said earlier, viceroy butterflies mimic Monarches this is because monarch butterflies are feared by several species of birds and other bigger predators due to the toxic chemical within their bodies they obtain as a larva by feeding off milkweed. The sap from the milkweed plants contain a notorious chemical which is highly venomous, Danous plexippus can digest such venom and use them for their own defense, birds that swallow monarch butterflies on accidents have been seen throwing up to save their lives Viceroy butterflies and other species of butterflies cannot afford consuming such venomous weeds like milkweed and therefore mimic monarch butterflies to avoid predators, monarch butterflies on the other hand have almost no predators due to this. If we talk about the common behaviour of Danous plexippus then the main point that comes into one's mind is that they are highly well socialized and migrate in large numbers. But that is NOT what makes them very special it is the fact that they always remember their way home, even a newly born generation remembers it's way from central America to Canada. Now most people may not know it but their brains despite being the size of a pinpoint carries this special genre  which helps them remember their way home each time they migrate. This is one of the main features that make them unique  from other [[Lepidoptera|lepidopterans.]]
-
-== Distribution and Habitat ==
-They prefer a wide range of tropical and sub-tropical regions occurring anywhere between central to north America. They prefer all kinds of forest ranging from deciduous to evergreen forests although native to north America they have a wide distribution in the northern temperate zone and love sunny-warm patches of grass covering meadows thriving with flowers and more importantly on a really necessary note, Monarches need milkweed plants in order to reproduce and for a new generation of butterflies to arise this is where they breed however the eastern distribution of butterflies ranged from Australia and some parts of Asia making them a greatly successful specimen.
-
-== See also ==
-&lt;big&gt;Read more about this species on the following sources:&lt;/big&gt;
-
-* [https://en.wikipedia.org/wiki/Monarch_butterfly Monarch butterfly (wikipedia)]
-* [https://www.nationalgeographic.com/animals/invertebrates/facts/monarch-butterfly Monarch butterfly (National Geographic)]
-* [[Category:Lepidoptera]] [https://www.biologicaldiversity.org/species/invertebrates/monarch_butterfly/ Monarch butterfly (Biological Diversity)]
-[[Category:Insecta]]
+== Behavior ==
+The adults spend most of their time perching on the canopy of vast rainforests and woodlands and are most likely to be discovered basking at low levelled foliage perching with their wings wide open over patches of weeds and moss as the green pigment on their wings conceals them while perching on batches of weeds and grass they prefer basking under sunshine near rivers and lakes while perching onto the pebbles near shallow streams of water. They are exceedingly elusive and seen only when they descend to immobile the water streams near freshwater and tropical canopy, they can also be seen sitting on edges of barks of trees creating a false notion to predators that they are nothing but moss crawling over the tree trunk and may occasionally get many by surprise by flying and making a quick escape upon realizing that  it's life under threat. A little of no information is available regarding their life  cycle or their habitual behaviors such as food for example.
+[[Category:Lepidoptera]]
+[[Category:Insect individuals]]
+[[Category:Endopterygota]]
 [[Category:Pterygota]]
+[[Category:Insecta]]
+[[Category:Papilionoidea]]
+[[Category:Endangered species]]
 [[Category:Neoptera]]
-[[Category:Nymphalidae]]</text>
-      <sha1>azuw43bahvfhx4eojj3i58sdcwrt00b</sha1>
-    </revision>
-  </page>
-  
+[[Category:Holometabola]]

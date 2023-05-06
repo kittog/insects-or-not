@@ -1,25 +1,10 @@
 
-    <title>Androctonus australis</title>
-    <ns>0</ns>
-    <id>3514</id>
-    <revision>
-      <id>5596</id>
-      <timestamp>2016-08-15T02:21:10Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Androctonus australis''''' is a hardy desert scorpion from North Africa, Somalia, the Middle East, Pakistan and India.[2] ''A. australis''..."</comment>
-      5596
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1296" sha1="b3xoabspdgw1htt2dqqp2aa7cluhlj2" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Androctonus australis''''' is a hardy desert scorpion from North Africa, Somalia, the Middle East, Pakistan and India.[2] ''A. australis'', along with ''A. amoreuxi'' and ''Pandinus imperator'', is the most commonly available scorpions found in the exotic animal trade.
-==Hardiness==
-Unlike most other animals that live in deserts, ''Androctonus'' does not dig burrows to protect itself from a sandstorm. Instead, it can withstand sandstorms powerful enough to strip paint off steel, without any apparent damage. The resistance of ''Androctonus'' to sandstorms is suspected to be due to the discovery of its odd exoskeleton surface. Its armor is covered with dome-shaped granules that are 10 µm (0.0004 in) high and 25–80 µm (0.0010–0.0031 in) across. When its odd surface is translated into other materials it protects them to a certain degree as well, which has led to the possibility of the applicability of imitation surfaces in such objects as aeroplanes and helicopters.
-==Etymology==
-The name ''Androctonus australis'' is derived from the Greek word ''Androctonus'' (roughly translated as "man-killer") and the Latin word australis (translated as "south") which together translate as "southern man-killer".
+
+Arabian fat-tailed scorpion
+[[File:Placeholder|right|300px]]The '''Arabian fat-tailed scorpion''' (''Androctonus crassicauda'') is a species of dangerous [[scorpion]] usually found in North Africa and the Middle East.
 ==Description==
-[[Category:Scorpiones]]</text>
-      <sha1>b3xoabspdgw1htt2dqqp2aa7cluhlj2</sha1>
-    </revision>
-  </page>
-  
+''A. crassicauda'' is a generalist desert species,[1] an Old World scorpion.[2] Adults can vary in colour from a light brown to reddish to blackish-brown, to black. They can grow to over 10 centimetres (3.9 in) in length.
+==Distribution==
+This species is found mainly in the Palaearctic region. It is commonly found in such countries as Saudi Arabia, Iran, Turkey,[4] and in north African nations.
+==Habitat==
+[[Category:Scorpiones]]

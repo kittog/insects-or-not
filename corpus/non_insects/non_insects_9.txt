@@ -1,25 +1,6 @@
 
-    <title>Neobisium maritimum</title>
-    <ns>0</ns>
-    <id>2065</id>
-    <revision>
-      <id>4233</id>
-      <parentid>4142</parentid>
-      <timestamp>2009-08-30T03:27:03Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-      4233
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="344" sha1="cgzw4y4bvbrw1tef7domf7s8paai0rm" xml:space="preserve">[[File:Neobisium_maritimum.jpg|thumb|One of these [[arachnid]]s on a stamp.]]'''''Neobisium maritimum''''' is a [[pseudoscorpion]] native to Ireland, England, and France. It belongs to the [[Pseudoscorpiones]] order and the [[Neobisiidae]] family. 
 
-{{ArachnidMove}}
-[[Category:Pseudoscorpiones]]
+Acarina
+[[File:Brevipalpus_phoenicis.jpg|thumb|212px|''[[Brevipalpus phoenicis]]'' ]]A '''Mite''' is a tiny [[arachnid]] that may be microscopic depending on the species. Some common mites you may see could be [[spider mite]]s. A mite has 8 legs like most arachnids and can be severe pests to crop and plants. They share the same order as [[tick]]s: [[Acari]]. Mites live throughout the world, but some live in houses.
+[[Category:Acari]]
 [[Category:Arachnids]]
-[[Category:Neobisiidae]]</text>
-      <sha1>cgzw4y4bvbrw1tef7domf7s8paai0rm</sha1>
-    </revision>
-  </page>
-  

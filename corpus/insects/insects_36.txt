@@ -1,45 +1,19 @@
 
-    <title>Lonomia obliqua</title>
-    <ns>0</ns>
-    <id>3969</id>
-    <revision>
-      <id>7200</id>
-      <parentid>7198</parentid>
-      <timestamp>2021-11-19T15:51:16Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7200
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2785" sha1="eiq67zzn2trf9gexay0kzu2niqa0kvp" xml:space="preserve">&lt;br /&gt;{{Infobox|Box title=Lonomia obliqua|Image file=Lonomia obliqua.jpg|Image size=250px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Lepidoptera]]|Row 5 title=[[Superfamily]]|Row 5 info=[[Bombycoidea]]|Row 6 title=[[Family]]|Row 6 info=[[Saturniidae]]|Row 7 title=[[Subfamily]]|Row 7 info=[[Saturniinae]]|Row 8 title=[[Genus]]|Row 8 info=[[Lonomia]]}}
 
-Lonomia obliqua, the giant silkworm moth, is a species of saturniid moth from South 
-
-America. It is famous for its larval form, rather than the
-
-adult moth, primarily because of the caterpillar's defense mechanism, urticating bristles that inject a potentially deadly venom
+Burara Gomata
+{{Infobox|Box title=Burara Gomata|Image file=Burara Gomata.jpg|Image size=255px|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Class]]|Row 2 info=[[Insecta]]|Row 3 title=[[Order]]|Row 3 info=[[Lepidoptera]]|Row 4 title=[[Family]]|Row 4 info=[[Hesperiidae]]|Row 5 title=[[Subfamily]]|Row 5 info=[[Hesperiinae]]|Row 6 title=[[Genus]]|Row 6 info=[[Burara]]}}'''''Bibasis gomata''''', commonly known as the '''pale green awlet''', is a [[butterfly]] belonging to the family [[Hesperiidae]]. It is found in Northeast India, the Western Ghats and parts of Southeast Asia. The butterfly was reassigned to genus ''[[Burara]]'' by Vane-Wright and de Jong (2003) and is considered by them to be ''Burara gomata''. The common green Awlet can now be seen as a mascot for the [[Insect Wiki]]! 
 
 == Morphology ==
-These caterpillars are about 4.5 to 5.5 centimeters (about 2 in) long, with background colors ranging from green to brown. Well camouflaged, they have rows of tubercles crowned with whorls of easily detachable spines of different sizes.
+Both genders among this species of butterfly have a wingspan of 50 to 55 mm.  Upperside pale vinaceous brown; both wings with pale brownish yellow streaks longitudinally between the veins. [[Abdomen]] blackish brown with yellowish bands. Cilia yellowish. Underside dark brown, with the veins and longitudinal streaks between them greyish green, the brown showing only along each side of the veins; posterior margin of forewing broadly pale vinaceous; exterior margin of both wings defined by a brown line. Third joint of [[Insect terminology|palpi]] and edge of sides brown, the rest yellow. Thorax, legs and abdomen beneath orange yellow. The females Expanse 2.3 inches. Upperside of the wings are very dark glossy bronzy and green, shading off into glossy indigo-blue at the apex and outer margin. Underside with the markings and ground-colour darker than in Sikkim males; forewing with a pale green spot in the second median interspace, with a larger one in the interspace below it, in the male these spots are merged in a large patch of the ochreous ground-colour from the inner margin. The green markings everywhere more restricted and of a darker shade than in the male.
 
-== Behavior ==
+== Region ==
+[[File:Bibas gomata.jpg|thumb|283x283px]]
+The pale green awlet ranges from India, Myanmar, the Malay Peninsula, the Philippines, and the Indonesian archipelago. In India, the butterfly is found in South India up to North Kanara, and along the Himalayas from Sikkim to Assam and eastwards to Myanmar. The type locality is Darjeeling in the north of West Bengal. This species is rare in South India but fairly common in the Himalayas.
 
-=== Defense mechanism ===
-[[File:Killer catterpillar.jpg|thumb|248x248px|Caterpillar]]
-Caterpillars of many species can cause irritation by their hollow body hairs that envenom or detach easily, or can be poisonous if ingested; however, prior to investigations into ''Lonomia'' caterpillars, it was not known that caterpillars could produce toxins which in sufficient quantities could kill a human being. ''Lonomia obliqua'' is found in the south of Brazil in the states of Rio Grande do Sul, Santa Catarina, and Paraná. The species appears to be spreading to the southeast of Brazil, and recent accidents with the species were reported in the states of São Paulo, Rio de Janeiro, and Minas Gerais. ''Lonomia obliqua'' is also found in Uruguay, Paraguay, and Argentina.
+== Trivia ==
 
-== Toxicology ==
-It was discovered that the toxin in the caterpillar's skin held potent anti-clotting agents. This anti-clotting agent would attach to another protein of the body's cells and cause them to leak as blood is unable to clot. This internal bleeding would fill the surrounding tissue with "bruised blood". This internal bleeding spreads through the internal organs and eventually leads to compression and brain death.
-
-== Symptoms ==
-The early symptoms include rashes, burning pain, itching followed by nausea and mild fever that increases over time. More severe symptoms include respiratory problems, difficulties with breathing, delayed clotting of blood, tissue death, organ failure which ultimately results in death of the victim worst of all, there is no known cure nor there is any antidote till this date. '''The only known treatment to a Lonomia obliqua sting is antifibrinolytics'''.
-&lt;br /&gt;
-[[Category:Caterpillars]]
+* Burara Gomata was the chosen mascot for the insect Wiki with the other two mascots being '''Vanessa atalanta''' and '''Aglais IO.''' Coincedentally, both species including Burara Gomata can also be found in India.
+[[Category:Insecta]]
 [[Category:Lepidoptera]]
-[[Category:Saturniidae]]</text>
-      <sha1>eiq67zzn2trf9gexay0kzu2niqa0kvp</sha1>
-    </revision>
-  </page>
-  
+[[Category:Hesperiidae]]
+[[Category:Hesperiinae]]

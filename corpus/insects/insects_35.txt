@@ -1,33 +1,29 @@
 
-    <title>Limenitis archippus</title>
-    <ns>0</ns>
-    <id>3876</id>
-    <revision>
-      <id>7112</id>
-      <parentid>7101</parentid>
-      <timestamp>2021-11-16T15:09:30Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7112
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3050" sha1="drv6cg2l1usyze0kqda34u0b6ptrcsf" xml:space="preserve">{{Infobox|Box title=Limenitis Archippus|Image size=180px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=Phylum|Row 2 info=Arthropoda|Row 3 title=Class|Row 3 info=Insecta|Row 4 title=Order|Row 4 info=Lepidoptera|Row 5 title=Family|Row 5 info=Nymphalidae|Row 6 title=Genus|Row 6 info=Limenitis|Image file=Limentis Archippus.jpg}}'''Limenitis archippus''' also known as the '''Viceroy butterfly''' is a species of North-American species of butterfly, Viceroy butterfly is a 
 
-perfect example of Batesian mimicry continue to read in order to understand the cunning nature of this beautiful species of butterfly. The viceroy's wingspan is between 53 and 81 mm (2.1 and 3.2 in). It can be distinguished from the monarch by its smaller size
+Lonomia obliqua
+<br />{{Infobox|Box title=Lonomia obliqua|Image file=Lonomia obliqua.jpg|Image size=250px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Lepidoptera]]|Row 5 title=[[Superfamily]]|Row 5 info=[[Bombycoidea]]|Row 6 title=[[Family]]|Row 6 info=[[Saturniidae]]|Row 7 title=[[Subfamily]]|Row 7 info=[[Saturniinae]]|Row 8 title=[[Genus]]|Row 8 info=[[Lonomia]]}}
+
+Lonomia obliqua, the giant silkworm moth, is a species of saturniid moth from South 
+
+America. It is famous for its larval form, rather than the
+
+adult moth, primarily because of the caterpillar's defense mechanism, urticating bristles that inject a potentially deadly venom
 
 == Morphology ==
+These caterpillars are about 4.5 to 5.5 centimeters (about 2 in) long, with background colors ranging from green to brown. Well camouflaged, they have rows of tubercles crowned with whorls of easily detachable spines of different sizes.
 
-=== Mullerian mimicry ===
-Whenever it comes to Batesian mimicry, Limentis archippus surely does excel at mimicking the highly venomous Danaus plexippus at an astonishingly great accuracy. Similar to Danaus plexippus, The viceroy butterfly is coated beautifully with vermillion scales and have the same parallel black venations, unlike Danaus plexippus, Limentis Archippus do not have a dense border line at the edge of their brilliant wings infact the wing borders are much thinner and are not speckled with whitish-yellow spots, instead their borderlines of the wings have aligned spots. They have a line that intersects all the others at the hindwing and the forewings unlike Danaus plexippus neither are their bodies speckled with colorful scales, the wings have a sharp and bumpy edge unlike the smooth edged of Danaus plexippus. The caterpillars astonishingly have also learnt the use of Mullerian mimicry to avoid being consumed, They have antennae on their rear as well as their heads unlike Danaus plexippus, the larva are much lighter in color with their bodies being a mixture of pale yellow, lime and the feelers being maroon instead of being matt-black. When avian predators were exposed to butterfly abdomens without the wings, many avian predators rejected the viceroy after a single peck. Furthermore, they exhibited distress behavior similar to that displayed when eating other, known, unpalatable species.
+== Behavior ==
 
-==== Evolution ====
-Based on phylogenic evidence, it is known that mimicry in the North American admirals was a driver of speciation. An essential condition for the evolution of mimicry was the presence and abundance of unpalatable models. Mimetic evolution also involved direct selection with the model acting as a "starting block" for the mimic to evolve against. The drive behind this type of evolution must be predation. Eventually, the mimetic population undergoes phenotypic fixation, usually at a point where the wing pattern and colors of the mimic have reached the closest superficial resemblance of its model. As these processes continued, the subspecies divergences began occurring as the mimetic species expanded their geographical range and began mimicking other species of butterfly.
+=== Defense mechanism ===
+[[File:Killer catterpillar.jpg|thumb|248x248px|Caterpillar]]
+Caterpillars of many species can cause irritation by their hollow body hairs that envenom or detach easily, or can be poisonous if ingested; however, prior to investigations into ''Lonomia'' caterpillars, it was not known that caterpillars could produce toxins which in sufficient quantities could kill a human being. ''Lonomia obliqua'' is found in the south of Brazil in the states of Rio Grande do Sul, Santa Catarina, and Paraná. The species appears to be spreading to the southeast of Brazil, and recent accidents with the species were reported in the states of São Paulo, Rio de Janeiro, and Minas Gerais. ''Lonomia obliqua'' is also found in Uruguay, Paraguay, and Argentina.
+
+== Toxicology ==
+It was discovered that the toxin in the caterpillar's skin held potent anti-clotting agents. This anti-clotting agent would attach to another protein of the body's cells and cause them to leak as blood is unable to clot. This internal bleeding would fill the surrounding tissue with "bruised blood". This internal bleeding spreads through the internal organs and eventually leads to compression and brain death.
+
+== Symptoms ==
+The early symptoms include rashes, burning pain, itching followed by nausea and mild fever that increases over time. More severe symptoms include respiratory problems, difficulties with breathing, delayed clotting of blood, tissue death, organ failure which ultimately results in death of the victim worst of all, there is no known cure nor there is any antidote till this date. '''The only known treatment to a Lonomia obliqua sting is antifibrinolytics'''.
+<br />
+[[Category:Caterpillars]]
 [[Category:Lepidoptera]]
-[[Category:Insecta]]
-[[Category:Nymphalidae]]</text>
-      <sha1>drv6cg2l1usyze0kqda34u0b6ptrcsf</sha1>
-    </revision>
-  </page>
-  
+[[Category:Saturniidae]]

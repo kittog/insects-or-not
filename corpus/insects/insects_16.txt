@@ -1,47 +1,36 @@
 
-    <title>Acherontia atropos</title>
-    <ns>0</ns>
-    <id>3130</id>
-    <revision>
-      <id>8015</id>
-      <parentid>8013</parentid>
-      <timestamp>2022-03-12T05:15:37Z</timestamp>
-      <contributor>
-        <username>Nick6978</username>
-        <id>45963112</id>
-      </contributor>
-        8015
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4652" sha1="89y48r6qe3r10fdc8jnug1a3mig9q4a" xml:space="preserve">{{Insects_Simple|title1=Acherontia atropos|caption1=The largest moth which resides in Britain.|order=[[Lepidoptera]]|family=[[Sphingidae]]|genus=[[Acherontia]]|species=African Death's Head Hawkmoth|similar_species=[[Acherontia styx]]
-[[Acherontia lachesis]]|image1=Deathsheadmoth.jpg}}
-== Acherontia atropos ==
-Acherontia atropos, more commonly known as the African Death's head hawk-moth and sometimes known as a bee robber, is a large hawkmoth which originates from the [[Sphingidae]] family. It is found throughout the British Isles, Europe and the African continent.
 
-==Morphology==
-Their wings are mottled dark brown alongside black marking on the wings in addition to the pale brown blotches on the forewings. The hindwings are mustard-yellow with parallel black line with faint black venations. The undersides of the wing are dotted with mustard yellow scales with the edges being dull yellow. All wings have visible black venation with a few larger ones near the edges.
+Ascalapha odorata
+{{Insects_Simple|title1 = Black Witch Moth|order = Lepidoptera|family = Erebidae|genus = Ascalapha|species = A. odorata|similar_species = Bat-like|image1 = Black Witch Moth.jpg|caption1 = Adult female}}The nocturnal black witch moth - the largest moth in the continental United States, with a wing span of six to seven inches - has been vested with a foreboding aura of darkness and mystery. It bears common names such as Mariposa de la Muerte (Butterfly of Death) in Mexico, Duppy Bat (Lost Soul) in Jamaica, or Sorciére Noire (or Dark Sorcerer) in French-speaking Caribbean islands.
 
-The rest of the moth is coloured mottled dark brown or black, with the abdomen being grey with black stripes, flanked with yellow stripes on the outer parts. The most distinctive feature is of course the arrangement of brown scales on the thorax forming a shape resembling a human skull. The abdomen is aligned with stripes of an orangish-buff coloration with a larger black stripe intersecting with all the others running vertically.
+==Folklore==
+According to folklore, if the black witch flies into your field of view, it conveys a curse from an enemy. If it flies over your head, it will cause your hair to fall out. If it flies into your home when you are sick, you will not get well. You will die.
 
-A recent study in 2020 shows that if viewed upside down, this moth resembles a head with eyes, with the skull pattern being the "nose". This is most likely to scare of small predators like birds, bats or other small mammals.
+​​​On a happier note, if the black witch appears before you after someone has died, it represents the soul of the person returning to bid you farewell. Should one alight on you, you will become rich.
 
-The species shows sight sexual dimorphism, as in most [[Lepidoptera]]. Female moths of this species tend to be larger than males, appearing bulkier and sporting larger, more robust abdomens. The abdomen of a male ''Acherotia atropos'' is less broad, with a pointed distal (lower) abdominal segment. In contrast, the females of the species have a distal abdominal segment that is rounded off at the tip. Antennae seen on a male are thinner and shorter than the antennae seen on a female. There are no pattern or colour changes related to the sex of an ''A. atropos''.
+Should one land above the door of your home, you will win the lottery.
 
-The caterpillar of the African death's-head hawkmoth is also sturdy and somewhat variable in colour, being some shade of buff, green or brown, with seven diagonal blue lines. At the rear is a curved, thorn-like horn. It can attain a length of 5 to 6 in (13 to 15 cm). The other two species of death's-head hawkmoth similarly have three larval colour forms: typically, green, brown and yellow. The pupa is stout and reddish-brown, and is formed 8 to 10 in (20 to 25 cm) under the ground in a dug chamber.
+Unlike the butterflies - colorful and delicate nymphs of the daylight hours - the moths - drab spirits of the night - often recall humankind’s mysterious and darker side.
 
-== Behavior ==
-The behaviors shown by ''Acherontia atropos'' are quite unusual for any other lepidopteran. Not only it is the fact that ''Acherontia atropos'' consumed honey by breaking into beehives and aren't affected by bee stings due to their extra-fluffy bodies (''A. Styx'' is not as well-protected and sometimes gets stung to death). They indeed do have a pharnyx which is an incredibly rare thing seen among arthropods, and they used it to emit a squeaky noise that frightens predators (this might also be used for communication, but this is not known). 
+==Description==
+The male Black Witch Moth has superficial resemblance to a small bat. It has a wingspan of up to 6 inches. Its wings are broad along insect’s head and body; pointed at the ends; often tattered by rigors of migratory flight. The proboscis is coiled, straw-like, used for taking nectar from flowers or liquids from other sources. Thier wings are brown with undulating dark brown or black lines; single black-outlined ‘9’-shaped mark near leading edge of each of its forewings; single black-outlined umbrella-shaped mark near trailing edge of each of its hindwings; marks distinguished by iridescent violent tinges.
 
-These moths, as well as similar species excel at raiding beehives. They are incredibly strong and bulky, enough to not get affected by bee venom. They use their extra-long proboscis to drink the nectar of blossoms and the sweet scented honey they are addicted with. There is also a theory that the squeaks the moth produces mimic the queen's hence resulting in the bees to become purely docile. The moth smells like a bee as well, so they are not likely to be attacked by the hive. 
+Females are slightly larger than the male; distinguished by wavy white line traversing its wings.
+==Occurrence==
+The insect’s range extends from northern South America across Caribbean islands, Central America and Mexico and throughout the United States. In some locations, the moths breed throughout the year, in overlapping generations.
 
-Caterpillars of this species are also quite aggressive. They reach 5-6 inches (13-15 cm) in length when fully grown and have a tail horn at their rear end covered with hard spikes. They have an irregular yellow pattern speckled with brown. They produce a clicking sound with their mandibles when disturbed and sometimes attempt to bite. They are usually found on potato and tomato plants. 
+Some populations migrate seasonally, with those of the tropical regions heading north during rainy seasons. Mexican populations, for instance, head north into the Southwest during the summer. Like other migratory moths, the Black Witch flies only at night, well above ground level. It may travel considerable distances, even across open water.
 
-==Habitat==
-''Acherontia atropos'' occurs throughout the Middle East and the Mediterranean region, much of Africa down to the southern tip, and increasingly as far north as southern Great Britain due to recently mild British winters. It occurs as far east as India and western Saudi Arabia, and as far west as the Canary Islands and Azores. It invades western Eurasia frequently, although few individuals successfully overwinter.
+The Black Witch stages occasional mass migrations, probably propelled by a population explosion, to seek new territory. Its migrations often appear to be prompted by weather, for instance, storms, falling temperatures, persistent winds, or prolonged rainfall.
+==Life History==
+Like all butterflies and moths - which belong to the advanced insects - the Black Witch has a ‘complete’ life cycle. Their life cycle starts with the adults mating. Then the female lays eggs. Caterpillars hatch from the eggs, feed voraciously, and spin cocoons. Adults emerge from the cocoons, prepared for a highly mobile life that will last no more than several weeks.
+
+The Black Witch favors stands of woody legumes. The larvae, or caterpillars - striped and 2 1/2 to 3 inches in length - feed on the foliage of the legumes during the night and take refuge beneath bark during the day. Unlike some other moth larvae, they pose no threat to agricultural crops.
+
+Like almost all moths, the adult Black Witch flies mostly at night, attracted to the nectar of flowers, the juices of fallen fruit or the sap of a legume. It rests during the day, oftentimes on the walls or under the eaves of entranceways, porches, garages.
+===Life Hazards===
+While the Black Witch is active primarily at night, with the darkness offering some protection, it sometimes falls prey to birds, for instance, the House Sparrow or the Loggerhead Shrike. It may become a meal for a bat or even an occasional meal for a spider.
+[[Category:Lepidoptera]]
 [[Category:Insecta]]
-[[Category:Sphingidae]]
-[[Category:Lepidoptera]]</text>
-      <sha1>89y48r6qe3r10fdc8jnug1a3mig9q4a</sha1>
-    </revision>
-  </page>
-  
+[[Category:Erebidae]]
+[[Category:Insects of North America]]

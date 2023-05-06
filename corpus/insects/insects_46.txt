@@ -1,67 +1,32 @@
 
-    <title>Papillo Glaucus</title>
-    <ns>0</ns>
-    <id>4593</id>
-    <revision>
-      <id>8120</id>
-      <parentid>8115</parentid>
-      <timestamp>2023-01-12T10:43:48Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        8120
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3966" sha1="odwr17c2o490kx0nrk3d39707h5zgnx" xml:space="preserve">'''Papillo Glaucus''' also know as the Eastern tiger swallowtail is a species of butterfly 
 
-{{Insect|name=Papilio Glaucus|binomen=Papilio glaucus Linnaeus, 1758|common=Eastern Tiger Swallowtail|order=[[Lepidoptera]]|suborder=[[Ditrysia]]|superfamily=[[Papilionoidea]]|subfamily=[[Papilionidae]]|family=[[Papilionidae]]|tribe=?|genus=[[Papilio]]|subgenus=?|species=P. Glaucus|status=Secured|image=[[File:DD084BC6-9E35-4C12-A7E8-5807015E6333.png|300px]]|imagehab=[[File:7FC9596E-10DC-4271-A1C4-5090EE4FD155.jpeg|300px]]|native=Eastern tiger swallowtail|other=Pterourus glaucus}}
+Formicidae
+[[File:Fire_ants.jpg|thumb|190px]]
+==  
 
-inhabiting eastern North America. Papilio Glaucus is relatively common in a wide, avid range of habitats most commonly ranging from temperate hardwood forest, deciduous forests, sunny open patches of grass and meadows and even urban areas among gardens and parks.
+ 
+ ==
 
-== Morphology ==
-Papilio Glaucus is a beautiful butterfly that is sexually dimorphic with Males having lemon yellow wings with irregular bands of Matt black with four black bands on the upper parts of the forewings hence the common name, Tiger swallowtail followed by gradient dark grey to black stripes aligning the margins and edges of the wings, the male’s hind wings appear yellow with faintly visible black stripes, females have sapphire-blue to sky blue scales adorning the edges of the hind wings. The vivid and brilliant features of The eastern tiger swallowtail makes it well-sought after species. The underside of the females hind wings sport vermillion blotches along the margins of the hind wings.
+== social life ==
+'''
+The queen is the one who lays all the eggs. All the workers are Sterile females. 
+Some ants will form super colonies with many queens made from individual colonies.
 
-=== Juvenile ===
-[[File:57758B00-0BF3-4E90-8271-DB3AF9DE98D7.jpeg|thumb|Fourth instar]]
-Juveniles are born with a shade of dark brown and one single white band (known as a saddle) present on the thoracic region (upper side), later as the young larvae moult, they gain an additional white band (saddle) parallel to the first band , the juveniles also develop two ocelli present just above the head. Upon reaching the fourth molt, their colouring transitions to a lime-green colour making the ocelli more noticeable gradually developing multiple parallel vertical stripes of black, yellow and white on the upper side of the body, at this point they gain additional minuscule spots of lavender just beneath the first band (which is located above the head). The colour fades a brownish black as time fades away. eventually the caterpillars colouring fades to much lighter brown almost completely concealing the bands reaching 2 inches approximately in length .The caterpillar then proceeds to encase themselves in light green, leaf shaped pupa,
+== '''Habitat''' ==
 
-== Life Cycle ==
-[[File:8DB782F6-9834-4CA6-ABF3-0D72EC14A44D.jpeg|thumb|Second instar]]
-Their life begins on the leaves of Magnolia or  Rosaceae species, one egg for each leaf usually laid on the undersides, the eggs take anywhere between 3-10 days to hatch. The larvae have five instars. The pupation occurs before winters and ends during spring. The adults last from middle spring till autumn.
 
-== Defensive mechanisms ==
-[[File:920B13C5-3982-4AD3-B818-107009FE79FC.jpeg|thumb|Prior to pupation (Final Instar)]]
-The first three instars are mimics of droppings The ocellus possessed by the third, fourth and fifth instars make the caterpillars appear similar to a snake in order to deter birds. The caterpillars possess an long, fleshy horn-like organ which protrudes from the upper thoracic region, it is known as an osmeturium and emits a pungent, foul odour to repel predators.
 
-== Host Plants ==
+Ants will live in every environment except the Antarctic. 
+Even the driest of regions are inhabited by the ants. 
+One species of ants has been shown to live in underwater colonies. They breathe in trapped
+pockets of air.
 
-* Wild black Cherry 
-* Ash
-* Cottonwood
-* Wafer Ash
-* Sweet magnolia 
-* Tulip poplar
-* Willow
-* Aspens
-* Birches
 
-== Distribution ==
-It is very common throughout America
 
-== Sources ==
-https://en.m.wikipedia.org/wiki/Papilio_glaucus
+=='''Predators'''==
 
-== See Also ==
-https://en.m.wikipedia.org/wiki/Papilio_glaucus
-[[Category:Insecta]]
-[[Category:Lepidoptera]]
-[[Category:Hexapoda]]
-[[Category:Pterygota]]
-[[Category:Endopterygota]]
-[[Category:Neuroptera]]
-[[Category:Papilionoidea]]</text>
-      <sha1>odwr17c2o490kx0nrk3d39707h5zgnx</sha1>
-    </revision>
-  </page>
-  
+Ants have a variety of predators like amphibians, reptiles, insects, other ants,
+birds, bats, and spiders.
+[[Category:Hymenoptera]]
+[[Category:Ants]]
+[[Category:Formicidae]]

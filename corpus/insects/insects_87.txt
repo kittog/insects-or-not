@@ -1,42 +1,83 @@
 
-    <title>Erythemis simplicicollis</title>
-    <ns>0</ns>
-    <id>4169</id>
-    <revision>
-      <id>6951</id>
-      <timestamp>2021-11-09T15:50:23Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Created page with "{{Insects_Simple|title1=Erythemis Simplicicollis|image1=Erythemis simplicicollis.jpg|caption1=Erythemis simplicicollis (Adult male)|order=Odonata (Anisoptera)|family=Libelluli..."</comment>
-        6951
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2292" sha1="9fgnwpkommbiwvnb2mretuhi7htdd5r" xml:space="preserve">{{Insects_Simple|title1=Erythemis Simplicicollis|image1=Erythemis simplicicollis.jpg|caption1=Erythemis simplicicollis (Adult male)|order=Odonata (Anisoptera)|family=Libellulidae|genus=Erythemis|species=E. simplicicollis|similar_species=Erythemis attala  
-Erythemis collocata  
-Erythemis peruviana}}
 
-''Erythemis simplicicollis'', Also known as the '''eastern pondhawk''' and more formerly, The '''common pondhawk''', is a species of pond 
+Zygoptera
+{{Infobox
+|Box title = Zygoptera
+|Image file = Ischnura heterosticta.jpg
+|Image size = 250 px
+|Row 1 title = [[Class]]
+|Row 1 info = [[Hexapoda]]
+|Row 2 title = [[Order]]
+|Row 2 info = [[Odonata]]
+|Row 3 title = Suborder
+|Row 3 info = '''''Zygoptera'''''
+|Row 4 title = [[Family]]
+|Row 4 info =  [[Coenagrionidae]]
+* [[Amphipterygidae]]
+* [[Calopterygidae]]
+* [[Chlorocyphidae]]
+* [[Dicteriadidae]]
+* [[Euphaeidae]]
+* [[Hemiphlebidae]]
+* [[Isosticidae]]
+* [[Lestidae]]
+* [[Lestoididae]]
+* [[Megapodagrionidae]]
+* [[Perilestidae]]
+* [[Platycnemididae]]
+* [[Platystictidae]]
+* [[Polythoridae]]
+* [[Protoneuridae]]
+* [[Pseudostigmatidae]]
+* [[Synlestidae]]
+* [[Zacallitidae]]
+|Row 5 title = 
+|Row 5 info = 
+|Row 6 title = 
+|Row 6 info = 
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+|Row 10 title = 
+|Row 10 info = 
+}} 
 
-[[Anisoptera|dragonfly]] from the [[Libellulidae]]. 
+A '''damselfly''' is an [[insect]] belonging to the [[Odonata]] [[order]] that resembles a [[Anisoptera|dragonfly]] in many ways. Zygoptera itself is an [[infraorder]] from the order [[Odonata]] with more than 5000 described species. 
 
-== Morphology ==
-A medium sized-dragonfly with an approximate body length of 36 mm with an average wingspan being 43 mm in length, They are fairly common is slow-moving ponds, lakes, rivers and streams. The males are vibrant blue in color with a turquoise colored thorax and faint black rings on abdomen, the females are bright green in color with darker and more clearly visible blotches and rings present on the [[abdomen]], both genders have one common physical trait being their lovely iridescently colored metallic green [[Compound eye|eyes]].
+The main difference between damselflies and dragonflies is that a damselfly has a thinner [[abdomen]] and they are usually smaller, they tend to have a weak-fluttering flight unlike dragonflies and keep their wings closed at rest (Excluding spreadwing damselflies) 
 
-=== Larva ===
-The [[Naiad|larva]] are dull-olive green color with vibrant green compound. Eyes upon reaching the point at which they can [[Molting|molt]], the early [[Adult|adults]] are dull olive in color. The larval stage of this energetic flyer is just as ferocious as the adults.
+Damselflies are also weaker fliers than dragonflies, dragonflies tend to hover in mid-air swooping down at any unlucky dipteran that gets into it's way.
+
+== Biology: ==
+
+=== Morphology ===
+Coming in a wide array of iridescent and stunning coloration, these delicate-winged flyers are carnivorous insects that dwell within shallow lakes and streams of water as a [[Naiad|juvenile]] and flying high in the tropical forests and fluttering across flower meadows, damselflies are surely a beautiful sight. Unlike dragonflies, damselflies have an [[ocelli]] (Light-sensory organ) on their head (although absent in a few species) and thin abdomens painted with natural pigmentations. These fragile insects have highly flexible [[Mandible|jaws]] and an cylindrical head along with the [[Thorax|thoracic region]] lift slightly upwards connecting the [[Insect terminology|wings]] and the thin [[abdomen]]. Their eyes cover an enormous portion of their heads similar to dragonflies, 70% of a damselflies' brain is dedicated to it's sight! 
+
+=== Metamorphosis ===
+Damselflies are '''''hemmimatabolous''','' meaning they undergo [[metamorphosis|incomplete metamorphosis]] and have an aquatic nymphal stage. The female will lay her [[egg]]s in water or high in trees. Once the eggs hatch, the [[naiad]] will search in the water for [[daphnia]] (mosquito [[larva|larvae]]) and eat them. After the final nymphal stage, the [[naiad]] becomes mature and will then eat [[fly|flies]] and [[mosquito]]es on the surface. they've also been known to feed on other soft-bodied insects namely [[Aphid|aphids]]. Some larger tropical species will also consume other arthropods such as [[spider]]s. 
 
 == Behavior ==
-''Erythemis simplicicollis'' is truly an energetic and powerful hunter, It's agility allows only a few skilled preys to escape this furious hunter. They are widespread.The males are vastly territorial and will chase away anything that dares enter their domain. The females tend to lay [[Egg|eggs]] in safe and shallow water with an ample [[Culex|food source]]. The Eastern pond hawk is a vibrant species which sparks up the life in water bodies while serving as an important part of the aquatic food chain both as a juvenile and an adult Anisopteran. 
 
-== Distribution ==
-The eastern pondhawk is native to parts of North America and Central America. Its range includes the rivers of Ontario and Quebec in Canada, much of the eastern United States, the Bahamas, the West Indies, Mexico and Central America as far south as Costa Rica. It is a widespread and abundant species.
-&lt;br /&gt;
+=== Mating ===
+Mating in damselflies, as in dragonflies, is a complex, precisely choreographed process involving both indirect insemination and delayed fertilisation. The male first has to attract a female to his territory, continually driving off rival males. When he is ready to mate, he transfers a packet of sperm from his primary genital opening on segment 9, near the end of his abdomen, to his secondary genitalia on segments 2–3, near the base of his abdomen. The male then grasps the female by the head with the claspers at the end of his abdomen; the structure of the claspers varies between species, and may help to prevent interspecific mating. The pair fly in tandem with the male in front, typically perching on a twig or plant stem. The female then curls her abdomen downwards and forwards under her body to pick up the sperm from the male's secondary genitalia, while the male uses his "tail" claspers to grip the female behind the head: this distinctive posture is called the "heart" or "wheel"; the pair may also be described as being "in cop".
+
+== Trivia ==
+
+* Damselflies along with their counterparts dragonflies have been existing on earth since 300 million years.
+* Even after possessing 3 pairs of legs, they are unable to walk.
+* Damselflies can be found on 6 continents (With the excluded continent being Antarctica)
+* Both males and females in every species possess 10 segments in their abdomen this is to help form the coupulatry wheel during the process of mating.
+* Female damselflies take a dive into the shallow waters to lay eggs!
+
+
+
+
+<br />
+[[Category:Damselflies]]
 [[Category:Odonata]]
+[[Category:Infraorders]]
+[[Category:InsectFamilies]]
 [[Category:Insecta]]
-[[Category:Dragonflies]]</text>
-      <sha1>9fgnwpkommbiwvnb2mretuhi7htdd5r</sha1>
-    </revision>
-  </page>
-  

@@ -1,53 +1,32 @@
 
-    <title>Laothoe populi</title>
-    <ns>0</ns>
-    <id>4054</id>
-    <revision>
-      <id>6896</id>
-      <parentid>6895</parentid>
-      <timestamp>2021-10-23T17:17:34Z</timestamp>
-      <contributor>
-        <username>Enosgian</username>
-        <id>48189863</id>
-      </contributor>
-        6896
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3017" sha1="09ysx3j0lhrsqnt7jzqb10bxivl6kp1" xml:space="preserve">{{Insects_Simple|title1=Laothoe populi|image1=Laothoe populi moth.jpg|caption1=Adult female (Above-view)|order=[[Lepidoptera]]|family=[[Sphingidae]]|genus=[[Laothoe]]|species=L. populi|similar_species=[[Striped sphinx]]     
-[[Elephant hawk-moth]]                                                     
-[[Lime hawk-moth]]}}Laothoe populi, Also known as the '''Poplar Hawk-moth''', is a moth of the family [[Sphingidae]]. The species was first described by Carl Linnaeus
 
-in his 1758 10th edition of Systema Naturae. It is found throughout the Palearctic region and the Near East and is one of the most common members of the family in the region. It is distinctive due to its habit of resting with its hindwings held further forward than (but still half hidden by) the forewings.
-== Morphology ==
-[[File:Laothoe populi Moth (2).png|thumb|247x247px|A camouflaged female]]
-Laothoe populi is certainly one of the more cunning species of hawkmoths with a strikingly close appearance to a deaf leaf as they bask under the sunlight over a tree branch, their wings have blotched wings that create a notion of the specimen being a dead leaf. They have slightly pale venations on their wings that are almost completely parallel to one another. Their coloration is typically a mix between different shades of dull brown. The wings of female specimen seem to have tiny white spots on their wings with a larger scarlet blotch on the hindwing. These moths have large bodies with curved, hairless antennae that are mostly white and extremely thin and minute in terms of size and only has a singular segment. Their wings have a curved, downward facing set of forewings. The males have a light yellow tinted wings with shades of dull brown and the red blotches are also present in males, the males have a vibrant yellow shade closely similar to mornem flavescens. The eggs are silver-grey and look like pearls, the larva is green in color, with vibrant shades of pastel and bright green and soon it's coloration wanes away as it molts.
+Hyles livornica
+<span lang="ga" dir="ltr">Hyles livornica, the '''striped hawk-moth''', is a moth of the family [[Sphingidae]].</span> 
 
-== Other Hawk-moth Species ==
-&lt;gallery&gt;
-File:Lime hawk-moth2.jpg|[[Lime hawk-moth]]
-File:35981119593 8220851d27 o striped hawk moth.jpg|[[Striped Hawk Moth]]
-File:Hummingbird hawk moth.jpg|[[Hummingbird hawk-moth]]
-File:Elephant Hawk caterpillar.jpg|[[Elephant Hawk Caterpillar|Elephant hawk-moth]]
-&lt;/gallery&gt;
+==<span lang="ga" dir="ltr">Taxonomy</span>==
+<span lang="ga" dir="ltr">Eugenius Johann Christoph Esper described the striped hawk-moth in 1780 using a specimen found in Italy at Livorno (hence the Latin name ''livornica''). In 1819 Jacob Hübner allocated this species in his newly erected genus ''Hyles''.</span>
 
-== Life cycle ==
-[[File:Laothoe populi moth larvae.jpg|thumb|A baby poplar hawk-moth larva.]]
-Adults are on the wing and looking for mates between '''May and August'''. Females release pheromones which attract passing males and lay their eggs beneath leaves. Caterpillars hatch and feed between June and early October. They eventually descend to the ground to pupate and overwinter beneath the surface.
+<span lang="ga" dir="ltr">Until the 20th century ''Hyles livornica'' has been considered conspecific with the American ''Hyles lineata'' and is therefore under that name (or as ''Celerio lineata'' ssp. ''livornica'') found in the older literature. Similar was the case with the ''Hyles livornicoides'', which is prevalent in Australia. ''Hyles renneri'' from Nepal is sometimes treated as a valid species.</span>
+{{Insects_Simple|title1=Hyles livornica|image1=35981119593 8220851d27 o striped hawk moth.jpg|caption1=A pretty, medium-sized hawkmoth|order=Lepidoptera|family=[[Sphingidae]]|genus=[[Hyles]]|species=H. Livornica|similar_species=[[Lime hawk moth]]
+[[Laothoe populi]]}}
 
-&lt;br /&gt;
+==<span lang="ga" dir="ltr">Morphology</span>==
+<span lang="ga" dir="ltr">''Hyles livornica'' has a wingspan reaching 60–80 mm. Males are slightly smaller than females. The forewings and the body are mainly olive brown or beige, with white stripes. brown forewings wings and Cream colored venation with paler white marking on the thoracic region alongside a striped abdomen The hindwings are pink, with black and white edges. The head and the thorax are olive-brown, with white stripes. The olive-brown abdomen has black-and-white segment, the first two segments have large black and white side spots. The antennae are dark olive brown and have a white tip. These moths fly from February to October depending on the location. In Europe they are visible from April to June and from August to September in two generations and sometimes they overwinter. This species is a migrant from Africa to Europe. The caterpillars are green, with black markings and reach a length from 65 to 80 millimeters.</span>
 
-== Gallery ==
-&lt;gallery&gt;
-File:Laothoe populi.jpg
-File:Laothoe populi Moth (2).png
-File:Laothoe populi moth.jpg
-File:Laothoe populi moth larvae.jpg
-File:Laothoe populi imago (Basking).jpg
-File:Laothoe populi (Male).jpg
-&lt;/gallery&gt;
+==<span lang="ga" dir="ltr">Host plants</span>==
+
+*<span lang="ga" dir="ltr">''Galium'', (Bedstraw)</span>
+* ''<span lang="ga" dir="ltr">Gossypium (cotton)</span>''
+*<span lang="ga" dir="ltr">''Rumex'', (Sorrels)</span>
+*<span lang="ga" dir="ltr">''Vitis'', (Grapevine)</span>
+*<span lang="ga" dir="ltr">''Euphorbia'', (Spurge)</span>
+*<span lang="ga" dir="ltr">''Linaria'', (toadflax)</span>
+*<span lang="ga" dir="ltr">''Epilobium'', (Onagraceae)</span>
+*<span lang="ga" dir="ltr">''Antirrhinum'', (Snapdragon)</span>
+*<span lang="ga" dir="ltr">''Scabiosa'', (Scabious)</span>
+*<span lang="ga" dir="ltr">''Linum'', (Common flax)</span>
+* ''<span lang="ga" dir="ltr">Fuchsia</span>''
+*<span lang="ga" dir="ltr">''Asphodelus''.</span> 
+
 [[Category:Lepidoptera]]
-[[Category:Sphingidae]]</text>
-      <sha1>09ysx3j0lhrsqnt7jzqb10bxivl6kp1</sha1>
-    </revision>
-  </page>
-  
+[[Category:Sphingidae]]

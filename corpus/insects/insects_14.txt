@@ -1,53 +1,44 @@
 
-    <title>Abantiades hyalinatus</title>
-    <ns>0</ns>
-    <id>2368</id>
-    <revision>
-      <id>6873</id>
-      <parentid>4247</parentid>
-      <timestamp>2021-10-22T17:30:35Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        6873
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="910" sha1="o5u2e5bs19i71kgwrtff0arlgnth9qw" xml:space="preserve">{{Infobox
-|Box title = Abantiades hyalinatus
-|Image file = Abantiades hyalinatus.JPG
-|Image size = 200px
+
+Synanthedon exitiosa
+{{Infobox
+|Box title = Synanthedon exitiosa
+|Image file = Synanthedon exitiosa.jpg
+|Image size = 250px
 |Row 1 title = [[Order]]
 |Row 1 info = [[Lepidoptera]]
-|Row 2 title = [[Family]]
-|Row 2 info = [[Hepialidae]]
-|Row 3 title = [[Genus]]
-|Row 3 info = ''[[Abantiades]]''
-|Row 4 title = [[Species]]
-|Row 4 info = '''''Abantiades hyalinatus'''''
-|Row 6 title = 
-|Row 6 info = 
-|Row 7 title = 
-|Row 7 info = 
-|Row 8 title = 
-|Row 8 info = 
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Glossata]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Sesioidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Sesiidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Sesiinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Synanthedonini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Synanthedon]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Synanthedon exitiosa'''''
 |Row 9 title = 
 |Row 9 info = 
 }}
 
-'''''Abantiades hyalinatus''''' is a [[moth]] belonging to the [[Hepialidae]] family. It is found from Queensland to Tasmania in Australia. 
+'''''Synanthedon exitiosa''''' or the '''Peachtree borer''' is a black species of [[moth]] in the family [[Sesiidae]].
 
 ==Appearance==
 
-The wingspan of this [[insect]] is 10-12 mm. This moth has a white pattern on its wings. Females have a purple body. All species have brown wings.
-{{Shortbox}}
+The most noticeable feature of Exitosa is the broad orange stripe on the body. The wings are slightly tinted to blue with transparent blotches on the wings. and the body is coated black. This is a specialized method of mimicry to prevent unsuspecting predators from consuming them, It is indeed true that this moth mimics wasp (Although it is harmless) as a method of preventing larger insects and birds from consuming them. It has been known to attack ''Prunus persica'' and Rosaceae species of plants, a family of fruit bearing trees. The wingspan of Exitiosa ranges from 14 mm to 33 mm, and are noticeable between May and September. The adult female of the species has a wingspan of about 3.5 centimeters. . It has opaque forewings and clear hindwings. The male is smaller and more slender, and both pairs of wings are clear. The larva is up to 3.5 centimeters long and white with a brown head.
+
+==Habitat==
+[[File:Synanthedon exitiosa larva.jpg|thumb|290x290px|Larva]]
+noticeable between May and September, These moths prefer temperate semi arid areas with an availability of host plants to infest.
 [[Category:Insecta]]
 [[Category:Lepidoptera]]
-[[Category:Hepialidae]]
-[[Category:Abantiades]]
-[[Category:Hepialoidea]]</text>
-      <sha1>o5u2e5bs19i71kgwrtff0arlgnth9qw</sha1>
-    </revision>
-  </page>
-  
+[[Category:Glossata]]
+[[Category:Sesioidea]]
+[[Category:Sesiidae]]
+[[Category:Sesiinae]]
+[[Category:Synanthedonini]]
+[[Category:Synanthedon]]

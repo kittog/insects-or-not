@@ -1,44 +1,29 @@
 
-    <title>Ammotrechid</title>
-    <ns>0</ns>
-    <id>2257</id>
-    <revision>
-      <id>3681</id>
-      <parentid>3680</parentid>
-      <timestamp>2009-06-24T16:26:39Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>/* Sources */ Fixed wikipedia link</comment>
-      3681
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1250" sha1="q1ozbdpxp3lwxhq1x9d1jxjb3z6cp0p" xml:space="preserve">[[File:Chinchippus peruvianus.jpg|thumb|190px|''[[Chinchippus peruvianus]]'']]'''Ammotrechids''' are [[sun-spider]]s belonging to the [[Ammotrechidae]] family, in which only 72 species exist, most of them belonging to the ''[[Ammotrechella]]'' [[genus]]. 
 
-== Appearance ==
-Ammotrechids are slender and can be colored in many shades of brown. The [[tarsus|tarsi]] in the front pair of [[leg]]s have no claws, and the front part of the head is rounded. 
+Chinchippus peruvianus
+{{Info}}
 
-== Life ==
-The female will lay her [[egg]]s in several batches, probably in a burrow. 
-----
-Many species of Ammotrechids are nocturnal. The nocturnal species dig into the soil, but some species hide in [[termite]] colonies. 
+''Chinchippus peruvianus'' is a species of [[sun-spider]]  belonging to the monotypic (prior to  
 
-== Defense ==
-Ammotrechids will usually bite predators or prey with their large [[chelicerae]]. 
+{{More_detailed_infobox|title1=Chinchippus peruvianus|image1=Chinchippus peruvianus.jpg|caption1=Adult female specimen|common_name=—|order=[[Solifugae]]|genus=Chinchippus|family=[[Ammotrechidae]]|diet=Predacious/scavenger 
+Diet includes Amphipods, springtails, sea bird carcasses and maritime prey|activity=Unknown|distribution=Guano Island, Ica region in central Peru|habitat=Coastal desert|other_common_names=—}}
 
-== Feeding habits ==
-Ammotrechids are [[predacious]] and they eat [[insect]]s and a few small lizards. 
+2009) [[genus]]: ''[[Chinchippus]]''. This species is only found in the Ica Region of Central Peru. It wasn't discovered until 1920 and was found American Biologist Ralp Vary Chamberlain. C. Peruvians is known only from a single female specimen (shown in the adjoining image). 
 
-== Geography ==
-Ammotrechids live in warm locations of Central America,and South America, and North America. Usually in dry,desert or semiarid areas.
+== Biology ==
 
-== Sources ==
-*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
-*[http://www.wikipedia.com/wiki/Ammotrechidae Ammotrechidae on Wikipedia]
+=== Morphology ===
+While not much is known about the species Chinchippus peruvianus. They are known to have a lighter coloration, larger size and different chelicerae in comparison with C. Viajaensis (The only other known Solifuge in genus Chinchippus described in 2009) as stated [https://www.researchgate.net/publication/250062832_Natural_history_of_coastal_Peruvian_solifuges_with_a_redescription_of_Chinchippus_peruvianus_and_an_additional_new_species_Arachnida_Solifugae_Ammotrechidae here].
+
+== Behaviour ==
+
+=== Feeding Habits ===
+It can be speculated that C. Peruvianus along with the other species in genus Chinchippus are predacious but may also exhibit scavenger hunting, feeding off carcasses and maritime fauna in respect to their coastal-Arid Habitat.<ref>https://www.researchgate.net/figure/Size-distribution-of-Chinchippus-peruvianus-n-5-101-individuals-at-Cangrejal-Paracas_fig4_250062832</ref> they’re prey could include amphipods <ref>https://www.researchgate.net/publication/250062832_Natural_history_of_coastal_Peruvian_solifuges_with_a_redescription_of_Chinchippus_peruvianus_and_an_additional_new_species_Arachnida_Solifugae_Ammotrechidae</ref>and seabird carcasses.
+
+=== Other behaviours ===
+It could also be presumed that c. Peruvianus tends to stay in burrows<ref>https://sites.google.com/site/acatenazzi/chinchippus</ref> , although it is worth mentioning that no other information is currently available on this article in regards to the specie’s behaviour.
+
+== References ==
+[[Category:Solifugae]]
 [[Category:Ammotrechidae]]
-[[Category:Solifugae]]</text>
-      <sha1>q1ozbdpxp3lwxhq1x9d1jxjb3z6cp0p</sha1>
-    </revision>
-  </page>
-  
+[[Category:Arachnids]]

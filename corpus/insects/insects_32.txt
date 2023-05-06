@@ -1,48 +1,23 @@
 
-    <title>Bombyx mori</title>
-    <ns>0</ns>
-    <id>3996</id>
-    <revision>
-      <id>8037</id>
-      <parentid>6773</parentid>
-      <timestamp>2022-05-28T20:07:47Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Added sources</comment>
-        8037
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="6961" sha1="h1gy82vnjen0iuii4vpnvceen02piwb" xml:space="preserve">'''Not to be confused with [[Bombyx mandarina]]'''
 
-Bombyx mori is also known as the domestic silk moth or the mulberry worm is a species of the order [[Lepidoptera]] from the family of [[Bombicidae]] from the genus 
+Daphnis nerii
+''For a similar looking species, see [[Daphnis hypothous]] (Jade Hawkmoth).''
 
-{{Insects_Simple|image1=Bombyx mori.png|caption1=A fluffy, cute white moth|order=Lepidoptera|family=Bombycidae|genus=Bombyx|species=B.mori|similar_species=Bombyx Mandarina}}
+{{More_detailed_infobox|image1=Daphnis nerii.png|common_name=Oleander Hawkmoth|order=Lepidoptera|diet=Young: Leaves of the Oleander Plant
 
-[[Bombyx]]. Their larva are primarily responsible for the production of silk and is therefore known as [[silkworm]] the process of extraction of silk from their [[Pupa|cocoons]] is known as [[Sericulture]].Silk moths have a wingspan of 3–5 cm (1.2–2.0 in)
+Adult: Nectar from flowes|activity=Nocturnal}}
+
+== Daphnis nerii ==
+Daphnis nerii, also known as the Oleander hawkmoth Belongs to the [[Sphingidae]] family, they are spectacularly mesmerizing artworks of nature. They can be seen throughout Europe during summer season and can be seen all year around in eastern and western Africa and south east Asia. The first person to describe this species of Sphingidae was Carl Linnaeus in 1758.
 
 == Morphology ==
-Bombyx mori has a fluffy-hair fringed body and small silver-veined wings they also posses a pair of hair-fringed comb-like [[Antenna|antennae]]. Their antennae are one of the key features used to describe them. The color of their bodies and wings is pure milky white color other than their antenna and eyes.  it spread to India, Korea, Nepal, Japan, and the West. The domestic silk moth was domesticated from the wild silk moth ''Bombyx mandarina'', which has a range from northern India to northern China, Korea, Japan, and the far eastern regions of Russia. The domestic silk moth derives from Chinese rather than Japanese or Korean stock. the practice of breeding silkworms for the production of raw silk, has been under way for at least 5,000 years in China, It is an economically important insect, being a primary producer of silk. A silkworm's preferred food are white mulberry leaves, though they may eat other mulberry species and even the orange. Domestic silk moths are entirely dependent on humans for reproduction, as a result of millennia of selective breeding. Wild silk moths (other species of ''Bombyx'') are not as commercially viable in the production of textile.
+Regarded as one of the truly spectacular and mesmerizing artworks by the nature, the oleander hawkmoth's wings are a combination of several vibrant shades of green ranging from olive to pale green, their wings are painted with abstract and unusual  patterns The amazing shades of green keep them concealed within their surrounding and makes them remarkably distinctive in color at the same time. These moths also posses white, pale green, olive green and a streak of light-pink color there bodies are banded with the same shades of enviable green with olive and dark green. Oleander hawkmoth caterpillar upon reaching full maturity are green with an electric-blue stripe on it's body and speckled with teal spots they have two distinctive eye-like marking on their forehead that are electric blue, an entirely matured oleander hawk-moth larvae measure around 7.5 to 8.5 cm in length (Upon reaching full maturity) and feed on a great variety of highly toxic (And some non-toxic) Plants the caterpillars have a rear horn-like structure at the ends of their bodies throughout their entire lives that is, upon reaching full maturity, they also gain a great distribution ranging from Europe to Asian and even some certain parts of Hawaiian Islands. it is a migratory species, flying to parts of eastern and southern Europe during the summer season in search of food, habitat and suitable climatic conditions, particularly in Turkey.[[File:Daphnis nerii.png|thumb|4x4px|alt=]]
+== Food Habits ==
+[[File:Oleander hawkmoth lifecycle.png|thumb|258x258px|Life cycle of Daphnis nerii]]
+The adult Daphnis nerii feed on a variety of flowering plants their availability is the major concern therefore we have plenty of information regarding their food habits.  The adults feed on nectar of a great variety of flowers. They love flowers with a sweet-smelling nectar like petunia, night-flowering jasmine honeysuckle, periwinkles, oleander and many others. They are especially active during the late evening and the twilight hours, fluttering over the flowers once the sun sets and dusk falls. The caterpillars feed mainly on periwinkle and oleander leaves, oleander is highly toxic flowering shrub also kept as a common garden plant, The caterpillars have a natural invulnerability against the toxins of the oleander plant. They also may feed on many other flowering plants of the dogbane plant family (A term used for taxonomy of plants in botany), such as Arabian penesula flowers'','' night-flowering jasmine plant and many other plants native in India. They also eat the buds and the sepals flowers of a few flowering plants at night.
 
-== Metamorphosis ==
-Eggs take about an approximate of 13 days (Almost 2 weeks) to hatch into silkworm, that have a constant habit of feeding continuously. They have a high preference for mulberry, As their second name suggests that is, the mulberry worm. However they aren't monophagous (Prefer only one kind of food) since they can eat other species of mulberries, as well as some other wild berry bushes, mostly oranges. . When the color of their heads eventually becomes darker, it is an indication that they have outgrown their own bodies. After molting, the larval phase of the silkworms emerge as a white worm. After they have molted four to five times, their bodies become slightly tinted with a light shade of yellow. The larvae then cling onto a surface ready to enter their secondary pupal stage (Semi-adult) , and enclose themselves in a cocoon made up of the silk produced by the silk glands of the caterpillar. The final molt from larva to pupa takes place inside the cocoon, which provides a vital layer of protection to the vulnerable pupal stage preventing it from being exposed to the dangerous world full of hungry predators. Many other Lepidopterans produce cocoons namely moths however only Bombyx mori and Bombyx mandarina and a few notable other species carry out the entire process using fabrics and textile materials. If the animal is allowed to survive after spinning its cocoon and through the pupal phase of its lifecycle, it releases a highly corrosive enzymes... enzymes to penetrate through the cocoon by creating a hole inside it in the cocoon so it can emerge as an adult Bombyx mori. The corrosive enzymes are only corrosive to the silk which decreases the value of the silk greatly therefore silkworms are boiled and killed in some countries where Sericulture is carried out, the silkworms upon being destroyed are killed.
-
-the adult phase of the lifecycle in which unfortunately is not capable of a purely well functioning flight, in a comparative degree to the wild ''B. mandarina'' and other ''Bombyx'' species, whose males fly to meet females and for evasion from predators. Some may emerge with the ability to lift off and stay airborne, but sustained flight cannot be achieved. This is because their bodies are too big and heavy for their small wings. Females are about two to three times bulkier and heavier than males as they are carrying the eggs but have similarl colorations. Adult Bombycidae have reduced and un-developed [[Proboscis|mouthparts]] and do not feed like several moth species.
-
-== Sericulture ==
-he cocoon is made of a thread of raw silk from 300 to about 900 m (1,000 to 3,000 ft) long. The fibers are very fine and lustrous, about 10 μm (0.0004 in) in diameter. About 2,000 to 3,000 cocoons are required to make 1 pound of silk (0.4 kg). At least 70 million pounds (32 million kg) of raw silk are produced each year, requiring nearly 10 billion cocoons. The domestic species ''B. mori'', compared to the wild species (e.g., ''B. mandarina''), has increased cocoon size, body size, growth rate, and efficiency of its digestion. It has gained tolerance to human presence and handling, and also to living in crowded conditions. The domestic silk moths cannot fly, so the males need human assistance in finding a mate, and it lacks fear of potential predators. The native color pigments have also been lost, so the domestic silk moths are leucitic, since camouflage is not useful when they only live in captivity. These changes have made ''B. mori'' entirely dependent upon humans for survival, and it does not exist in the wild. The eggs are kept in incubators to aid in their hatching. Silkworms were first domesticated in China over 5,000 years ago. Since then, the silk production capacity of the species has increased nearly tenfold. The silkworm is one of the few organisms wherein the principles of genetics and breeding were applied to harvest maximum output. It is second only to maize in exploiting the principles of heterosis and crossbreeding. Silkworm breeding is aimed at the overall improvement of silkworms from a commercial point of view. The major objectives are improving fecundity (the egg-laying capacity of a breed), the health of larvae, quantity of cocoon and silk production, and disease resistance. Healthy larvae lead to a healthy cocoon crop. Health is dependent on factors such as better pupation rate, fewer dead larvae in the montage, shorter larval duration (this lessens the chance of infection) and bluish-tinged fifth-instar larvae (which are healthier than the reddish-brown ones). Quantity of cocoon and silk produced are directly related to the pupation rate and larval weight. Healthier larvae have greater pupation rates and cocoon weights. Quality of cocoon and silk depends on a number of factors, including genetics. 
-
-== Sources ==
-Bombyx mori on Wikipedia
-
-== Trivia ==
-Bombyx mori is one of the few species interdependent on humans for their survival as they are unable to fly due to their fluffy bodies and are defenseless against common predators.
-
-&lt;br /&gt;
+== Distribution ==
+Ranging from several parts of Africa to the entire Europe during summers and in south-east Asia all year around, this migratory hawkmoth is not as common as one may expect ranging from several parts Of east, west and North Africa all year around and south-East Asia all year around seen in Several parts of India, Iran, Iraq and '''Especially''' turkey these large winged hawkmoths can be seen only in summers throughout the entire Europe But has a wider distribution in southern Europe.
 [[Category:Lepidoptera]]
-[[Category:Insecta]]</text>
-      <sha1>h1gy82vnjen0iuii4vpnvceen02piwb</sha1>
-    </revision>
-  </page>
-  
+[[Category:Insecta]]
+[[Category:Sphingidae]]

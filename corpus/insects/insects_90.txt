@@ -1,29 +1,10 @@
 
-    <title>Antlion</title>
-    <ns>0</ns>
-    <id>3143</id>
-    <revision>
-      <id>5101</id>
-      <parentid>5075</parentid>
-      <timestamp>2013-01-12T07:18:53Z</timestamp>
-      <contributor>
-        <username>Majoras revenge!!!</username>
-        <id>5362365</id>
-      </contributor>
-        5101
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="466" sha1="7nsace1zhl0v3a0tbfjksp8mddssokx" xml:space="preserve">
 
+Lacewing
+[[File:Green_Lacewing.jpg|thumb|A green lacewing somewhat camouflaged. |290x290px]]
 
-==Antlion==
-Antlions are part of the Myrmeleontidae family and their likely genus is Myrmeleo. Antlion adults are sometimes called antlion lacewings. Antlion larva are often called a doodlebug, because of the tracks that the larva leave. The tracks are somewhat spiral-shaped and look as if someone "doodled' on the sand, hence the name doodlebug.[[File:Spider.jpg|thumb|A fully grown antlion.]]
+Lacewings are small winged members of the Chrysopidae family of the order Neuroptera. '''lacewing''', (order Neuroptera), any of a group of insects that are characterized by a complex network of wing veins that give them a lacy appearance.
 
-
-
-[[File:Antlion.jpg|thumb|Antlion larva]]
-[[Category:Neuroptera]]</text>
-      <sha1>7nsace1zhl0v3a0tbfjksp8mddssokx</sha1>
-    </revision>
-  </page>
-  
+== Morphology ==
+The most common lacewings are in the green lacewing family, Chrysopidae, and the brown lacewing family, Hemerobiidae. The green lacewing, sometimes known as the golden-eyed lacewing, has long delicate antennae, a slender greenish body, golden- or copper-coloured eyes, and two pairs of similar veined wings. It is worldwide in distribution and flies near grasses and shrubs. The lacewing is also known as a stinkfly because it emits a disagreeable odour as a protective device. The female green lacewing secretes slender stalks and deposits one egg on top of each stalk. This prevents the predatory larvae from devouring unhatched eggs. The larva, often called an aphidlion, has prominent sucking mouthparts and well-developed legs. These capture and drain body fluids from aphids and other soft-bodied insects. After about two weeks of continuous feeding, the larva spins a silken, pearl-sized cocoon on the underside of a leaf and remains in the pupal case approximately two weeks before emerging as an adult. Adults are generally 1 to 1.5 cm (0.4 to 0.6 inches) in length. The brown lacewing resembles the green lacewing but is smaller in size, brown in colour, may have dark spots on the wings, and does not secrete stalks for its eggs. Some lacewing larvae hold debris (including the bodies of their victims) on their backs with hooks or bristles. This camouflage allows the lacewing larva to surprise its victims and also protects it from enemies.
+[[Category:Neuroptera]]

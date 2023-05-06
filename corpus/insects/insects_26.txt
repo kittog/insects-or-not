@@ -1,50 +1,26 @@
 
-    <title>Automeris IO</title>
-    <ns>0</ns>
-    <id>4072</id>
-    <revision>
-      <id>7480</id>
-      <parentid>6685</parentid>
-      <timestamp>2021-12-13T07:30:54Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <minor/>
-      <comment>Entomologist Jr. moved page [[IO Moth]] to [[Automeris IO]]</comment>
-        6685
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3784" sha1="48igdzv0j4uevdbz6o3vvv6j25agaae" xml:space="preserve">[[File:Automeris io.jpg|thumb]]
-'''''Automeris IO''''', the '''IO moth''', is a colorful North American moth in the family Saturniidae. The Io (''EYE-oh'') moth ranges from the southeast corner of Manitoba and in the southern extremes of Ontario, Quebec, New Brunswick and Nova Scotia in Canada, and in the US it is found from Montana, North Dakota, South Dakota, Nebraska, Colorado, New Mexico, Texas, Utah, east of those states and down to the southern end of Florida. The species was first described by Johan Christian Fabricius in 1775.
 
-Higher classification: Automeris
+Ataccus Atlas
+Attacus atlas, the Atlas moth, is a large saturniid moth endemic to the forests of Asia. The species was also first described by Carl Linnaeus
 
-Family: [[Saturniidae]]
+{{Insects_Simple|title1=Attacus Atlas|image1=Atlas moth being held.jpg|caption1=The third largest moth|order=Lepidoptera|family=[[Saturniidae]]|genus=[[Attacus]]|species=A. atlas|similar_species=[[Hercules moth]] 
+[[White Witch moth]]}}
 
-Order: [[Lepidoptera]]
+in his 1758 10th edition of Systema Naturae. Atlas moths are named after Atlas, the Titan of Greek mythology (due to their size). In Hong Kong, the Cantonese means "snake's head moth", referring to the prominent extension of the forewing which bears resemblance to the head of a snake.
 
-== Appearance ==
-A large moth  with a wingspan of 2.5–3.5 inches (63–88 mm), this species have differences among both genders with the females having dark-brown colored wings and the hind wings possessing a pair of eye spots used to threaten predators by reveling them as a method of astonishing their predators. The males have their wings painted with bright yellow, vermillion and brown delicate scales alongside having Indigo painted eye spots with a Dark outlined hindwing. The female's dark brown scales blend them in perfectly within their sorroundings concealing them from potential predators.
+== Morphology ==
+The Atlas moth is one of the largest lepidopterans, with a wingspan measuring up to 24 cm (9.4 in) and a wing surface area of about 160 cm<sup>2</sup> (~25 in<sup>2</sup>). It is only surpassed in wingspan by the white witch (''Thysania agrippina'') and ''Attacus caesar'', and in wing surface area by the Hercules moth (''Coscinocera hercules''). As in most Lepidoptera, females are noticeably larger and heavier than males, while males have broader antennae.
 
-== Life cycle ==
-The eggs have large micropyle rosettes that turn black as the fertile eggs develop. They are usually laid in clusters of more than twenty. From the eggs, orange larvae emerge, usually eating their egg shell soon after hatching. They go through five instars, each one being a little different. The caterpillars are gregarious in all their instars, many times traveling in single file processions all over the food plant. As the larvae develop, they will lose their orange color and will turn bright green and urticating, having many spines. These stinging spines have a very painful venom that is released with the slightest touch; a condition known as erucism. The green caterpillars have two lateral stripes, the upper one being bright red and the lower one being white. When the caterpillars are ready, they spin a flimsy, valveless cocoon made from a dark, coarse silk. Some larvae will crawl to the base of the tree and make their cocoons among leaf litter on the ground, while others will use living leaves to wrap their cocoons with. The leaves will turn brown and fall to the ground during autumn, taking the cocoons with them. There they pupate, the pupa being dark brown/black. The pupae of the females are considerably larger than those of the males.
+The body is disproportionately small compared to the wings. The upperside of the wings are reddish brown with a pattern of black, white, pink, and purple lines and triangular, scale-less windows bordered in black. The undersides of the wings are paler. Both forewings have a prominent extension at the tip, with markings that resemble the head of a snake, a resemblance which is exaggerated by movements of the wings when the moth is confronted by potential predators.
 
-Adult moths normally emerge from their cocoons in late morning or early afternoon. Eclosion (emergence from the cocoon) only takes a few minutes. After eclosing, the moths climb and hang on plants so that their furled wings can be inflated with fluid (hemolymph) pumped from the body. This inflation process takes about twenty minutes.
+The Atlas moth has a very short, vestigial proboscis, and they do not eat once they have emerged from the cocoon, relying on fat storage for energy. Every flight takes valuable energy and can take days off their already short lives, as it has a very short life span of only one to two weeks. They conserve energy by flying as little as possible. A female will wait for a male to come along and be fertilised, lay eggs and die.
 
-Adult moths are strictly nocturnal, flying generally only during the first few hours of the night. The females generally wait until nightfall and then extend a scent gland from the posterior region of the abdomen, in order attract males via wind-borne pheromones. The males use their much bigger antennae to track down the females. After mating, the females lay eggs then wait to die. These moths, like all moths in the family Saturniidae, have vestigial mouthparts and do not eat in the adult stage.
+== The time to see atlas moths ==
+The Atlas Moth is nocturnal in nature, and pops out in the '''evening and nighttime hours between 7 p.m. and 4 a.m.''' in your time zone. If your island is in the Northern Hemisphere, this variety of moth will be around from April until the end of September.
 
-== Poison level ==
-[[File:Io moth catterpillar.jpeg|thumb]]
-The larval stage of the io moth ranks near the top of any list of problematic stinging caterpillars. The spines that cover the caterpillar are connected '''to poison glands'''.&lt;syntaxhighlight lang="http"&gt;
-Pain Level: 2/10
-&lt;/syntaxhighlight&gt;&lt;syntaxhighlight lang="http"&gt;
-Max Pain: 3/10
-&lt;/syntaxhighlight&gt;
-[[Category:Lepidoptera]]
+== Region ==
+[[File:Atlas moth caterpillar.jpg|thumb|The larva of atlas moths.]]
+One of the largest moth species in the world, the atlas moth (Attacus atlas), is found '''throughout Asia''' and is widespread in China, Bangladesh, Cambodia, Hong Kong, India, Laos, Malaysia, Nepal, and Taiwan and even Indonesia. Their habitat is primarily dry tropical forests, secondary forests, and shrublands across Asia, including Borneo, though one specimen, an adult female, was found in 2012 in Ramsbottom, England after it landed on a windowsill, and presumed to have escaped from a private collection
 [[Category:Saturniidae]]
-[[Category:Insecta]]</text>
-      <sha1>48igdzv0j4uevdbz6o3vvv6j25agaae</sha1>
-    </revision>
-  </page>
-  
+[[Category:Lepidoptera]]
+[[Category:Insecta]]

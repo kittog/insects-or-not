@@ -1,32 +1,25 @@
 
-    <title>Fire ant</title>
-    <ns>0</ns>
-    <id>3550</id>
-    <revision>
-      <id>5632</id>
-      <timestamp>2016-08-23T23:32:46Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''Fire ant''' is the common name for several species of ants in the genus ''[[Solenopsis]]''. They are, however, only a minority in the genus,..."</comment>
-        5632
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4113" sha1="2dy10j2u1f7pr5827d4lg0zvhxyjmg5" xml:space="preserve">[[File:Placeholder|right|300px]]'''Fire ant''' is the common name for several species of ants in the genus ''[[Solenopsis]]''. They are, however, only a minority in the genus, which includes over 200 species of ''Solenopsis'' worldwide. ''Solenopsis'' are stinging ants and most of their common names reflect this, for example, ginger ants and tropical fire ants. Many species also are called red ants because of their light brown color, though species of ants in many other genera are similarly named for similar reasons. Examples include ''[[Myrmica rubra]]'' and ''[[Pogonomyrmex barbatus]]''.[2]
 
-None of these names applies in all countries nor to all species of ''Solenopsis'', nor only to ''Solenopsis'' species; for example the colloquial names for several species of weaver ants in the genus ''[[Oecophylla]]'' in Southeast Asia include "fire ants" because of their red color and painful sting; the two genera, however, are not closely related. Also, ''[[Wasmannia auropunctata]]'' is commonly called the "little fire ant".
-==Appearance==
-The bodies of mature fire ants, like the bodies of all typical mature insects, are divided into three sections: the head, the thorax, and the abdomen, with three pairs of legs and a pair of antennae. Fire ants of those species invasive in the United States can be distinguished from other ants locally present, by their copper brown head and body with a darker abdomen. The worker ants are blackish to reddish, and their size varies from 2 to 6 mm (0.079 to 0.236 in). In an established nest these different sizes of ants all are present at the same time.[4]
+Slave-making ant
+[[File:Placeholder|right|300px]]'''Slave-making [[ant]]s''' are brood parasites that capture brood of other ant species to increase the worker force of their colony. After emerging in the slave-maker nest, slave workers work as if they were in their own colony, while parasite workers only concentrate on replenishing the labor force from neighboring host nests, a process called slave raiding.
 
-''Solenopsis'' spp. ants can be identified by three body features—a pedicel with two nodes, an unarmed propodeum, and antennae with 10 segments plus a two-segmented club.[5] Many ants bite, and formicine ants can cause irritation by spraying formic acid; myrmecine ants like fire ants have a dedicated venom-injecting sting, which injects an alkaloid venom, as well as mandibles for biting.
-==Behavior==
-A typical fire ant colony produces large mounds in open areas, and feeds mostly on young plants and seeds. Fire ants often attack small animals and can kill them. Unlike many other ants, which bite and then spray acid on the wound, fire ants bite only to get a grip and then sting (from the abdomen) and inject a toxic alkaloid venom called Solenopsin, a compound from the class of piperidines. For humans, this is a painful sting, a sensation similar to what one feels when burned by fire (hence the name) and the after effects of the sting can be deadly to sensitive people.[7] Fire ants are more aggressive than most native species and so have pushed many species away from their local habitat. One such species that ''Solenopsis'' ants parasitically take advantage of are bees, such as ''[[Euglossa imperialis]]'', a non-social orchid bee species, from which the ants would enter the cells from below the nest and rob the cell's contents.[8] These ants are renowned for their ability to survive extreme conditions. They do not hibernate, but can survive cold conditions, although this is costly to fire ant populations as observed during several winters in Tennessee, where 80 to 90% of colonies died due to several consecutive days of extremely low temperatures.[9]
+The slave-making ants are specialized to parasitize a single species or a group of related species, and they are often close relatives to their hosts, which is typical for social parasites. The slave-makers may either be permanent social parasites (thus depending on enslaved ants throughout their whole lives) or facultative slave-makers. The behavior is unusual among ants but has evolved several times independently.
+==Terminology==
+Theft of brood for the purpose of employing the stolen individual's efforts in support of the thief is called dulosis (from Greek doulos, "slave"), but the term "slave-making" is used in older literature and is still common.[1] Herbers (2007) considered the term offensive and suggested that "slave-making ants" should be replaced with "pirate ants", noting that pirates take captives and rely on forced labor. Further, "slave" could be replaced with "captive" and "dulosis" with "leistic behavior" (Greek for pirated spoils, leistos).[2]
 
-Fire ants nest in the soil, often near moist areas, such as river banks, pond shores, watered lawns, and highway shoulders. Usually, the nest will not be visible, as it will be built under objects such as timber, logs, rocks, or bricks. If there is no cover for nesting, dome-shaped mounds will be constructed, but these are usually only found in open spaces, such as fields, parks and lawns. These mounds can reach heights of 40 cm (16 in),[4] but can be even higher on heavier soils, standing at 1.0m in height and 1.5m in diameter.[10] Colonies are founded by small groups of queens or single queens. Even if only one queen survives, within a month or so, the colony can expand to thousands of individuals. Some colonies may be polygynous (having multiple queens per nest).
-==Role==
+A related type of social parasitism is called inquilinism, in which a reproductive enters a host colony, lays eggs, and relies on the host colony to rear its offspring. Unlike brood parasitism, the inquiline remains within the nest and typically its brood does not outnumber the host's brood.
+===Obligate and facultative slave-makers===
+Slave-making ants may either be permanent social parasites, thus depending on enslaved hosts ants throughout their whole lives[3] or facultative slave-makers. Facultative slave-making ants, like those in the ''Formica sanguinea'' complex, represent an intermediate parasitic group, between free-living species on the one hand, and obligatory slave-making species on the other. In laboratory tests, slaves were removed from colonies of ''Formica sanguinea'' and ''[[Polyergus rufescens]]''. The behavior of ''F. sanguinea'' changed dramatically within 30 days of slave removal, with workers becoming self-sufficient at feeding and brood care. Workers of ''Polyergus'', by contrast, were unable to care for their brood, and experienced high mortality.
+==Raids==
+Parasitized nests need to replenish the host workers periodically and this is achieved by raiding other nests in a process called slave raiding.[3][5] The parasite workers are specialized for conducting raids in a two-step process. First, scouts individually search for potential host nests. When successful, the scout returns to its nest and recruits nest-mates to initiate the raid, during which slave-maker ants seize brood and bring it back home.[6] A colony may capture 14,000 pupae in a single season.[7] Most slave-raiders capture only brood, but ''[[Strongylognathus]]'' sp. also enslave adult workers.[8]
+
+In most parasite species, workers mark the way to its nest with pheromones and afterwards fellow slave-makers are attracted in a few seconds. Then they go quickly to the targeted host nest, attack it, and carry as many larvae and pupae as possible and return to their nest following the same trail marked by the pheromone.[5] ''[[Rossomyrmex]]'' is the only reported slave-maker that exclusively uses adult transport and single recruitment chain instead of pheromones during raids, a behavior probably constrained by the arid habitat: raids take place in early summer when soil surface temperature can reach up to 30 °C (86 °F), a temperature in which pheromones would quickly evaporate.[5]
+
+Workers of the attacked nest can fight or flee. In the host species ''[[Proformica]]'', the most common behavior is flight, probably because hosts almost always lose fights.[5] Most studies on the raiding behavior of species in the ''F. sanguinea'' complex confirm that slave raiders usually rout their opponents, who typically flee in a state of panic alarm, and that aggressive encounters, when they occur, are brief and do not result in the death of adult individuals from either species. However, when large colonies of slave species offer resistance during raids, prolonged fighting is possible, and many workers of both species can be killed.[9]
+
+Later, host workers emerging in the parasite nest will be imprinted on and integrated into the mixed colony where they rear the parasite brood, feed and groom the parasite workers, defend the nest against aliens, and even participate in raids,[6] including raids against their original colony.[10] Altruistic acts of slaves are thus directed toward unrelated individuals. One hypothesis suggests that slave deception is possible because slaves are captured as pupae and learn the slave-maker colony odor after emergence.[11]
+
+However, in some cases, the enslaved ants rebel against their slave-maker ants, killing a large number of the slave-maker ant offspring.[12] The reason behind this is because "slaves can gain indirect fitness benefits by reducing parasite pressure on nearby host colonies, because these are often closely related to the slaves".[12] Thus, the slave ants protect their native colonies from further raids by slave-maker ants.
+==Parasite–host pairs==
 [[Category:Ants]]
-[[Category:Myrmicinae]]</text>
-      <sha1>2dy10j2u1f7pr5827d4lg0zvhxyjmg5</sha1>
-    </revision>
-  </page>
-  
+[[Category:Slave-making ants]]

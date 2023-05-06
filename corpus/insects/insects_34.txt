@@ -1,37 +1,17 @@
 
-    <title>Lime hawk-moth</title>
-    <ns>0</ns>
-    <id>4055</id>
-    <revision>
-      <id>6832</id>
-      <parentid>6573</parentid>
-      <timestamp>2021-10-21T18:01:04Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        6832
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="638" sha1="2td333ncptyhq3b09wobxxxpr9vodzm" xml:space="preserve">[[File:Lime hawk-moth2.jpg|thumb|212x212px|Original form of the Lime Hawk-moth.]]
-Mimas tiliae, also known as the '''lime hawk-moth''', is a moth of the family [[Sphingidae]]. It is found throughout the Palearctic region and the Near East, and has also been identified in Canada's east and western provinces and in northern Spain. The species was also first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae.
 
-Scientific name: Mimas tiliae
+Limenitis archippus
+{{Infobox|Box title=Limenitis Archippus|Image size=180px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=Phylum|Row 2 info=Arthropoda|Row 3 title=Class|Row 3 info=Insecta|Row 4 title=Order|Row 4 info=Lepidoptera|Row 5 title=Family|Row 5 info=Nymphalidae|Row 6 title=Genus|Row 6 info=Limenitis|Image file=Limentis Archippus.jpg}}'''Limenitis archippus''' also known as the '''Viceroy butterfly''' is a species of North-American species of butterfly, Viceroy butterfly is a 
 
-Higher classification: Mimas
+perfect example of Batesian mimicry continue to read in order to understand the cunning nature of this beautiful species of butterfly. The viceroy's wingspan is between 53 and 81 mm (2.1 and 3.2 in). It can be distinguished from the monarch by its smaller size
 
-Phylum: Arthropoda
+== Morphology ==
 
-Order: [[Lepidoptera]]
+=== Mullerian mimicry ===
+Whenever it comes to Batesian mimicry, Limentis archippus surely does excel at mimicking the highly venomous Danaus plexippus at an astonishingly great accuracy. Similar to Danaus plexippus, The viceroy butterfly is coated beautifully with vermillion scales and have the same parallel black venations, unlike Danaus plexippus, Limentis Archippus do not have a dense border line at the edge of their brilliant wings infact the wing borders are much thinner and are not speckled with whitish-yellow spots, instead their borderlines of the wings have aligned spots. They have a line that intersects all the others at the hindwing and the forewings unlike Danaus plexippus neither are their bodies speckled with colorful scales, the wings have a sharp and bumpy edge unlike the smooth edged of Danaus plexippus. The caterpillars astonishingly have also learnt the use of Mullerian mimicry to avoid being consumed, They have antennae on their rear as well as their heads unlike Danaus plexippus, the larva are much lighter in color with their bodies being a mixture of pale yellow, lime and the feelers being maroon instead of being matt-black. When avian predators were exposed to butterfly abdomens without the wings, many avian predators rejected the viceroy after a single peck. Furthermore, they exhibited distress behavior similar to that displayed when eating other, known, unpalatable species.
 
-Rank: Species
-
-Kingdom: Animalia
-[[Category:Sphingidae]]
+==== Evolution ====
+Based on phylogenic evidence, it is known that mimicry in the North American admirals was a driver of speciation. An essential condition for the evolution of mimicry was the presence and abundance of unpalatable models. Mimetic evolution also involved direct selection with the model acting as a "starting block" for the mimic to evolve against. The drive behind this type of evolution must be predation. Eventually, the mimetic population undergoes phenotypic fixation, usually at a point where the wing pattern and colors of the mimic have reached the closest superficial resemblance of its model. As these processes continued, the subspecies divergences began occurring as the mimetic species expanded their geographical range and began mimicking other species of butterfly.
+[[Category:Lepidoptera]]
 [[Category:Insecta]]
-[[Category:Lepidoptera]]</text>
-      <sha1>2td333ncptyhq3b09wobxxxpr9vodzm</sha1>
-    </revision>
-  </page>
-  
+[[Category:Nymphalidae]]

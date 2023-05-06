@@ -1,44 +1,19 @@
 
-    <title>Glomeris marginata</title>
-    <ns>0</ns>
-    <id>2040</id>
-    <revision>
-      <id>7546</id>
-      <parentid>7545</parentid>
-      <timestamp>2021-12-16T07:25:25Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-      7546
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4365" sha1="tc4jbb4tx7npyehy615zezxh00ozhaa" xml:space="preserve">[[File:Glomeris_marginata.jpg|thumb|256x256px]]''Glomeris marginata'' is a [[pill millipede]] that is commonly mistaken for [[pill woodlice]]. They live in the Northern Hemisphere in a variety of habitats. Like most pill millipedes, ''Glomeris marginata'' can roll into a little ball.
 
-== Morpology ==
-''Glomeris marginata'' grows up to 20 millimetres (0.8 in) long and 8 mm (0.3 in) wide, and is covered by twelve black dorsal plates with white rims. Each segment except those at the front and back bears two pairs of legs, with around 18 pairs in total. This distinguishes pill millipedes from pill woodlice, both of which are called "pillbugs" woodlice have 7 pairs of walking legs, one per body segment, while millipedes have more pairs, and with two pairs to each apparent body segment. When rolled into a ball, ''G. marginata'' can be distinguished from a rolled–up pill woodlouse by the asymmetrical ball it rolls into; pill woodlice roll into much more perfect spheres. The cuticle is also darker and shinier, and the antennae are shorter. The head and tail of a woodlouse have a greater number of small plates, while the head of ''Glomeris'' is protected by a single large shield, and it lacks the uropods of woodlice at the read end. Although usually black, red, yellow and brown individuals do occasionally occur.
+Millipede
+[[File:Wormt.jpg|thumb|300px|right]]'''Millipedes''' are arthropods in the class '''[[Diplopoda]]''', which is characterized by having two pairs of jointed legs on most body segments. Each double-legged segment is a result of two single segments fused together as one. Most millipedes have very elongated cylindrical bodies with more than 20 segments, while [[pill millipede]]s are shorter and can roll into a ball. Although the name "millipede" derives from the Latin for "thousand feet", though no known species has 1,000, the closest record being 750 legs, belonging to Illacme plenipes. There are approximately 12,000 named species classified into sixteen orders and around 140 families, making Diplopoda the largest class of myriapods, an arthropod group which also includes centipedes and other multi-legged creatures.
 
-== Ecology ==
-''Glomeris marginata'' lives in leaf litter as well as in grass and under stones, with a preference for calcareous soils. In domestic gardens, they are most frequent along hedgerows and at the bases of old walls, where the mortar has started to crumble, leaching lime into the soil. It is less prone to desiccation than other millipedes and can be found in the open, even in sunny weather, although they are more active at night and prefer more humid areas. ''G. marginata'' feeds on old, rotting leaves, despite the higher nutrient content of freshly–fallen leaves, and ''G. marginata'' can be responsible for recycling a significant proportion of the nutrients in the leaf litter.
+Most millipedes are slow-moving detritivores, eating decaying leaves and other dead plant matter. Some eat fungi or suck plant fluids, and a small minority are predatory. Millipedes are generally harmless to humans, although some can become household or garden pests, especially in greenhouses where they can cause severe damage to emergent seedlings. Most millipedes defend themselves with a variety of defensive chemicals secreted from pores along the body, although the tiny bristle millipedes are covered with tufts of detachable bristles. Reproduction in most species is carried out by modified male legs called gonopods, which transfer packets of sperm to females.
 
-== Behavior ==
-Predators of ''Glomeris marginata'' are reported to include the starling, the common toad, the woodlouse spider, and hedgehogs. As well as rolling up into a ball for protection, ''G. marginata'' produces noxious chemicals to ward off potential predators, as many millipedes do. One to eight drops of a viscid fluid are secreted, containing the quinazolinone alkaloids glomerin and homoglomerin, dissolved in a watery protein matrix. These chemicals act as antifeedants and toxins to spiders, insects and vertebrates, and the fluid is sticky enough to entrap the legs of ants. Having completely discharged these chemical defences, it can take up to four months for the millipede to replenish their supplies.
+Millipedes are some of the oldest known land animals, first appearing in the Silurian period. Some members of prehistoric groups grew to over 2 m (6 ft 7 in), while the largest modern species reach maximum lengths of 27 to 38 cm (11 to 15 in). The longest extant species is the giant African millipede (''[[Archispirostreptus gigas]]'').
 
-== Life cycle ==
+Among myriapods, millipedes have traditionally been considered most closely related to the tiny [[pauropod]]s, although some molecular studies challenge this relationship. Millipedes can be distinguished from the somewhat similar but only distantly related [[centipede]]s (class Chilopoda), which move rapidly, are carnivorous, and have only a single pair of legs on each body segment. The scientific study of millipedes is known as diplopodology, and a scientist who studies them is called a diplopodologist.
+==Etymology and names==
+The scientific name "Diplopoda" comes from the Greek words διπλοῦς (diplous), "double" and ποδός (podos), "foot", referring to the appearance of two legs on most segments, as described below. The common name "millipede" is a compound word formed from the Latin roots mille ("thousand") and ped ("foot"). The term "millipede" is widespread in popular and scientific literature, but among North American scientists, the term "milliped" (without the terminal e) is also used.[1] Other vernacular names include "thousand-legger" or simply "diplopod".
+==Evolution==
+Millipedes are among the first animals to have colonised land during the Silurian geologic period.[3] Early forms probably ate mosses and primitive vascular plants. There are two major groups of entirely extinct millipedes: the Archipolypoda ("ancient, many-legged ones") which contain the oldest known terrestrial animals, and Arthropleuridea, which contain the largest known land invertebrates. The earliest known land creature, ''Pneumodesmus newmani'', was a 1 cm (0.4 in) long archipolypodan that lived 428 million years ago in the upper Silurian, and has clear evidence of spiracles (breathing holes) attesting to its air-breathing habits.[4][5] During the Upper Carboniferous (340 to 280 million years ago), ''Arthropleura'' became the largest known land-dwelling invertebrate of all time, reaching lengths of at least 2 m (6 ft 7 in).[6] Millipedes also include the earliest evidence of chemical defence, as some Devonian fossils have defensive gland openings called ozopores.[5] Millipedes, centipedes, and other terrestrial arthropods attained very large sizes in comparison to modern species in the oxygen-rich environments of the Devonian and Carboniferous periods, and some could grow larger than one metre. As oxygen levels lowered through time, arthropods became smaller in size.[7]
 
-=== Reproduction ===
-Breeding takes place cyclically in spring and summer. Male ''G. marginata'' are capable of producing a pheromone which attracts females, although this is only believed to be effective over short distances. They then transfer sperm to the female using their gonopods, specially modified legs. After fertilisation, the females lay 70–80 eggs, each about 1 mm long, and each wrapped singly in a capsule of digested earth. 
-
-=== Nymphal Stage ===
-The eggs hatch after a period of about two months, with the duration depending on factors including temperature. Development lasts for up to three years, and involves nine moults, following which moults occur periodically as adults. Females are fertile for several years, and can produce six broods over their lifetime, which can be up to eleven years
-
-== Geographical range ==
-''Glomeris marginata'' is found throughout central and north-western Europe, from Poland and Scandinavia to Spain and Italy. In the British Isles, it is found in all areas south of the Central Belt of Scotland. ''Glomeris marginata'' lives in leaf litter as well as in grass and under stones, with a preference for calcareous soils. In domestic gardens, they are most frequent along hedgerows and at the bases of old walls, where the mortar has started to crumble, leaching lime into the soil. It is less prone to desiccation than other millipedes and can be found in the open, even in sunny weather, although they are more active at night and prefer more humid and damp atmospheres.
+Few species of millipede are at all widespread; they have very poor dispersal abilities, depending as they do on terrestrial locomotion and humid habitats. These factors have favored genetic isolation and rapid speciation, producing many lineages with restricted ranges.
+==Characteristics==
 [[Category:Diplopoda]]
 [[Category:Myriapods]]
-[[Category:Glomerida]]</text>
-      <sha1>tc4jbb4tx7npyehy615zezxh00ozhaa</sha1>
-    </revision>
-  </page>
-  

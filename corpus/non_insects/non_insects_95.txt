@@ -1,45 +1,71 @@
 
-    <title>Chinchippus peruvianus</title>
-    <ns>0</ns>
-    <id>2258</id>
-    <revision>
-      <id>8280</id>
-      <parentid>8277</parentid>
-      <timestamp>2023-03-11T10:08:26Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      8280
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2403" sha1="i8npatohqtr9rwt15wu9lkkm5b78f3q" xml:space="preserve">{{Info}}
 
-''Chinchippus peruvianus'' is a species of [[sun-spider]]  belonging to the monotypic (prior to  
+Solifugae
+'''This page is currently unfinished, expect future updates on this article! If you would like to contribute, contact the administrator.'''{{Infobox
+|Box title = Solifugae
+|Image file = Iranian Solifugid.png
+|Image size = 150px
+|Row 1 title = [[Class]]
+|Row 1 info = [[Arachnida]]
+|Row 2 title = [[Subclass]]
+|Row 2 info = [[Dromopoda]]
+|Row 3 title =[[Order]] 
+|Row 3 info = '''''Solifugae'''''
+|Row 4 title = [[Family]]
+|Row 4 info = [[Ammotrechidae]]
+* [[Ceromidae]] 
+* [[Daesiidae]] 
+* [[Eremobatidae]] 
+* [[Galeodidae]] 
+* [[Gylippidae]] 
+* [[Hexisopodidae]] 
+* [[Karschiidae]] 
+* [[Melanoblossidae]] 
+* [[Mummuciidae]] 
+* [[Rhagodidae]] 
+* [[Solpugidae]]
+|Row 5 title = 
+|Row 5 info = 
+|Row 6 title = 
+|Row 6 info = 
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+}}
 
-{{More_detailed_infobox|title1=Chinchippus peruvianus|image1=Chinchippus peruvianus.jpg|caption1=Adult female specimen|common_name=—|order=[[Solifugae]]|genus=Chinchippus|family=[[Ammotrechidae]]|diet=Predacious/scavenger 
-Diet includes Amphipods, springtails, sea bird carcasses and maritime prey|activity=Unknown|distribution=Guano Island, Ica region in central Peru|habitat=Coastal desert|other_common_names=—}}
+'''Solifugae''' is the order of [[sun-spider]]s. A '''sun-spider''' also known as a '''wind scorpion''' is an [[arachnid]] that resembles a [[scorpion]] and a [[spider]] in spite of neither being spiders or scorpions. There are 12 families and 1,000 species in the sun-spider's order, Solifugae. They are well-known for being desert-dwellers. They are fairly agile (in regards to their body length) reaching a maximum speed of 16km/hr. They are famous among insects handlers, are adorable and make good low-maintenance pets.
 
-2009) [[genus]]: ''[[Chinchippus]]''. This species is only found in the Ica Region of Central Peru. It wasn't discovered until 1920 and was found American Biologist Ralp Vary Chamberlain. C. Peruvians is known only from a single female specimen (shown in the adjoining image). 
+== Morphology ==
 
-== Biology ==
+=== Anatomy ===
+In terms of anatomical sense, Sun-spiders have flexible [[abdomen]]s with a fairly small [[cephalothorax]] and a head with small eyes. They use their huge, swollen[[chelicerae]] to kill and eat prey. Sun-spiders also have sensitive body hairs and organs in their last pair of walking legs. They have 4 pairs of legs with two being antenniform appendages and Long, finely segmented pedipalps for foraging some have scissors-like chelicerae for ensnaring their prey. Various species have been known to differ drastically.
 
-=== Morphology ===
-While not much is known about the species Chinchippus peruvianus. They are known to have a lighter coloration, larger size and different chelicerae in comparison with C. Viajaensis (The only other known Solifuge in genus Chinchippus described in 2009) as stated [https://www.researchgate.net/publication/250062832_Natural_history_of_coastal_Peruvian_solifuges_with_a_redescription_of_Chinchippus_peruvianus_and_an_additional_new_species_Arachnida_Solifugae_Ammotrechidae here].
+==== Size ====
+In terms of overall body length the largest of Sun spiders reach 6 inches in length (including the legspan).
 
 == Behaviour ==
+wind scorpions love shady areas and are known to rush towards humans before stopping by their shadows, they sometimes follow people to stay in their shadows. They are very cute and make good pets.
 
-=== Feeding Habits ===
-It can be speculated that C. Peruvianus along with the other species in genus Chinchippus are predacious but may also exhibit scavenger hunting, feeding off carcasses and maritime fauna in respect to their coastal-Arid Habitat.&lt;ref&gt;https://www.researchgate.net/figure/Size-distribution-of-Chinchippus-peruvianus-n-5-101-individuals-at-Cangrejal-Paracas_fig4_250062832&lt;/ref&gt; they’re prey could include amphipods &lt;ref&gt;https://www.researchgate.net/publication/250062832_Natural_history_of_coastal_Peruvian_solifuges_with_a_redescription_of_Chinchippus_peruvianus_and_an_additional_new_species_Arachnida_Solifugae_Ammotrechidae&lt;/ref&gt;and seabird carcasses.
+=== Defence mechanism ===
+Sun spiders may look intimidating yet their lack of venom could perhaps make them be considered as a weak creature, however Sun spiders have quite a few tricks up their sleeves, firstly they have extreme flexibility allowing them to forage burrows and navigate tunnels avoiding any conflicts altogether, their flexibility also allows them to consume prey fairly larger than their bodies through their bag-like stomachs. They also have good agility allowing them to sprint away from any potentially dangerous predators. Lastly they are even known to possess stridulation mainly performed through their oversized chelicerae i.e a loud “ksssk ksssk ksssk” chatter when disturbed.
 
-=== Other behaviours ===
-It could also be presumed that c. Peruvianus tends to stay in burrows&lt;ref&gt;https://sites.google.com/site/acatenazzi/chinchippus&lt;/ref&gt; , although it is worth mentioning that no other information is currently available on this article in regards to the specie’s behaviour.
+== Feeding ==
+All sun-spider are [[predacious]]. They are opportunistic, free-roaming hunters and have quite a few structural adaptations for hunting.
 
-== References ==
+=== Structural Adaptations ===
+Usings their fine sensory hairs, and well-segmented pedipalps for hunting prey, they have chelicerae for tearing apart their prey, while not as large as threat to humans due to their inability to produce toxins, they utilise the  large and powerful jaws for crushing their prey, the prey is then injected with digestive juices, liquified and dead, the wind scorpions proceed to drink the liquified prey. 
+
+== [[Insect habitat|Habitat]] ==
+Most sun-spiders like a habitat that is dry and hot, though while most species favor arid, desolated regions. Sometimes even inhabit the the African savanna or arid scrublands (though extremely rare) 
+
+== Occurence ==
+Most sun-spiders live in Asia, Africa, and some parts of North America.
+
+== Pet care guide (TBA) ==
+[[Category:Orders]]
 [[Category:Solifugae]]
-[[Category:Ammotrechidae]]
-[[Category:Arachnids]]</text>
-      <sha1>i8npatohqtr9rwt15wu9lkkm5b78f3q</sha1>
-    </revision>
-  </page>
-  
+[[Category:Incomplete pages]]
+[[Category:Arachnids]]

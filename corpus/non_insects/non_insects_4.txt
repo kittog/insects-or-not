@@ -1,22 +1,49 @@
 
-    <title>Pseudoscorpion</title>
-    <ns>0</ns>
-    <id>2020</id>
-    <revision>
-      <id>3298</id>
-      <parentid>3296</parentid>
-      <timestamp>2009-05-14T22:28:50Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>added image</comment>
-      3298
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="455" sha1="r5ovs20hk246lov8yd58tr48i86hzuz" xml:space="preserve">[[File:Lasiochernes_cretonatus.jpg|thumb|218px|''[[Lasiochernes cretonatus]]'']]A pseudoscorpion resembles a [[scorpion]], except it doesn't have a tail, but stings predators and prey with their pedipalps (pincers). There are 23 families and 3300 species of pseudoscorpion. Pseudoscorpions live worldwide, but mainly live in deserts, beaches, tropical, and sub-tropical regions. The order of pseudoscorpions is [[Pseudoscorpiones]].
-[[Category:Arachnids]]</text>
-      <sha1>r5ovs20hk246lov8yd58tr48i86hzuz</sha1>
-    </revision>
-  </page>
-  
+
+Scorpion
+[[File:Pandinus_imperator.jpg|thumb|''[[Pandinus imperator]]'']]Scorpions are [[arachnid]]s characterised by the presence of two pincers and a venomous stinger at the end of their “tails”. Nine families and 1400 species of scorpions exist in the world today. Their stings contain [[venom]] that will cause pain where you are stung, but the smaller the scorpion, the more venom it has. A scorpion's feeding habits consist only of [[insect]]s. The order of scorpions is [[Scorpiones]]. 
+
+== Biology ==
+
+=== Morphology ===
+scorpions are mainly characterised by their modified frontal pair of pedipalps resembling a crabs pincers as well as the long metasoma (tails) at their rear with a venomous bulb (telson) at the end on the tail linked to a stinger (aculeus)They have 8 pairs of appendages, and a cephalothorax (fused head & body). Their abdomens are usually long and elliptical. They vary colour and sizes ranging between 4-12 cm in terms of body length. The largest scorpion reaches 23 cm in length whereas the smallest is just 0.5 inches long. They are usually brown, beige, black, grey, orange and red in colour. A notable feature is the fact that they carry a fluorescent substance in their exoskeleton which glows under UV light<ref>https://en.m.wikipedia.org/wiki/Scorpion</ref>.
+
+=== Behaviour ===
+
+==== Threat display ====
+Both sexes display a unique display upon being threatened which involves the raising and inclining their metasoma towards the threat and raising their pincers. A few insect species are known to mimic a scorpion threat display (such as [[Extatosoma tiaratum]]) 
+
+==== Courtship dance ====
+during couplation, the female and male grasp onto each other’s pincers and “dance” all the while they reproduce.
+
+==== Feeding habits ====
+scorpions are [[Predacious]] animals and usually feed on a variety of invertebrates. Some can also become cannibal in the absence of food sources. Large tropical species can consume vertebrates such as mice. The are known to feed on insects, spiders and smaller scorpion species.
+
+=== Life cycle ===
+The female gives birth to live young and she carries them on her back till they molt and mature<ref>https://en.m.wikipedia.org/wiki/Scorpion</ref>. The young ones are pale and coloureless. They are hemimatobolous with no pupal stage and undergo a direct transition from juvenile to adults.
+
+=== Toxicity ===
+scorpions are usually not very dangerous to humans, only 25 species can seriously harm a human (less than 1% of all species<ref>https://en.m.wikipedia.org/wiki/Scorpion</ref>) the most fatal sting is delivered by the [[Deathstalker]] (it really lives up to the name). The larger the pincers, the lower the toxicity the ones that are large are usually not very dangerous.
+
+=== Predation ===
+Information is yet to be inserted.
+
+== Geolocation ==
+
+=== Range ===
+Scorpions can be found throughout the world on all continents except Antarctica.
+
+=== Habitats ===
+Scorpions are most commonly found in dry or humid areas notably ones with high temperatures. Their preferred habitats include desert regions, scrub lands, tropical rainforests etc.
+
+== See Also ==
+
+* [[Pseudoscorpion]]s
+* [[Arachnida]]
+* [[Thelyphonida]]
+
+== References ==
+[[Category:Arthropod types]]
+[[Category:Scorpions]]
+[[Category:Scorpiones]]
+[[Category:Arachnids]]

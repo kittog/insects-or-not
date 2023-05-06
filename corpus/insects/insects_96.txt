@@ -1,73 +1,38 @@
 
-    <title>Hemileuca hera</title>
-    <ns>0</ns>
-    <id>4670</id>
-    <revision>
-      <id>8220</id>
-      <parentid>8219</parentid>
-      <timestamp>2023-02-08T10:32:34Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        8220
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3183" sha1="nbt3l96r17l7ybrp0boriinbqjbcarl" xml:space="preserve">''Hemileuca hera,'' also known as the '''sagebrush sheep moth''' or '''Hera buckmoth''' is a species 
 
-{{Insect|name=Hemileauca Hera|binomen=Hemileauca Hera, Harris 1841|common=Hera Buckmoth|native=Sagebrush sheep moth|other=(?)|order=[[Lepidoptera]]|suborder=(Unranked)|superfamily=[[Bombycoidea]]|family=[[Saturniidae]]|subfamily=Hemileucinae|tribe=Hemileucini|genus=Hemileucinae|subgenus=(?)|species=H. Hera|status=Secure|image=[[File:Hemileauca Hera.png|250px]]|imagehab=[[File:Hemileauca Hera(3).png|250px]]}}
+Blaberus fusca
+[[File:Blaberus_fusca.jpg|thumb|152px|Two ''Blaberus fusca'']]Keeping ''Blaberus fusca'', the smaller giant cave cockroach, as pets. A personal account.
 
-of diurnal moth Native to Northern America.
+I bought 10 of these at a meeting for reptile fanciers, where they were sold as food insects. The box was marked ''blaberus fusca'' but I cannot independently confirm that this is correct. 
 
-== Biology ==
+==Morphology==
+The species apparently comes from South-America. The adults are winged, about 7 cm long, with a dark brown mark on the [[pronotum]], and shadowed places on the wings. The larvae are dark brown, with lighter markings, excellent at camouflaging among leaf litter. 
 
-=== Morphology ===
-The sage brush sheep moth is a beautiful white moth with a wingspan of 71-93 mm.&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; The white wings have black markings on their subtle wings including a small black crescent on each wings alongsides black stripes. The moth has fluffy orange bodies with black and white markings present on the thorax. Males have feathery crimson antennae. 
+==temperature==
+I keep them at 25-30 degrees celsius, at which they seem to thrive. Below 23 seems to be a slow death sentence for them - which is a good thing: if one of them should escape you don't want them in your kitchen. But to keep them you will need to heat the cage a bit. 
 
-=== Behaviour ===
+==food==
+Cat pellets, oats, guppy food, and a bit of fresh food (piece of banana, piece of apple, changed every other day or when it seems dry or starts to get mouldy) keeps them happy. 
 
-==== Imago behaviour ====
-Imagos do not feed and are diurnal by nature. Emergence from the occurs during early morning hours. The adults can be observed from July to September&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; but varies depending on location. The adults are known to fly several meters above the ground and have an erratic flight patterns.&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt;
+==water==
+I take care that there is always some of water available but not in such a way that they could drown. An upside-down flask in a small petri dish.
 
-==== Infant behaviour ====
-Infants feed in groups when young, as they mature they tend to become more solitary in nature.&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt;
+==size of cage==
+I use glass terrariums with doors that slide up (can't leave them open by accident) of 20x20x20 cm. A bit of sand or leaf litter on the floor and an egg carton for shelter. The do not climb against the glass and seem not to be able to fly despite their wings. One of these holds 5-8 animals comfortably. 
 
-=== Life cycle ===
-The females lay their eggs on sagebrush plant in a ring shape&lt;ref&gt;https://www.butterfliesandmoths.org/species/Hemileuca-hera&lt;/ref&gt; on the surface of the leaves. The infants hatch during mid summers to mid late spring. The caterpillars build cocoons in mulch and leaf litter&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt; followed by the emergence of adults during early springtime.
+==humidity==
+Misting with a plant spray gun once a day or every two days. In a very dry cage the moulting seems to give troubles occasionally: one emerging adult couldn't get out of its skin and several others who did, had underwings which did not fold properly under the top wings. 
 
-=== Ecology ===
+==reproduction==
+The first egg-case was noticed about 3-4 weeks after the first few adults emerged. It consists of about 40 long-ovoid eggs stuck together on their sides in two layers with a hard glue. The entire 'egg-stick' is about 1 inch long, 4 mm wide and 3 mm thick, and quite hard. Egg cases protrude a while  from the females' abdomen before they are laid. 
 
-==== Host plants&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; ====
+==behaviour==
+Not very exciting. They take shelter in the dark, antennae waving about in all directions, and come out only to feed and moult. The can run but usually are quite careful, a few steps, short pause, another few steps. Antennae always on the move. Not aggressive, they do not bite and can easily be handled but the wriggling feet take a bit of nerve to keep hold of. 
 
-* Big basin sagebrush 
-* Sand sagebrush 
-* threetip sagebrush 
-* Bluebonnets (Lupine)
-* Wild buckwheat 
-* Sulphurflower buckwheat&lt;ref&gt;https://bugguide.net/node/view/61936&lt;/ref&gt;
+==moulting==
+Usually early in the evening. Recently moulted ones are quite white but turn tan in a few hours. The next morning they can be recognized only by a shinier skin than before. And they are shorter, broader and flatter. As they gain weight for the next moult they expand in the depth and length dimensions, the abdominal segments are pushed out like a telescope. 
 
-== Distribution ==
-
-=== Geographical range ===
-[[File:Hemileauca Hera(2).jpeg|thumb]]
-''Hemileuca hera'' has a vast range over Northern America ranging from Colorado, New Mexico, Arizona, California, San Francisco, Las Vegas and Washington.&lt;ref&gt;https://www.butterfliesandmoths.org/species/Hemileuca-hera&lt;/ref&gt;
-
-=== Habitat ===
-Adult moths can be observed in sagebrush meadows, basins, softwood forests, temperate plains and Juniper woodland areas.
-
-== References ==
-&lt;references /&gt;
-[[Category:Insecta]]
-[[Category:Lepidoptera]]
-[[Category:Saturniidae]]
-[[Category:Pterygota]]
-[[Category:Holometabola]]
-[[Category:Endopterygota]]
-[[Category:Neuroptera]]
-[[Category:Insects of North America]]
-[[Category:Heterocera]]</text>
-      <sha1>nbt3l96r17l7ybrp0boriinbqjbcarl</sha1>
-    </revision>
-  </page>
-  
+==contact for questions==
+Bart van Herk (evanherk@xs4all.nl).
+[[Category:Blattodea]]
+[[Category:Insect pets]]

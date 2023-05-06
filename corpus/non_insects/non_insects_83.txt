@@ -1,37 +1,20 @@
 
-    <title>Pauropod</title>
-    <ns>0</ns>
-    <id>4137</id>
-    <revision>
-      <id>6797</id>
-      <parentid>6796</parentid>
-      <timestamp>2021-10-20T19:33:24Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Removed redirect to [[Pauropoda]]</comment>
-      6797
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1986" sha1="crsai41g79giqal6o8udr6vtkcrkc03" xml:space="preserve">Paurapoda is an order of soft bodied, multi-legged primitive Myriapods. They certainly are not insects however they are not exactly 
 
-{{Infobox_100|title1=Pauropods|image1=Eurypauropodid.jpg|caption1=Eurypauropodid|order=[[Myriapod]]|phylum=[[Arthropoda]]|class=Pauropod}}
+Hellgramite
+Ecological Role - '''Hellgrammites''' are voracious predators that live underneath submerged rocks and logs. They will capture and eat any creature smaller than themselves, especially mayfly and stonefly nymphs, small crayfish, and other invertebrates.[[File:Lithobius forficatus.jpg|thumb|A hellgrammite, indeed.]]
 
-myriapods either instead they are often categorized as a sister group of millipedes.
+=== Information ===
+{| class="article-table"
+| Higher classification: ||[[Megaloptera]]
 
-== Morphology ==
-Closely similar in appearance to diplurans, these pale white creatures have a set of multiple legs, their bodies are soft and delicate, their white coloration's reason is due to the fact that many species do not possess any pigmentations whatsoever. Their body lengths range from 0.008 mm to an approximate 2 mm. most adults have 10-16 pairs of legs. They do not possess many important organs such as heart or eyes. They are generally white but can also be brown with minute branched antennae. they are found thriving among leaf litter and soil. 
+|-
+| Scientific name: ||[[Dobsonfly|Corydalidae]]
 
-== Life cycles ==
-Pauropods have a simple life cycle, they undergo incomplete metamorphosis although in some cases it can also be said that they do not have any metamorphosis (Similar to all other [[hexapods]])  They start out as a young nymph and only have 3 pairs of legs, as they molt they reach the secondary instar the number of legs they possess increases until they reach adulthood where they possess 9-16 pairs of legs. Otherwise a little or no information is available about their tendencies other than habitat and feeding preferences
+|-
+| Rank: ||[[Family]]
+|}
 
-== Behavior ==
-They have a tendency of staying away from light sheltered underneath leaf litter. These insects are mainly omnivorous with the same saprophytic behavior as Diplurans and zorapterans. They prefer moist tropical or semi-tropical regions, they feed off decaying plant matter alongside smaller invertebrates such as mites and ticks. They do not have a specific hunting method neither they have any other information about their mating behaviors or anything.
-&lt;br /&gt;
+== Life Cycle ==
+After spending one to 14 days inside the cell as a pre[[pupa]], the '''hellgrammite''' sheds its exoskeleton to '''become''' a pupa. The pupal stage requires seven to 14 days after which the adult emerges and digs its way out of the cell. Adult [[Dobsonfly|dobsonflies]] are short-lived (about three days for males and eight to 10 days for females).
+[[Category:Extra]]
 [[Category:Myriapods]]
-__NOEDITSECTION__</text>
-      <sha1>crsai41g79giqal6o8udr6vtkcrkc03</sha1>
-    </revision>
-  </page>
-  

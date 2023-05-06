@@ -1,30 +1,18 @@
 
-    <title>Micrommata ligurina</title>
-    <ns>0</ns>
-    <id>3727</id>
-    <revision>
-      <id>5875</id>
-      <timestamp>2016-11-13T16:52:55Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Micrommata ligurina''''' is a species of [[huntsman spider]]. [1] It was first described by Carl Ludwig Koch in 1845. ==Description== In t..."</comment>
-      5875
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1230" sha1="16d6w5lpkmcz0wfhzpk6lc0y2wog84w" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Micrommata ligurina''''' is a species of [[huntsman spider]]. [1] It was first described by Carl Ludwig Koch in 1845.
+
+Tetragnatha extensa
+[[File:Placeholder|right|300px]]'''Tetragnatha extensa''' is a species of [[spider]] found across the Northern Hemisphere. It has an elongate body, up to 11 mm (0.43 in) long, and adopts a straight line posture when alarmed. It lives on low vegetation in damp areas, and feeds on flying insects which it catches in its web.
 ==Description==
-In the females of ''Micrommata ligurina'' the body length can reach 9–14 millimetres (0.35–0.55 in), while in the males it is about 6–9 millimetres (0.24–0.35 in).[4] The carapace is long and narrow and the abdomen is elongate. The cephalothorax and the long legs of the females are bright green, with a lighter green abdomen showing an almost indistinct median band. [4]
+''T. extensa'' has an elongated, cream-colored body.[1] Males are smaller than females, at around 9 millimetres (0.35 in) body length, compared to 11 mm (0.43 in) for females.[2] The four pairs of legs are very long,[1] and are dark yellow.[3] The carapace, which is around 1.8–2.6 mm long and 1.1–1.7 mm wide, is orange or dark yellow.
 
-This spider is very similar to the green huntsman spider (''Micrommata virescens''), but the females have a black dot on the carapace. Moreover the adult males of 'M. ligurina'' have a dark brown median band on abdomen with whitish or gray sides. [4]
+The coloring of ''T. extensa'' is quite variable,[4] ranging from creamy-yellow to green.[2] On the underside, there is a thick black central band, with a silvery band on either side.[3]
 
-The eight eyes are arranged in two rows and surrounded by white hairs. Adults can be found in late winter and in early spring.
+''T. extensa'' is distinguished from other members of the genus ''Tetragnatha'' by the minute curved tip of the male's conductor (part of the pedipalp), and the form of the female's spermatheca.
 ==Distribution==
-''Micrommata ligurina'' occurs from the Mediterranean Basin to Central Asia. [1][2] The range of this species includes Bulgaria, Croatia, France, Great Britain, Greece, Italy, Macedonia, Malta, Portugal, Romania and Spain.
-==Habitat==
-[[Category:Article stubs]]
-[[Category:Araneae]]</text>
-      <sha1>16d6w5lpkmcz0wfhzpk6lc0y2wog84w</sha1>
-    </revision>
-  </page>
-  
+''T. extensa'' has a wide distribution across the Northern Hemisphere (Holarctic).
+
+In North America, it is found from Alaska to Newfoundland, and its range extends south to Washington, Colorado and Pennsylvania.[3] The species has a broad ecological range, having been found at the tree line in the Rocky Mountains.
+
+It is found in coastal vegetation in Europe.[3] ''T. extensa'' is found throughout the United Kingdom,[2] where it is the commonest species of ''Tetragnatha'',[4] and one of the commonest spiders.[1] It is also found in Madeira.
+==Ecology and behavior==
+[[Category:Araneae]]

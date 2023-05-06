@@ -1,63 +1,24 @@
 
-    <title>Amplypterus panopus</title>
-    <ns>0</ns>
-    <id>4558</id>
-    <revision>
-      <id>8063</id>
-      <parentid>8048</parentid>
-      <timestamp>2022-08-27T08:41:12Z</timestamp>
-      <contributor>
-        <username>Nick6978</username>
-        <id>45963112</id>
-      </contributor>
-        8063
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4705" sha1="oz3a394kajab21f8494o9g20zro6fdi" xml:space="preserve">{{Stub}}
-{{More detailed infobox|common_name=Mango Hawkmoth|diet=Young: Leaves from fruit trees like Mangoes and Durians
 
-Adult: Feeding habits unknown|activity=Nocturnal|image1=Mango Hawkmoth normal.JPG|genus=Sphingidae|family=Amplypterus|order=Lepidoptera|habitat=Tropical forest canopy|distribution=Sri Lanka to China|caption1=A female Mango Hawkmoth found in Clementi, Singapore.}}
-== Amplypterus panopus ==
-'''Amplypterus panopus''', or the '''Mango Hawkmoth''', is a Lepidopteran that is found in tropical forests and some urban areas from Sri Lanka to the Phillipines. It belongs to the family [[Sphingidae]], which is the family for Hawkmoths.
+Lycaenidae
+Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide, whose members are also called gossamer-winged butterflies. They constitute about 30% of the known butterfly species. The family comprises seven subfamilies, including the blues, the coppers, the hairstreaks, and the harvesters.
 
-This moth as two subspecies, ''Amplypterus panopus panopus'' and ''Amplypterus panopus hainanensis'' (found in Hainan only).
+Scientific name: Lycaenidae
 
-== Distribution ==
-The Mango Hawkmoth is found in Sri Lanka, southern and northern India (including the Andaman Islands and Nicobar Islands), Nepal, Myanmar, southern China, Thailand, Vietnam, Laos, Indonesia (to Sulawesi) and the Philippines. Although widespread, they are sometimes rarely seen in some parts of their range (e.g. Singapore) due to them being high up in the canopy and constantly overlooked.
+Order: [[Lepidoptera]]
 
-== Morphology ==
-This medium to large sized moth is superficially similar to ''[[Adhemarius dariensis]]''. ''A. Panopus'' has a 130–168 mm (13-16.8cm) wingspan and body structure like other hawkmoths of its genus. Head, thorax, and terminal segments of abdomen golden brown; the proximal segments pale. Fore wing purplish flesh-colour (that's pink to you); some brown waved lines near the base; then an oblique band; some waved brown lines from the costa to lower angle of cell; an oblique post-medial band; a highly waved and irregular whitish submarginal line; a dark ocellus (false eyespot) near outer angle. Hind wing flesh-color, the outer area brown; the disk suffused with pink; antemedial, medial, and two postmedial lines, the last two angled below the costa. Underside much mottled with yellow. 
+Family: Lycaenidae; Leach, 1815
 
-Male and female moths have slight sexual dimorphism, where female abdomens are slightly wider and the wings have more streaking. 
+Kingdom: Animalia
 
-The larvae are bright green with bluish-grey spiracles and also have yellow stripes across their anterior segments. At instars 3 and 4, they develop a green, conical, horn-like projection on the head, though this is lost in later instars, and the head becomes conical in shape. While moulting, the larvae would attach themselves with silk. 
-
-''[[Amplypterus Mansoni]]'' has similar appearance and lifestyle, but has more pointed wingtips. 
-
-== Behaviour ==
-This moth is usually found at the canopy level of tropical forests, meaning that it is rarely seen. The moth is less active during the daytime and allows itself to be handled (though some may be less willing and may shift from side to side to avoid exposing the head to potential attackers), but at night it flies strongly. It has never been seen feeding at flowers, nor does it seem to come readily to light, though some sources states that it has frequently been caught at moth light traps in Java. It emerges from the pupa after dark, and only forms mating pairs after midnight (so elusive). In India, Bell &amp; Scott (1937) exposed bred females at about 1500m altitude and attracted eight males over four nights between 0300 and 0400 hours. Attempts to breed this species in captivity may fail, the males and females often refusing to pair. When threatened, this species exposes its pink-coloured hindwings. 
-
-Larvae have been recorded on ''Dracontomelum'' (a kind of fruiting tree), ''Mangifera indica'' (mango tree), ''Rhus'' (a group of flowering plants), ''Durio'' (durians), ''Calophyllum'' (flowing plant type found in the tropics) and ''Garcinia'' (a tropical fruit tree). 
-
-== Gallery ==
-&lt;gallery&gt;
-File:Mango Hawkmoth threaten display.JPG|A female Mango Hawkmoth exposing its hindwings.
-File:Mango Hawkmoth strong wind.JPG|Some Mango Hawkmoths may try to keep their back towards their aggressors, usually to protect their head.
-File:Mango Hawkmoth wings side view.JPG|Side view.
-File:Mango Hawkmoth side view.JPG|Mango Hawkmoths sport large (about 15 mm long) tibial spines on their legs, but they do not attempt to stab with them.
-File:Mango Hawkmoth front view.JPG|The front view of the hawkmoth. They have a short proboscis at the bottom of their head but feeding habits are largely undocumented.
-&lt;/gallery&gt;
-
-== References ==
-
-# ''The Fauna of British India, Including Ceylon and Burma: Moths Volume 1'' (for the morphology)
-# https://tpittaway.tripod.com/china/a_pan.htm
-# ''Metamorphosis of the mango hawkmoth (Amplypterus panopus)'' (PDF document)
-
-&lt;br /&gt;
+Superfamily: [[Papilionoidea]]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Genera]]
+[[Category:Neoptera]]
+[[Category:Families]]
+[[Category:InsectFamilies]]
+[[Category:Lycaenidae]]
+[[Category:Papilionoidea]]
 [[Category:Lepidoptera]]
-[[Category:Sphingidae]]</text>
-      <sha1>oz3a394kajab21f8494o9g20zro6fdi</sha1>
-    </revision>
-  </page>
-  

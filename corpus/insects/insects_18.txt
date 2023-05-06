@@ -1,38 +1,28 @@
 
-    <title>Puss Moth</title>
-    <ns>0</ns>
-    <id>3929</id>
-    <redirect title="Megalopyge opercularis" />
-    <revision>
-      <id>7754</id>
-      <parentid>6225</parentid>
-      <timestamp>2022-01-05T05:40:44Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Redirected page to [[Megalopyge opercularis]]</comment>
-        7754
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="549" sha1="li4oorjy10ah4oztgsxb8u6u7r7khy8" xml:space="preserve">#REDIRECT [[Megalopyge opercularis]]!! [NOTICE: Red links mean a missing page, so if a red link is seen, CREATE THE PAGE] !![[File:Black Witch Moth.jpg|frame|A '''Puss Moth'''.]]
 
-A puss moth is a [[Lepidoptera|lepidopteran]] from the family [[Notodontidae]]. The species was first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae.&lt;br&gt;
+Actias dubernardi
+Actias dubernardi also known as the Chinese moon moth, Is an insect from the order [[Lepidoptera]] from the family [[saturniidae]] and from the 
 
-*Scientific name: [[Cerura vinula]]&lt;br&gt;
+{{Insects_Simple|image1=Chinese moon moth.png|caption1=Adult male|order=Lepidoptera|family=Saturniidae|genus=Actias|species=A. dubernardi|similar_species=Indian moon moth     
+Spanish moon moth    
+Luna moth        
+IO moth}}
 
-*Order: [[Lepidoptera]]&lt;br&gt;
+Genus Actias which compromises of [[moon moths]]. The species was first described by Charles Oberthür in 1897. And reaches An adult moth's life is short, no longer than 10 to 12 days (females live longer due to the fact that the female sits still waiting for a mate). Pairing is easy in a medium-sized cage. A beautiful hybrid with ''Graellsia isabellae'' was obtained by a team of French entomologists
 
-*Family: [[Notodontidae]]&lt;br&gt;
+== Morphology ==
+An incredibly large moon moth with different colorations depending on their genders, the adult males are a beautiful shade of lime yellow with a vibrant pink wing borders and a pair of yellow combed antennae and a large "Tail" like structure which of the same coloration of vibrant pink seen on the wing borders in males, the females are a beautiful shade of turquoise and teal with a similar shade of lime yellow tails. with a pair of short and straightened antennae the adults are gorgeous in their appearance with beautiful shades of their own and have widespread distribution in several parts of China The newly hatched larva is black with hairs. It sheds its skin four times in its larval stage. In the first instar, it is initially black but becomes a deep red brown as it grows. In the second instar, it continues to lighten to an orange brown. In the third instar it changes into beautiful green with white stripes and silver/gold metallic reflective markings on the sides of the tubercles.
 
-*Phylum: [[Arthropoda]]&lt;br&gt;
+== Life cycle ==
+The female lays up to 120 eggs, and may place their eggs anywhere. The egg is oval-shaped, 1.5 × 1 mm; whitish gray, and firmly stuck to branches or sides of the cage that the female had been kept in. Caterpillars, 4–5 mm long, hatch after 10–14 days, the warmer and the higher the humidity, the quicker it happens. The newly hatched larva is black with hairs. It sheds its skin four times in its larval stage. In the first instar, it is initially black but becomes a deep red brown as it grows. In the second instar, it continues to lighten to an orange brown. In the third instar it changes into beautiful green with white stripes and silver/gold metallic reflective markings on the sides of the tubercles. Above the thoracic segments there is a stripe of white, black and red which can be opened and closed to show or hide the aposematic colouration. It is hairy in all its stages, and it feeds on pine trees. The fully grown caterpillar is 60–75 mm long. It spins its brownish silk cocoon on the ground among moss or among pine needles. They are easy to rear, as long as they eat in their first instar. The species comes from high mountainous regions, so it is quite cold hardy. It is best reared indoors, sleeved on a small pine tree. The chrysalis is about 35 mm long, and the imago emerges from the cocoon after about four weeks, depending on the temperature and humidity.
 
-*Kingdom: [[Animalia]]&lt;br&gt;
+== Host plants ==
+
+* Pine tree - ''Pinus'' species. 
+* ''Pinus massoniana''. 
+* ''Pinus sylvestris'' (Scots pine),
+* ''nigra'' (black pine).
 
 [[Category:Lepidoptera]]
-
-&lt;br /&gt;</text>
-      <sha1>li4oorjy10ah4oztgsxb8u6u7r7khy8</sha1>
-    </revision>
-  </page>
-  
+[[Category:Behavior]]
+[[Category:Caterpillars]]

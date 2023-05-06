@@ -1,100 +1,38 @@
 
-    <title>Zygoptera</title>
-    <ns>0</ns>
-    <id>2227</id>
-    <revision>
-      <id>7040</id>
-      <parentid>7037</parentid>
-      <timestamp>2021-11-12T10:58:46Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7040
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4753" sha1="ib41xmucqaaw3ngclq7uo3ghsz6zhua" xml:space="preserve">{{Infobox
-|Box title = Zygoptera
-|Image file = Ischnura heterosticta.jpg
-|Image size = 250 px
-|Row 1 title = [[Class]]
-|Row 1 info = [[Hexapoda]]
-|Row 2 title = [[Order]]
-|Row 2 info = [[Odonata]]
-|Row 3 title = Suborder
-|Row 3 info = '''''Zygoptera'''''
-|Row 4 title = [[Family]]
-|Row 4 info =  [[Coenagrionidae]]
-* [[Amphipterygidae]]
-* [[Calopterygidae]]
-* [[Chlorocyphidae]]
-* [[Dicteriadidae]]
-* [[Euphaeidae]]
-* [[Hemiphlebidae]]
-* [[Isosticidae]]
-* [[Lestidae]]
-* [[Lestoididae]]
-* [[Megapodagrionidae]]
-* [[Perilestidae]]
-* [[Platycnemididae]]
-* [[Platystictidae]]
-* [[Polythoridae]]
-* [[Protoneuridae]]
-* [[Pseudostigmatidae]]
-* [[Synlestidae]]
-* [[Zacallitidae]]
-|Row 5 title = 
-|Row 5 info = 
-|Row 6 title = 
-|Row 6 info = 
-|Row 7 title = 
-|Row 7 info = 
-|Row 8 title = 
-|Row 8 info = 
-|Row 9 title = 
-|Row 9 info = 
-|Row 10 title = 
-|Row 10 info = 
-}} 
 
-A '''damselfly''' is an [[insect]] belonging to the [[Odonata]] [[order]] that resembles a [[Anisoptera|dragonfly]] in many ways. Zygoptera itself is an [[infraorder]] from the order [[Odonata]] with more than 5000 described species. 
+Anisoptera
+{{Insect_Families|title2=Anisoptera|image1=Green darner.png|caption1=[[Anax junious]] (Common green draner)|kingdom=Animalia|phylum=[[Arthropoda]]|class=[[Insecta]]|order=[[Odonata]]|suborder=[[Epiprocta]]}}
 
-The main difference between damselflies and dragonflies is that a damselfly has a thinner [[abdomen]] and they are usually smaller, they tend to have a weak-fluttering flight unlike dragonflies and keep their wings closed at rest (Excluding spreadwing damselflies) 
+Anisoptera,  (from Greek ἄνισος ''anisos'', "unequal" and πτερόν ''pteron'', "wing", because the hindwing is broader than the forewing) Is the
 
-Damselflies are also weaker fliers than dragonflies, dragonflies tend to hover in mid-air swooping down at any unlucky dipteran that gets into it's way.
+superfamily which compromises of dragonflies from the order [[Odonata]] and the suborder [[Epiprocta]] pairing up with it's counterpart damselflies ([[Zygoptera]]) It contains about 3000 extanct species known by [[entomologist]].
 
-== Biology: ==
-
-=== Morphology ===
-Coming in a wide array of iridescent and stunning coloration, these delicate-winged flyers are carnivorous insects that dwell within shallow lakes and streams of water as a [[Naiad|juvenile]] and flying high in the tropical forests and fluttering across flower meadows, damselflies are surely a beautiful sight. Unlike dragonflies, damselflies have an [[ocelli]] (Light-sensory organ) on their head (although absent in a few species) and thin abdomens painted with natural pigmentations. These fragile insects have highly flexible [[Mandible|jaws]] and an cylindrical head along with the [[Thorax|thoracic region]] lift slightly upwards connecting the [[Insect terminology|wings]] and the thin [[abdomen]]. Their eyes cover an enormous portion of their heads similar to dragonflies, 70% of a damselflies' brain is dedicated to it's sight! 
-
-=== Metamorphosis ===
-Damselflies are '''''hemmimatabolous''','' meaning they undergo [[metamorphosis|incomplete metamorphosis]] and have an aquatic nymphal stage. The female will lay her [[egg]]s in water or high in trees. Once the eggs hatch, the [[naiad]] will search in the water for [[daphnia]] (mosquito [[larva|larvae]]) and eat them. After the final nymphal stage, the [[naiad]] becomes mature and will then eat [[fly|flies]] and [[mosquito]]es on the surface. they've also been known to feed on other soft-bodied insects namely [[Aphid|aphids]]. Some larger tropical species will also consume other arthropods such as [[spider]]s. 
+== Morphology ==
+[[File:Erythemis simplicicollis.jpg|thumb|254x254px|[[Erythemis simplicicollis]] (Eastern pondhawk)]]
+Dragonflies (suborder Anisoptera) are heavy-bodied, strong-flying insects that hold their wings horizontally both in flight and at rest. By contrast, [[Zygoptera|damselflies]] (suborder Zygoptera) have slender bodies and fly more weakly; most species fold their wings over the [[abdomen]] when stationary, and the eyes are well separated on the sides of the head. An adult dragonfly has three distinct segments, the head, [[thorax]], and abdomen, as in all insects. It has a chitinous [[exoskeleton]] of hard plates held together with flexible membranes. The head is large with very short [[Antenna|antennae]]. It is dominated by the two compound eyes, which cover most of its surface. The compound eyes are made up of ommatidia, the numbers being greater in the larger species.  The [[Compound eye|compound eyes]] meet at the top of the head (except in the [[Petaluridae]] and [[Gomphidae]], as also in the genus ''[[Epiophlebia]]''). Also, they have three simple eyes or [[Ocellus|ocelli]]. The [[Mandible|mouthparts]] are adapted for biting with a toothed jaw; the flap-like [[Insect terminology|labrum]], at the front of the mouth, can be shot rapidly forward to catch prey. The head has a system for locking it in place that consists of muscles and small hairs on the back of the head that grip structures on the front of the first thoracic segment. This arrester system is unique to the Odonata, and is activated when feeding and during tandem flight. The thorax consists of three segments as in all insects. The [[Insect anatomy|prothorax]] is small and is flattened dorsally into a shield-like disc, which has two transverse ridges. The [[Insect anatomy|mesothorax]] and [[Insect anatomy|metathorax]] are fused into a rigid, box-like structure with internal bracing, and provide a robust attachment for the powerful wing muscles inside. The thorax bears two pairs of wings and three pairs of legs. The wings are long, veined, and membranous, narrower at the tip and wider at the base. The hindwings are broader than the forewings and the venation is different at the base. The veins carry haemolymph, which is analogous to blood in vertebrates, and carries out many similar functions, but which also serves a hydraulic function to expand the body between [[Nymph|nymphal stages]] (instars) and to expand and stiffen the wings after the [[adult]] emerges from the final nymphal stage. The leading edge of each wing has a node where other veins join the marginal vein, and the wing is able to flex at this point. In most large species of dragonflies, the wings of females are shorter and broader than those of males. The legs are rarely used for walking, but are used to catch and hold prey, for perching, and for climbing on plants. Each has two short basal joints, two long joints, and a three-jointed foot, armed with a pair of claws. The long leg joints bear rows of spines, and in males, one row of spines on each front leg is modified to form an "eyebrush", for cleaning the surface of the [[compound eye]].
 
 == Behavior ==
+Many dragonflies, particularly males, are territorial. Some defend a territory against others of their own species, some against other species of dragonfly and a few against insects in unrelated groups. A particular perch may give a dragonfly a good view over an insect-rich feeding ground; males of many species such as the ''[[Pachydiplax longipennis]]'' (blue dasher) jostle other dragonflies to maintain the right to alight there. Defending a breeding territory is common among male dragonflies, especially in species that congregate around ponds. The territory contains desirable features such as a sunlit stretch of shallow water, a special plant species, or the preferred substrate for egg-laying. The territory may be small or large, depending on its quality, the time of day, and the number of competitors, and may be held for a few minutes or several hours. Dragonflies including ''[[Tramea lacerata]]'' (black saddlebags) may notice landmarks that assist in defining the boundaries of the territory. Landmarks may reduce the costs of territory establishment, or might serve as a spatial reference. Some dragonflies signal ownership with striking colours on the face, abdomen, legs, or wings. The ''Plathemis lydia'' ([[common whitetail]]) dashes towards an intruder holding its white abdomen aloft like a flag. Other dragonflies engage in aerial dogfights or high-speed chases. A female must mate with the territory holder before laying her eggs. There is also conflict between the males and females. Females may sometimes be harassed by males to the extent that it affects their normal activities including foraging and in some dimorphic species females have evolved multiple forms with some forms appearing deceptively like males. In some species females have evolved behavioural responses such as feigning death to escape the attention of males. Similarly, selection of habitat by adult dragonflies is not random, and terrestrial habitat patches may be held for up to 3 months. A species tightly linked to its birth site utilises a foraging area that is several orders of magnitude larger than the birth site.
 
-=== Mating ===
-Mating in damselflies, as in dragonflies, is a complex, precisely choreographed process involving both indirect insemination and delayed fertilisation. The male first has to attract a female to his territory, continually driving off rival males. When he is ready to mate, he transfers a packet of sperm from his primary genital opening on segment 9, near the end of his abdomen, to his secondary genitalia on segments 2–3, near the base of his abdomen. The male then grasps the female by the head with the claspers at the end of his abdomen; the structure of the claspers varies between species, and may help to prevent interspecific mating. The pair fly in tandem with the male in front, typically perching on a twig or plant stem. The female then curls her abdomen downwards and forwards under her body to pick up the sperm from the male's secondary genitalia, while the male uses his "tail" claspers to grip the female behind the head: this distinctive posture is called the "heart" or "wheel"; the pair may also be described as being "in cop".
+===[[Metamorphosis]]===
+
+==== Mating ====
+Mating in dragonflies is a complex, precisely choreographed process. First, the male has to attract a female to his territory, continually driving off rival males. When he is ready to mate, he transfers a packet of sperm from his primary genital opening on segment 9, near the end of his abdomen, to his secondary genitalia on segments 2–3, near the base of his abdomen. The male then grasps the female by the head with the claspers at the end of his abdomen; the structure of the claspers varies between species, and may help to prevent interspecific mating. The pair flies in tandem with the male in front, typically perching on a twig or plant stem. The female then curls her abdomen downwards and forwards under her body to pick up the sperm from the male's secondary genitalia, while the male uses his "tail" claspers to grip the female behind the head: this distinctive posture is called the "heart" or "wheel"; the pair may also be described as being "in cop"
+
+====[[Naiad|Nymphs]]====
+[[File:Dragonfly naiad.jpg|thumb|270x270px]]
+The nymph stage of dragonflies lasts up to five years in large species, and between two months and three years in smaller species. When the naiad is ready to metamorphose into an adult, it stops feeding and makes its way to the surface, generally at night. It remains stationary with its head out of the water, while its [[Spiracles|respiration system]] adapts to breathing air, then climbs up a reed or other emergent plant, and moults (ecdysis). Anchoring itself firmly in a vertical position with its claws, its skin begins to split at a weak spot behind the head. The adult dragonfly crawls out of its nymph skin, the exuvia, arching backwards when all but the tip of its abdomen is free, to allow its exoskeleton to harden. Curling back upwards, it completes its emergence, swallowing air, which plumps out its body, and pumping haemolymph into its wings, which causes them to expand to their full extent. Dragonflies in temperate areas can be categorized into two groups, an early group and a later one. In any one area, individuals of a particular "spring species" emerge within a few days of each other. The springtime darner (''Basiaeschna janata''), for example, is suddenly very common in the spring, but disappears a few weeks later and is not seen again until the following year. By contrast, a "summer species" emerges over a period of weeks or months, later in the year. They may be seen on the wing for several months, but this may represent a whole series of individuals, with new adults hatching out as earlier ones complete their lifespans.
+
+=== Flight ===
+Dragonflies are powerful and agile fliers, capable of migrating across the sea, moving in any direction, and changing direction suddenly. In flight, the adult dragonfly can propel itself in six directions: upward, downward, forward, backward, to left and to right. They have four different styles of flight: A number of flying modes are used that include counter-stroking, with forewings beating 180° out of phase with the hindwings, is used for hovering and slow flight. This style is efficient and generates a large amount of lift; phased-stroking, with the hindwings beating 90° ahead of the forewings, is used for fast flight.
 
 == Trivia ==
 
-* Damselflies along with their counterparts dragonflies have been existing on earth since 300 million years.
-* Even after possessing 3 pairs of legs, they are unable to walk.
-* Damselflies can be found on 6 continents (With the excluded continent being Antarctica)
-* Both males and females in every species possess 10 segments in their abdomen this is to help form the coupulatry wheel during the process of mating.
-* Female damselflies take a dive into the shallow waters to lay eggs!
-
-
-
-
-&lt;br /&gt;
-[[Category:Damselflies]]
+* Old and unreliable claims are made that dragonflies such as the southern giant darner can fly up to 97 km/h (60 mph). However, the greatest reliable flight speed records are for other types of insects.
+* large dragonflies like the hawkers have a maximum speed of 36–54 km/h (22–34 mph) with average cruising speed of about 16 km/h (9.9 mph).
+* Dragonflies can travel at 100 body-lengths per second in forward flight, and three lengths per second backwards.
+* Dragonflies see faster than we do, they see around 200 images per second. A dragonfly can see in 360 degrees, and nearly 80 percent of the insect's brain is dedicated to its sight.
 [[Category:Odonata]]
-[[Category:Infraorders]]
 [[Category:InsectFamilies]]
-[[Category:Insecta]]</text>
-      <sha1>ib41xmucqaaw3ngclq7uo3ghsz6zhua</sha1>
-    </revision>
-  </page>
-  
+[[Category:Insecta]]
+[[Category:Infraorders]]

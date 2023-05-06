@@ -1,31 +1,6 @@
 
-    <title>Chilean recluse spider</title>
-    <ns>0</ns>
-    <id>3716</id>
-    <revision>
-      <id>5798</id>
-      <timestamp>2016-10-13T03:44:50Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]The '''Chilean recluse spider''' is a venomous [[spider]], ''Loxosceles laeta'', of the family Sicariidae (formerly of the family Loxoscelidae)..."</comment>
-      5798
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2809" sha1="r0bh9zzm7bzs80wwis1xvod6llrr0gl" xml:space="preserve">[[File:Placeholder|right|300px]]The '''Chilean recluse spider''' is a venomous [[spider]], ''Loxosceles laeta'', of the family Sicariidae (formerly of the family Loxoscelidae). In Spanish, it (and other South American recluse spiders) is known as araña de rincón, or "corner spider"; in Portuguese, as aranha-marrom or "brown spider". This spider is considered by many to be the most dangerous of the recluse spiders, and its bite is known to frequently result in severe systemic reactions, including death.
-==Description==
-The Chilean recluse is one of the larger species of recluse spiders, generally ranging from 8–40 mm in size (including legs). Like most recluses, it is brown and usually has markings on the dorsal side of its thorax, with a black line coming from it that looks like a violin with the neck of the violin pointing to the rear of the spider resulting in the nickname "fiddleback spider" or "violin spider" in English-speaking areas. Coloring varies from light tan to brown and the violin marking may not be visible. Since the "violin pattern" is not diagnostic, it is far more important, for purposes of identification, to examine the eyes. Most spiders have eight eyes, but recluse spiders have six eyes arranged in pairs (dyads) with one median pair and two lateral pairs.
 
-Like other recluse spiders, the Chilean recluse builds irregular webs that frequently include a shelter consisting of disorderly threads. Unlike most web weavers, they leave these webs at night to hunt. People get bitten when they unintentionally squeeze them in clothing and bedding. These spiders frequently build their webs in woodpiles and sheds, closets, garages, and other places that are dry and generally undisturbed. The spider is frequently found in human dwellings. The spiders can last a long time without food or water,[1] a fact that encourages their worldwide spread.
-==Habitat==
-The Chilean recluse spider is native to South America. It is common in Chile, and can be found in Perú, Ecuador, Argentina, Uruguay, and south and eastern Brazil.[2][3]
-
-It has been introduced into North and several Central American countries, but does not naturally thrive in those locations. The spider is known to have established itself in the Los Angeles area.[4] Infestations have been reported in the United States (Cambridge, Massachusetts, Florida), Canada (Vancouver, British Columbia) and Australia.[citation needed]
-
-One colony of the spider is living in the Natural History Museum of Helsinki where it was probably introduced through fruit shipments in the 1960s and 1970s.[5] Local daycares, preschools and schools arrange daytrips here and parents are forewarned about the risk by required consent forms, although only one bite has ever been recorded.
-==Medical significance==
-[[Category:Araneae]]</text>
-      <sha1>r0bh9zzm7bzs80wwis1xvod6llrr0gl</sha1>
-    </revision>
-  </page>
-  
+Araneae
+Araneae is the order of [[spider]]s.
+[[Category:Orders]]
+[[Category:Araneae]]

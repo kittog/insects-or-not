@@ -1,43 +1,27 @@
 
-    <title>Coccinellidae</title>
-    <ns>0</ns>
-    <id>1920</id>
-    <revision>
-      <id>6916</id>
-      <parentid>6913</parentid>
-      <timestamp>2021-10-29T08:25:26Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        6916
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3983" sha1="09j1nbni14ou92tf99xmiydwxne53ff" xml:space="preserve">{{Infobox_100|title1=Coccinellidae|image1=Coccinellidae.png|caption1=[[Entomologist]] prefer naming them ladybird beetles or lady beetles as these insects are not classified as [[true bugs]].|order=[[Coleoptera]]|phylum=[[Arthropoda]]|class=[[Insecta]]|family=Cocinellidae}}
 
-'''Ladybugs''' also called ladybirds are infamously known as one of the most beneficial insects to agriculture and gardens due to their metabolism which compromises of pests. They generally and commonly eat [[Aphid|aphids]], [[Scale insect|scale insects]] and [[whiteflies]]. They can be found in Tropical and sub-tropical regions however they have a furthermore wider distribution is urban habitat this is so because they have adapted themselves to urbanization. 
+Cetoniinae
+[[File:Euchloropus laetus.JPG|thumb|[[Euchloropus laetus]]]]
 
-== Morphology ==
+== Defination ==
+Cetoniinae compromises of flower chafers this order has 4000 described species but more than an additional half is currently undiscovered, Flower chafers help in pollination of fruits and flowers and fertilize them (Although some species feed on them) , most of them are diurnal and have a wide array of colors and a lustrous exoskeleton, their Habitual action has one thing in particular kept in great quantities and yes, it is pollination. Some species also feed on fruit and are regarded as a mild threat to agricultural economical production.
 
-=== Adult (imago) ===
-Coccinellids have a vibrant coloration ranging from orange, yellow, vermillion, golden, red and scarlet. Their exoskeletons are painted with such bright irisedescent colorations are presents for a good reason, that is to warn predators about their defense mechanism and their unpleasent taste hence many predators often tend to avoid consuming them. They have a variety of tesselations present on their elytron normally circular patterns ranging in quantity from 1-20 circular in most cases, some species have parallel stripes and some have irregular patterns while some do not possess any.  They generally have white and black thoracic regions. Their inner fine-veined wings used for flight are normally tinted either black or grey. 
+== Appearance ==
+While visiting you local garden many people must've seen a glare of light being reflected by something perching upon a flower, that is not what it seems, instead it is a flower chafer, this is one of their most remarkably known feature, a lustrous and shiny [[exoskeleton]] that will reflect light and their colors varying according to the propagation of light and the pattern of the light falling onto it's [[exoskeleton]]. Flower chafer are remarkably known for helping in pollination and show all the features that are shown by any ordinary specimen belonging to the family [[polyphaga]], and that is the absence of the '''notopleural''' suture (can be observed underneath the pronotal shield) also another important thing is that the hind [[coxa]] (base of the leg), is conjoint and does not intact the first and second abdominal and ventral cavities (known as sternites) Flowers chafers vary in colors ranging from green to golden to vermillion and violet.
 
-=== Juvenile ===
-In their juvenile forms, they spend their lives on leaves of plants, their diet are the same as the adults feeding on soft-bodied insects, the larva's bodies are divided into ring-like segements with a range in quantity from 10-30 and have 3 pairs of legs, unlike other coleopterans, Coccinellids spend most of their lives above-ground prone to wild predators.
+== Food ==
+[[File:Cetonia aurata pisana.JPG|thumb|221x221px|[[Cetonia aurata pisana]]]]
+Cetoniinae certainly does not lack in species and all posses a variety of diets and the plants they feed from also vary and depend for each specimen. Most of the insects from this sub-family feed during daylight and have nectar as their primary food source while they're desperately searching for nectar the sticky pollen grains attach to the chafer and get carried from one flower to another and help in the fertilization of the seeds and allow the to turn into fruits, fruits are also consumed by certain species of flower chafers they are also considered as insect from the family Cetoniinae despite their habitual feeding. These fruit-feeding flower beetles are a mild (Not quite as serious) Pest in agricultural economy and the production of crops. Flower chafers are famously collected by entomologists and kept as household pests in some rare occasions. 
 
-== Behaviors ==
-The majority of coccinellid species are generally considered beneficial insects, because many species prey on herbivorous hemipterans such as aphids or scale insects, which are agricultural pests. Many coccinellids lay their eggs directly in aphid and scale insect colonies in order to ensure their larvae have an immediate food source. However, some species do have unwelcome effects; among these, the most prominent are of the subfamily [[Epilachninae]] (which includes the [[Mexican bean beetle]]), which are herbivorous themselves. Usually, epilachnines are only minor agricultural pests, eating the leaves of grain, potatoes, beans, and various other crops, but their numbers can increase exponentially in years when their natural enemies, such as [[Apocephalus borealis|parasitoid wasps]] that attack their [[eggs]], are in fewer numbers. In such situations, they can do major crop damage. They occur in practically all the major crop-producing regions of temperate and tropical countries.
+== Taxonomy ==
+In the earliest taxonomic classifications of the Cetoniinae, the genera , Ichnestoma Xiphoscelis and Meridioclita were altogether classified under the the '''Xiphoscelidini.'''
 
-=== Defense mechanism ===
-The vibrant bright coloration serves a purpose as well, their ability to defend themselves from predators is called "Reflex bleeding" Where a yellow-colored, foul smelling chemical is poured out of the regional joints that connect the thorax and the head, this chemical is enough to make predators un-satisfied and disgusted. The substance's color varies in each species and so does it's composition.
+== Habitat ==
+Flower chafers love sunny grassy patches of flowers in meadows and field many of them can also be found in tropical, subtropical and lush green habitat however Flower chafers live in urban areas, forests and woodlands on most common occasions but that doesn't mean they aren't happy with urbanization. Flower chafers are found from central New South Wales to northern Queensland, Victoria and the Australian Capital Territory and can only establish their population in areas with suitable flowers growing there.
 
-== Misconceptions ==
-A common false fact which has'nt even been proven, is that the number of spots on the insect's back indicates its age. In fact, the underlying pattern and colouration are determined by the species and genetics of the beetle, and develop as the insect matures. In some species its appearance is fixed by the time it emerges from its pupa, though in most it may take some days for the colour of the adult beetle to mature and stabilise. Generally, the mature colour tends to be fuller and darker than the colour of the callow.
-[[Category:Article stubs]]
+.
 [[Category:Coleoptera]]
+[[Category:Cetoniinae]]
+[[Category:Beetles]]
 [[Category:InsectFamilies]]
-[[Category:Insecta]]</text>
-      <sha1>09j1nbni14ou92tf99xmiydwxne53ff</sha1>
-    </revision>
-  </page>
-  
+[[Category:Insecta]]

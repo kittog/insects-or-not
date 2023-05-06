@@ -1,37 +1,27 @@
 
-    <title>Thysania agrippina</title>
-    <ns>0</ns>
-    <id>4113</id>
-    <revision>
-      <id>7241</id>
-      <parentid>7239</parentid>
-      <timestamp>2021-11-23T07:59:09Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7241
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1931" sha1="3tyxaihih1h9l81x5nb3xsqd1sk7uvw" xml:space="preserve">Similar to the [[black witch moth]], The '''white witch moth''' is a species of moth in the family Erebidae first described by Pieter Cramer in 1776.
 
-{{Insects_Simple|title1=Thysania agrippina|image1=White witch moth.jpg|caption1=The largest known lepidopteran|order=Lepidoptera|family=[[Erebidae]]|genus=[[Thysania]]|species=T. agrippina|similar_species=[[Ascalapha odorata]]}}
+Coscinocera hercules
+'''''Coscinocera hercules''''', the '''Hercules moth''', is a [[moth]] of the family [[Saturniidae]], endemic to New Guinea and northern Australia. The 
 
-The most commonly accepted English name is the white witch. Other common names include the '''ghost moth''', '''great grey witch''' and '''great owlet moth'''. The idea of the name "White witch" comes from the fact that entomologist were not able to collect any specimen using bullets in the medieval era!
+{{Insects_Simple|title1=Coscinocera hercules|image1=Hercules moth (Female).jpg|caption1=Adult female|order=Lepidoptera|family=[[Saturniidae]]|genus=[[Cocinocera]]|species=Coscinocera hercules|similar_species=[[Atlas moth]]                                   .
+[[Papilio antimachus]]                  .
+[[Argema mittrei]]             .}}
+
+species was first described by William Henry Miskin in 1876.
 
 == Morphology ==
-With a gorgeous wingspan of 30 cm (16 Inches) Thysania agrppina is certainly the largest known lepidopterans, With the underside of the wings being darkened and painted in shades of brown with distinctive pale white markings forming an admirable tessellations on the wings of the white witch moth, the upper wings are painted with pale white colors with a similar tessellation as for the underside of the delicate scale-covered wings, the wings moth appears to have a tendency for dull colors concealing it amongst it's surrounding while perching on tree branches, these large lepidopterans are potentially invisible to predators.
-&lt;br /&gt;
+[[Adult|Adults]] have a wingspan of about 27 centimetres (11 in), making it the largest moth found in Australia, and its wings have the largest documented surface area (300 square centimeters) of any living insect (Other than ''[[White Witch moth|Thysania agrippina]])'' . They are mainly colored golden-brown and white, with transparent spots on each of the four wing sections – the coloring and patterns between genders is mostly static. However, adult males have longer, slimmer tails on their wings than females do, making it somewhat easy to differentiate them in this way.
 
-== Region ==
-The white witch flies '''over most of the New World tropics, from Argentina to Mexico, and occasionally as far north as Colorado in the United States'''. You would suppose that scientists must know the story of such an impressive organism. We don't have much information regarding the metamorphosis of the species currently.
+Their larvae grow up to 12 cm (about 4.7 in), and will weigh around 29 grams in their final instar.  They are a pale-blue or green color, with red dots along their sides and yellow spines.
 
-== Diet ==
-The White Witch Moth caterpillars eat '''legumes''', and favor acacia and mesquite. They are perfectly harmless, not an agricultural pest, and have no teeth or stingers.
+== Host plants ==
+
+* ''Dysoxylum muelleri,''
+* ''Glochidion ferdinandi,''
+* ''Timonius rumphii,''
+* ''Timonius singularis''
+* ''Homalanthus populifolius''
 [[Category:Lepidoptera]]
-[[Category:Erebidae]]
-[[Category:Insecta]]</text>
-      <sha1>3tyxaihih1h9l81x5nb3xsqd1sk7uvw</sha1>
-    </revision>
-  </page>
-  
+[[Category:Saturniidae]]
+[[Category:Insects]]
+[[Category:Insecta]]

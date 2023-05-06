@@ -1,23 +1,27 @@
 
-    <title>Sun-spider</title>
-    <ns>0</ns>
-    <id>2122</id>
-    <redirect title="Solifugae" />
-    <revision>
-      <id>4105</id>
-      <parentid>3459</parentid>
-      <timestamp>2009-08-26T00:27:02Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-      <comment>Redirected page to [[Solifugae]]</comment>
-      4105
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="46" sha1="nqowavuzjczqm78iyjh1asqdalsmrov" xml:space="preserve">#REDIRECT [[Solifugae]]
-[[Category:Solifugae]]</text>
-      <sha1>nqowavuzjczqm78iyjh1asqdalsmrov</sha1>
-    </revision>
-  </page>
-  
+
+Ammotrechid
+[[File:Chinchippus peruvianus.jpg|thumb|190px|''[[Chinchippus peruvianus]]'']]'''Ammotrechids''' are [[sun-spider]]s belonging to the [[Ammotrechidae]] family, in which only 72 species exist, most of them belonging to the ''[[Ammotrechella]]'' [[genus]]. 
+
+== Appearance ==
+Ammotrechids are slender and can be colored in many shades of brown. The [[tarsus|tarsi]] in the front pair of [[leg]]s have no claws, and the front part of the head is rounded. 
+
+== Life ==
+The female will lay her [[egg]]s in several batches, probably in a burrow. 
+----
+Many species of Ammotrechids are nocturnal. The nocturnal species dig into the soil, but some species hide in [[termite]] colonies. 
+
+== Defense ==
+Ammotrechids will usually bite predators or prey with their large [[chelicerae]]. 
+
+== Feeding habits ==
+Ammotrechids are [[predacious]] and they eat [[insect]]s and a few small lizards. 
+
+== Geography ==
+Ammotrechids live in warm locations of Central America,and South America, and North America. Usually in dry,desert or semiarid areas.
+
+== Sources ==
+*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+*[http://www.wikipedia.com/wiki/Ammotrechidae Ammotrechidae on Wikipedia]
+[[Category:Ammotrechidae]]
+[[Category:Solifugae]]

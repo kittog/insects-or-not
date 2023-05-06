@@ -1,49 +1,20 @@
 
-    <title>House Centipede</title>
-    <ns>0</ns>
-    <id>3887</id>
-    <revision>
-      <id>8148</id>
-      <parentid>8070</parentid>
-      <timestamp>2023-01-19T10:06:32Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      8148
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2768" sha1="jbhhzhtggc7pb6otu7kacow51vbj12c" xml:space="preserve">House Centipedes are the beautiful arthropods of the genus Scutigera.{{Insects_Simple|title1 = House Centipede|image1 = Gg.png|caption1 = After every molt, A nymph gains an additional 2-3 pairs of limbs until they reach maturity.|order = Scutigeromorpha|family = Scutigeridae|genus = Scutigera|species = S. coleoptrata|similar_species = --}}
+
+Pauropod
+Paurapoda is an order of soft bodied, multi-legged primitive Myriapods. They certainly are not insects however they are not exactly 
+
+{{Infobox_100|title1=Pauropods|image1=Eurypauropodid.jpg|caption1=Eurypauropodid|order=[[Myriapod]]|phylum=[[Arthropoda]]|class=Pauropod}}
+
+myriapods either instead they are often categorized as a sister group of millipedes.
 
 == Morphology ==
-The House Centipede has a greyish-yellow coloration and has 15 pairs of legs and the maximum size is 20 cm. These legs enable them to reach speeds of up to 1.3 Feet per second along any surface capable of being grappled. They feature a pair of two long, extensive antennae capable of detecting chemical and tactile change in their surroundings, protruding from both their head and posterior. 
+Closely similar in appearance to diplurans, these pale white creatures have a set of multiple legs, their bodies are soft and delicate, their white coloration's reason is due to the fact that many species do not possess any pigmentations whatsoever. Their body lengths range from 0.008 mm to an approximate 2 mm. most adults have 10-16 pairs of legs. They do not possess many important organs such as heart or eyes. They are generally white but can also be brown with minute branched antennae. they are found thriving among leaf litter and soil. 
 
-== Origins ==
-Originally from the Mediterranean region, the species has spread to other parts of the world where it lives in people's homes, thus acquiring the name of "House Centipede".
+== Life cycles ==
+Pauropods have a simple life cycle, they undergo incomplete metamorphosis although in some cases it can also be said that they do not have any metamorphosis (Similar to all other [[hexapods]])  They start out as a young nymph and only have 3 pairs of legs, as they molt they reach the secondary instar the number of legs they possess increases until they reach adulthood where they possess 9-16 pairs of legs. Otherwise a little or no information is available about their tendencies other than habitat and feeding preferences
 
-== Ecology ==
-
-=== Behavior ===
-Behaviorally, House Centipedes are nomadic, drawn to the presence of prey and habitability, before searching elsewhere, even if conditions remain unchanged. They do not nest, and they do not parasitize a home's resources, instead devoting their focus to living prey.
-
-When threatened, House Centipedes are non-confrontational unless cornered or physically trapped. Like other centipedes, they are capable of stridulating, producing clicks in order to deter predators and attracts mates. House Centipedes are capable of biting humans when threatened, although this is a rare occurrence, as they tend towards limb-sacrificing and fleeing before defending themselves. 
-
-=== Food Sources ===
-It is an insectivore that consumes other arthropods such as insects and arachnids. If anything, an abundance of House Centipedes is an indicator of a more serious arthropod infestation in one's home, although this doesn't leave these centipedes exempt from being intruders themselves, despite the fact that they do not nest or cause any tangible damage to property.
-
-=== Defence mechanism ===
-When threatened, House Centipedes are known to involuntarily detach legs much like a Harvestmen Spider in order to escape larger prey, or get themselves out of adhesive traps, sacrificing several limbs in order to continue living.
-
-=== Reproduction ===
-[[File:Fff.jpg|thumb|233x233px]]Mating takes place in the spring and the females lay between 63-151 eggs.
-
-== Bites ==
-Their bites aren’t painful. They’re venom is ineffective on humans. They almost never bite humans. The worst case scenario, bites can cause a rash, nothing more itching and irritation lasts for 1-2 days on average. Large species can deliver a painful bite but not smaller centipedes.
-
-&lt;br /&gt;
+== Behavior ==
+They have a tendency of staying away from light sheltered underneath leaf litter. These insects are mainly omnivorous with the same saprophytic behavior as Diplurans and zorapterans. They prefer moist tropical or semi-tropical regions, they feed off decaying plant matter alongside smaller invertebrates such as mites and ticks. They do not have a specific hunting method neither they have any other information about their mating behaviors or anything.
+<br />
 [[Category:Myriapods]]
-[[Category:Culicidae]]</text>
-      <sha1>jbhhzhtggc7pb6otu7kacow51vbj12c</sha1>
-    </revision>
-  </page>
-  
+__NOEDITSECTION__

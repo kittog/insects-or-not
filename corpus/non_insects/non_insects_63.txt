@@ -1,37 +1,11 @@
 
-    <title>Varroidae</title>
-    <ns>0</ns>
-    <id>2175</id>
-    <revision>
-      <id>3665</id>
-      <parentid>3533</parentid>
-      <timestamp>2009-06-23T20:39:19Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>/* Species */ Added species</comment>
-      3665
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="619" sha1="6ex84we3b81oalze1ij980ui8yfdrak" xml:space="preserve">[[File:Varroa_Mite_on_larvae.jpg|thumb|''[[Varroa destructor]]'' on a [[larva]]]]The family '''Varroidae''' consists of only 5 species of [[varroa mite]]s. 
 
-== Species ==
-*''[[Varroa destructor]]''
-*''[[Varroa jacobsoni]]''
-*''[[Varroa persicus]]'' (possibly a new species, or goes under a different name)
-*''[[Varroa rindereri]]''
-*''[[Varroa underwoodi]]''
-*''[[Varroa wongsirii]]''
-{{Stub}}
-
-== Sources ==
-*[http://www.speciesaccounts.org/Arachnida.htm Arachnids]
-*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+House dust mite
+[[File:Placeholder|right|300px]]The '''house dust [[mite]] (HDM)''' is a cosmopolitan pyroglyphid that lives in human habitation. Dust mites feed on organic detritus, such as flakes of shed human skin, and flourish in the stable environment of dwellings. House dust mites are a common cause of asthma and allergic symptoms worldwide. The mite's gut contains potent digestive enzymes (notably proteases) that persist in their feces and are major inducers of allergic reactions such as wheezing. The mite's exoskeleton can also contribute to allergic reactions. The European house dust mite (''Dermatophagoides pteronyssinus'') and the American house dust mite (''Dermatophagoides farinae'') are two different species, but are not necessarily confined to Europe or North America; a third species ''Euroglyphus maynei'' also occurs widely. Unlike scabies mites or skin follicle mites, house dust mites do not burrow under the skin and are not parasitic.
+==Description==
+House dust mites, due to their very small size and translucent bodies, are barely visible to the unaided eye.[2] A typical house dust mite measures 0.2–0.3 millimetres (0.008–0.012 in) in length.[3] For accurate identification, one needs at least 10× magnification.[citation needed] The body of the house dust mite has a striated cuticle.
+==Life cycle==
+The average life cycle for a male house dust mite is 10–19 days. A mated female house dust mite can last up to 70 days, laying 60 to 100 eggs in the last 5 weeks of her life. In a 10-week life span, a house dust mite will produce approximately 2,000 fecal particles and an even larger number of partially digested enzyme-covered dust particles.
+==Health effects==
 [[Category:Mites]]
-[[Category:Arachnid families]]
-[[Category:Varroidae]]</text>
-      <sha1>6ex84we3b81oalze1ij980ui8yfdrak</sha1>
-    </revision>
-  </page>
-  
+[[Category:Acari]]

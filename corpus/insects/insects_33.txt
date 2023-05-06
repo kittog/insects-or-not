@@ -1,39 +1,20 @@
 
-    <title>Daphnis nerii</title>
-    <ns>0</ns>
-    <id>3989</id>
-    <revision>
-      <id>8019</id>
-      <parentid>7986</parentid>
-      <timestamp>2022-03-13T04:59:04Z</timestamp>
-      <contributor>
-        <username>Nick6978</username>
-        <id>45963112</id>
-      </contributor>
-        8019
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3870" sha1="ssogdes8jxfw04kxuo2d05762nwwgs5" xml:space="preserve">''For a similar looking species, see [[Daphnis hypothous]] (Jade Hawkmoth).''
 
-{{More_detailed_infobox|image1=Daphnis nerii.png|common_name=Oleander Hawkmoth|order=Lepidoptera|diet=Young: Leaves of the Oleander Plant
+Lime hawk-moth
+[[File:Lime hawk-moth2.jpg|thumb|212x212px|Original form of the Lime Hawk-moth.]]
+Mimas tiliae, also known as the '''lime hawk-moth''', is a moth of the family [[Sphingidae]]. It is found throughout the Palearctic region and the Near East, and has also been identified in Canada's east and western provinces and in northern Spain. The species was also first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae.
 
-Adult: Nectar from flowes|activity=Nocturnal}}
+Scientific name: Mimas tiliae
 
-== Daphnis nerii ==
-Daphnis nerii, also known as the Oleander hawkmoth Belongs to the [[Sphingidae]] family, they are spectacularly mesmerizing artworks of nature. They can be seen throughout Europe during summer season and can be seen all year around in eastern and western Africa and south east Asia. The first person to describe this species of Sphingidae was Carl Linnaeus in 1758.
+Higher classification: Mimas
 
-== Morphology ==
-Regarded as one of the truly spectacular and mesmerizing artworks by the nature, the oleander hawkmoth's wings are a combination of several vibrant shades of green ranging from olive to pale green, their wings are painted with abstract and unusual  patterns The amazing shades of green keep them concealed within their surrounding and makes them remarkably distinctive in color at the same time. These moths also posses white, pale green, olive green and a streak of light-pink color there bodies are banded with the same shades of enviable green with olive and dark green. Oleander hawkmoth caterpillar upon reaching full maturity are green with an electric-blue stripe on it's body and speckled with teal spots they have two distinctive eye-like marking on their forehead that are electric blue, an entirely matured oleander hawk-moth larvae measure around 7.5 to 8.5 cm in length (Upon reaching full maturity) and feed on a great variety of highly toxic (And some non-toxic) Plants the caterpillars have a rear horn-like structure at the ends of their bodies throughout their entire lives that is, upon reaching full maturity, they also gain a great distribution ranging from Europe to Asian and even some certain parts of Hawaiian Islands. it is a migratory species, flying to parts of eastern and southern Europe during the summer season in search of food, habitat and suitable climatic conditions, particularly in Turkey.[[File:Daphnis nerii.png|thumb|4x4px|alt=]]
-== Food Habits ==
-[[File:Oleander hawkmoth lifecycle.png|thumb|258x258px|Life cycle of Daphnis nerii]]
-The adult Daphnis nerii feed on a variety of flowering plants their availability is the major concern therefore we have plenty of information regarding their food habits.  The adults feed on nectar of a great variety of flowers. They love flowers with a sweet-smelling nectar like petunia, night-flowering jasmine honeysuckle, periwinkles, oleander and many others. They are especially active during the late evening and the twilight hours, fluttering over the flowers once the sun sets and dusk falls. The caterpillars feed mainly on periwinkle and oleander leaves, oleander is highly toxic flowering shrub also kept as a common garden plant, The caterpillars have a natural invulnerability against the toxins of the oleander plant. They also may feed on many other flowering plants of the dogbane plant family (A term used for taxonomy of plants in botany), such as Arabian penesula flowers'','' night-flowering jasmine plant and many other plants native in India. They also eat the buds and the sepals flowers of a few flowering plants at night.
+Phylum: Arthropoda
 
-== Distribution ==
-Ranging from several parts of Africa to the entire Europe during summers and in south-east Asia all year around, this migratory hawkmoth is not as common as one may expect ranging from several parts Of east, west and North Africa all year around and south-East Asia all year around seen in Several parts of India, Iran, Iraq and '''Especially''' turkey these large winged hawkmoths can be seen only in summers throughout the entire Europe But has a wider distribution in southern Europe.
-[[Category:Lepidoptera]]
+Order: [[Lepidoptera]]
+
+Rank: Species
+
+Kingdom: Animalia
+[[Category:Sphingidae]]
 [[Category:Insecta]]
-[[Category:Sphingidae]]</text>
-      <sha1>ssogdes8jxfw04kxuo2d05762nwwgs5</sha1>
-    </revision>
-  </page>
-  
+[[Category:Lepidoptera]]

@@ -1,30 +1,23 @@
 
-    <title>Cydia saltitan</title>
-    <ns>0</ns>
-    <id>4160</id>
-    <revision>
-      <id>7363</id>
-      <parentid>6930</parentid>
-      <timestamp>2021-12-07T04:23:59Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7363
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="645" sha1="eiynucwaxw1dxiyjwh4zr88xnvxywh7" xml:space="preserve">[[File:Mexican worm.jpg|thumb|180px|A cydia saltitan larva inside a mexican jumping bean.]]'''''Cydia saltitans''''' or jumping bean moth is a moth from Mexico that is most widely known as its larva, where it inhabits the carpels of seeds from several related shrubby trees, mainly Sebastiania pavoniana or Sapium biloculare. These seeds are commonly known as Mexican jumping beans. 
 
-Order: [[Lepidoptera]] 
+Notodontidae
+Notodontidae is a family of moths with approximately 3,800 known species. The family was described by James Francis Stephens in 1829. Moths of this family are found in all parts of the world, but they are most concentrated in tropical areas, especially in the New World.<br>
+Family: Notodontidae; Stephens, 1829
 
-Higher classification: '''''Cydia'''''[[File:deshaisiana1.jpg|thumb|180px|A cydia saltitan outside of a mexican jumping bean as a moth.]]
-&lt;br /&gt;
+Scientific name: Notodontidae
+
+Higher classification: Noctuoidea
+
+Order: Lepidoptera
+
+Phylum: Arthropoda
+
+Rank: Family
+[[Category:Families]]
+[[Category:Genera]]
 [[Category:Lepidoptera]]
+[[Category:Noctuidae]]
+[[Category:Notonectidae]]
 [[Category:Insecta]]
 [[Category:Pterygota]]
-[[Category:Neoptera]]</text>
-      <sha1>eiynucwaxw1dxiyjwh4zr88xnvxywh7</sha1>
-    </revision>
-  </page>
-  
+[[Category:Neoptera]]

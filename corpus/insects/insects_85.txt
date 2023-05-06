@@ -1,61 +1,6 @@
 
-    <title>Acroceridae</title>
-    <ns>0</ns>
-    <id>4488</id>
-    <revision>
-      <id>7833</id>
-      <timestamp>2022-01-16T16:35:45Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Created page with "{{Infobox|Box title=Acroceridae|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Subphylum]]|Row 2 info=[[Hexapoda]]|Row 3 title=[[Class]]|Row 4 title=Subclass..."</comment>
-        7833
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3197" sha1="gpenrclu6fj41gsy85f827mvdbrva9q" xml:space="preserve">{{Infobox|Box title=Acroceridae|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Subphylum]]|Row 2 info=[[Hexapoda]]|Row 3 title=[[Class]]|Row 4 title=[[Subclass]]|Row 4 info=[[Pterygota]]|Row 5 title=[[Infraclass]]|Row 5 info=[[Endopterygota]]|Row 6 title=[[Superorder]]|Row 6 info=[[Panorpida]]|Row 7 title=[[Order]]|Row 7 info=[[Diptera]]|Row 8 title=[[Suborder]]|Row 8 info=[[Brachycera]]|Row 9 title=[[Infraorder]]|Row 9 info=[[Asilomorpha]]?|Row 10 title=[[Superfamily]]|Row 10 info=[[Nemestrinoidea]]|Row 3 info=[[Insecta]]}}
 
-Acroceridae is a small family in order [[Diptera]] which compromises lesser-studied insects known as '''Balloon Flies''' and are commonly known as '''Spider Flies, Small-Headed Flies''' and '''Hump-backed Flies.'''
-
-== Morphology ==
-Balloon flies are odd-looking rare insects, they have large swollen abdomens that have a unique hump-shaped uplifted mass. They have fairly small-sized heads, most of the proportion of the head is taken by the large, bulging [[Compound eye|faceted eyes]]. They have long (In-comparison to their body length) wings that measure approximately 25 mm along with small legs, most species have setae-covered bodies but lack major bristles, some species have latitudinal black hairy lines as only applied for batesian mimics of honey bees and wasps. They have rounded, globular abdomen that resembles a balloon (Hence their common name) The tarsi are adorned with whetted, sharp claws. Their larvae are known as [[planidium]] and have a flattened, slender wide bodies covered with plates with a [[cerci]] at the bottom. They also have exeptionally long proboscis probably for scooping out nectar from plants such as honeysuckle and trumpet lilies. 
-
-== Ecology ==
-
-=== Feeding Habits ===
-Members from the family Acroceridae are [[nectarivores]]. The larvae are [[Parasitism|parasitoids]] in a wide range of [[Spider|Aranea species]]. They spend their lives inside a live host slowly weakening the host and eventually leading to the host's death, the dead host is consumed from the inside-out then the parasite pupates outside the host.
-
-== Metamorphosis ==
-members of the family undergo a type of metamorphosis known as hypermetamorphosis, The larvae is a planidium the adults do not seek their host instead the larvae does, the larvae can leap several millimeters into the air into to find it's host and flee from attackers. The larvae will enter the pupation period outside of the host's body pupation may take several years to reach completion.
-
-== Geographical Range ==
-
-=== Distribution ===
-They have a cosmopolitan geographical distribution however they aren't abundant in numbers compared to other cosmopolitan dipterans. 
-
-=== Habitat ===
-Members from this family occur worldwide in semi-arid tropical areas they might are possibly found in rainforests, lush densely-foliaged woods and sunny grasslands.
-
-== Taxonomic Division ==
-
-=== Subfamilies ===
-
-* Acrocerinae
-* †Archocyrtinae
-* Cyrtinae
-* Ogcodinae
-* Panopinae
-* Philopotinae
-
-[[Category:Insecta]]
-[[Category:Pterygota]]
-[[Category:Endopterygota]]
-[[Category:Neoptera]]
-[[Category:Diptera]]
-[[Category:Brachycera]]
-[[Category:Genera]]
-[[Category:Families]]</text>
-      <sha1>gpenrclu6fj41gsy85f827mvdbrva9q</sha1>
-    </revision>
-  </page>
-  
+Naiad
+[[File:Dragonfly naiad.jpg|thumb|180px|A [[dragonfly]] naiad]]A '''naiad''' is an aquatic [[nymph]] of certain [[insect]]s, such as [[dragonfly|dragonflies]] and [[damselfly|damselflies]].
+[[Category:Dragonflies]]
+[[Category:Odonata]]

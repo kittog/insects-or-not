@@ -1,40 +1,56 @@
 
-    <title>Notodontidae</title>
-    <ns>0</ns>
-    <id>3930</id>
-    <revision>
-      <id>7409</id>
-      <parentid>6218</parentid>
-      <timestamp>2021-12-09T07:29:23Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7409
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="613" sha1="p60wjrmmwltug54g6uz3c2lmtj239hs" xml:space="preserve">Notodontidae is a family of moths with approximately 3,800 known species. The family was described by James Francis Stephens in 1829. Moths of this family are found in all parts of the world, but they are most concentrated in tropical areas, especially in the New World.&lt;br&gt;
-Family: Notodontidae; Stephens, 1829
 
-Scientific name: Notodontidae
+Hyphantria cunea
+[[File:Fall Webworm (2).jpg|thumb|192x192px|Adult Female]]
+''Hyphantria cunea'' also known as '''Fall Webworm''' is a species from the family [[Erebidae]] native to North America. It was first described by Dru Drury in 1773.
 
-Higher classification: Noctuoidea
+== Morphology ==
 
-Order: Lepidoptera
+=== Wing Morphology ===
+''Hyphantria cunea'' have an adult wingspan of 30 mm at an average. They have thick fluffy bodies with a light tint of yellow, The females have pale white translucent wings painted with glistening tinted golden scales. The males have forewings densely speckled with white marks, The abdomen is fuzzy densely coated with pale setae.
 
-Phylum: Arthropoda
+=== Larval Morphology ===
+The larvae are pale white and have bodies coated densely in pale-white setae modified as venomous spikes, some setae serve as decoy spikes to make them look specially dangerous. The legs have small black blotches that lie adjacent to each other. The larvae occur in a versatile diversity of colors, ranging from pale yellow, white, dark\chocolate brown etc.
 
-Rank: Family
-[[Category:Families]]
-[[Category:Genera]]
-[[Category:Lepidoptera]]
-[[Category:Noctuidae]]
-[[Category:Notonectidae]]
+== Behavior ==
+
+=== Defense ===
+Though adults are mostly defenseless, The larvae are coated densely in setae modified as venomous spikes making it a hazard to other larger predators, The venomous spikes, once embedded onto the external parts of any attacker cause an irritant rash and may lead to the formation of bristles, the venom causes a long-duration itch and rashes, The attackers are often brutally countered with such hazardous defenses of ''Hyphantria cunea.''
+
+==== Sting Treatment ====
+Use Duck tape to gently remove any stingers before washing the wound thoroughly in order to prevent the venom from spreading, Apply Ice to the wound and visit the doctor ASAP. 
+
+== Metamorphosis ==
+
+=== Egg ===
+[[File:Fall Webworm (1).jpg|thumb|192x192px|Larvae]]
+The eggs are laid on the leaves of the host plants the eggs are laid in clusters of hundreds if not thousands.
+
+=== Larval stage ===
+The larval instar occurs after one or two weeks, the larvae are gregarious and gluttonous eaters and can defoliate trees withing a short duration of time and mostly continue to eat as they await their next instar. The larvae create enormous tents out of their silk and form a form of "Shelter" to defend against predators, the silk is sticky and they form large tent-like structures supported by a network of branches in which they pupate.
+
+=== Pupal Instar ===
+The larvae spend the harsh winters in the pupal instar, the pupa is made up of silk with a small layer of silk shielding the cocoon inside the pupae.
+
+=== Adult (Imago) ===
+The adults emerge during spring and early summers to find a soulmate and reproduce.
+
+== Ecology ==
+
+=== Host Plants ===
+
+* Carya illinoinensis
+* Ulmus americana
+* Salix Species
+* Arbutus menziesii 
+* Platanus occidentalis
+* Betula platyphylla
+* Other Deciduous Trees
 [[Category:Insecta]]
 [[Category:Pterygota]]
-[[Category:Neoptera]]</text>
-      <sha1>p60wjrmmwltug54g6uz3c2lmtj239hs</sha1>
-    </revision>
-  </page>
-  
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Lepidoptera]]
+[[Category:Noctuidae]]
+[[Category:Erebidae]]
+[[Category:Arctiinae]]

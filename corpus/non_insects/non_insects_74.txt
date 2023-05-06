@@ -1,27 +1,30 @@
 
-    <title>Tyrophagus putrescentiae</title>
-    <ns>0</ns>
-    <id>3558</id>
-    <revision>
-      <id>5640</id>
-      <timestamp>2016-08-24T03:47:53Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Tyrophagus putrescentiae''''' is a cosmopolitan mite species. Together with the related species ''T. longior'', it is commonly referred to..."</comment>
-      5640
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1155" sha1="sp7ggef9vev60co86syi2jnheh5pp8r" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Tyrophagus putrescentiae''''' is a cosmopolitan mite species. Together with the related species ''T. longior'', it is commonly referred to as the '''mold mite'''[1] or the '''[[cheese mite]]'''.
-==Ecology==
-In the wild, ''T. putrescentiae'' occurs throughout the world in a wide range of habitats, including "grasslands, old hay, mushrooms, and the nest of bees and ducks".[1] Under ideal conditions, with temperatures above 30 °C (86 °F) and humidity above 85%, it can complete its life cycle in under three weeks.[1]
 
-It is a common pest of stored products, especially those with a high protein and fat content (meat, cheese, nuts and seeds, dried eggs, etc.).[1] It feeds on the fungi that grow on the foodstuffs, and can become a pest of mycology laboratories.
-==Human health==
-''Tyrophagus putrescentiae'' has been identified as the cause of human disease in different regions. It has been found to cause copra itch among people who handle copra in the tropics, skin and respiratory allergies among people handling raw hams in Italy, and dermatitis in an Austrian butcher's shop.
-==Taxonomy==
-[[Category:Mites]]</text>
-      <sha1>sp7ggef9vev60co86syi2jnheh5pp8r</sha1>
-    </revision>
-  </page>
-  
+Dermanyssus gallinae
+For infestation of Dermanyssus gallinae among humans, See [https://en.wikipedia.org/wiki/Gamasoidosis Gamasoidosis] (Source [https://en.wikipedia.org/wiki/Main_Page Wikipedia])[[File:Dermanyssus gallinae mite.jpg|thumb|212px|alt=|After Feeding]]'''''Dermanyssus gallinae''''', also known as the '''''red mite''''' is a [[parasitic]] [[mite]] belonging to the [[Dermanyssidae]] family. It is an [[ectoparasite]] of birds specifically poultry but may also parasitize humans. 
+
+== Appearance ==
+''D. gallinae'' is minute sized organisms with a translucent ghostly-white carapace and yellow limbs with sizes below 1/32 of an inch. The antennae are mainly composed of 5 or more segments with a limb's composition being 4-6 segments each. Their bodies become enlarged and obtain a burnished-blood red colored carapace after feeding.  
+
+== Behavior ==
+D. Gallinae is certainly shows high rates of '''Hematophagy''' and Parasitsm. The most common infestation occurs during night-time oung birds are most susceptible. The mites can also affect the health of the birds indirectly, as they may serve as vectors for diseases such as Salmonellosis, avian spirochaetosis and ''Erysipelothrix rhusiopathiae''.
+
+=== Suitable conditions ===
+''D. gallinae'' can survive for up to 10 months in an empty hen house, temperatures greater than 45 °C (113 °F) and less than −20 °C (−4 °F), have been found to be lethal.
+
+=== Feeding habits ===
+D. Gallinae will use their powerful legs to attach themselves to a new host (Mainly Poultry birds or mammals) Afterwards, They will use their long chelcirate to penetrate through the skin of the host animal and parasitize them and drain them blood which causes teir bodies to inflate and attain a new blood-red appearance. The mites are capable of digesting and reproducing entirely on human blood, so infestations can be persistent. Due to the nocturnal feeding habits of ''D. gallinae'', infested people may experience itching and notice bites when they wake up in the morning. The severity of symptoms vary, with dermatitis, pruritus and papular urticaria being common.
+
+== Life Cycle ==
+After laching onto a host and draining them of body fluids, the adult female will conceal itself in cracks and crevices, where she will give birth to several [[egg]]s. If the life cycle is carried under favourable conditions of this species, the life cycle could be finished in 7 days. They undergo 4 stages, Larva, Protonymph, Nymphal stage and Adult. Molts will occur each time after feeding. 
+
+== Control ==
+''D. gallinae'' can live up to 10 months in an empty henhouse, so it is important to clean your henhouses thoroughly. Design henhouses so that you can eliminate hiding spots. Chemicals, if used should be sprayed in rotation to avoid build up. [[wikipedia:Cresote|Cresote]] treatment of wood will also kill these mites, and keep them away from the area for some time.
+
+* Heating the henhouse to temperatures above 55 °C (131 °F).
+* Regular washing down of the housing system.
+* Treatment of the walls and floors with silica dust or carbolineum prior to introduction of the new hens.
+
+[[Category:Acari]]
+[[Category:Mites]]
+[[Category:Arachnids]]

@@ -1,28 +1,95 @@
 
-    <title>Loboptera decipiens</title>
-    <ns>0</ns>
-    <id>2314</id>
-    <revision>
-      <id>3764</id>
-      <timestamp>2009-07-02T22:12:07Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>Created ''Lobooptera decipiens''</comment>
-        3764
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="375" sha1="etdrpxiw8bnqczer6ffdzdy18vgut8p" xml:space="preserve">[[File:Loboptera decipiens.jpg|thumb]]''Loboptera decipiens'' is a species of [[cockroach]] that belongs to the [[Blattelidae]] family, and the [[genus]] ''[[Loboptera]]''. 
-This species is wingless, and native to Europe. 
 
-{{Stub}}
+Blattaria
+Blattodea is an order of insects that contains cockroaches and termites. Formerly, the termites were considered a separate order, [[Isoptera]], but genetic and molecular evidence suggests termites evolved from within the cockroach lineage, cladistically making them cockroaches as well.
 
-== Sources ==
-*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+== Evolution ==
+According to one hypothesis, cockroaches were an '''ancient group of insects''' that arose during the Devonian epoch. Fossil roachoids that lived during that time differ from modern cockroaches in that they had long external ovipositors and are the ancestors of mantises, as well as modern cockroaches.[[File:Abstract cockroach.jpg|thumb]]
+
+==Taxonomy==
+[[File:Spotted cockroach.jpg|thumb]]
+===Taxonomic Hierarchy===
+{| class="fandom-table"
+|Kingdom
+|Animalia  – Animal, animaux, animals
+
+|-
+
+|  Subkingdom
+|Bilateria
+
+|-
+
+|     Infrakingdom
+|Protostomia
+
+|-
+
+|        Superphylum
+|Ecdysozoa
+
+|-
+
+|           Phylum
+|Arthropoda
+
+|-
+
+|              Subphylum
+|Hexapoda  – hexapods
+
+|-
+
+|                 Class
+|Insecta  – insects, hexapoda, inseto, insectes
+
+|-
+
+|                    Subclass
+|Pterygota  – insects ailés, winged insects
+
+|-
+
+|                       Infraclass
+|Neoptera  – modern, wing-folding insects
+
+|-
+
+|                          Superorder
+|Polyneoptera
+
+|-
+
+|                             Order
+|Blattodea  – cockroaches, termites
+
+|-
+
+|'''Direct Children:'''
+
+|-
+
+|                                Superfamily
+|Blaberoidea
+
+|-
+
+|                                Superfamily
+|Blattoidea
+
+|-
+
+|                                Superfamily
+|Corydioidea
+|}
+
+== Origin ==
+Greek Origins of Name: Blattodea is derived from “blatta”, the Greek word for '''cockroach'''.
+
+== Trivia ==
+
+* The name '''cockroach comes from the Spanish term cucaracha, which derives from the Latin blatta, “an insect that shines the light'''.” It comes from the insect order Blattodea, which also includes termites
+
+[[Category:Orders]]
 [[Category:Blattodea]]
-[[Category:Blattellidae]]</text>
-      <sha1>etdrpxiw8bnqczer6ffdzdy18vgut8p</sha1>
-    </revision>
-  </page>
-  
+[[Category:Bilateria]]

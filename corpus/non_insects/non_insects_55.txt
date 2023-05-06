@@ -1,26 +1,24 @@
 
-    <title>Lorryia formosa</title>
-    <ns>0</ns>
-    <id>3540</id>
-    <revision>
-      <id>5622</id>
-      <timestamp>2016-08-23T16:58:06Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Lorryia formosa''''', commonly known as the '''yellow mite''' or the '''citrus yellow mite''',[1] is a species of acariform [[mite]]. They..."</comment>
-      5622
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1955" sha1="9f5amvynh5ge4jar301uqg6j6hvtclh" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Lorryia formosa''''', commonly known as the '''yellow mite''' or the '''citrus yellow mite''',[1] is a species of acariform [[mite]]. They are in the subfamily Tydeinae of the family Tydeidae. Commonly found on the foliage of citrus trees around the world, ''Lorryia formosa'' also associates with a variety of other plant types. The life cycle includes six discrete stages of development, and the lifespan averages about 37 days. The females of the species use an asexual form of reproduction where the growth and development of embryos occurs without fertilization by a male, a process called thelytoky.
-==Taxonomy==
-''Lorryia formosa'', originally found in Morocco, was first described by Cooreman in 1958.[2] In his 1980 revision of the family Tydeidae, H.M. André synonymized the genus ''Lorryia'' with ''Tydeus'', and ''Lorryia formosa'' became ''Tydeus formosus''.[3] André based his revision on the similarities of the chaetotaxy, especially on the legs, but ignored body ornamentation, which is a major character used by other authors. In 1998, Kazmierski revised the Tydeinae subfamily, this time using ornamentation and other features, and reestablished the genus ''Lorryia''.
-==Description==
-In ''Lorryia formosa'', like all Acariformes mites, the capitulum is the head segment and the idiosoma is the body segment. The idiosoma is further subdivided into the propodosoma, metapodosoma, and opisthosoma. The Tydeinae subfamily, to which ''Lorryia formosa'' belongs, is characterized by having three pairs of lyrifissures (grooves that encircle the surface of an appendage) and a pair of primitive eyes (oculi) which commonly occur laterally on the propodosoma, the middle body segment to which the first two pairs of legs are attached. The genital region includes a progenital aperture flanked by setae. Specimens are generally less than 250 µm long.
+
+Ophionyssus natricis
+[[File:O. Naticis.jpg|alt=|right]]
+'''''Ophionyssus natricis''''' or '''Reptile [[mite]]''' is a parasitic mite most commonly found on snakes, but also occurring on captive lizards, turtles, crocodiles and other reptiles.[1] The parasites feed on snakes, which cause the bodies of the mites to be engorged with blood and fluids from the snake. Once the mites feed by puncturing through the snake skin, the snake usually shows symptoms of irritation and discomfort. Also this provides a point of entry where diseases from Aeromonas spp. and Inclusion Body Disease (IBD) can be transmitted. Mites have also been shown to act as vectors for IBD. The pathology for disease transmission by the mites is still unknown. Human infestation has been reported.
+==Morphology==
+The larvae are pale white. They either stay pale ivory or yellow if unfed in the protonymph stage. The mites will turn a dark red if feeding does occur. After feeding, the mites have a soft body that is dark red or black in color and noticeable legs that can be seen by the human eye during the deutonymph stage.
+
+As adults, male mites are smaller than their female counterparts. The colors can range from dark yellowish-brown, dark red or black depending on the feeding of the mite onto the snake. Female adults, however, are big, fat, and black mites. They weigh 50 μg, but can weigh 750 μg if fully engorged from the blood meal.
 ==Life cycle==
+There are five life stages for the snake mite: egg, larva, protonymph, deutonymph, and adult. The intermediate stages (larva, protonymph, and deutonymph) must shed at least once to progress into the next stage. The ideal conditions in the environment for the mite to fully develop into a parasite are at temperatures between 75–85 °F (24–29 °C) and a relative humidity of 70%–90%. The life stages can be completed usually in 13 to 19 days.
+
+Unfavorable conditions in the environment will cause impairment of development and survivorship at all stages of the mites. Mites are killed at all stages when exposed to temperatures above 105 °F (41 °C) or below 35 °F (2 °C) for several days. In terms of humidity, the mites will desiccate at levels below 20%. The mites will also drown if they are wet.
+
+Females can lay a dozen or two eggs at a time (60 to 80 in a lifetime). The eggs are usually laid in dark and humid areas. They are rarely laid on the snake where the adult mites are found. Eggs will hatch in one day in ideal conditions.
+
+After hatching, the young mites go through the larval stage, which takes about one or two days. The larvae tend to move very little away from the eggs, despite having the ability to walk.
+
+The larvae progress next into the protonymph stage, which can last three days to two weeks. At this stage, the protonymphs become attracted to the smell of snakes and require a blood meal from the snakes to go into the next stage. The protonymphs will tend to walk around the scale surfaces and head plates of the snake.
+
+The deutonymph stage then takes place after the blood meal at a place usually away from the snake. Shedding takes about a day to become adult mites. At the adult stage, the mites will continue to feed on the snake host until the males mate with female that is not engorged. Adult mites usually live up to 40 days.
+==Treatments==
 [[Category:Mites]]
-[[Category:Acari]]</text>
-      <sha1>9f5amvynh5ge4jar301uqg6j6hvtclh</sha1>
-    </revision>
-  </page>
-  
+[[Category:Acari]]

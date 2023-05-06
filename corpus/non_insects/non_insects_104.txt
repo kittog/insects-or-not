@@ -1,25 +1,10 @@
 
-    <title>Cercophonius squama</title>
-    <ns>0</ns>
-    <id>3679</id>
-    <revision>
-      <id>5761</id>
-      <timestamp>2016-09-14T20:54:03Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Cercophonius squama''''', commonly known as the '''forest [[scorpion]]''' or '''wood scorpion''', is a scorpion native to southeastern Aus..."</comment>
-      5761
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="617" sha1="95utep7wsy6238w8a3w0w5udb3dearn" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Cercophonius squama''''', commonly known as the '''forest [[scorpion]]''' or '''wood scorpion''', is a scorpion native to southeastern Australia. It is typically around 25–40 mm long.[1] Its colour consists of different shades of brown.
-==Description==
-The body is creamy yellow to orange brown with dark brown variegations.[2] The legs are yellow with some dark brown pigment.
-==Distribution and habitat==
-''C. squama'' is found in South Australia, Victoria, New South Wales, the ACT and Tasmania. It is the only scorpion found in Tasmania.
-==Behavior==
-[[Category:Scorpiones]]</text>
-      <sha1>95utep7wsy6238w8a3w0w5udb3dearn</sha1>
-    </revision>
-  </page>
-  
+
+Euscorpius flavicaudis
+[[File:Placeholder|right|300px]]'''''Euscorpius flavicaudis''''', or the '''European yellow-tailed [[scorpion]]''', is a small black scorpion with yellow-brown legs and tail (metasoma). Adults measure about 35–45 millimetres (1.4–1.8 in) long. It is a fossorial scorpion with relatively large, strong claws (pedipalps) and a short, thin tail.
+==Distribution==
+The native range of ''E. flavicaudis'' extends through Northwest Africa and Southern Europe, but it has also been introduced into the United Kingdom and Uruguay. It is the northernmost scorpion in the world and the only one in the UK. The main colony in Britain is in Sheerness Dockyard, the Isle of Sheppey, Kent.
+==Habitat==
+Warm temperate climate. The species can be found in built up areas. In the UK, the scorpion occupies cracks and holes in walls where the mortar pointing has crumbled away.
+==Venom==
+[[Category:Scorpiones]]

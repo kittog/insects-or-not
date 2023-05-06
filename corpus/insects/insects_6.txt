@@ -1,38 +1,46 @@
 
-    <title>Polyphaga</title>
-    <ns>0</ns>
-    <id>3983</id>
-    <revision>
-      <id>6531</id>
-      <parentid>6448</parentid>
-      <timestamp>2021-10-15T15:29:55Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        6531
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4409" sha1="822k2ufrln084p96zz1arj0rrbzqnmw" xml:space="preserve">[[File:Celidota splendens.JPG|thumb|[[Celidota splendens]]]]
-Polyphaga is the most diverse sub-family of beetles which currently contains over 35000 species, 144 families and 24 super families. However more new species are being discovered every day The name of ''polyphaga'' is derived from two Greek words: '''''poly'''-'', meaning 'many', and '''''phagein''''', meaning 'to eat', hence they're suborders are called “eaters of many things”. There are certain key characterstics that are only possesed by Polyphagia and that are the absence of the '''[[notopleural]]''' suture (can be observed underneath the [[pronotal shield]]) also another important thing is that the hind [[coxa]] (base of the leg), is conjoint and does not intact the first and second [[abdominal and ventral cavities]] (known as [[sternites]]). 
 
-== Major classification= ==
+Megasoma elephas
+{{Infobox
+|Box title = Megasoma elephas
+|Image file = Megasoma elephas.jpg
+|Image size = 150px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Polyphaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Scarabaeoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Scarabaeidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Dynastinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Dynastini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Megasoma]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Megasoma elephas'''''
+|Row 9 title = [[Subspecies]]
+|Row 9 info = '''Megasoma elephas elephas'''
+* [[Megasoma elephas iijimai]]
+* [[Megasoma elephas occidentalis]]
+}}
 
-* [[Bostrichiformia]]: [[Woodworm|furniture beetles]] and [[skin beetles]]
-* [[Cucujiformia]]: [[Coccinellidae|lady beetles]], [[Cerambycidae|longhorns]], [[weevils]], and [[leaf beetles]]
-* [[Elateriformia]]: [[click beetles]] and [[fireflies]]
-* [[Scarabaeiformia]]: [[Scarabaeoidea|scarab beetles]], [[stag beetles]], and [[Dung beetle|dung beetles]]
-* [[Staphyliniformia]]: [[Rove beetle|rove beetles]] and water [[scavenger beetles]]
+Megasoma elephas is a very heavy beetle in the family [[Dynastinae]].
 
-== Information ==
-[[File:Giant Predaceous Diving Beetle.jpg|thumb|235x235px|[[Giant predacious diving beetle|Giant Predaceous Diving Beetle]]]]
-[[File:Dicronorrhina micans.JPG|thumb|231x231px|[[Dicronorrhina micans]]]]
-[[File:Dorcus hopei.JPG|thumb|[[Dorcus hopei]]]]
-Polyphaga makes up 90% Of all the [[Coleoptera families|coleopteran families]], A diverse range of species from this order are normally [[plant eaters]], their diet includes algae, moss, plant tissues, [[pollen]] and sometimes lichen can also be a part of their diet. The nutrition-rich food they need in order to survive varies from each family to another family and their food habits will also vary from place to place. [[Woodworm|Furniture beetles]] (Woodworms) are a huge household pest due to their habits of chewing wood as a larva that they are only capable of digesting through really powerful stomach acids present within their intestines. They do posses an elytra however they only use it upon feeling threatened by something or someone. Next we have lady bugs on the list (''[[Coccinellidae]]'') they help farmers regrow their crops and repair the damage caused by [[Cicadas,leafhoppers and aphids|aphids]] which their diet primarily includes however some species of ladybirds are herbivorous and can cause serious damage in large numbered-infestations. next on our list is longhorn beetles ([[Cerambycidae]]) They eat plants especially hardwood trees, maple, ash, pine and Oakwood is their favorite food, they eat is as a juvenile and as an adult they got their name due to the popular belief that they are humans transformed into a beetle with long antennae. Weevils are just the same with a different name, they belong to the family [[Curculionoidea]] and have elongated proboscis to penetrate through tree trunks and fruits to lay their [[eggs]]. They are too gross to be shown through real images! And they certainly win the award for the second worst pest in ecological imbalance. [[Fireflies]] look really pretty with their own night lights shimmering bright, they feed off [[Termite|small bugs]] as a [[Larva|juvenile]] but have a much darker side as an adult, so some male fireflies eat others and are cannibalistic they can only be seen far away from urbanizations in tropical areas. Scarabs and stag beetles feed on plants and some species are remarkably huge and gigantic in their size and scarabs are considered to be sacred as per Egyptian mythology due to the fact that they mysteriously appear and disappear into the ground and the way they roll bung represents how earth moves around sun. Dung beetles collect dung and lay their eggs inside it, both the juvenile and the adults feed on animal wastes if they are ever hungry and keep the environment sanitary and clean. (Yuck!) next and the last beetles from the major families on our list are rove beetles and water scavengers, most water "scavengers" are scavengers and feed on dead corpses f insects that've drowned and keep their ponds clean this way only. Rove beetles are normally omnivores.
-[[Category:InsectFamilies]]
+==Appearance==
+
+The Elephant Beetle is pretty large by weight and by size. The main colour of the Elephant is yellow. There are horns on the side like the [[Goliath Beetle]]. One very large horn resembles a hook and an elephant trunk, hence the name. 
+
+==Habitat==
+
+Elephant Beetle larvae develop in large decaying logs and take up to four years to develop into adult beetles. The female lays her eggs inside the decaying log. After about 3 weeks, the eggs hatch into C-shaped larva, white grubs with brown heads and six legs. The larval stage lasts 30 weeks, during which the grubs consume organic matter. The third and last stage, the pupal stage, lasts around 5 weeks at a temperature of 25°C. The life span of an adult Elephant Beetle is around four months. Elephant beetles eat spiny fruit on the coast like lychee or pineapple. Elephants are nocturnal.
+[[Category:Insecta]]
 [[Category:Coleoptera]]
-[[Category:Beetles]]</text>
-      <sha1>822k2ufrln084p96zz1arj0rrbzqnmw</sha1>
-    </revision>
-  </page>
-  
+[[Category:Polyphaga]]
+[[Category:Scarabaeoidea]]
+[[Category:Scarabaeidae]]
+[[Category:Dynastinae]]
+[[Category:Dynastini]]
+[[Category:Megasoma]]

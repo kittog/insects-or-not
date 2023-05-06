@@ -1,48 +1,23 @@
 
-    <title>Haemactis sanguinalis</title>
-    <ns>0</ns>
-    <id>4515</id>
-    <revision>
-      <id>7882</id>
-      <parentid>7881</parentid>
-      <timestamp>2022-01-30T17:16:06Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7882
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2144" sha1="rdfixnckoiqj3qo9ciuqs9dmy9ogrkv" xml:space="preserve">{{Infobox|Box title=Blood-Red Skipper|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Subphylum]]|Row 2 info=[[Hexapoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Subclass]]|Row 4 info=[[Pterygota]]|Row 5 title=[[Infraclass]]|Row 5 info=[[Endopterygota]]|Row 6 title=[[Order]]|Row 6 info=[[Lepidoptera]]|Row 7 title=[[Suborder]]|Row 7 info=[[Papilionoidea]]|Row 8 title=[[Family]]|Row 8 info=[[Hesperiidae]]|Row 9 title=[[Subfamily]]|Row 9 info=[[Hesperiinae]]|Row 10 title=[[Genus]]|Row 10 info=[[Haemactis]]|Image file=Haemactis Sanguinalis (Male).jpg|Image size=255px}}
 
-&lt;big&gt;This Article requires more information, Help Insect wiki by [https://insects.fandom.com/wiki/Haemactis_sanguinalis?veaction=edit adding more information].&lt;/big&gt;
+Ornithoptera tithonus
+Ornithoptera tithonus is a species of Lepidopteran which originates from New Guinea and can also be observed on neighboring Islands.
 
-''Haemactis sanguinalis ,'' Commonly known as '''Blood-Red skipper''' is a species of [[Hesperiidae]] family [[Papilionoidea|Butterfly]] native to the Neotropical Realm. 
+{{Insect|name=Ornithoptera tithonus|binomen=Ornithoptera tithonus De Haan 1841|image=[[File:Ornithoptera tithonus (1).jpg|300px]]|common=Tithonus Birdwing|native=N/A|other=N/A|order=[[Lepidoptera]]|superfamily=[[Papilionoidea]]|family=[[Papilionoinea]]|subfamily=[[Papilioninae]]|genus=[[Ornithoptera]]|species=Ornithoptera tithonus, De Haan 1841|imagehab=[[File:Ornithoptera tithonus (2).jpg|300px]]|status=CITES Appendix II}}
 
 == Morphology ==
 
 === Wing Morphology ===
 
-==== Male ====
-''Haemactis sanguinalis'' is a remarkably vivid and beautiful species, Males have a vibrant blood-red borderline with a gunmetal-colored patch in the central proportion of the wing, the dense borderline is followed by radiating gunmetal bands. The dorsal side of the wings is brown with two vermillion blotches on the apical halves of the wings.
-
 ==== Female ====
-The wings have a matt-black crystal-clear venation with blood-red vertexes, the forewings have a fine venation disturbed by a curvilinear elliptical-shaped pattern which is furthermore crossed-over by longitudinal dash of matt-black. The blood-red tips have gunmetal edges. The apical halves of the wings are also blood-red with gunmetal edges.
-[[File:Haemactis Sanguinalis (Female).jpg|thumb|259x259px|Adult Female]]
+The dorsal side of the female's wings wings are black, speckled with elliptical pale-white marks present on the forewings, the forewings are elongated with a smooth borderline, The apical halves of the female's dorsal wings has longer white marks present on the apical halves which further extend downwards to a series of light-grey marks aligned together diagonally. The lower wings have a gradient white lower-side which has a series of elliptical dark-brown marks adjacent to each other forming and arc. The ventral side is similar to the dorsal side with the under-side of lower wings being gradient yellow and the marks present on the apical halves of the forewings being more elongated.
 
-== Geographical Range ==
-
-=== Geographical Distribution ===
-This species is native to Columbia in addition to that some occurrences were recorded near Ecuador (?)
+==== Male ====
+The males have golden & green colored wings, the shape of the wings is different from the females, with the males having more slender elongated forewings along with un-evenly shaped hindwings, the hindwings have a protrusion at the base which is pointed (Similar to a Swallowtail) The forewings of the males have a golden and white background with vivid scales coated with an iridescent golden tint. the margins of the male's wings is black along with slanting line extending from the prothorax to the apical point of the forewings, the males forewings also have matt-black markings which align together to form an arc the males have dashes of matt-black pigmented scales. The males have small black circular marks on the hindwings (Dorsal) and three on the Ventral side.
 [[Category:Insecta]]
 [[Category:Pterygota]]
 [[Category:Endopterygota]]
-[[Category:Neoptera]]
 [[Category:Papilionoidea]]
 [[Category:Lepidoptera]]
-[[Category:Hesperiidae]]
-[[Category:Hesperiinae]]</text>
-      <sha1>rdfixnckoiqj3qo9ciuqs9dmy9ogrkv</sha1>
-    </revision>
-  </page>
-  
+[[Category:Neoptera]]
+[[Category:Hexapoda]]

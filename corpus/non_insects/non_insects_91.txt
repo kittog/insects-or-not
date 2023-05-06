@@ -1,66 +1,160 @@
 
-    <title>Scolopendra viridis</title>
-    <ns>0</ns>
-    <id>4680</id>
-    <revision>
-      <id>8268</id>
-      <parentid>8241</parentid>
-      <timestamp>2023-03-09T07:25:46Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      8268
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2651" sha1="8ucnb6q24xniorpwngsptuqhbs2tx0k" xml:space="preserve">{{Info}}
 
-Scolopendra viridis, also known as '''Florida blue centipede''' or '''giant Florida blue centipede''' 
+Geophilida
+The order '''Geophilida''' is an family of [[centipede]]s. more specifically, cosmopolitan soil 
 
-{{Insect Infobox|title1=Scolopendra viridis|image1=[[File:Scolopendra viridis(2).png|250px]]|caption1=Blue stripe morph|kingdom=Animalia|phylum=Arthropoda|class=Chilopoda|subclass=Not Assigned|infraclass=Not Assigned|order=Scolopendramorpha|suborder=Not Assigned|infraorder=Not Assigned|superfamily=Not Assigned|family=Scolopendridae|subfamily=Not Assigned|genus=Scolopendra|tribe=(?)|species=Viridis|subspecies=Total 5}}
+{{More_detailed_infobox|title1=Geophilida|image1=Geophylus sp.jpeg|caption1=[[Geophylus]] sp.|common_name=Geophylid centipedes|order=Geophylomorpha|family=Geophilida|diet=Predacious|activity=Unconfirmed|distribution=Cosmopolitan|habitat=Variety|other_common_names=None|genus=108}}
 
-is a species of giant centipede (genus [[Scolopendra]]). There is extremely poor and scarce information about  Scolopendra viridis, in short, this page is a '''Currently incomplete''' ,expect future updates on this article. 
+centipedes referred to as [[Geophilid]] centipedes. 
 
-== Biology ==
-Scolopendra viridis occurs in a variety of morphs.  Scolopendra viridis reaches a maximum length of 4 inches at best. Variations differ on the basis of habitat.
+== Taxonomy Tree ==
 
-=== Morphology ===
+=== Genera ===
 
-==== Blue Stripe morph ====
-The most notable form of  Scolopendra viridis is the “Blue-striped morph”. It has a brown to pale white body along with a single, electric-blue, vertical stripe running down from it’s head to cerci.  It reaches about 3 inches in length.
+==== Clade Aphilodontidae ====
 
-==== Arizona mountain morph ====
-Inhabiting the low mountains of Arizona, this morph has a greyish-green exoskeleton with a blue band between each section of their bodies&lt;ref&gt;https://www.arthropodantics.com/product-page/scolopendra-viridis-arizona-mountain-variant&lt;/ref&gt;.
+* Aphilodon <small>Silvestri, 1898</small>
+* Mecophilus <small>Silvestri, 1909</small>
+* Mairata <small>Calvanese, Brescovit & Bonato</small>
+* Philacroterium <small>Attems, 1926</small>
 
-=== Ecology ===
+==== Clade Dignathodontidae ====
 
-==== Hunting ====
-Scolopendra viridis is described as being fast and agile, it is a voracious hunter and feeds of anything that is smaller in size&lt;ref&gt;https://bugguide.net/node/view/52215&lt;/ref&gt;. 
+* Agnathodon <small>Folkmanová & Dobroruka, 1960</small>
+* Dignathodon <small>Meinert, 1870</small>
+* Henia <small>Koch, 1847</small>
+* Pagotaenia <small>Chamberlin, 1915</small>
+* Zygophilus <small>Chamberlin, 1952</small>
 
-==== Toxicity ====
-[[File:Scolopendra viridis.png|thumb]]
-Scolopendra viridis possess a venom with a powerful potency, it’s bite can result in excruciating pain followed by a prolonged burning sensation on near the initial bite which can cause irritation and rashes to form&lt;ref&gt;https://www.arthropodantics.com/product-page/scolopendra-viridis-arizona-mountain-variant&lt;/ref&gt;.
+==== Clade Linotaeniidae ====
 
-== Geological distribution ==
+* Agathothus <small>Bollman, 1893</small>
+* [[Chileana]] <small>Özdikmen, 2009</small>
+* Diplochora <small>Attems, 1903</small>
+* [[Strigamia]] <small>Gray, 1843</small>
 
-=== Habitats ===
-They reside in a variety of habitats each being linked with a separate morph. Generally found in tropical habitats they reside in tree barks.
+==== Clade Chilenophilinae ====
 
-=== Range ===
-It is native to Georgia and Arizona&lt;ref&gt;https://eol.org/pages/309608&lt;/ref&gt;.
+* Chilenophilus, <small>Attems 1909</small>
 
-== Subspecies &lt;ref&gt;https://eol.org/pages/309608&lt;/ref&gt; ==
+==== Clade  Macronicophilidae ====
 
-* Scolopendra viridis viridis
-* Scolopendra viridis genuina 
-* Scolopendra viridis lagunesis 
-* Scolopendra viridis maya
-* Scolopendra viridis storkani
+* Macronicophilus <small>Silvestri 1909</small>
 
-== References ==
+==== Other Genera ====
+
+* [[Pachymerellus]]
+* [[Pachymerinus]]
+* [[Pachymerium]]
+* Pagotaenia
+* Pandineum
+* Peruphilus
+* Philacroterium
+* Plestophilus
+* Plateurytion
+* Pleurogeophilus
+* Poaphilus
+* Polycricus
+* Polygonarea
+* Porethus
+* Portoricellus
+* Portoricona
+* Proschizotaenia
+* Pseudofagetophilus
+* Purcellinus
+* Pycnona
+* [[Queenslandophilus]]
+* [[Ribautia]]
+* Schendyloides
+* Schizonampa
+* Schizonium
+* Schizopleres
+* Schizotaenia
+* [[Sepedonophilus]]
+* Serrona
+* Sogona
+* [[Steneurytion]]
+* Stenotaenia
+* [[Strigamia]]
+* Stylolaemus
+* Sundageophilus
+* Synerium
+* Synthophilus
+* Taiyuna
+* Taschkentia
+* Telocricus
+* Timpina
+* Tretechthus
+* [[Tuoba (centipede)|Tuoba]]
+* Tylonyx
+* Watophilus
+* Zantaenia
+* Zygona
+* Zygophilus
+* Abatorus
+* [[Acanthogeophilus]]
+* Achilophilus
+* Agathothus
+* Agnathodon
+* Algerophilus
+* Alloschizotaenia
+* Aphilodon
+* Apogeophilus
+* Arctogeophilus
+* Arenophilus
+* Aztekophilus
+* Barrophilus
+* Bebekium
+* Bithyniphilus
+* Brachygeophilus
+* Brachygonarea
+* Caliphilus
+* Cephalodolichus
+* Cheiletha
+* [[Chileana]]
+* Chilenophilus
+* Chomatophilus
+* Clinopodes
+* Condylona
+* Damothus
+* Dekanphilus
+* Dignathodon
+* [[Diphyonyx]]
+* Dyodesmophilus
+* Dysmesus
+* Ecuadoron
+* Endogeophilus
+* Eremerium
+* Eremorus
+* Erithophilus
+* Eurygeophilus
+* Eurytion
+* Fagetophilus
+* Filipponus
+* Galliophilus
+* Garrina
+* [[Geomerinus]]
+* Geoperingueyia
+* [[Geophilus]]
+* Gnathoribautia
+* Gosipina
+* Hapleurytion
+* Harmostela
+* Harpacticellus
+* Henia
+* Horonia
+* Hovanyx
+* Hyphydrophilus
+* Ketampa
+* Kurdistanius
+* Lionyx
+* Macronicophilus
+* Maoriella
+* Mecistauchenus
+
+== See Also ==
+*[[Geophilid]] - For more information regarding species in this family.
+*[[Centipede]] 
+[[Category:Myriapods]]
 [[Category:Chilopoda]]
-[[Category:Myriapods]]</text>
-      <sha1>8ucnb6q24xniorpwngsptuqhbs2tx0k</sha1>
-    </revision>
-  </page>
-  
+[[Category:Families]]

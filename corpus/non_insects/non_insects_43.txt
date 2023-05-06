@@ -1,22 +1,15 @@
 
-    <title>Araneae</title>
-    <ns>0</ns>
-    <id>1955</id>
-    <revision>
-      <id>5850</id>
-      <parentid>3214</parentid>
-      <timestamp>2016-10-21T03:05:21Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Adding categories</comment>
-      5850
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="77" sha1="4eo2gzhlwxdqb0498h95hj00e1lbhxd" xml:space="preserve">Araneae is the order of [[spider]]s.
-[[Category:Orders]]
-[[Category:Araneae]]</text>
-      <sha1>4eo2gzhlwxdqb0498h95hj00e1lbhxd</sha1>
-    </revision>
-  </page>
-  
+
+Micrommata ligurina
+[[File:Placeholder|right|300px]]'''''Micrommata ligurina''''' is a species of [[huntsman spider]]. [1] It was first described by Carl Ludwig Koch in 1845.
+==Description==
+In the females of ''Micrommata ligurina'' the body length can reach 9–14 millimetres (0.35–0.55 in), while in the males it is about 6–9 millimetres (0.24–0.35 in).[4] The carapace is long and narrow and the abdomen is elongate. The cephalothorax and the long legs of the females are bright green, with a lighter green abdomen showing an almost indistinct median band. [4]
+
+This spider is very similar to the green huntsman spider (''Micrommata virescens''), but the females have a black dot on the carapace. Moreover the adult males of 'M. ligurina'' have a dark brown median band on abdomen with whitish or gray sides. [4]
+
+The eight eyes are arranged in two rows and surrounded by white hairs. Adults can be found in late winter and in early spring.
+==Distribution==
+''Micrommata ligurina'' occurs from the Mediterranean Basin to Central Asia. [1][2] The range of this species includes Bulgaria, Croatia, France, Great Britain, Greece, Italy, Macedonia, Malta, Portugal, Romania and Spain.
+==Habitat==
+[[Category:Article stubs]]
+[[Category:Araneae]]

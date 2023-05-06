@@ -1,28 +1,6 @@
 
-    <title>Orthohalarachne</title>
-    <ns>0</ns>
-    <id>3560</id>
-    <revision>
-      <id>7892</id>
-      <parentid>5642</parentid>
-      <timestamp>2022-02-01T15:31:57Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-      7892
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1442" sha1="jf42gqhdt34akroyoduvg8bse689i7e" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Orthohalarachne attenuata''''' (family: Halarachnidae) is a species of [[mite]] normally found in the nasal passages of fur seals, sea lions, and walruses. In seals, the mites can be both prevalent (almost every single seal has them) and abundant (more than 1000 mites per seal). Although clinical observations and gross examination indicate that ''O. attenuata'' parasitization alone is not serious, some erosion and inflammation of the nasal turbinates and nasopharynx in seals has been observed in histological sections.[1] If concomitant parasitization with ''O. attenuata'' and ''O. diminuta'' occurs, alveolar emphysema and more serious ailments can threaten the life of the mammal.
-==Morphology==
-Mature mites are shown to be elongated in the posterior part of body to form a club-shape with the rounded posterior extremity. Ten to twelve transverse rows of 8 to 12 sharp denticles and a few rows of minute spines are present on the ventral surface of the capitulum and the posterior surface of coxa III, respectively.
-==Transmission==
-The usual mode of host-to-host transmission by ''Orthohalarachne'' is thought to be accomplished by active larvae that crawl or are sneezed from one animal to another. Both males and females are relatively non-motile and have well developed claws from maintaining their position in the nares.
-==Prevalence and pathology==
-[[Category:Mites]]
-[[Category:Hexapoda]]</text>
-      <sha1>jf42gqhdt34akroyoduvg8bse689i7e</sha1>
-    </revision>
-  </page>
-  
+
+Oniscomorpha
+[[File:Glomeris_marginata.jpg|thumb|''[[Glomeris marginata]]'']]Pill millipedes, also known as armadillo bugs are millipedes that can roll themselves up into little balls when disturbed. Adults have 15 pairs of legs, and are sometimes brightly marked. They mainly eat plants. Two hundred species of pill millipedes exist in the world today. They are mainly found in the Northern Hemisphere. They belong to the order [[Glomerida]].
+[[Category:Glomerida]]
+[[Category:Myriapods]]

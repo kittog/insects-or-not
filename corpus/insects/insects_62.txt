@@ -1,43 +1,49 @@
 
-    <title>Bee</title>
-    <ns>0</ns>
-    <id>3999</id>
-    <revision>
-      <id>6788</id>
-      <parentid>6472</parentid>
-      <timestamp>2021-10-20T18:52:12Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        6788
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="7225" sha1="gv4e970zj48tvw8r8a6hmekeixxpljv" xml:space="preserve">== Description ==
-[[File:Apis mellifera.jpg|thumb|[[Apis mellifera]]]]
-[[File:Apis mellifera scutellata.jpg|thumb|[[Apis mellifera scutellata]]]]
-'''Bees''' are insects with wings closely related to wasps and ants, known for their role in pollination and, in the case of the best-known bee species, the western honey bee, for producing honey. Bees are a monophyletic lineage within the superfamily Apoidea. They are presently considered a clade, called '''Anthophila'''. There are over 16,000 known species of bees in seven recognized biological families. Some species – including honey bees, bumblebees, and stingless bees – live socially in colonies while most species (&gt;90%) – including mason bees, carpenter bees, leafcutter bees, and sweat bees – are solitary. Bees are found on every continent except for Antarctica, in every habitat on the planet that contains insect-pollinated flowering plants. The most common bees in the Northern Hemisphere are the Halictidae, or sweat bees, but they are small and often mistaken for wasps or flies. Bees range in size from tiny stingless bee species, whose workers are less than 2 millimetres (0.08 in) long, to ''Megachile pluto'', the largest species of leafcutter bee, whose females can attain a length of 39 millimetres (1.54 in).Bees feed on nectar and pollen, the former primarily as an energy source and the latter primarily for protein and other nutrients. Most pollen is used as food for their larvae. Vertebrate predators of bees include primates and birds such as bee-eaters; insect predators include beewolves and dragonflies.Bee pollination is important both ecologically and commercially, and the decline in wild bees has increased the value of pollination by commercially managed hives of honey bees. The analysis of 353 wild bee and hoverfly species across Britain from 1980 to 2013 found the insects have been lost from a quarter of the places they inhabited in 1980.Human beekeeping or apiculture (meliponiculture for stingless bees) has been practised for millennia, since at least the times of Ancient Egypt and Ancient Greece. Bees have appeared in mythology and folklore, through all phases of art and literature from ancient times to the present day, although primarily focused in the Northern Hemisphere where beekeeping is far more common. In Mesoamerica, the Mayans have practiced large-scale intensive meliponiculture since pre-Columbian times. The ancestors of bees were wasps in the family Crabronidae, which were predators of other insects. The switch from insect prey to pollen may have resulted from the consumption of prey insects which were flower visitors and were partially covered with pollen when they were fed to the wasp larvae. This same evolutionary scenario may have occurred within the vespoid wasps, where the pollen wasps evolved from predatory ancestors. The oldest non-compression bee fossil is found in New Jersey amber, ''Cretotrigona prisca'', a corbiculate bee of Cretaceous age (~65 mya). A fossil from the early Cretaceous (~100 mya), ''Melittosphex burmensis'', was initially considered "an extinct lineage of pollen-collecting Apoidea sister to the modern bees", but subsequent research has rejected the claim that ''Melittosphex'' is a bee, or even a member of the superfamily Apoidea to which bees belong, instead treating the lineage as ''incertae sedis'' within the Aculeata. By the Eocene (~45 Mya) there was already considerable diversity among eusocial bee lineages.The highly eusocial corbiculate Apidae appeared roughly 87 Mya, and the Allodapini (within the Apidae) around 53 Mya. The Colletidae appear as fossils only from the late Oligocene (~25 Mya) to early Miocene. The Melittidae are known from ''Palaeomacropis eocenicus'' in the Early Eocene. The Megachilidae are known from trace fossils (characteristic leaf cuttings) from the Middle Eocene. The Andrenidae are known from the Eocene-Oligocene boundary, around 34 Mya, of the Florissant shale. The Halictidae first appear in the Early Eocene with species found in amber. The Stenotritidae are known from fossil brood cells of Pleistocene age.
+
+Bombus family
+'''Dead end-page: This page currently does not have any links, help the wiki by adding some.'''
+
+The bombus family is the family of all the bumble-bees.  '''bumblebee'''  is any of over 250 species in the genus Bombus,
+
+{{Infobox_100|title1=Bombus|image1=Volucella bombylans (2).png|caption1=Volucella bombylans is perhaps the largest of the known species.|order=[[Hymenoptera]]|phylum=[[Arthropoda]]|class=Insecta|family=[[Apidae]]}}
+
+part of Apidae, one of the bee families. This genus is the only extant group in the tribe Bombini, though a few extinct related genera (e.g., ''Calyptapis'') are known from fossils. They are found primarily in higher altitudes or latitudes in the Northern Hemisphere, although they are also found in South America, where a few lowland tropical species have been identified. European bumblebees have also been introduced to New Zealand and Tasmania. Female bumblebees can sting repeatedly, but generally ignore humans and other animals.
+
+Most bumblebees are social insects that form colonies with a single queen. The colonies are smaller than those of honey bees, growing to as few as 50 individuals in a nest. Cuckoo bumblebees are brood parasitic and do not make nests or form colonies; their queens aggressively invade the nests of other bumblebee species, kill the resident queens and then lay their own eggs, which are cared for by the resident workers. Cuckoo bumblebees were previously classified as a separate genus, but are now usually treated as members of ''Bombus''.
+
+Bumblebees have round bodies covered in soft hair (long branched setae) called 'pile', making them appear and feel fuzzy. They have aposematic (warning) coloration, often consisting of contrasting bands of colour, and different species of bumblebee in a region often resemble each other in mutually protective Müllerian mimicry. Harmless insects such as hoverflies often derive protection from resembling bumblebees, in Batesian mimicry, and may be confused with them. Nest-making bumblebees can be distinguished from similarly large, fuzzy cuckoo bees by the form of the female hind leg. In nesting bumblebees, it is modified to form a pollen basket, a bare shiny area surrounded by a fringe of hairs used to transport pollen, whereas in cuckoo bees, the hind leg is hairy all round, and they never carry pollen.
+
+Like their relatives the honeybees, bumblebees feed on nectar, using their long hairy tongues to lap up the liquid; the proboscis is folded under the head during flight. Bumblebees gather nectar to add to the stores in the nest, and pollen to feed their young. They forage using colour and spatial relationships to identify flowers to feed from. Some bumblebees steal nectar, making a hole near the base of a flower to access the nectar while avoiding pollen transfer. Bumblebees are important agricultural pollinators, so their decline in Europe, North America, and Asia is a cause for concern. The decline has been caused by habitat loss, the mechanisation of agriculture, and pesticides.
+
+== Taxonomy ==
+
+
+The genus ''Bombus'', the only one extant genus in the tribe Bombini, comprises over 250 species; for an overview of the differences between bumblebees and other bees and wasps, see characteristics of common wasps and bees. The genus has been divided variously into up to 49 subgenera, a degree of complexity criticised by Williams (2008). The cuckoo bumblebees ''Psithyrus'' have sometimes been treated as a separate genus but are now considered to be part of ''Bombus'', in one or more subgenera.
+
+Examples of ''Bombus'' species include ''Bombus atratus'', ''Bombus dahlbomii'', ''Bombus fervidus'', ''Bombus lapidarius'', ''Bombus ruderatus'', and ''Bombus rupestris.''
 
 == Morphology ==
-bees differ from closely related groups such as wasps by having branched or plume-like setae (hairs), combs on the forelimbs for cleaning their antennae, small anatomical differences in limb structure, and the venation of the hind wings; and in females, by having the seventh dorsal abdominal plate divided into two half-plates.
+Bumblebees vary in appearance, but are generally plump and densely furry. They are larger, broader and stouter-bodied than honeybees, and their abdomen tip is more rounded. Many species have broad bands of colour, the patterns helping to distinguish different species. Whereas honeybees have short tongues and therefore mainly pollinate open flowers, some bumblebee species have long tongues and collect nectar from flowers that are closed into a tube. Bumblebees have fewer stripes (or none), and usually have part of the body covered in black fur, while honeybees have many stripes including several grey stripes on the abdomen. Sizes are very variable even within species; the largest British species, ''B. terrestris'', has queens up to 22 mm (0.9 in) long, males up to 16 mm (0.6 in) long, and workers between 11 and 17 mm (0.4–0.7 in) long. The largest bumblebee species in the world is ''B. dahlbomii'' of Chile, up to about 40 mm (1.6 in) long, and described as "flying mice" and "a monstrous fluffy ginger beast".
+<br />
 
-Bees have the following characteristics:
+== Distribution and habitat ==
+Bumblebees are typically found in temperate climates, and are often found at higher latitudes and altitudes than other bees, although a few lowland tropical species exist. A few species (''B. polaris'' and ''B. alpinus'') range into very cold climates where other bees might not be found; ''B. polaris'' occurs in northern Ellesmere Island in the high Arctic, along with another bumblebee ''B. hyperboreus'', which parasitises its nest. This is the northernmost occurrence of any eusocial insect. One reason for their presence in cold places is that bumblebees can regulate their body temperature, via solar radiation, internal mechanisms of "shivering" and radiative cooling from the abdomen (called heterothermy). Other bees have similar physiology, but the mechanisms seem best developed and have been most studied in bumblebees. They adapt to higher elevations by extending their wing stroke amplitude. Bumblebees have a largely cosmopolitan distribution but are absent from Australia (apart from Tasmania where they have been introduced) and are found in Africa only north of the Sahara. More than a hundred years ago they were also introduced to New Zealand, where they play an important role as efficient pollinators.
 
-* A pair of large compound eyes which cover much of the surface of the head. Between and above these are three small simple eyes (ocelli) which provide information on light intensity.
-* The antennae usually have 13 segments in males and 12 in females, and are geniculate, having an elbow joint part way along. They house large numbers of sense organs that can detect touch (mechanoreceptors), smell and taste; and small, hairlike mechanoreceptors that can detect air movement so as to "hear" sounds.
-* The mouthparts are adapted for both chewing and sucking by having both a pair of mandibles and a long proboscis for sucking up nectar.
-* The thorax has three segments, each with a pair of robust legs, and a pair of membranous wings on the hind two segments. The front legs of corbiculate bees bear combs for cleaning the antennae, and in many species the hind legs bear pollen baskets, flattened sections with incurving hairs to secure the collected pollen. The wings are synchronised in flight, and the somewhat smaller hind wings connect to the forewings by a row of hooks along their margin which connect to a groove in the forewing.
-* The abdomen has nine segments, the hindermost three being modified into the sting.
+== Behavior ==
 
-== [[Honey bee|Honey bees]] ==
-A '''honey bee''' (or '''honeybee''') is any bee member of the genus ''Apis'', primarily distinguished by the production and storage of honey and the construction of perennial, colonial nests from wax. Currently, only seven species of honey bee are recognized, with a total of 44 subspecies,  though historically, from six to eleven species have been recognized. The best known honey bee is the Western honey bee which has been domesticated for honey production and crop pollination. Honey bees represent only a small fraction of the roughly 20,000[  known species of bees. Some other types of related bees produce and store honey, including the stingless honey bees, but only members of the genus Apis are true honey bees. The study of bees including honey bees is known as melittology. he genus name Apis is Latin for "bee". Although modern dictionaries may refer to Apis as either honey bee or honeybee, entomologist Robert Snodgrass explains that correct usage is to use two words, i.e. honey bee, as it is a kind or type of bee, whereas it is incorrect to run the two words together as in dragonfly or butterfly, because the latter are not flies.[4] Honey bee, not honeybee, is the listed common name in the Integrated Taxonomic Information System, the Entomological Society of America Common Names of Insects Database, and the Tree of Life Web Project.
-&lt;br /&gt;
-[[Category:Hymenoptera]]
+=== Feeding ===
+The bumblebee tongue (the proboscis) is a long, hairy structure that extends from a sheath-like modified maxilla. The primary action of the tongue is lapping, that is, repeated dipping of the tongue into liquid. The tip of the tongue probably acts as a suction cup and during lapping, nectar may be drawn up the proboscis by capillary action. When at rest or flying, the proboscis is kept folded under the head. The longer the tongue, the deeper the bumblebee can probe into a flower and bees probably learn from experience which flower source is best-suited to their tongue length. Bees with shorter proboscides, like ''Bombus bifarius'', have a more difficult time foraging nectar relative to other bumblebees with longer proboscides; to overcome this disadvantage, ''B. bifarius'' workers were observed to lick the back of spurs on the nectar duct, which resulted in a small reward.
+
+=== Wax production ===
+The exoskeleton of the abdomen is divided into plates called dorsal tergites and ventral sternites. Wax is secreted from glands on the abdomen and extruded between the sternites where it resembles flakes of dandruff. It is secreted by the queen when she starts a nest and by young workers. It is scraped from the abdomen by the legs, moulded until malleable and used in the construction of honeypots, to cover the eggs, to line empty cocoons for use as storage containers and sometimes to cover the exterior of the nest.
+
+=== Coloration ===
+Cuckoo bumblebees, like this ''Bombus barbutellus'', have similar aposematic (warning) coloration to nest-making bumblebees, and may also mimic their host species.
+
+The brightly coloured pile of the bumblebee is an aposematic (warning) signal, given that females can inflict a painful sting. Depending on the species and morph, the warning colours range from entirely black, to bright yellow, red, orange, white, and pink. Dipteran flies in the families Syrphidae (hoverflies), Asilidae (robber flies), Tabanidae (horseflies), Oestridae (bot or warble flies) and Bombyliidae (bee flies, such as ''Bombylius major'') all include Batesian mimics of bumblebees, resembling them closely enough to deceive at least some predators.
+
+=== Sting ===
+Queen and worker bumblebees can sting. Unlike in honeybees, a bumblebee's stinger lacks barbs, so the bee can sting repeatedly without leaving the stinger in the wound and thereby injuring itself. Bumblebee species are not normally aggressive, but may sting in defence of their nest, or if harmed. Female cuckoo bumblebees aggressively attack host colony members, and sting the host queen, but ignore other animals unless disturbed. The sting is painful to humans, and not medically significant in most cases, although it may trigger an allergic reaction in susceptible individuals.
 [[Category:Bees]]
+[[Category:InsectFamilies]]
 [[Category:Insecta]]
-[[Category:InsectFamilies]]</text>
-      <sha1>gv4e970zj48tvw8r8a6hmekeixxpljv</sha1>
-    </revision>
-  </page>
-  

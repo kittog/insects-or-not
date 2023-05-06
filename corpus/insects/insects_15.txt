@@ -1,60 +1,31 @@
 
-    <title>Synanthedon exitiosa</title>
-    <ns>0</ns>
-    <id>2417</id>
-    <revision>
-      <id>6539</id>
-      <parentid>6538</parentid>
-      <timestamp>2021-10-16T08:07:29Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        6539
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2031" sha1="1l2y9h3uz4ntzn9fqost6ytzt7mgxqn" xml:space="preserve">{{Infobox
-|Box title = Synanthedon exitiosa
-|Image file = Synanthedon exitiosa.jpg
-|Image size = 250px
-|Row 1 title = [[Order]]
-|Row 1 info = [[Lepidoptera]]
-|Row 2 title = [[Suborder]]
-|Row 2 info = [[Glossata]]
-|Row 3 title = [[Superfamily]]
-|Row 3 info = [[Sesioidea]]
-|Row 4 title = [[Family]]
-|Row 4 info = [[Sesiidae]]
-|Row 5 title = [[Subfamily]]
-|Row 5 info = [[Sesiinae]]
-|Row 6 title = [[Tribe]]
-|Row 6 info = [[Synanthedonini]]
-|Row 7 title = [[Genus]]
-|Row 7 info = ''[[Synanthedon]]''
-|Row 8 title = [[Species]]
-|Row 8 info = '''''Synanthedon exitiosa'''''
-|Row 9 title = 
-|Row 9 info = 
-}}
 
-'''''Synanthedon exitiosa''''' or the '''Peachtree borer''' is a black species of [[moth]] in the family [[Sesiidae]].
+Acherontia atropos
+{{Insects_Simple|title1=Acherontia atropos|caption1=The largest moth which resides in Britain.|order=[[Lepidoptera]]|family=[[Sphingidae]]|genus=[[Acherontia]]|species=African Death's Head Hawkmoth|similar_species=[[Acherontia styx]]
+[[Acherontia lachesis]]|image1=Deathsheadmoth.jpg}}
+== Acherontia atropos ==
+Acherontia atropos, more commonly known as the African Death's head hawk-moth and sometimes known as a bee robber, is a large hawkmoth which originates from the [[Sphingidae]] family. It is found throughout the British Isles, Europe and the African continent.
 
-==Appearance==
+==Morphology==
+Their wings are mottled dark brown alongside black marking on the wings in addition to the pale brown blotches on the forewings. The hindwings are mustard-yellow with parallel black line with faint black venations. The undersides of the wing are dotted with mustard yellow scales with the edges being dull yellow. All wings have visible black venation with a few larger ones near the edges.
 
-The most noticeable feature of Exitosa is the broad orange stripe on the body. The wings are slightly tinted to blue with transparent blotches on the wings. and the body is coated black. This is a specialized method of mimicry to prevent unsuspecting predators from consuming them, It is indeed true that this moth mimics wasp (Although it is harmless) as a method of preventing larger insects and birds from consuming them. It has been known to attack ''Prunus persica'' and Rosaceae species of plants, a family of fruit bearing trees. The wingspan of Exitiosa ranges from 14 mm to 33 mm, and are noticeable between May and September. The adult female of the species has a wingspan of about 3.5 centimeters. . It has opaque forewings and clear hindwings. The male is smaller and more slender, and both pairs of wings are clear. The larva is up to 3.5 centimeters long and white with a brown head.
+The rest of the moth is coloured mottled dark brown or black, with the abdomen being grey with black stripes, flanked with yellow stripes on the outer parts. The most distinctive feature is of course the arrangement of brown scales on the thorax forming a shape resembling a human skull. The abdomen is aligned with stripes of an orangish-buff coloration with a larger black stripe intersecting with all the others running vertically.
+
+A recent study in 2020 shows that if viewed upside down, this moth resembles a head with eyes, with the skull pattern being the "nose". This is most likely to scare of small predators like birds, bats or other small mammals.
+
+The species shows sight sexual dimorphism, as in most [[Lepidoptera]]. Female moths of this species tend to be larger than males, appearing bulkier and sporting larger, more robust abdomens. The abdomen of a male ''Acherotia atropos'' is less broad, with a pointed distal (lower) abdominal segment. In contrast, the females of the species have a distal abdominal segment that is rounded off at the tip. Antennae seen on a male are thinner and shorter than the antennae seen on a female. There are no pattern or colour changes related to the sex of an ''A. atropos''.
+
+The caterpillar of the African death's-head hawkmoth is also sturdy and somewhat variable in colour, being some shade of buff, green or brown, with seven diagonal blue lines. At the rear is a curved, thorn-like horn. It can attain a length of 5 to 6 in (13 to 15 cm). The other two species of death's-head hawkmoth similarly have three larval colour forms: typically, green, brown and yellow. The pupa is stout and reddish-brown, and is formed 8 to 10 in (20 to 25 cm) under the ground in a dug chamber.
+
+== Behavior ==
+The behaviors shown by ''Acherontia atropos'' are quite unusual for any other lepidopteran. Not only it is the fact that ''Acherontia atropos'' consumed honey by breaking into beehives and aren't affected by bee stings due to their extra-fluffy bodies (''A. Styx'' is not as well-protected and sometimes gets stung to death). They indeed do have a pharnyx which is an incredibly rare thing seen among arthropods, and they used it to emit a squeaky noise that frightens predators (this might also be used for communication, but this is not known). 
+
+These moths, as well as similar species excel at raiding beehives. They are incredibly strong and bulky, enough to not get affected by bee venom. They use their extra-long proboscis to drink the nectar of blossoms and the sweet scented honey they are addicted with. There is also a theory that the squeaks the moth produces mimic the queen's hence resulting in the bees to become purely docile. The moth smells like a bee as well, so they are not likely to be attacked by the hive. 
+
+Caterpillars of this species are also quite aggressive. They reach 5-6 inches (13-15 cm) in length when fully grown and have a tail horn at their rear end covered with hard spikes. They have an irregular yellow pattern speckled with brown. They produce a clicking sound with their mandibles when disturbed and sometimes attempt to bite. They are usually found on potato and tomato plants. 
 
 ==Habitat==
-[[File:Synanthedon exitiosa larva.jpg|thumb|290x290px|Larva]]
-noticeable between May and September, These moths prefer temperate semi arid areas with an availability of host plants to infest.
+''Acherontia atropos'' occurs throughout the Middle East and the Mediterranean region, much of Africa down to the southern tip, and increasingly as far north as southern Great Britain due to recently mild British winters. It occurs as far east as India and western Saudi Arabia, and as far west as the Canary Islands and Azores. It invades western Eurasia frequently, although few individuals successfully overwinter.
 [[Category:Insecta]]
+[[Category:Sphingidae]]
 [[Category:Lepidoptera]]
-[[Category:Glossata]]
-[[Category:Sesioidea]]
-[[Category:Sesiidae]]
-[[Category:Sesiinae]]
-[[Category:Synanthedonini]]
-[[Category:Synanthedon]]</text>
-      <sha1>1l2y9h3uz4ntzn9fqost6ytzt7mgxqn</sha1>
-    </revision>
-  </page>
-  

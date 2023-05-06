@@ -1,38 +1,44 @@
 
-    <title>Allotopus rosenbergi</title>
-    <ns>0</ns>
-    <id>2766</id>
-    <revision>
-      <id>8065</id>
-      <parentid>8054</parentid>
-      <timestamp>2022-09-14T17:09:31Z</timestamp>
-      <contributor>
-        <username>Actinoidz</username>
-        <id>51823979</id>
-      </contributor>
-      <comment>minor grammar/punctuation errors, simplified some sentences</comment>
-        8065
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1724" sha1="80x0b9ljpohcchp5abb7jin8liww4pw" xml:space="preserve">{{Insects_Simple|title1=Allotopus rosenbergi|image1=Allotopus rosenbergi.JPG|caption1=The stunning glistening golden color has a  true shine which is visible as per the direction and propagation of light!|order=Coleoptera|family=Lucanidae|genus=Allotopus|species=A. rosenbergi|similar_species=[[Phalacrognathus muelleri]]}}Allotopos rosenbergi is a species of [[Lucaninae|stag beetle]] from the family [[Lucanidae|Lucanide]] from the tribe [[Allotopus]].
 
-== Morphology ==
-Burnished golden [[Coleoptera families|beetles]] with a bronze coloration, the propagation of light affects the luster of this stag beetle. Their beauty makes them one of the famous insects for collectors. They have a pair of slightly distorted [[Mandible|mandibles]] or "horns" These [[Lucanidae|lucanids]] have a pair of reddish-brown elytra with a fine venation. The [[abdomen]] beneath the burnished [[elytron]]'s is also reddish-brown in color. The [[Insect terminology|tibia]] and the [[Insect terminology|tarsus]] is covered with sharp edged thorns with a sickle-end at the tibia with two extra-sharp [[Insect terminology|claws]]. they can measure between 4-8 centimeters, their exquisite appearance makes them popular targets for bug collecting.
+Cybister lateralimarginalis
+{{Infobox
+|Box title = Cybister lateralimarginalis
+|Image file = Cybister lateralimarginalis.jpg
+|Image size = 231px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Adephaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Dytiscoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Dytiscidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Dytiscinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Cybistrini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Cybister]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Cybister lateralimarginalis'''''
+|Row 9 title = 
+|Row 9 info = 
+}}
 
-== Region ==
-Found in several regions of Southeast Asia, with the most abundant generations found in Myanmar and Indonesia, they also have a distribution range from Cambodia, Thailand, Vietnam and a few found in Eastern India and Southwestern China.
+'''''Cybister laterimarginalis''''' is a species of [[diving beetle]] belonging to the ''[[Cybister]]'' genus in the [[Dytiscidae]] family. In 1997, it was redlisted, but they have been growing in population ever since.
+
+==Appearance==
+
+This diving beetle is the largest [[Dytiscid]] in Denmark. The body is mainly green and looks quite like the [[fruit beetle]]. The eyes and pinchers are clearly seen.
+
+==Habitat==
+
+The laterimarginalis swims on the brim of shallow water using its strong pinchers. It can survive in water and on land.
 [[Category:Insecta]]
-[[Category:Neoptera]]
-[[Category:Pterygota]]
-[[Category:Lucanidae]]
 [[Category:Coleoptera]]
-[[Category:Lucaninae]]
-[[Category:Lucanini]]
-[[Category:Lucanus]]
-[[Category:Rosenbergi]]
-[[Category:Beetles]]
-[[Category:Allotopus]]</text>
-      <sha1>80x0b9ljpohcchp5abb7jin8liww4pw</sha1>
-    </revision>
-  </page>
-  
+[[Category:Adephaga]]
+[[Category:Dytiscoidea]]
+[[Category:Dytiscidae]]
+[[Category:Dytiscinae]]
+[[Category:Cybistrini]]
+[[Category:Cybister]]

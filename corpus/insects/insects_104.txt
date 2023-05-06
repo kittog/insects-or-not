@@ -1,55 +1,33 @@
 
-    <title>Cercopis vulnerata</title>
-    <ns>0</ns>
-    <id>2422</id>
-    <revision>
-      <id>7531</id>
-      <parentid>3939</parentid>
-      <timestamp>2021-12-16T05:26:44Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7531
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2541" sha1="tqtw7nt6gwka6khianaaa2hrnmp2i72" xml:space="preserve">[[File:Cercopis vulnerata.jpg|thumb|189px]]'''''Cercopis vulnerata''''' is a [[froghopper]] species belonging to the family [[Cercopidae]].
 
-[[File:Cercopis vulnerata 2.jpg|left|thumb|170px]]
+Idolomantis diabolica
+The '''Devil's Flower Mantis''', also known as the '''Giant Devil's Flower Mantis''', is one of the largest species of praying mantis, and is believed 
+
+{{Insects_Simple|image1=Devil flower mantis.png|caption1=The largest mantis known to mimic flowers, With it's Dagger-like forelimbs, This species can seize it's prey in halt with a great accuracy.|order=Mantodea|family=Empusidae|genus=Idolomantis|species=Diabolica|similar_species=Indian flower mantis   
+Orchid mantis}}
+
+to be the largest to mimic flowers. 
+
 == Morphology ==
-Males are 8.9-10.5 mm long, while females are 8.2-10.5 mm they are A beautiful and charmingly tiny insect with irregular-shaped scarlet or vermillion patterns on the wings, The head along with the thoracic region are matt-black This species are often remarked over their elongated almost shield-like bodies They have a triangular mark at the base of their wings, They have a visibly clear defence mechanism, That is their Aposetismic coloration ( Technical term: Warning coloration ) They have a smoky and rough-textured wings Their hindwings are potentially transparent.  They are sometimes kept as pets.
+Females grow to be about 13 centimetres (about 5 inches) in length and males to about 10 centimetres (about 4 inches). They are native to Ethiopia, Kenya, Malawi, Somalia, Tanzania, and Uganda. Its threat display is magnificently colored, with red, white, blue, purple and black. The head of ''I. diabolica'' contains three vital components: compound eyes, antennae, and mandibles. The compound eyes, composed of thousands of individual photoreceptor cells, enable good eyesight. The arrangement of photoreceptor units, for instance, allows the insect to capture a perceptual span of 180°. This allows ''I. diabolica'' to identify prey and predators without increasing its vulnerability by spoiling its camouflage. The antennae, a pair of long and thin bristles, serve as the insect's sensory perception. Projecting outwards, the antennae can detect much in the surrounding environment such as chemicals, movement, and odors. The male antennae are more developed than those of the females and are feather-like. This allows them to track down females by detecting the pheromones released by the females. These pheromones notify the males that the females are ready to reproduce. The mandibles can be used to "tear, puncture, or grind" food. he thorax constitutes a large portion of the insect's body. As in all insects, it is composed of three segments: the prothorax, mesothorax, and metathorax. Each section "contains one pair of legs, however, the wings are found only on the mesothoracic and metathoracic segments. Reproductive organs, respiratory organs, and other organ systems occupy the abdominal region of the insect.
 
-== Geographical range ==
-This species is present in most of Europe (Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, France, Greece, Spain, the former Yugoslavia, Moldova, the Netherlands, Norway, Poland, Romania, Russia, Slovakia, Slovenia, Switzerland, Hungary, Great Britain and Italy
+== Behavior ==
 
-== Ecology ==
+=== Defense mechanism ===
+When confronted by a predator, ''I. diabolica'' initiates a deimatic display in an attempt "to scare off or momentarily distract a predator". Its front legs, specifically the femora, are raised to expose the conspicuous patterns depicted on the bottom of the thorax and abdomen. Similarly, the wings display a combination of vibrant colours. Observational analysis of ''I. diabolica'' in captive settings revealed an additional tactic of shifting its wings left to right to startle and confuse predators. 
 
-=== Seasonal History ===
-Adults can be found from April to August. They are polyphagous, mainly sucking vegetable juices of grasses, but also of other plants (''Arrhenatherum elatius'', ''Dactylis glomerata'', ''Urtica dioica'', ''Filipendula ulmaria'', ''Aegopodium podagraria'', etc.), 
+=== Predatory Habits ===
+In the presence of prey, ''I. diabolica'', impersonating a flower, remains motionless. Its objective is to seduce the insect into its striking zone. In this zone, ''Idolomantis diabolica'' uses the tibiae of its legs to grasp and maintain a strong grip on the prey. The mandibles are then "wielded as formidable weapons" to decapitate and devour the prey. The dietary preference of ''I. diabolica'' is exclusively airborne insects, specifically flies, moths, butterflies and beetles.
 
-=== Flight ===
-They can easily fly and are also equipped with very effective saltatory back legs, allowing jumps of up to 70 centimeters. They can extend their hindlegs in under a millisecond to execute a jump, implying elastic storage of energy for sudden release.
+== Life cycle ==
+[[File:Idolomantis.jpg|thumb]]
+A female deposits some 10 to 50 eggs in an ootheca. The period between egg-laying and hatching varies according to temperature and humidity, but about fifty days would be typical. After hatching, the nymphs feed on small insects such as houseflies and fruit flies. Males develop into adults after undergoing ecdysis about seven times into successive instars, while females mature after about eight instars. The lifespan of ''I. diabolica'' varies according to the habitat, but is typically about 12 months.
 
-== Metamorphosis ==
-When they mate ''Cercopis'' male and female stay side by side with an angle of less than 45°. The female lays eggs at the end of summer in plants and trees that overwinter. Larvae live underground on the roots of various plants, inside a typical foam nest, that protects them from dehydration and against enemies. The nymph sucks vegetable juices out of the roots of the host plants. The nymph comes up in spring.
-
-== Host Plants ==
-
-* ''Arrhenatherum elatius'' (False-Oat Grass)
-* ''Dactylis glomerata'' (Cat-grass)
-* ''Urtica dioica'' (Stinging Nettles)
-* ''Filipendula ulmaria'' (Meadow Weed)
-* ''Aegopodium podagraria'' (Ground Elder)
-
-[[Category:Cercopidae]]
-[[Category:Hemiptera]]
+== Care as a pet ==
+Due to its beauty and dramatic displays, the devil's flower mantis is considered a prestigious pet. Consumers, specifically in the Western Hemisphere, purchase thousands on a yearly basis, this is indeed true that mantids are exquisitely gorgeous pets and require low maintenance, they are pretty and easy to take care of although they may not be a good [[Insects as pets|pet]] being for being a friend with, all you need for having one is a terrarium either square or rectangular in shape it is recommended using old unwanted terrariums, aquariums, fishbowls or you can purchase one, to make one all you need is some wooden planks, a measuring tape and most importantly a glass planes in order to see the pet orchid mantis, the price for a homemade terrarium is relatively low and quite easy to make. Devil mantids need an atmosphere closely similar to their original habitat please be gentle while handling it as any possible wounds can lead to bacterial infections and are very gentle. They are an Ideal choice as a pet if you prefer silent pets. Add in more plants to your terrarium, add pebbles rocks, old timber wood and other ornamental objects Ideal as an addition to the terrarium, large creatures especially lepidopteran prey are the core part of it's diet Mealworms can be fed twice or thrice in a week as they are high in fat or you can feed them with small beetles, leafhoppers, moths and butterflies (More often) and that is all you need to know before keeping one.
+[[Category:Mantodea]]
+[[Category:Insecta]]
 [[Category:Insect pets]]
-[[Category:Neoptera]]
-[[Category:Endopterygota]]
 [[Category:Pterygota]]
-[[Category:Cicadoidae]]
-[[Category:Cicadidae]]</text>
-      <sha1>tqtw7nt6gwka6khianaaa2hrnmp2i72</sha1>
-    </revision>
-  </page>
-  
+[[Category:Endopterygota]]
+[[Category:Neoptera]]

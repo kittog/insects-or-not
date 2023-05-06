@@ -1,87 +1,52 @@
 
-    <title>Solifugae</title>
-    <ns>0</ns>
-    <id>2006</id>
-    <revision>
-      <id>8294</id>
-      <parentid>8284</parentid>
-      <timestamp>2023-03-12T15:51:48Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      8294
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3983" sha1="p8tsxmaejclexj7yes6s7bh3ojoz6i3" xml:space="preserve">'''This page is currently unfinished, expect future updates on this article! If you would like to contribute, contact the administrator.'''{{Infobox
-|Box title = Solifugae
-|Image file = Iranian Solifugid.png
-|Image size = 150px
-|Row 1 title = [[Class]]
-|Row 1 info = [[Arachnida]]
-|Row 2 title = [[Subclass]]
-|Row 2 info = [[Dromopoda]]
-|Row 3 title =[[Order]] 
-|Row 3 info = '''''Solifugae'''''
-|Row 4 title = [[Family]]
-|Row 4 info = [[Ammotrechidae]]
-* [[Ceromidae]] 
-* [[Daesiidae]] 
-* [[Eremobatidae]] 
-* [[Galeodidae]] 
-* [[Gylippidae]] 
-* [[Hexisopodidae]] 
-* [[Karschiidae]] 
-* [[Melanoblossidae]] 
-* [[Mummuciidae]] 
-* [[Rhagodidae]] 
-* [[Solpugidae]]
-|Row 5 title = 
-|Row 5 info = 
-|Row 6 title = 
-|Row 6 info = 
-|Row 7 title = 
-|Row 7 info = 
-|Row 8 title = 
-|Row 8 info = 
-|Row 9 title = 
-|Row 9 info = 
-}}
 
-'''Solifugae''' is the order of [[sun-spider]]s. A '''sun-spider''' also known as a '''wind scorpion''' is an [[arachnid]] that resembles a [[scorpion]] and a [[spider]] in spite of neither being spiders or scorpions. There are 12 families and 1,000 species in the sun-spider's order, Solifugae. They are well-known for being desert-dwellers. They are fairly agile (in regards to their body length) reaching a maximum speed of 16km/hr. They are famous among insects handlers, are adorable and make good low-maintenance pets.
+Ammotrechidae
 
-== Morphology ==
 
-=== Anatomy ===
-In terms of anatomical sense, Sun-spiders have flexible [[abdomen]]s with a fairly small [[cephalothorax]] and a head with small eyes. They use their huge, swollen[[chelicerae]] to kill and eat prey. Sun-spiders also have sensitive body hairs and organs in their last pair of walking legs. They have 4 pairs of legs with two being antenniform appendages and Long, finely segmented pedipalps for foraging some have scissors-like chelicerae for ensnaring their prey. Various species have been known to differ drastically.
+'''Ammotrechidae''' is a family of solifuges distributed in the Americas and the Caribbean Islands. It includes 22 described genera and at least 83 species. 
 
-==== Size ====
-In terms of overall body length the largest of Sun spiders reach 6 inches in length (including the legspan).
+== Notable Features ==
+Members of this family can be distinguished from members of other families by the absence of claws on tarsi of leg I, tarsal segmentation 1-2-2-(2-4), pedipalps with pairs of lateroventral spines, and by males having an immovable flagellum on the mesal face of each chelicerum. The propeltidium of the Ammotrechidae is recurved.
 
-== Behaviour ==
-wind scorpions love shady areas and are known to rush towards humans before stopping by their shadows, they sometimes follow people to stay in their shadows. They are very cute and make good pets.
+== Behavior ==
+The common names used for Ammotrechidae are '''curve-faced solifugids''' and '''sand runners'''. They live in arid regions, such as dune and rocky habitats. They are carnivores which feed mainly on other invertebrates. Ammotrechidae have relatively high metabolic rates, which allow them to be voracious predators. They feed by masticating their prey and sucking out the liquids. They are preyed upon by other vertebrates. Species of Ammotrechidae are found to be cannibalistic. Males and females dig shallow burrows for protection and nesting.
 
-=== Defence mechanism ===
-Sun spiders may look intimidating yet their lack of venom could perhaps make them be considered as a weak creature, however Sun spiders have quite a few tricks up their sleeves, firstly they have extreme flexibility allowing them to forage burrows and navigate tunnels avoiding any conflicts altogether, their flexibility also allows them to consume prey fairly larger than their bodies through their bag-like stomachs. They also have good agility allowing them to sprint away from any potentially dangerous predators. Lastly they are even known to possess stridulation mainly performed through their oversized chelicerae i.e a loud “ksssk ksssk ksssk” chatter when disturbed.
+== Distribution ==
+The species in North America are found in the South to Southwest and are rarely longer than 2 inches. Though they can be pests, they are considered beneficial because they feed on scorpions, spiders, and termites.
 
-== Feeding ==
-All sun-spider are [[predacious]]. They are opportunistic, free-roaming hunters and have quite a few structural adaptations for hunting.
+== Taxonomy ==
+This family is subdivided in 5 subfamilies and 22 genera.
 
-=== Structural Adaptations ===
-Usings their fine sensory hairs, and well-segmented pedipalps for hunting prey, they have chelicerae for tearing apart their prey, while not as large as threat to humans due to their inability to produce toxins, they utilise the  large and powerful jaws for crushing their prey, the prey is then injected with digestive juices, liquified and dead, the wind scorpions proceed to drink the liquified prey. 
+* [[Ammotrechid|Ammotrechinae]] (North, Central and South America)
+** ''Ammotrecha'' <small>Banks, 1900</small> — Chile to USA (9 species)
+** ''Ammotrechella'' <small>Roewer, 1934</small> — West Indies, northern South America to Florida (13 species)
+** ''Ammotrechesta'' <small>Roewer, 1934</small> — Central America (5 species)
+** ''Ammotrechinus'' <small>Roewer, 1934</small> — Haiti, Jamaica (1 species)
+** ''Ammotrechona'' <small>Roewer, 1934</small> — Cuba (1 species)
+** ''Ammotrechula'' <small>Roewer, 1934</small> — Ecuador to USA (12 species)
+** ''Antillotrecha'' <small>Armas, 1994</small> — Dominican Republic, Leeward Islands (2 species)
+** ''Campostrecha'' <small>Mello-Leitão, 1937</small> — Ecuador (1 species)
+** ''Dasycleobis'' <small>Mello-Leitão, 1940</small> — Argentina (1 species)
+** ''Neocleobis'' <small>Roewer, 1934</small> — Galapagos (1 species)
+** ''Pseudocleobis'' <small>Pocock, 1900</small> — South America (20 species)
+* Mortolinae
+** ''Mortola'' <small>Mello-Leitão, 1938</small> — Argentina (1 species)
+* Nothopuginae
+** ''Nothopuga'' <small>Maury, 1976</small> — Argentina (2 species)
+* Oltacolinae
+** ''Oltacola'' <small>Roewer, 1934</small> — Argentina (4 species)
+* Saronominae (Central and South America)
+** ''Branchia'' <small>Muma, 1951</small> — Mexico, USA (3 species)
+** ''Chinchippus'' <small>Chamberlin, 1920</small> — Peru (2 species)
+** ''Innesa'' <small>Roewer, 1934</small> — Guatemala (1 species)
+** ''Procleobis'' <small>Kraepelin, 1899</small> — Argentina (1 species)
+** ''Saronomus'' <small>Kraepelin, 1900</small> — Colombia, Venezuela (1 species)
+* Subfamily not assigned
+** ''Chileotrecha'' <small>Maury, 1987</small> — Chile (1 species)
+** ''Eutrecha'' <small>Maury, 1982</small> — Venezuela (1 species)
+** ''Xenotrecha'' <small>Maury, 1982</small> — Venezuela (1 species)
+** † ''Happlodontus proterus'' <small>Poinar & Santiago-Blay, 1989</small> — fossil: Miocene amber (1 species)
 
-== [[Insect habitat|Habitat]] ==
-Most sun-spiders like a habitat that is dry and hot, though while most species favor arid, desolated regions. Sometimes even inhabit the the African savanna or arid scrublands (though extremely rare) 
-
-== Occurence ==
-Most sun-spiders live in Asia, Africa, and some parts of North America.
-
-== Pet care guide (TBA) ==
-[[Category:Orders]]
+[[Category:Arachnids]]
+[[Category:Arachnid families]]
 [[Category:Solifugae]]
-[[Category:Incomplete pages]]
-[[Category:Arachnids]]</text>
-      <sha1>p8tsxmaejclexj7yes6s7bh3ojoz6i3</sha1>
-    </revision>
-  </page>
-  

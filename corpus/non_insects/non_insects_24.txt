@@ -1,27 +1,22 @@
 
-    <title>Sabacon cavicolens</title>
-    <ns>0</ns>
-    <id>3527</id>
-    <revision>
-      <id>5609</id>
-      <timestamp>2016-08-19T21:57:55Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Sabacon cavicolens''''' is a species of harvestman. ==Description== Males are a bit longer than 2 mm, females 5 mm. ==Distribution== It wa..."</comment>
-      5609
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="666" sha1="q4ned803xizfxyo7ua0mao01bcxborg" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Sabacon cavicolens''''' is a species of harvestman.
-==Description==
-Males are a bit longer than 2 mm, females 5 mm.
-==Distribution==
-It was originally described from Bat Cave, Carter County, Kentucky and New Hampshire, and a year later found under rotten logs in a deep gorge at Ithaca, New York.[1]
 
-''S. cavicolens'' is distributed over the eastern part of North America, south in the mountains of North Carolina. It is very closely related to ''S. paradoxum'' and other European species, but quite different from the other ''Sabacon'' species of the eastern US, the smaller ''S. mitchelli''.
-==Habitat==
-[[Category:Opiliones]]</text>
-      <sha1>q4ned803xizfxyo7ua0mao01bcxborg</sha1>
-    </revision>
-  </page>
-  
+Cyphophthalmi
+[[File:Placeholder|right|300px]]'''Cyphophthalmi''' is a suborder of harvestmen, with about 36 genera, and more than hundred described species. The six families are currently grouped into two infraorders, the Tropicophthalmi and the Temperophthalmi; however, these are not supported by modern phylogenetic analysis.
+
+They are smaller than the more familiar "daddy long-legs" harvestmen, with adults ranging from 1 to 6mm, including legs. Moreover, their legs are comparatively short compared to their body length, typically shorter than the body. Some superficially resemble mites. Their coloration is almost always some shade of brown, with a heavily sclerotized body, and they are quite inconspicuous, residing in leaf litter or in caves.[1] Many cyphophthalmids are eyeless, and presumably rely on olfactory cues to find food and mates. Their scent glands are located on special elevated cones called ozophores. They have low dispersal rates and consequently high endemism.
+==Relationships==
+Cyphophthalmi is one of the two lineages of harvestmen, the other, containing the Laniatores, Dyspnoi and Eupnoi is also called Phalangida.[1] Although they are grouped into the infraorders Temperophthalmi and Tropicophthalmi, this division is not supported by either molecular or morphological data.[3] DNA sequence data suggests that Neogoveidae and Troglosironidae form a monophyletic group.
+==Distribution==
+Cyphophthalmids are found on all continents, with the exception of Antarctica, where they probably also once lived. As they did not disperse onto any oceanic islands, and it is believed that they did not travel between separate landmasses, they make an interesting subject for biogeography. Each of the six currently recognized families has a distinct distribution:[5]
+*Stylocellidae, species of which are found from India to New Guinea
+*Ogoveidae, species of which occur in West Africa
+*Neogoveidae cyphophthalmids only occur Neotropical ecosystems between Florida and Ecuador, and in western equatorial Africa
+*Pettalidae cyphophthalmids are found in South America, South Africa, Sri Lanka, Australia and New Zealand, demonstrating a Gondwana distribution.
+*Sironidae cyphophthalmids show a Laurasian distribution, with most species found in temperate Europe and the west coast of North America
+*Troglosironidae cyphophthalmids are restricted to New Caledonia. Although they occur in the same region as some *Pettalidae, the two are not closely related.
+
+Colombia shows the largest diversity of cyphophthalmids among countries in South America. This could reflect the large number of ecosystems found there, but could also be due to a high rate of sampling in this country.
+==Fossil Record==
+[[Category:Prehistoric Insects]]
+[[Category:Extinct species]]
+[[Category:Opiliones]]

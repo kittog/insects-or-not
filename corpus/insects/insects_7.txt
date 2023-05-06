@@ -1,62 +1,42 @@
 
-    <title>Megasoma elephas</title>
-    <ns>0</ns>
-    <id>2492</id>
-    <revision>
-      <id>4308</id>
-      <parentid>4307</parentid>
-      <timestamp>2009-09-01T17:10:56Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-        4308
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1826" sha1="pis6kslohisg2pturay1sim1c30dzet" xml:space="preserve">{{Infobox
-|Box title = Megasoma elephas
-|Image file = Megasoma elephas.jpg
-|Image size = 150px
-|Row 1 title = [[Order]]
-|Row 1 info = [[Coleoptera]]
-|Row 2 title = [[Suborder]]
-|Row 2 info = [[Polyphaga]]
-|Row 3 title = [[Superfamily]]
-|Row 3 info = [[Scarabaeoidea]]
-|Row 4 title = [[Family]]
-|Row 4 info = [[Scarabaeidae]]
-|Row 5 title = [[Subfamily]]
-|Row 5 info = [[Dynastinae]]
-|Row 6 title = [[Tribe]]
-|Row 6 info = [[Dynastini]]
-|Row 7 title = [[Genus]]
-|Row 7 info = ''[[Megasoma]]''
-|Row 8 title = [[Species]]
-|Row 8 info = '''''Megasoma elephas'''''
-|Row 9 title = [[Subspecies]]
-|Row 9 info = '''Megasoma elephas elephas'''
-* [[Megasoma elephas iijimai]]
-* [[Megasoma elephas occidentalis]]
-}}
 
-Megasoma elephas is a very heavy beetle in the family [[Dynastinae]].
+Celidota splendens
+Celidota splendens is a species of [[Cetoniidae|cetoniid]] beetle native to Madagascar.
 
-==Appearance==
+{{Insect|name=Celidota splendens|image=[[File: Celidota splendens.JPG|260px]]|binomen=Celidota splendens Waterhouse, 1880|order=[[Coleoptera]]|suborder=[[Polyphaga]]|superfamily=[[Scarabaeoidea]]|family=[[Scarabaeidae]]|subfamily=[[Cetoniinae]]|tribe=[[Stenotarsiini]]|genus=Celidota|species=Celidota splendens|status=Not Evaluated|imagehab=[[File: Celidota splendens Hab.png|260px]]}}
 
-The Elephant Beetle is pretty large by weight and by size. The main colour of the Elephant is yellow. There are horns on the side like the [[Goliath Beetle]]. One very large horn resembles a hook and an elephant trunk, hence the name. 
+== Biology ==
 
-==Habitat==
+=== Morphology ===
+Celidota splendens is indeed, a truly stunning species with an iridescent carapace bathed in vivid red, emerald green and maroon shades altering as per the propagation of light. Reaching a charmingly tiny length of 22-26 mm, Celidota splendens has an oblong, (square-shaped in the females) emerald-green head with large compound eyes placed on either sides of the head, parallel to one another. C.<ref>https://sites.google.com/site/insectesdefrance/accueil/collection-insectes-du-monde/cetoniidae-de-madagascar/genre-celidota/celidota-splendens?authuser=0</ref> <ref>https://www.servizipidstore.it/celidota-splendens/</ref>Splendens has a splendid, metallic-green ventral side ; lustrous green appendages columned with sharp spikes. The carapace is smooth ; metallic in texture. The abdomen is divided into 5 segments.
 
-Elephant Beetle larvae develop in large decaying logs and take up to four years to develop into adult beetles. The female lays her eggs inside the decaying log. After about 3 weeks, the eggs hatch into C-shaped larva, white grubs with brown heads and six legs. The larval stage lasts 30 weeks, during which the grubs consume organic matter. The third and last stage, the pupal stage, lasts around 5 weeks at a temperature of 25°C. The life span of an adult Elephant Beetle is around four months. Elephant beetles eat spiny fruit on the coast like lychee or pineapple. Elephants are nocturnal.
+==== Sexual dimorphism ====
+the females have a triangular rear while the males have a rounded rear, the male has an oblong head while the female’s is a square-shaped head. The females are also slightly larger than the males<ref>https://sites.google.com/site/insectesdefrance/accueil/collection-insectes-du-monde/cetoniidae-de-madagascar/genre-celidota/celidota-splendens?authuser=0</ref>.
+
+=== Ecology ===
+
+==== Relation with humans ====
+C. Splendens are caught for their exquisite appearance, being quite sought after by collectors, and being used as jewellery. 
+
+==== Feeding habits ====
+While the feeding habits of imago C. Splendens remains largely unknown ; the larvae are known to be saprophagous I.e largely dependent on a diet of rotting vegetation, more specifically rotting wood<ref>https://no.m.wikipedia.org/wiki/Celidota</ref>.
+
+== Occurrence ==
+
+=== Range ===
+C. Splendens, as with other species of the genus Celidota, is widespread in Madagascar.
+
+=== Habitat ===
+No data.
+
+== References ==
 [[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Holometabola]]
 [[Category:Coleoptera]]
 [[Category:Polyphaga]]
 [[Category:Scarabaeoidea]]
 [[Category:Scarabaeidae]]
-[[Category:Dynastinae]]
-[[Category:Dynastini]]
-[[Category:Megasoma]]</text>
-      <sha1>pis6kslohisg2pturay1sim1c30dzet</sha1>
-    </revision>
-  </page>
-  
+[[Category:Cetoniidae]]

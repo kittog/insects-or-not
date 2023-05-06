@@ -1,31 +1,12 @@
 
-    <title>Xysticus</title>
-    <ns>0</ns>
-    <id>3739</id>
-    <revision>
-      <id>5888</id>
-      <timestamp>2017-01-09T17:53:04Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "'''''Xysticus''''' is a [[genus]] of ground crab spiders described by C. L. Koch in 1835, belonging to the order [[Araneae]], family Thomisidae. The genus name is derived from..."</comment>
-      5888
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1684" sha1="7023hgh2o6dt5jctlutj3mnvvgxb39m" xml:space="preserve">'''''Xysticus''''' is a [[genus]] of ground crab spiders described by C. L. Koch in 1835, belonging to the order [[Araneae]], family Thomisidae. The genus name is derived from the Ancient Greek root xyst, meaning "scraped, scraper".
-==Distribution==
-The genus ''Xysticus'' is distributed almost worldwide, but has not been recorded from South America. Of the about 360 species of the genus currently described, about 71 are present in Europe.
+
+Uloborus plumipes
+[[File:Placeholder|right|300px]]'''''Uloborus plumipes''''' is a species of Old World cribellate spider in the family Uloboridae. Common names include the '''feather-legged lace weaver''' and the '''garden centre spider''', the latter name being due to its frequent occurrence of this spider in garden centres on the world. The species name is derived from the Latin pluma "feather" and pes "foot".
+
+Females grow up to 6 mm. They lack venom glands, and are therefore non-venomous. A stabilimentum is sometimes present. Pattern and coloration is quite variable. In contrast to ''[[Uloborus walckenaerius]]'', it has distinct tufts of hairs on the front legs. They are well-camouflaged as they hang upside down motionlessly in their horizontal webs. Young spiders look like dead insects and are thus hard to find on a web. The empty egg sac can often be seen attached to house plants. It is flattish, papery and brown and about 0.5 cm long, with the shape of a dried holly leaf.
 ==Description==
-''Xysticus'' and ''[[Coriarachne]]'' are dark brown or reddish-brown crab spiders often encountered on weeds or trees. While similar to the 'flower spiders', they tend to have shorter, sturdier legs. Many, but not all, species have abdomens more patterned than most ''[[Thomisus]]'' species, rather like some of the ''[[Synema]]'' species. Some however, that are more terrestrial, resemble earth in color and texture.
-
-Most species of the genus ''Xysticus'' are small to medium sized spiders. They show a sexual dimorphism in size. Females of typical species reach a maximum of 10 millimetres (0.39 in) of body length, while their males are about 3–5 millimetres (0.12–0.20 in) long, about half the size of the females.
-
-The basic color of these species is usually brown, beige or gray. The prosoma is sometimes slightly smaller than the opisthosoma. In many species the front body shows in the middle a broad, pale longitudinal band. The opisthosoma is clearly flattened in most species and shows a median broad and dark leaf marking.
-
-The species are often very similar to each other, and in most cases can be distinguished only by a microscopic examination of the reproductive organs.
+''Uloborus plumipes'' is a small spider with adult females growing to a length of about 6 mm (0.2 in). The abdomen is truncated and patterned with various irregular tubercles and granulations. The front pair of legs are uneven in appearance with the tibia clothed in dense hairs while the naked terminal segments are very slender. The color is some shade of greyish-brown mottled with white specks.
+==Distribution and habitat==
+''Uloborus plumipes'' originated from warmer parts of the Old World where its typical habitat is on the trunk or among dead twigs and branches of trees.[1] It has spread to Holland, Belgium and other parts of Europe where it is found in heated greenhouses. It was first recorded in the United Kingdom in 1992 and has since spread to many areas particularly in the south and east. It is often known as the garden centre spider because it is found on houseplants growing in hothouses in garden centres and is able to survive the winter in greenhouses that are heated to maintain a temperature well above freezing point. It may perform a useful function in helping to control [[whitefly]].
 ==Behavior==
-[[Category:Araneae]]</text>
-      <sha1>7023hgh2o6dt5jctlutj3mnvvgxb39m</sha1>
-    </revision>
-  </page>
-  
+[[Category:Araneae]]

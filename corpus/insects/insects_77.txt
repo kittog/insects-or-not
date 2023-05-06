@@ -1,43 +1,24 @@
 
-    <title>Stratiomyomorpha</title>
-    <ns>0</ns>
-    <id>4272</id>
-    <revision>
-      <id>7259</id>
-      <parentid>7245</parentid>
-      <timestamp>2021-11-23T11:38:42Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7259
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="669" sha1="dsexmgkw30ozb9ptgfb6zma9d83znyx" xml:space="preserve">== Morphology ==
-The antennae have a primitive structure. A characteristic morphological characteristic of Pantophthalmidae only is the size of the body: in this family are included, in fact, some species that are among the largest within the Diptera, reaching even 10 cm in wingspan.
 
-== Behavior ==
+Xylophagomorpha
+The Brachyceran infraorder '''Xylophagomorpha''' is a small group that consists solely of the family '''[[Xylophagidae]]''', which presently contains subfamilies that were sometimes considered to be two small related families ('''[[Coenomyiidae]]''' and '''[[Rachiceridae]]'''). Other obsolete names for members of this family include '''[[Exeretonevridae]]''' and '''[[Heterostomidae]]'''. The family is known by the English name '''[[Flies|awl-flies]]'''. The larvae are often predatory, consuming other insect larvae living in rotting wood.
 
-=== Feeding habits ===
-In most cases as scavengers at the expense of organic material in decomposition.
+== Description ==
+Flies in this family have elongated bodies and resemble ichneumon wasps in shape. The base of the abdomen is constricted. The antennae have three segments.
 
-=== Habitat ===
-The larvae are aquatic or terrestrial habitats.
+== Genera ==
+These nine genera belong to the family Xylophagidae:
 
-== Families ==
-
-* [[Pantophthalmidae]]
-* [[Stratiomyidae]]
-* [[Xylomyidae]]
-* †[[Zhangsolvidae]]
-
-&lt;br /&gt;
-[[Category:Diptera]]
-[[Category:Brachycera]]
+* ''Anacanthaspis'' 
+* ''Arthropeas'' 
+* ''Coenomyia'' 
+* ''Dialysis'' 
+* ''Exeretonevra''
+* ''Heterostomus''
+* ''Odontosabula''
+* ''Rachicerus''
+* ''Xylophagus''
 [[Category:Insecta]]
-[[Category:Infraorders]]</text>
-      <sha1>dsexmgkw30ozb9ptgfb6zma9d83znyx</sha1>
-    </revision>
-  </page>
-  
+[[Category:Brachycera]]
+[[Category:Diptera]]
+[[Category:Infraorders]]

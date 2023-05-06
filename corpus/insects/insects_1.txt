@@ -1,47 +1,27 @@
 
-    <title>Coccinella Septempunctata</title>
-    <ns>0</ns>
-    <id>4550</id>
-    <revision>
-      <id>7963</id>
-      <timestamp>2022-02-16T14:05:45Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Created page with "{{Stub}}{{Insect|name=Coccinella Septempunctata|binomen=Coccinella Septempunctata, Linnaeus 1758|common=Seven-Spot Ladybug|other=Seven Spotted Ladybug|native=N/A|order=Coleo..."</comment>
-        7963
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2543" sha1="ofon1z4pnajyz52xldx1ik12zh4w6zr" xml:space="preserve">{{Stub}}{{Insect|name=Coccinella Septempunctata|binomen=Coccinella Septempunctata, Linnaeus 1758|common=Seven-Spot Ladybug|other=Seven Spotted Ladybug|native=N/A|order=[[Coleoptera]]|suborder=[[Polyphaga]]|superfamily=[[Coccinelloidea]]|subfamily=[[Coccinellinae]]|genus=[[Coccinella]]|family=[[Coccinellidae]]|species=Coccinella Septempunctata, Linnaeus 1758|status=Least Concerned|image=[[File:Ladybird-facts-5.jpg|300px]]}}
 
-Coccinella Septempunctata, or commonly known as '''Seven-Spot Ladybug''' is a species of [[Coccinellidae|coccinelid]] from the subfamily [[Coccinellinae]].
+Coccinellidae
+{{Infobox_100|title1=Coccinellidae|image1=Coccinellidae.png|caption1=[[Entomologist]] prefer naming them ladybird beetles or lady beetles as these insects are not classified as [[true bugs]].|order=[[Coleoptera]]|phylum=[[Arthropoda]]|class=[[Insecta]]|family=Cocinellidae}}
+
+'''Ladybugs''' also called ladybirds are infamously known as one of the most beneficial insects to agriculture and gardens due to their metabolism which compromises of pests. They generally and commonly eat [[Aphid|aphids]], [[Scale insect|scale insects]] and [[whiteflies]]. They can be found in Tropical and sub-tropical regions however they have a furthermore wider distribution is urban habitat this is so because they have adapted themselves to urbanization. 
 
 == Morphology ==
-C. Septempunctata has vivid scarlet elytron speckled with seven matt-black spots, the first one is present on apical halves of the elytrons forming a joint between the two elytra, the second spot is present within the center of the elytron adjacent to the third spot, the fourth spot is located near the margin of the elytra adjacent to the fifth spot. The sixth and seventh spots are adjacent to fifth and fourth spots and to one another, the forth and fifth spots are present above the sixth and seventh spots, Adults are known to reach lengths between 7.6 - 12.7 cm. Their noticeable colorations make them un-appealing to predators. The adult's abdomen is black with two black spots present adjacent to one another.
 
-== Seasonal History ==
-This section is a stub due to lack information sources, please help insect wiki by inserting more valid information to this section!
+=== Adult (imago) ===
+Coccinellids have a vibrant coloration ranging from orange, yellow, vermillion, golden, red and scarlet. Their exoskeletons are painted with such bright irisedescent colorations are presents for a good reason, that is to warn predators about their defense mechanism and their unpleasent taste hence many predators often tend to avoid consuming them. They have a variety of tesselations present on their elytron normally circular patterns ranging in quantity from 1-20 circular in most cases, some species have parallel stripes and some have irregular patterns while some do not possess any.  They generally have white and black thoracic regions. Their inner fine-veined wings used for flight are normally tinted either black or grey. 
 
-== Biology ==
-C. Septempunctata was introduced to UK as a biological means of non-chemical pest control due to their diet which mainly compromises of Aphids and other smaller insects, C. Septempunctata are vulnerable to becoming a prey for Harmonia axyridis (Harlequin Ladybug) The seven-spot ladybug is now widely used as pest-control agent to control aphid populations all over the world, They are a reliable means of non-chemical pest control and exceptionally helpful for farms, Greenhouses and gardens.
+=== Juvenile ===
+In their juvenile forms, they spend their lives on leaves of plants, their diet are the same as the adults feeding on soft-bodied insects, the larva's bodies are divided into ring-like segements with a range in quantity from 10-30 and have 3 pairs of legs, unlike other coleopterans, Coccinellids spend most of their lives above-ground prone to wild predators.
 
-== Ecology ==
+== Behaviors ==
+The majority of coccinellid species are generally considered beneficial insects, because many species prey on herbivorous hemipterans such as aphids or scale insects, which are agricultural pests. Many coccinellids lay their eggs directly in aphid and scale insect colonies in order to ensure their larvae have an immediate food source. However, some species do have unwelcome effects; among these, the most prominent are of the subfamily [[Epilachninae]] (which includes the [[Mexican bean beetle]]), which are herbivorous themselves. Usually, epilachnines are only minor agricultural pests, eating the leaves of grain, potatoes, beans, and various other crops, but their numbers can increase exponentially in years when their natural enemies, such as [[Apocephalus borealis|parasitoid wasps]] that attack their [[eggs]], are in fewer numbers. In such situations, they can do major crop damage. They occur in practically all the major crop-producing regions of temperate and tropical countries.
 
-=== Food Sources &amp; Diet ===
-Adult and Infant C. Septempunctata feed on aphids and Imago are also known to occasionally feed on nectar &amp; pollen grains from flowers.
+=== Defense mechanism ===
+The vibrant bright coloration serves a purpose as well, their ability to defend themselves from predators is called "Reflex bleeding" Where a yellow-colored, foul smelling chemical is poured out of the regional joints that connect the thorax and the head, this chemical is enough to make predators un-satisfied and disgusted. The substance's color varies in each species and so does it's composition.
 
-== Geolocation ==
-C. Septempunctata are known to be found worldwide with the exception of Antarctica and some isolated remote areas. Large Populations are found in humid climatic mainly Asia &amp; America.
-&lt;br /&gt;
-[[Category:Insecta]]
-[[Category:Pterygota]]
-[[Category:Endopterygota]]
-[[Category:Neoptera]]
-[[Category:Polyphaga]]
+== Misconceptions ==
+A common false fact which has'nt even been proven, is that the number of spots on the insect's back indicates its age. In fact, the underlying pattern and colouration are determined by the species and genetics of the beetle, and develop as the insect matures. In some species its appearance is fixed by the time it emerges from its pupa, though in most it may take some days for the colour of the adult beetle to mature and stabilise. Generally, the mature colour tends to be fuller and darker than the colour of the callow.
+[[Category:Article stubs]]
 [[Category:Coleoptera]]
-[[Category:Coccinellidae]]</text>
-      <sha1>ofon1z4pnajyz52xldx1ik12zh4w6zr</sha1>
-    </revision>
-  </page>
-  
+[[Category:InsectFamilies]]
+[[Category:Insecta]]

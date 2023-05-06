@@ -1,25 +1,10 @@
 
-    <title>Dolomedes minor</title>
-    <ns>0</ns>
-    <id>3677</id>
-    <revision>
-      <id>5759</id>
-      <timestamp>2016-09-13T22:56:46Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]The '''nursery web spider''' (''Dolomedes minor'') is a [[spider]] indigenous to New Zealand. ==Identification== ''Dolomedes minor'' is pale br..."</comment>
-      5759
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1165" sha1="9ra8z13zh6siw08l0avct66bfnwxcmn" xml:space="preserve">[[File:Placeholder|right|300px]]The '''nursery web spider''' (''Dolomedes minor'') is a [[spider]] indigenous to New Zealand.
-==Identification==
-''Dolomedes minor'' is pale brown with some being grayish, like the rocks around which they live, helping to camouflage them against predators. (Arnqvist, 1992) The spider has large pedipalps, which are usually used for sensory purposes. The palps in the male ''Dolomedes minor'' are modified for putting sperm into the female's epigyne, which is located on the underside of the female's abdomen. The female ''Dolomedes minor'' can easily be identified based on this location of the epigyne. They possess large chelicerae, which are located just below the eyes. (Andrews, 1986) The spider has a body length of about 18 mm. The females are almost twice the size of the males. They move very fast and possess a long leg-span: over sixty millimeters for a fully grown female.
-==Natural global range==
-The family Pisauridae, containing all nursery web spiders, has been estimated to contain over 300 species. However, ''Dolomedes minor'' is the only species endemic to New Zealand.
-==New Zealand range==
-[[Category:Araneae]]</text>
-      <sha1>9ra8z13zh6siw08l0avct66bfnwxcmn</sha1>
-    </revision>
-  </page>
-  
+
+Six-spotted fishing spider
+[[File:Placeholder|right|300px]]The '''six-spotted fishing [[spider]], ''Dolomedes triton''''', is an arachnid from the nursery web spider family Pisauridae. This species is from the genus Dolomedes, the fishing spiders. This species of fishing spider is named after the mythological Greek god Triton who is the messenger of the big sea and the son of Poseidon.[1] These spiders can be seen scampering along the water’s surface when a person walks by in which they are often referred to as dock spiders because they are often witnessed as they quickly vanish through the cracks of a boat dock.
+==Description==
+This spider can be identified by its large size and distinctive markings. They have eight eyes with good vision and the body is grey to brown. They have a white to a pale cream colored stripe running down each side of the cephalothorax. The abdomen has many light colored spots and also has light colored lines running down the sides of the abdomen. When this species is seen from below, there are six dark spots present on the bottom of the cephalothorax in which the common name is derived.[1] Like many spiders, this species shows sexual dimorphism.[2] The female is larger than the male. The female is about 60 millimetres (2.4 in) long including the legs; her body length is 15–20 mm (0.59–0.79 in) and the male's body is 9–13 mm (0.35–0.51 in) long.[3] The juvenile spiders look similar to adults but are smaller and they go through a series of molts within their lifetime to grow and reach adult size.
+==Distribution and habitat==
+These spiders are native to the Western Hemisphere and can be found throughout the contiguous United States and southern Canada, more common east of the Rocky Mountains and Great Plains. They can also range into Mexico.[4] They are semi-aquatic and live in wetland habitats such as ponds, lake shores, and they can also inhabit slow-moving streams. They can be found among vegetation, rocks and other structures near the water such as boat docks.[4] They often dive underwater and grab onto a plant when frightened.
+==Behavior and diet==
+[[Category:Araneae]]

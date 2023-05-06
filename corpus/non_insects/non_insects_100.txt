@@ -1,25 +1,10 @@
 
-    <title>Fattail scorpion</title>
-    <ns>0</ns>
-    <id>3483</id>
-    <revision>
-      <id>5565</id>
-      <timestamp>2016-07-21T03:52:17Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''Fattail [[scorpion]]''' or '''fat-tailed scorpion''' is the common name given to scorpions of the genus ''[[Androctonus]]'', one of the most..."</comment>
-      5565
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1793" sha1="rdyzasa7lkfy2rdeuhb6ckuc195su7v" xml:space="preserve">[[File:Placeholder|right|300px]]'''Fattail [[scorpion]]''' or '''fat-tailed scorpion''' is the common name given to scorpions of the genus ''[[Androctonus]]'', one of the most dangerous groups of scorpions species in the world.[1] They are found throughout the semi-arid and arid regions of the Middle East and Africa.[1] They are a moderate sized scorpion, attaining lengths of 10 cm (just under 4 in).[2] Their common name is derived from their distinctly fat metasoma, or tail, while the Latin name originates from Greek and means "man killer".[2] Their venom contains powerful neurotoxins and is especially potent.[1] Stings from ''Androctonus'' species are known to cause several human deaths each year.[1] Several pharmaceutical companies manufacture an antivenom for treatment of ''Androctonus'' envenomations.
-==Geographical range==
-''Androctonus'' is widespread in North and West Africa, the Middle East and eastwards to the Hindukush region. Countries where ''Androctonus'' species live include: Armenia, Morocco, Algeria, Tunisia, Libya, Egypt, Togo, Palestine, Israel, India, Lebanon, Turkey, Jordan, Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Kuwait, Iraq, Iran, Afghanistan, Bahrain and Pakistan.
-==Etymology==
-A rough English translation of the name ''Androctonus'' is "man-killer", from the Greek andras (άνδρας), meaning "man" and kteinein (κτείνειν), meaning "to kill". ''Crassicauda'' means fat-tailed, from the Latin crassus meaning "thick" or "fat" and cauda, meaning "tail". ''Androctonus crassicauda'' is widespread throughout the Middle East and its name means "fat-tailed man-killer". Similarly, the Latin word for South is australis, from which ''Androctonus australis'', "southern man-killer", derives.
-==Taxonomy==
-[[Category:Scorpiones]]</text>
-      <sha1>rdyzasa7lkfy2rdeuhb6ckuc195su7v</sha1>
-    </revision>
-  </page>
-  
+
+Hadrurus arizonensis
+[[File:Placeholder|right|300px]]'''Hadrurus arizonensis''', the '''giant desert hairy scorpion''', '''giant hairy scorpion''', or '''Arizona Desert hairy [[scorpion]]''', is the largest scorpion in North America,[2] and one of the 8–9 species of ''Hadrurus'' in the United States, attaining a length of 14 cm (5.5 in).[3] Its large size allows it to feed easily on other scorpions and a variety of other prey, including lizards and snakes. This species is usually yellow with a dark top[3] and has lobster-like pincers. It gets its common names from the brown hairs that cover its body. These hairs help it to detect vibration in the soil.[3] A similar species is ''[[Hadrurus spadix]]''.
+==Habitat==
+''Hadrurus arizonensis'' is distributed throughout the Sonora and Mojave deserts. In Mexico, the species' range flanks the Gulf of California in Sonora and Baja California Norte. In the United States, it is found in the western two thirds of Arizona, the Colorado Desert and Mojave Desert regions of southern California, southern Nevada, and extreme southwestern Utah. Arizona Desert hairy scorpions are a warm-desert species, specially adapted to hot and dry conditions. They are usually found in and around washes or low-elevation valleys where they dig elaborate burrows (up to 2.5 m or 8 ft 2 in) and emerge at night to forage for prey and mates. Other species commonly encountered living sympatrically with this species are: ''Smeringurus mesaensis'', ''Hoffmannius confusus'', and ''[[Hoffmannius spinigerus]]''.
+==Diet and behavior==
+It is a burrowing scorpion, but is commonly found under rocks containing moisture. Its diet consists of large [[insect]]s, [[spider]]s, and small vertebrates.[2] This is an aggressive and active scorpion, which, as with all scorpions, is nocturnal. Like all scorpions, the giant desert hairy scorpion gives birth to live young, which remain on the mother's back for a week or more before leaving.
+==Toxicity==
+[[Category:Scorpiones]]

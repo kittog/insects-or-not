@@ -1,24 +1,35 @@
 
-    <title>Oniscomorpha</title>
-    <ns>0</ns>
-    <id>2038</id>
-    <revision>
-      <id>4151</id>
-      <parentid>3323</parentid>
-      <timestamp>2009-08-26T19:10:44Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-      <minor/>
-      <comment>moved [[Pill millipede]] to [[Oniscomorpha]]:&amp;#32;A better and shorter title- Pill Millipede would do great in this form!</comment>
-      4151
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="476" sha1="pmu5p7bntys06iewyat5rkh88dltsbs" xml:space="preserve">[[File:Glomeris_marginata.jpg|thumb|''[[Glomeris marginata]]'']]Pill millipedes, also known as armadillo bugs are millipedes that can roll themselves up into little balls when disturbed. Adults have 15 pairs of legs, and are sometimes brightly marked. They mainly eat plants. Two hundred species of pill millipedes exist in the world today. They are mainly found in the Northern Hemisphere. They belong to the order [[Glomerida]].
-[[Category:Glomerida]]
-[[Category:Myriapods]]</text>
-      <sha1>pmu5p7bntys06iewyat5rkh88dltsbs</sha1>
-    </revision>
-  </page>
-  
+
+Myriapod orders
+[[Myriapod]] orders.
+
+*[[Chilopoda]]
+**[[Geophilida]]
+**[[Lithobiida]]
+**[[Scolopendrida]]
+**[[Scutigerida]]
+*[[Diplopoda]]
+**[[Pentazonia]]
+**[[Glomeridesmida]]
+**[[Glomerida]]
+**[[Sphaerotheriida]]
+**[[Polyzoniida]]
+**[[Platydesmidaydesmida]] 
+**[[Siphonophorida]]
+**[[Polydesmida]]
+**[[Callipodida]]
+**[[Chordeumatida]]
+**[[Stemmiulida]]
+**[[Julida]]
+**[[Xyloiuloida]] (extinct)
+**[[Siphoniulida]]
+**[[Spirobolida]]
+**[[Spirostreptida]]
+*[[Pauropoda]]
+*[[Symphyla]]
+
+== Sources ==
+*[http://www.wikipedia.com/wiki/millipede Millipede on Wikipedia]
+*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+[[Category:Myriapods]]
+[[Category:Orders]]

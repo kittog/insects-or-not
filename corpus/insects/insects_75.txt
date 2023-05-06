@@ -1,38 +1,30 @@
 
-    <title>Stalk-eyed fly</title>
-    <ns>0</ns>
-    <id>3843</id>
-    <revision>
-      <id>6012</id>
-      <timestamp>2018-03-29T16:52:20Z</timestamp>
-      <contributor>
-        <ip>184.186.4.209</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''Stalk-eyed flies''' are insects of the fly family Diopsidae. The family is distinguished from most other flies by the possession of "eyestal..."</comment>
-        6012
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3241" sha1="krzvo2e4rz81udgarcvv6acoij8p0jz" xml:space="preserve">[[File:Placeholder|right|300px]]'''Stalk-eyed flies''' are insects of the fly family Diopsidae. The family is distinguished from most other flies by the possession of "eyestalks": projections from the sides of the head with the eyes at the end. Some fly species from other families such as Drosophilidae, Platystomatidae, Richardiidae, and Tephritidae have similar heads, but the unique character of the Diopsidae is that their antennae are located on the stalk, rather than in the middle of the head as in all other flies.
 
-The stalk-eyed flies are up to a centimeter long, and they feed on both decaying plants and animals. Their unique morphology has inspired research into how the attribute may have arisen through forces of sexual selection and natural selection. Studies of the behavior of the Diopsidae have yielded important insights into the development of sexual ornamentation, the genetic factors that maintain such a morphological feature, sexual selection, and the handicap principle.
+Calliphora vomitoria
+{{Infobox|Box title=Calliphora Vomitoria|Image file=Calliphora vomitoria.jpg|Image size=255px|Row 1 title=[[Kingdom]]|Row 1 info=[[Animalia]]|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Diptera]]|Row 5 title=[[Superorder]]|Row 5 info=[[Holometabola]]|Row 6 title=[[Suborder]]|Row 6 info=[[Brachycera]]|Row 7 title=[[Infraorder]]|Row 7 info=[[Muscomporpha]]|Row 8 title=[[Family]]|Row 8 info=[[Calliphoridae]]|Row 9 title=[[Genus]]|Row 9 info=[[Calliphora]]|Row 10 title=[[Tribe]]|Row 10 info=[[Calliphorina]]}}
 
-==Distribution and habitat==
-More than 100 species in the Diopsidae are known, with the greatest diversity found in the Old World tropics.[2] They are distributed throughout the region, with the best-known species being from Southeast Asia and Southern Africa. Also, two species in North America have been described and a European species has recently been found in Hungary.[3]
+''Calliphora vomitoria'', also known as the '''bluebottle fly,''' or the '''Orange bearded blue bottle'''  is a [[blow fly]] belonging to the [[Calliphoridae]]  
 
-Adult diopsids are typically found on low-lying vegetation in humid areas, often near streams and rivers, where they feed on fungi and bacteria, which they scavenge from decaying vegetation. The larvae are saprophagic or phytophagous, eating decaying and fresh plant matter. ''[[Diopsis macrophthalma]]'' Dalman, 1817, is a pest of rice and sorghum in tropical Africa.
+family and the [[Diptera]] order. 
 
-The peculiar morphology of stalk-eyed flies makes it easy to identify their fossils (e.g. in amber); one prehistoric genus that has been discovered in that form is Prosphyracephala.
+== Appearance ==
+This species is 10-14 mm long, thus making it slightly larger than a housefly. The head and [[thorax]] are a dull gray color, and the abdomen is bright metallic blue with black markings. The body and [[leg]]s are covered with black bristle-like hair known as [[setae]]. The eyes are red and the wings are clear. The legs and antennae are black. The setae adorning it's entire body are sensory hairs that act as a set of "Feelers" that enable the fly to detect the presence of foods as the taste-sensory receptors are present on the underside of the legs. The abdomen is metallic and may often appear in a variety of shades due to the slight iridescent coating. The abdomen also has dark marking on it. The main distinctive feature from which the common name The orange bearded bluebottle is derived from are the orange setae covering the undersides of their heads close to the [[Insect anatomy|labellum]].
 
-==Morphology==
-The Diopsidae are small to medium-sized flies, ranging from about 4.0 to about 12.0 mm in length. Their heads are subtriangular, with transverse eye stalks in all genera except the African genus Centrioncus. The head is usually sparsely haired, with vibrissae (whiskers) absent.[5]
+== Life cycle ==
+The female bluebottle fly will lay her eggs in decaying leftover edible objects, garbage, and feces once mating as took place. The [[maggot]]s will feed on the place where the eggs were laid consuming the leftovers and feces, the maggots do not have any protective exoskeletons and are exposed to outer environments, the larva are pale with minute sized bulbous heads that are generally brown. The larva have ring-like segments which they use to move around by pushing their muscles forwards and contrasting them in order to move. After a few days, the [[larvae]] enters a pupal stage where they borrow within soil and manure the pupa is brown in color eventually after few days, A fully mature fly will emerge. After 2 or 3 weeks, the cycle will start over again. 
 
-The posterior portion of the fly's metathorax, or scutellum, has a pair of stout processes, and often the laterotergite (one of a number of lateral flanges) of the postnotum (a small dorsal sclerite on the insect thorax posterior to the notum) has a dome-like swelling or spine-like process. The anterior femora of the legs are stout, with ventral spines. Adult males have lost tergites seven and eight, and the seventh sternite forms a complete ventral band.[5]
+== senses ==
+A bluebottle fly will feed off almost anything it can find, and can smell meat up to a distance of 7 kilometers away and have an extra sensory stimulus, The setae covering their bodies are receptors for taste as they also have pluvial organs on their feet (Taste receptors) , their eyes are composed of more than 10000 lenses whereas mammals like humans only have one lens in each eye.  
 
-Stalk-eyed flies, as the name implies, typically possess eyestalks. Their eyes are mounted on projections from the sides of the head, and the antennae are located on the eyestalks, unlike stalk-eyed flies from other families. A rather remarkable feature of stalk-eyed flies is their ability, shortly after they emerge from their pupae, to ingest air through their oral cavity and pump it through ducts in the head to the tips of the eye stalks, thereby elongating them while they are still soft and transparent
+== Feeding ==
+Like other blowflies, ''Calliphora vomitoria'' colonize animal remains, including humans. While adult ''Calliphora vomitoria'' feed on nectar, the larvae feed on corpses, the medium in which they grow. However, it has been shown that feeding on processed substrates (food that are modified for human consumption by increasing shelf life and taste through salting, curing, smoking, etc) provided much better growth than unprocessed substrates such as raw unmodified liver. Because different substrates drastically affected growth, ''C. vomitoria'' is best characterized as a specialist that best utilizes processed substrates (minced meats, for example). Its close relative, ''Calliphora vicina'', is a generalist, being able to utilize mixed substrates with equal growth rates. In the case of overcrowding, ''C. vomitoria'' competition results in compensation by increased speed of development, leading to smaller larvae and adults. This has complications in forensics because different parts of the body would grow at different rates.
 
-==Taxonomy==
-[[Category:Brachycera]]</text>
-      <sha1>krzvo2e4rz81udgarcvv6acoij8p0jz</sha1>
-    </revision>
-  </page>
-  
+== Pollination ==
+This species of flies have been known to pollinate certain plants such as skunk cabbage, goldenrod and sunflowers, what allows them to do so is the presence of setae on their bodies that give a perfect place for pollen adhesion as pollen grains cling onto the setae and align in a lane like formation. 
+[[Category:Insecta]]
+[[Category:Diptera]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]
+[[Category:Brachycera]]
+[[Category:Muscomorpha]]
+[[Category:Calliphoridae]]

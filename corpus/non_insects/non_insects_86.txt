@@ -1,29 +1,12 @@
 
-    <title>Anadenobolus monilicornis</title>
-    <ns>0</ns>
-    <id>3476</id>
-    <revision>
-      <id>7401</id>
-      <parentid>7372</parentid>
-      <timestamp>2021-12-08T11:54:36Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      7401
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1567" sha1="1at9neghbqxdtrl4x1mk78mhvhglyte" xml:space="preserve">[[File:Anadenobolus monilicornis.jpg|link=link=Special:FilePath/Placeholder|alt=|right]]
-'''''Anadenobolus monilicornis''''', known as the '''yellow-banded [[millipede]]''' or '''bumble bee millipede''', is a species of millipede in the family Rhinocricidae. It is native to the Caribbean but has been introduced to the southeastern United States.
+
+Harpaphe haydeniana
+[[File:Harpaphe haydeniana.jpg|link=link=Special:FilePath/Placeholder|alt=|right]]
+'''''Harpaphe haydeniana''''' (the '''yellow-spotted millipede''', '''almond-scented millipede''' or '''cyanide [[millipede]]''') is a species of polydesmidan ("flat-backed") millipede found in the moist forests along the Pacific coast of North America, from Southeast Alaska to California. The dark coloration with contrasting yellow-tipped keels warn of its ability to exude toxic hydrogen cyanide as a defense. Despite the various common names given the species, the coloration pattern, cyanide defense, and associated almond scent occur in other flat-backed millipedes around the world.
 ==Description==
-Individuals are dark brown with distinctive yellow bands, and measure 2.5–10 centimetres (1.0–3.9 in) long. The legs and antennae are tinted maroon, It indeed is a beautiful millipede with a vast and abundant population with several generations on annual bases.
-==Ecology and behavior==
-This species inhabits leaf litter. Birds and captive monkeys have been observed crushing these millipedes and rubbing their secretions on their wings or fur, probably to repel insects.
+''H. haydeniana'' reach a length of 4–5 centimeters (1.6–2 in) when mature. The upper surface of the body is black to olive green, and is distinctively marked along the sides with patches of a yellowish colour. ''H. haydeniana'' has approximately twenty body segments, bearing a total of 30 (males) or 31 (females) pairs of legs. The difference between males and females is due to one pair of legs on the seventh segment in males being modified to form gonopods used for sperm transfer. Individuals may live for 2–3 years.
 ==Distribution==
-With an abundance of habitats thriving with this species, They are found all across central america the most abundant range includes floride and have been seen on Bramhas sea (Nassau Islands) and Mexico alongside being found Puerto rico, San Juan as we extend to the East, This species is thiving in El salvador, In mexico it can be found in several states namely Veracruz, Morelia and near Durango and even Columbia with upto 900 known occurences around central America. These species establish their populations at a rapid pace in wet and moist climatic conditions, they inhabit damp woods as they settle in the rotting wood from which they their food is driven.
+''H. haydeniana'' occurs from southeast Alaska south to Monterey County, California, as far east as the Sierra Nevada mountains.
+==Ecology==
+[[Category:Myriapods]]
 [[Category:Diplopoda]]
-[[Category:Myriapods]]</text>
-      <sha1>1at9neghbqxdtrl4x1mk78mhvhglyte</sha1>
-    </revision>
-  </page>
-  

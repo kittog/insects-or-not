@@ -1,42 +1,37 @@
 
-    <title>Caria sponsa</title>
-    <ns>0</ns>
-    <id>3993</id>
-    <revision>
-      <id>8228</id>
-      <parentid>7920</parentid>
-      <timestamp>2023-02-11T07:59:27Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        8228
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2927" sha1="jefadwjxzykoefwcbhn2akimbqlkqea" xml:space="preserve">One of the most exquisitely beautiful butterflies in Oceania and New Zeeland, Peru and North America, their wings are a mix of metallic green blue and violet, with an
 
-{{Insects_Simple|image1=Caria sponsa.png|caption1=A beautiful array of glittering colors on it's wings.|order=Lepidoptera|family=Riodinidae|genus=Caria|species=Glittering mantle|similar_species=Madascan sunset moth
-Zodiac moth  
-Ducalis hairstreak}}
+Laothoe populi
+{{Insects_Simple|title1=Laothoe populi|image1=Laothoe populi moth.jpg|caption1=Adult female (Above-view)|order=[[Lepidoptera]]|family=[[Sphingidae]]|genus=[[Laothoe]]|species=L. populi|similar_species=[[Striped sphinx]]     
+[[Elephant hawk-moth]]                                                     
+[[Lime hawk-moth]]}}Laothoe populi, Also known as the '''Poplar Hawk-moth''', is a moth of the family [[Sphingidae]]. The species was first described by Carl Linnaeus
 
-exotic shimmering indigo color, their wings are tinted with a wide array of mesmerizing colors, unfortunately they are regarded as endangered and many thought they are now extinct however it is estimated there are more than 800 species alive however they are only seen on highly rare occasions due to their secretive habitats deep into the woodlands and lush-green forests, they are hardly ever seen in urban areas mainly due to habitat loss although fairly common.
-
+in his 1758 10th edition of Systema Naturae. It is found throughout the Palearctic region and the Near East and is one of the most common members of the family in the region. It is distinctive due to its habit of resting with its hindwings held further forward than (but still half hidden by) the forewings.
 == Morphology ==
-The glittering mantle butterfly has an overwhelmingly beautiful appearance with mesmerizing shades of light green, olive green, indigo, and a wide array of similar colorations with their bodies being Prussian blue with bright green large compound eyes with a lustrous metallic shades occurring between blue to green and Green bordered edges and the center of their wings meeting at the [[thorax]] speckled with metallic green, they also have a pair of large [[Antenna|antennae]] which extend straight outwards being one of the key features to differentiate between lepidopterans (Butterflies and moths) their wingspan has an approximate length which is currently undetermined, a little or no information is available regarding their life cycles neither their is a physical description for the juvenile.
+[[File:Laothoe populi Moth (2).png|thumb|247x247px|A camouflaged female]]
+Laothoe populi is certainly one of the more cunning species of hawkmoths with a strikingly close appearance to a deaf leaf as they bask under the sunlight over a tree branch, their wings have blotched wings that create a notion of the specimen being a dead leaf. They have slightly pale venations on their wings that are almost completely parallel to one another. Their coloration is typically a mix between different shades of dull brown. The wings of female specimen seem to have tiny white spots on their wings with a larger scarlet blotch on the hindwing. These moths have large bodies with curved, hairless antennae that are mostly white and extremely thin and minute in terms of size and only has a singular segment. Their wings have a curved, downward facing set of forewings. The males have a light yellow tinted wings with shades of dull brown and the red blotches are also present in males, the males have a vibrant yellow shade closely similar to mornem flavescens. The eggs are silver-grey and look like pearls, the larva is green in color, with vibrant shades of pastel and bright green and soon it's coloration wanes away as it molts.
 
-== Behavior ==
-The adults spend most of their time perching on the canopy of vast rainforests and woodlands and are most likely to be discovered basking at low levelled foliage perching with their wings wide open over patches of weeds and moss as the green pigment on their wings conceals them while perching on batches of weeds and grass they prefer basking under sunshine near rivers and lakes while perching onto the pebbles near shallow streams of water. They are exceedingly elusive and seen only when they descend to immobile the water streams near freshwater and tropical canopy, they can also be seen sitting on edges of barks of trees creating a false notion to predators that they are nothing but moss crawling over the tree trunk and may occasionally get many by surprise by flying and making a quick escape upon realizing that  it's life under threat. A little of no information is available regarding their life  cycle or their habitual behaviors such as food for example.
+== Other Hawk-moth Species ==
+<gallery>
+File:Lime hawk-moth2.jpg|[[Lime hawk-moth]]
+File:35981119593 8220851d27 o striped hawk moth.jpg|[[Striped Hawk Moth]]
+File:Hummingbird hawk moth.jpg|[[Hummingbird hawk-moth]]
+File:Elephant Hawk caterpillar.jpg|[[Elephant Hawk Caterpillar|Elephant hawk-moth]]
+</gallery>
+
+== Life cycle ==
+[[File:Laothoe populi moth larvae.jpg|thumb|A baby poplar hawk-moth larva.]]
+Adults are on the wing and looking for mates between '''May and August'''. Females release pheromones which attract passing males and lay their eggs beneath leaves. Caterpillars hatch and feed between June and early October. They eventually descend to the ground to pupate and overwinter beneath the surface.
+
+<br />
+
+== Gallery ==
+<gallery>
+File:Laothoe populi.jpg
+File:Laothoe populi Moth (2).png
+File:Laothoe populi moth.jpg
+File:Laothoe populi moth larvae.jpg
+File:Laothoe populi imago (Basking).jpg
+File:Laothoe populi (Male).jpg
+</gallery>
 [[Category:Lepidoptera]]
-[[Category:Insect individuals]]
-[[Category:Endopterygota]]
-[[Category:Pterygota]]
-[[Category:Insecta]]
-[[Category:Papilionoidea]]
-[[Category:Endangered species]]
-[[Category:Neoptera]]
-[[Category:Holometabola]]</text>
-      <sha1>jefadwjxzykoefwcbhn2akimbqlkqea</sha1>
-    </revision>
-  </page>
-  
+[[Category:Sphingidae]]

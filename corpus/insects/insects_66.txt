@@ -1,33 +1,29 @@
 
-    <title>Blastophaga psenes</title>
-    <ns>0</ns>
-    <id>2197</id>
-    <revision>
-      <id>3580</id>
-      <parentid>3578</parentid>
-      <timestamp>2009-06-17T18:39:27Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>Added image</comment>
-        3580
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="590" sha1="j540tayro83jljvup7aikeuohsiquu4" xml:space="preserve">[[File:Blastophaga_psenes.jpg|thumb|218px]]''Blastophaga psenes'' is a species of [[fig wasp]] that is found all around the world. It commonly pollinates ''Ficus carica'', the common fig. There are 10 times more females of this species than there are males. The males of this species do not have wings. 
+
+Wasp
+[[File:Wasp image 2.jpg|thumb|202px]]A '''wasp''' is an [[insect]] that is yellow and black with a powerful sting. Unlike their look-alikes, [[bee]]s, wasps can sting a variety of times, while a bee can only sting once, and then will die. There are many families of wasps, and they belong to the [[Hymenoptera]] [[order]].
+
+== Appearance ==
+Wasps are usually yellow and black, but many species are just black or metallic. Some even have orange splotches and hairs. A wasp has two wings and an [[ovipositor]], which could possibly be long in some species. Certain species may also have long [[antenna]]e. A wasp's size may be between 1/128 inches to 2 1/2 inches.
+
+== Life ==
+Unlike a bee, a [http://deadliestinsect.hubpages.com/hub/Deadliest-Insects wasp] can go solo and usually doesn't look for honey for a colony. Wasps are known to be agressive and will lay their [[egg]]s practically anywhere. The [[larva]]e will eat whatever their parents eat. After their [[pupa]]l stage, the pupa will become a mature wasp.
+
+== Defense ==
+Usually a wasp is brightly colored to warn predators it is not tasty or will harm them, but some species are fully black or metallic, so foolish predators will find them as an easy meal. Stinging is actually their primary attack.
+
+== Feeding habits ==
+Since their are so many species of wasps, there are also many [[:Category:Feeding habits|feeding habits]] they can have, and practically all the feeding habits are used by wasps.
+
+== Geography ==
+Wasps are known worldwide, except in very cold regions.
+
+== Pests ==
+Certain species and families of wasps have been known to be pests, but most species have been known to kill pests.
 
 == Sources ==
 *[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
-*[http://www.wikipedia.com/wikia/fig_wasp Fig wasp on Wikipedia]
-
-
-{{Stub}}
-[[Category:Hymenoptera]]
-[[Category:Agaonidae]]
-[[Category:Fig wasps]]
+*[http://www.wikipedia.com/wiki/wasp Wasp on Wikipedia]
+*[http://home.att.net/~larvalbugbio/wasps.html Wasps]
 [[Category:Wasps]]
-[[Category:Article stubs]]</text>
-      <sha1>j540tayro83jljvup7aikeuohsiquu4</sha1>
-    </revision>
-  </page>
-  
+[[Category:Hymenoptera]]

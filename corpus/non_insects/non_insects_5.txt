@@ -1,65 +1,9 @@
 
-    <title>Scorpion</title>
-    <ns>0</ns>
-    <id>2033</id>
-    <revision>
-      <id>8221</id>
-      <parentid>4345</parentid>
-      <timestamp>2023-02-09T06:26:30Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      8221
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3307" sha1="ljcixosvemz00rsuza66o17hqs1xirl" xml:space="preserve">[[File:Pandinus_imperator.jpg|thumb|''[[Pandinus imperator]]'']]Scorpions are [[arachnid]]s characterised by the presence of two pincers and a venomous stinger at the end of their “tails”. Nine families and 1400 species of scorpions exist in the world today. Their stings contain [[venom]] that will cause pain where you are stung, but the smaller the scorpion, the more venom it has. A scorpion's feeding habits consist only of [[insect]]s. The order of scorpions is [[Scorpiones]]. 
 
-== Biology ==
+Pandinus imperator
+[[File:Pandinus_imperator.jpg|thumb]]''Pandinus imperator'' or the Emperor [[scorpion]] is one of the largest scorpions in the world. They are found from central Africa up to Yemen. They eat insects and some arachnids, but their [[venom]] isn't very strong. They belong to the order [[Scorpiones]] and the family [[Scorpionidae]].
 
-=== Morphology ===
-scorpions are mainly characterised by their modified frontal pair of pedipalps resembling a crabs pincers as well as the long metasoma (tails) at their rear with a venomous bulb (telson) at the end on the tail linked to a stinger (aculeus)They have 8 pairs of appendages, and a cephalothorax (fused head &amp; body). Their abdomens are usually long and elliptical. They vary colour and sizes ranging between 4-12 cm in terms of body length. The largest scorpion reaches 23 cm in length whereas the smallest is just 0.5 inches long. They are usually brown, beige, black, grey, orange and red in colour. A notable feature is the fact that they carry a fluorescent substance in their exoskeleton which glows under UV light&lt;ref&gt;https://en.m.wikipedia.org/wiki/Scorpion&lt;/ref&gt;.
-
-=== Behaviour ===
-
-==== Threat display ====
-Both sexes display a unique display upon being threatened which involves the raising and inclining their metasoma towards the threat and raising their pincers. A few insect species are known to mimic a scorpion threat display (such as [[Extatosoma tiaratum]]) 
-
-==== Courtship dance ====
-during couplation, the female and male grasp onto each other’s pincers and “dance” all the while they reproduce.
-
-==== Feeding habits ====
-scorpions are [[Predacious]] animals and usually feed on a variety of invertebrates. Some can also become cannibal in the absence of food sources. Large tropical species can consume vertebrates such as mice. The are known to feed on insects, spiders and smaller scorpion species.
-
-=== Life cycle ===
-The female gives birth to live young and she carries them on her back till they molt and mature&lt;ref&gt;https://en.m.wikipedia.org/wiki/Scorpion&lt;/ref&gt;. The young ones are pale and coloureless. They are hemimatobolous with no pupal stage and undergo a direct transition from juvenile to adults.
-
-=== Toxicity ===
-scorpions are usually not very dangerous to humans, only 25 species can seriously harm a human (less than 1% of all species&lt;ref&gt;https://en.m.wikipedia.org/wiki/Scorpion&lt;/ref&gt;) the most fatal sting is delivered by the [[Deathstalker]] (it really lives up to the name). The larger the pincers, the lower the toxicity the ones that are large are usually not very dangerous.
-
-=== Predation ===
-Information is yet to be inserted.
-
-== Geolocation ==
-
-=== Range ===
-Scorpions can be found throughout the world on all continents except Antarctica.
-
-=== Habitats ===
-Scorpions are most commonly found in dry or humid areas notably ones with high temperatures. Their preferred habitats include desert regions, scrub lands, tropical rainforests etc.
-
-== See Also ==
-
-* [[Pseudoscorpion]]s
-* [[Arachnida]]
-* [[Thelyphonida]]
-
-== References ==
-[[Category:Arthropod types]]
-[[Category:Scorpions]]
+{{ArachnidMove}}
 [[Category:Scorpiones]]
-[[Category:Arachnids]]</text>
-      <sha1>ljcixosvemz00rsuza66o17hqs1xirl</sha1>
-    </revision>
-  </page>
-  
+[[Category:Scorpionidae]]
+[[Category:Arachnids]]

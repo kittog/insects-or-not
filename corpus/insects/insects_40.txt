@@ -1,72 +1,32 @@
 
-    <title>Hyphantria cunea</title>
-    <ns>0</ns>
-    <id>4504</id>
-    <revision>
-      <id>7876</id>
-      <parentid>7860</parentid>
-      <timestamp>2022-01-28T06:09:12Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7876
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2968" sha1="3d75o5vnd5ukyopsjt6xk2ooj8ef541" xml:space="preserve">[[File:Fall Webworm (2).jpg|thumb|192x192px|Adult Female]]
-''Hyphantria cunea'' also known as '''Fall Webworm''' is a species from the family [[Erebidae]] native to North America. It was first described by Dru Drury in 1773.
+
+Sostrata Festiva
+[[File:Sostrata festiva.jpg|thumb|383x383px|Picture taken in Satipo (Peru)]]
+Sostrata Festiva also known as the '''Festive Skipper''' is an Amazonian species of [[Lepidoptera|Lepidopteran]] from the family [[Hesperiidae]]. It is one of the 580 species from the tribe [[Pyrgini]]. It is one of the eight species in the [[genus]] Sostrata.
 
 == Morphology ==
 
 === Wing Morphology ===
-''Hyphantria cunea'' have an adult wingspan of 30 mm at an average. They have thick fluffy bodies with a light tint of yellow, The females have pale white translucent wings painted with glistening tinted golden scales. The males have forewings densely speckled with white marks, The abdomen is fuzzy densely coated with pale setae.
+The ventral side of the wings have a matt-black background and a smooth borderline, The forewings are densely speckled with iridescent marks, two Dashes of vibrant, lustrous metallic-blue color are present on the hindwings. The wings are charmingly tiny and vivid, This is surely one of the most remarkable and brilliant Amazonian species of Lepidoptera.
 
-=== Larval Morphology ===
-The larvae are pale white and have bodies coated densely in pale-white setae modified as venomous spikes, some setae serve as decoy spikes to make them look specially dangerous. The legs have small black blotches that lie adjacent to each other. The larvae occur in a versatile diversity of colors, ranging from pale yellow, white, dark\chocolate brown etc.
+=== Body Morphology ===
+The abdomens have 4 sparkling latitudinal lines of metallic-blue coloration, the body is thick and has a brown thoracic region speckled with sparkling blue patches, the head compromises of two gunmetal colored bulging eyes and hooked antennae.
 
 == Behavior ==
+Sostrata Festiva generally keep their wings extent outwards which is a unique behavior for a Papillion and is generally typical among moths.  They tend to typical stay solo, males can often be seen basking above ground-level on lowland foliage.
 
-=== Defense ===
-Though adults are mostly defenseless, The larvae are coated densely in setae modified as venomous spikes making it a hazard to other larger predators, The venomous spikes, once embedded onto the external parts of any attacker cause an irritant rash and may lead to the formation of bristles, the venom causes a long-duration itch and rashes, The attackers are often brutally countered with such hazardous defenses of ''Hyphantria cunea.''
+== Geographical Range ==
 
-==== Sting Treatment ====
-Use Duck tape to gently remove any stingers before washing the wound thoroughly in order to prevent the venom from spreading, Apply Ice to the wound and visit the doctor ASAP. 
+=== Geographical Distribution ===
+Sostrata festiva is known from Guyana, Venezuela, Brazil, Ecuador and Peru, but probably also occurs in Colombia, Bolivia and Argentina.
 
-== Metamorphosis ==
-
-=== Egg ===
-[[File:Fall Webworm (1).jpg|thumb|192x192px|Larvae]]
-The eggs are laid on the leaves of the host plants the eggs are laid in clusters of hundreds if not thousands.
-
-=== Larval stage ===
-The larval instar occurs after one or two weeks, the larvae are gregarious and gluttonous eaters and can defoliate trees withing a short duration of time and mostly continue to eat as they await their next instar. The larvae create enormous tents out of their silk and form a form of "Shelter" to defend against predators, the silk is sticky and they form large tent-like structures supported by a network of branches in which they pupate.
-
-=== Pupal Instar ===
-The larvae spend the harsh winters in the pupal instar, the pupa is made up of silk with a small layer of silk shielding the cocoon inside the pupae.
-
-=== Adult (Imago) ===
-The adults emerge during spring and early summers to find a soulmate and reproduce.
-
-== Ecology ==
-
-=== Host Plants ===
-
-* Carya illinoinensis
-* Ulmus americana
-* Salix Species
-* Arbutus menziesii 
-* Platanus occidentalis
-* Betula platyphylla
-* Other Deciduous Trees
+=== Habitat ===
+S. Festiva prefers to thrive in lush steep and densely foliated tropical rainforests, sunny large patches of grass blossoming with flowers. They prefer to flutter in steep groves and forests as well.
 [[Category:Insecta]]
 [[Category:Pterygota]]
 [[Category:Endopterygota]]
 [[Category:Neoptera]]
 [[Category:Lepidoptera]]
-[[Category:Noctuidae]]
-[[Category:Erebidae]]
-[[Category:Arctiinae]]</text>
-      <sha1>3d75o5vnd5ukyopsjt6xk2ooj8ef541</sha1>
-    </revision>
-  </page>
-  
+[[Category:Papilionoidea]]
+[[Category:Hesperiidae]]
+[[Category:Pyrginae]]

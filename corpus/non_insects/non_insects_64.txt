@@ -1,26 +1,12 @@
 
-    <title>House dust mite</title>
-    <ns>0</ns>
-    <id>3473</id>
-    <revision>
-      <id>5555</id>
-      <timestamp>2016-07-21T03:08:55Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]The '''house dust [[mite]] (HDM)''' is a cosmopolitan pyroglyphid that lives in human habitation. Dust mites feed on organic detritus, such as ..."</comment>
-      5555
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1729" sha1="2c0x0lr7nfww7jd68vklszodibiuf0y" xml:space="preserve">[[File:Placeholder|right|300px]]The '''house dust [[mite]] (HDM)''' is a cosmopolitan pyroglyphid that lives in human habitation. Dust mites feed on organic detritus, such as flakes of shed human skin, and flourish in the stable environment of dwellings. House dust mites are a common cause of asthma and allergic symptoms worldwide. The mite's gut contains potent digestive enzymes (notably proteases) that persist in their feces and are major inducers of allergic reactions such as wheezing. The mite's exoskeleton can also contribute to allergic reactions. The European house dust mite (''Dermatophagoides pteronyssinus'') and the American house dust mite (''Dermatophagoides farinae'') are two different species, but are not necessarily confined to Europe or North America; a third species ''Euroglyphus maynei'' also occurs widely. Unlike scabies mites or skin follicle mites, house dust mites do not burrow under the skin and are not parasitic.
+
+Spider mite
+[[File:Placeholder|right|300px]]'''Spider mites''' are members of the [[Acari]] ([[mite]]) family Tetranychidae, which includes about 1,200 species.[1] They generally live on the undersides of leaves of plants, where they may spin protective silk webs, and they can cause damage by puncturing the plant cells to feed.[2] [[Spider]] mites are known to feed on several hundred species of plants.
 ==Description==
-House dust mites, due to their very small size and translucent bodies, are barely visible to the unaided eye.[2] A typical house dust mite measures 0.2–0.3 millimetres (0.008–0.012 in) in length.[3] For accurate identification, one needs at least 10× magnification.[citation needed] The body of the house dust mite has a striated cuticle.
+Spider mites are less than 1 millimetre (0.04 in) in size and vary in color. They lay small, spherical, initially transparent eggs and many species spin silk webbing to help protect the colony from predators; they get the "spider" part of their common name from this webbing.
 ==Life cycle==
-The average life cycle for a male house dust mite is 10–19 days. A mated female house dust mite can last up to 70 days, laying 60 to 100 eggs in the last 5 weeks of her life. In a 10-week life span, a house dust mite will produce approximately 2,000 fecal particles and an even larger number of partially digested enzyme-covered dust particles.
-==Health effects==
+Hot, dry conditions are often associated with population build-up of spider mites. Under optimal conditions (approximately 80 °F or 27 °C), the two-spotted spider mite can hatch in as little as 3 days, and become sexually mature in as little as 5 days. One female can lay up to 20 eggs per day and can live for 2 to 4 weeks, laying hundreds of eggs. This accelerated reproductive rate allows spider mite populations to adapt quickly to resist pesticides, so chemical control methods can become somewhat ineffectual when the same pesticide is used over a prolonged period.[3]
+
+Spider mites, like hymenopterans and some [[scale insect]]s, are arrhenotochous: females are diploid and males are haploid.[4] When mated, females avoid the fecundation of some eggs to produce males. Fertilized eggs produce diploid females. Unmated, unfertilized females still lay eggs, that originate exclusively haploid males.
+==Genera (Classification)==
 [[Category:Mites]]
-[[Category:Acari]]</text>
-      <sha1>2c0x0lr7nfww7jd68vklszodibiuf0y</sha1>
-    </revision>
-  </page>
-  

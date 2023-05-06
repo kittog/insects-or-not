@@ -1,36 +1,35 @@
 
-    <title>Colobopsis schmitzi</title>
-    <ns>0</ns>
-    <id>4567</id>
-    <revision>
-      <id>8043</id>
-      <parentid>8042</parentid>
-      <timestamp>2022-06-16T00:14:30Z</timestamp>
-      <contributor>
-        <ip>104.62.166.110</ip>
-      </contributor>
-        8043
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2368" sha1="n6hmcc0lhzzo93xi38ab2njnzseb3ok" xml:space="preserve">'''''Colobopsis schmitzi''''', synonym '''''Camponotus schmitzi''''', is a species of [[ant]] native to Borneo, which is commonly known as the '''diving ant''', '''swimming ant''' or '''pitcher-plant ant''', due to their habit of diving into the digestive fluids of their plant host ''Nepenthes bicalcarata''. They are endemic to the island of Borneo.
 
-==Description==
-''C. schmitzi'' closely resemble ''Colobopsis ceylonicus'' but are slightly larger. They have rectangular heads about one and a half times as long as they are wide. The mandibles have five teeth each (except for the minor workers which have four). The eyes are widely separated and located laterally, slightly behind the anterior bulge of the head. The antennae are short, with a scape at 1 mm (0.039 in) in length. The funicules are longer than they are wide proximally and become shorter and wider towards the tip. The body is smooth and shiny. The gaster is small. The legs are relatively large, especially the femurs, and very compressed laterally. Spines are present near the distal tip of the femurs and absent in the tibiae. The tarsi are longer than the tibiae.
+Camponotus
+{{Insect|name=Camponotus|binomen=Camponotus Mayr, 1861|common=Carpenter Ants|native=(?)|other=(?)|order=[[Hymenoptera]]|suborder=(?)|superfamily=[[Formicoidea]]|family=[[Formicidae]]|subfamily=[[Formicinae]]|tribe=[[Camponotini]]|genus=[[Camponotus]]|species=1000+|status=Not Evaluated}}
 
-''C. schmitzi'' exhibit polymorphism, with three physical castes - minor, median, and major ("soldier") workers. The queen averages at a length of 8 mm (0.31 in) with wings measuring 7 mm (0.28 in) long. The major and median workers are both 6.5 mm (0.26 in) in length, while the minor workers are 4 to 5 mm (0.16 to 0.20 in) long. They are brownish-yellow to reddish-orange in color; the head and gaster are darker than the rest of the body.
+'''Not to be confused for  ''[[Camptonotus]].'''''
 
-The larvae are typical of ''Camponotus'' larvae - cylindrical in shape with the head and mouthparts bent at a 90 degree angle from the body.
+== General ==
+Camponotus is a genus of [[Formicidae]] (Ants) commonly known as the '''Carpenter ants.''' The genus consists of 1000+ species of ants from the tribe '''“Camponotini”''' and are found throughout the evergreen, deciduous and equatorial forests around the world. 
 
-==Distribution and habitat==
-''Colobopsis schmitzi'' inhabits the hollow tendrils of the plant ''Nepenthes bicalcarata''. It is only found in association with ''N. bicalcarata'', which is endemic to the island of Borneo.
+== Morphology ==
+Morphological features vary from one species to another and all share a common morphological feature of “waists” and other physiological features considered “ant-like” in nature (waists, medium length antennae and sharp mandibles.
 
-==Taxonomy==
-''Camponotus schmitzi'' is classified in the genus ''[[Colobopsis]]'', which was formerly treated as a subgenus of ''[[Camponotus]]'', tribe Camponotini, and subfamily Formicinae of the ant family Formicidae. It was first collected by the botanist Jan Pieter Schuitemaker and described by the myrmecologist August Stärcke in 1933 as ''Camponotus schmitzi''.
+== Behaviour ==
 
-==Myrmecotrophic mutualism==
+=== Habitat ===
+Carpenter ants mainly reside in decaying, or fresh wood notably preferring woody, large trees, wooden buildings, logs etc. causing devastating problems to wooden structures. The nests are made deep inside wooden builds and heartwoods of trees composed of intricate network patterns of tunnels. Common signs of habitation includes appearance of sawdust like wood shavings and, holes present on wooden structures. 
 
-[[Category:Ants]]</text>
-      <sha1>n6hmcc0lhzzo93xi38ab2njnzseb3ok</sha1>
-    </revision>
-  </page>
-  
+=== Communication ===
+These ants communicate via pheromones or touch and possess great homing instincts. The queen possesses a unique ability of affecting colonies with a variety of odours, having distinctive effects on members of the colony aiding the queen in control over the hive-mind colonies. 
+
+== Importance ==
+Their unique abilities of excavation of wood helps in forests decomposition and increments in the presence and quality of hummus in soil. Some species are consumed as a food source for example, consumption of [[Camponotus Inflatus]] (Honeypot ants) by indigenous Australians<ref>https://en.m.wikipedia.org/wiki/Carpenter_ant#Pheromones</ref>.
+{{Stub}}
+
+
+
+[[Category:Article stubs]]
+[[Category:Insecta]]
+[[Category:Hymenoptera]]
+[[Category:Formicidae]]
+[[Category:Ants]]
+[[Category:Genuses]]
+
+== References ==

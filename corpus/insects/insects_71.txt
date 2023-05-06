@@ -1,34 +1,11 @@
 
-    <title>Polistes carolina</title>
-    <ns>0</ns>
-    <id>3218</id>
-    <revision>
-      <id>6789</id>
-      <parentid>5136</parentid>
-      <timestamp>2021-10-20T18:53:34Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        6789
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="704" sha1="moazzvan2h0npv7w4b1o7ebdsu0qf1z" xml:space="preserve">This red polistes wasp is mostly like any other polistes wasp and is related to the polistes fuscatus, metricus and dorsalis. Another wasp close to polistes carolina is Polistes Perplexus, wich is another red colored wasp.
 
-The perplexus has a more darker color then carolina, but their size and black colored wings are the same.
-
-Polistes carolina males have curled antennae like all other polistes wasps, and a pale yellow face.
-
-Males mate in the fall and new queens are prepared to hibernate.
-
-An infertal female is a virgin that didn't mate and all ofspring will be male.
-
-Male carolina wasps are born in fall and none in the spring.
-[[Category:Hymenoptera]]
-[[Category:Vespidae]]
-[[Category:Wasps]]</text>
-      <sha1>moazzvan2h0npv7w4b1o7ebdsu0qf1z</sha1>
-    </revision>
-  </page>
-  
+Alderfly
+[[File:Alderfly larvae.png|alt=|right|228x228px|A juvenile Alderfly]]
+'''Alderflies''' are megalopteran insects of the family Sialidae. They are closely related to the [[dobsonflies]] and [[fishflies]] as well as to the prehistoric Euchauliodidae. All living alderflies—about 66 species altogether[1]—are part of the subfamily Sialinae, which contains between one and seven extant genera according to different scientists' views. But in most classifications, all or almost all of these are treated as subgenera of ''Sialis''.
+==Description==
+Sialinae have a body length of less than 25 mm (1 inch), long filamentous antennae and four large, dark wings of which the anterior pair is slightly longer than the posterior. They lack ocelli and their fourth tarsal segment is dilated and deeply bilobed. Dead alderfly larvae are used as bait in fishing.
+==Life cycle==
+The females lay a vast number of eggs upon grass stems near water. When the larvae are born they drop into the water or the ground nearby it and make their way into their new aquatic biome. The larvae are aquatic, active, armed with strong sharp mandibles, and breathe by means of seven pairs of abdominal branchial filaments. When full sized, which takes between one and two years, they leave the water and spend a quiescent pupal stage on the land before metamorphosis into the sexually mature insect. Adult alderflies stay near to the water, in which they had lived in when they were younger. Once in their adult stage, they tend to only live 2 to 3 weeks, which they mainly use to reproduce.
+==Classification==
+[[Category:Megaloptera]]

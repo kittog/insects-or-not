@@ -1,112 +1,39 @@
 
-    <title>Blattaria</title>
-    <ns>0</ns>
-    <id>4365</id>
-    <revision>
-      <id>7663</id>
-      <parentid>7521</parentid>
-      <timestamp>2021-12-24T08:07:00Z</timestamp>
-      <contributor>
-        <username>Enosgian</username>
-        <id>48189863</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7663
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2125" sha1="6li3eads15ihbo1lq6g3kz7lo9v5hq0" xml:space="preserve">Blattodea is an order of insects that contains cockroaches and termites. Formerly, the termites were considered a separate order, [[Isoptera]], but genetic and molecular evidence suggests termites evolved from within the cockroach lineage, cladistically making them cockroaches as well.
 
-== Evolution ==
-According to one hypothesis, cockroaches were an '''ancient group of insects''' that arose during the Devonian epoch. Fossil roachoids that lived during that time differ from modern cockroaches in that they had long external ovipositors and are the ancestors of mantises, as well as modern cockroaches.[[File:Abstract cockroach.jpg|thumb]]
+Blaberus craniifer
+{{Infobox|Box title=Blaberus Craniifer|Image file=Blaberus Craniifer.jpg|Image size=255px|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Subphylum]]|Row 2 info=[[Hexapoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Subclass]]|Row 4 info=[[Pterygota]]|Row 5 title=[[Infraclass]]|Row 5 info=[[Neoptera]]|Row 6 title=[[Order]]|Row 6 info=[[Blattodea]]|Row 7 title=[[Family]]|Row 7 info=[[Blaberidae]]|Row 8 title=[[Genus]]|Row 8 info=[[Blaberus]]|Row 9 title=[[Species]]|Row 9 info=Blaberus Craniifer}}
 
-==Taxonomy==
-[[File:Spotted cockroach.jpg|thumb]]
-===Taxonomic Hierarchy===
-{| class="fandom-table"
-|Kingdom
-|Animalia  – Animal, animaux, animals
+Blaberus craniifer, Also known as the '''Death's head cockroach''' is a species of [[Blattodea|blattid]] from the genus [[Blaberus]]. 
 
-|-
+== Etymology ==
+The name death's head comes from the markings on the top of the pronotum: "cranii", which is Latin for "of the head", and "fer", meaning "carry" or "carrier." 
 
-|  Subkingdom
-|Bilateria
+== Morphology ==
+This speciescan reach lengths of upto 1.5 inches to more than 2 inches long and a little more than 1 inch wide.The body of the death's head cockroach is brown, though juveniles are usually speckled. The wings are mostly for show, as the death's head cockroach cannot fly. They have a flat, shell-like body, which can provide some shelter from predators. A cockroach's legs are usually referred to as jointed appendages and attach to the thorax. The appendages at the end of the abdomen are called cerci. With the cerci, roaches detect air movements, which usually cause them to run. The cerci have multiple segments but are not jointed. The antennae and tibiae are the most sensitive of the cockroach’s organs and provide assistance in locomotion. When frightened, the death’s head cockroach can emit a mild odor.They possess pink-colored flight muscles that can sustain flight for mediocre distances however they tend to glide short distances upon being threatened They have pulsating circulatory systems concealed within their antennae. Some insects are capable of regenerating certain worn-out tissues, and the most frequent type of regeneration in ''B. craniifer'' is intercalary regeneration which is a long-standing zoological dispute concerning the segmental composition of the heads of the various arthropod groups, and how they are evolutionarily related to each other. While the dispute has historically centered on the exact make-up of the insect head 
 
-|-
+== Metamorphosis ==
+Blaberus Craniifer is Holometabolic. 
 
-|     Infrakingdom
-|Protostomia
+=== Reproduction ===
+The spermatophore is made by the male inside the females' genital atrium, which is rejected by her multiple days later due to the secretions of her spermathecal glands. Several days later, an ootheca is laid and placed by the female into her brood sac. The gestation period for ''B. craniifer'' lasts 55 to 65 days. After this period, the ootheca is ejected and the larvae free themselves from the embryonic covering. During the preoviposition period and during gestation sexual receptivity of females is inhibited.
 
-|-
+=== Nymphal Stage ===
+Females carry approximately 34 eggs in an egg case located in a pouch at the end of the abdomen. After three to four weeks, the newborns called "nymphs" hatch and make a hiding place in the ground. They sprout wing sheaths as they grow and molt. Molting involves shedding its outer shell in favor of a bigger one to accommodate its increasing size.
 
-|        Superphylum
-|Ecdysozoa
+=== Imago ===
+A cockroach will molt several times before it reaches maturity. A death's head cockroach is full grown after four to five months, and can live '''up to a year'''
 
-|-
+== Behavior ==
 
-|           Phylum
-|Arthropoda
+=== Feeding Habits ===
+Death's head cockroaches are omnivores with great appetites. They are known to eat half their weight in food at one time and will feed on feces or sometimes even on wood if necessary. They are not known to be [[Xylophagous]].
 
-|-
-
-|              Subphylum
-|Hexapoda  – hexapods
-
-|-
-
-|                 Class
-|Insecta  – insects, hexapoda, inseto, insectes
-
-|-
-
-|                    Subclass
-|Pterygota  – insects ailés, winged insects
-
-|-
-
-|                       Infraclass
-|Neoptera  – modern, wing-folding insects
-
-|-
-
-|                          Superorder
-|Polyneoptera
-
-|-
-
-|                             Order
-|Blattodea  – cockroaches, termites
-
-|-
-
-|'''Direct Children:'''
-
-|-
-
-|                                Superfamily
-|Blaberoidea
-
-|-
-
-|                                Superfamily
-|Blattoidea
-
-|-
-
-|                                Superfamily
-|Corydioidea
-|}
-
-== Origin ==
-Greek Origins of Name: Blattodea is derived from “blatta”, the Greek word for '''cockroach'''.
-
-== Trivia ==
-
-* The name '''cockroach comes from the Spanish term cucaracha, which derives from the Latin blatta, “an insect that shines the light'''.” It comes from the insect order Blattodea, which also includes termites
-
-[[Category:Orders]]
+=== Defense mechanisms ===
+In response to a predator approaching or after an attack, ''B. craniifer'' burrows itself into softer substrates when possible, using its head and pronotum, allowing the cockroach to hide. Cockroaches are gregarious insects, meaning they often interact and associate with one another. ''B. craniifer'' secretes a volatile aggregative pheromone from the mandibular glands when engaging in gregarious behaviour
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Holometabola]]
 [[Category:Blattodea]]
-[[Category:Bilateria]]</text>
-      <sha1>6li3eads15ihbo1lq6g3kz7lo9v5hq0</sha1>
-    </revision>
-  </page>
-  
+[[Category:Insect pets]]

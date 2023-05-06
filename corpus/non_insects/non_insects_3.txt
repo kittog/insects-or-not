@@ -1,24 +1,5 @@
 
-    <title>Tick</title>
-    <ns>0</ns>
-    <id>2013</id>
-    <revision>
-      <id>3542</id>
-      <parentid>3349</parentid>
-      <timestamp>2009-06-16T15:48:58Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>Adding categories</comment>
-      3542
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="486" sha1="1s61dirapl3j6kj70lnkcbauu6anv1j" xml:space="preserve">[[File:Deer_tick.jpg|thumb|168px|The [[Deer Tick]]]]A tick is an [[arachnid]] that lives in long grass, bushes, and trees. All ticks are small and could be hard or soft depending on the species and genus. All ticks belong to the [[Acari]] order and most belong to the [[Ixodidae]] or [[Argasidae]] families. Ticks mainly take blood from humans and animals. These arachnids can transmit disease to you if you have been bitten.
+
+Pseudoscorpion
+[[File:Lasiochernes_cretonatus.jpg|thumb|218px|''[[Lasiochernes cretonatus]]'']]A pseudoscorpion resembles a [[scorpion]], except it doesn't have a tail, but stings predators and prey with their pedipalps (pincers). There are 23 families and 3300 species of pseudoscorpion. Pseudoscorpions live worldwide, but mainly live in deserts, beaches, tropical, and sub-tropical regions. The order of pseudoscorpions is [[Pseudoscorpiones]].
 [[Category:Arachnids]]
-[[Category:Acari]]
-[[Category:Ticks]]</text>
-      <sha1>1s61dirapl3j6kj70lnkcbauu6anv1j</sha1>
-    </revision>
-  </page>
-  

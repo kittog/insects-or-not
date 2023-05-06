@@ -1,26 +1,10 @@
 
-    <title>Abacarus hystrix</title>
-    <ns>0</ns>
-    <id>3516</id>
-    <revision>
-      <id>7042</id>
-      <parentid>5598</parentid>
-      <timestamp>2021-11-12T13:25:15Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      7042
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="2429" sha1="2zgrvllcfr1x9cfk5u6325mmjhmqtju" xml:space="preserve">[[File:Placeholder|right|300px|link=Special:FilePath/Placeholder]]'''''Abacarus hystrix''''' ('''cereal rust mite''' or '''grain rust mite''') belongs to the family [[Eriophyidae]]. They are extremely small with adults measuring up to one millimeter in length and only have four legs at the front of the body. Viewing by the human eye requires, a 10 – 20X lens. The adult mites are usually yellow but also have been seen to be white or orange. The cereal rust mite was first found on ''Elymus repens'' (couch grass), a very common perennial grass species. It has now been found on more than 60 grass species including oats, barley, wheat and ryegrass, found in Europe, North America, South Africa and Australia. Mites migrate primarily through wind movement and are usually found on the highest basal sections of the top two leaf blades.''A bacarus hystrix'' produces up to twenty overlapping generations per year in South Australian perennial pastures, indicating that the species breeds quite rapidly. It has been noted that the cereal rust mite can cause losses in yield of up to 30-70%.
-==Life cycle==
-Cereal rust mite eggs are exceptionally small and are placed in leaf vein grooves by the mite.[1] The eggs usually begin hatching at the beginning of spring (March in the Northern Hemisphere and September in the Southern Hemisphere) and once they have reached the juvenile stage, the mites mature very quickly (16–18 days). Once the mites are at the adult stage they often travel to the lower section of the plant where they feed on young tissues. Mites are always present for the full growing season of the plant, but activity has been seen to decrease as the temperature begins to rise, this is because unlike other mite species the cereal rust mite favors much cooler temperatures.
-==Impacts of mite on grasses==
-''Abacarus hystrix'' is a vector for two viruses (Agropyron mosaic and Ryegrass mosaic) and also causes direct damage to the leaf. The effect of the Ryegrass Mosaic Virus (RMV) which is only transmitted by this mite, is chlorotic streaks on the leaves. When the mite feeds on grooves of the leaf surface, it prefers the large cells on the smooth bottom of the groove as opposed to the more ridged, small cells of the side walls. Mite feeding causes direct damage to the leaves, which can be noticed as discoloration or “rusting” of the leaf.
-==Eradication and management options==
-[[Category:Mites]]</text>
-      <sha1>2zgrvllcfr1x9cfk5u6325mmjhmqtju</sha1>
-    </revision>
-  </page>
-  
+
+Demodex folliculorum
+[[File:Placeholder|right|300px]]'''''Demodex folliculorum''''' is a species of face [[mite]]. ''D. folliculorum'' is one of the parasitic/commensal face mites that occur on people (the other one is ''[[Demodex brevis]]'').[1][2] When large numbers of ''D. folliculorum'' are found on humans, the infestation is known as demodicosis.
+==History==
+''Demodex canis'' was first discovered in 1840 to cause mange in dogs. Tulk was the first to publish about ''Demodex'' in dogs. In 1842, a Frenchman named Berger discovered ''Demodex folliculorum'' in earwax.
+==Behavior==
+These mites are found in human hair follicles, normally found in greater numbers around the cheeks, nose, eyebrows, eyelashes, and forehead. They could also be found in other parts of the body such as arms, chest, and ears. It is a species of tiny mites that have been thought to contribute to hair loss (though this hypothesis is under debate)[5] and lives in pores and hair follicles. The mites vary in size from 0.1 mm to 0.4 mm long.[6] Mites do not invade internal organs. Under normal conditions, they are not harmful, and classified as commensals (the mite benefits but there is no harm or benefit to the host) rather than parasites (where the host is harmed), though under outbreak conditions (demodicosis) they can be harmful.
+==Morphology==
+[[Category:Mites]]

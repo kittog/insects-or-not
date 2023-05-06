@@ -1,50 +1,9 @@
 
-    <title>Archaeidae</title>
-    <ns>0</ns>
-    <id>4624</id>
-    <revision>
-      <id>8134</id>
-      <timestamp>2023-01-15T10:21:43Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Created page with "Archaeidae is a family of [[Araneae]], commonly recognised by the names '''pelican spiders''' or '''assassin spiders''' consists of 90 species of spiders found inhabiting the tropical rainforests of Madagascar.   == Morphology == Archaeidae species have a striking characteristic of long “necks” joint to the [[Cephalothorax]], The long neck-like structures help Archaeidae species keep the prey at arm’s length. These spiders have long, thin appendages. In terms of si..."</comment>
-      8134
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1784" sha1="32z34d3r39kw7p54h3vskr0c0h4tsdv" xml:space="preserve">Archaeidae is a family of [[Araneae]], commonly recognised by the names '''pelican spiders''' or '''assassin spiders''' consists of 90 species of spiders found inhabiting the tropical rainforests of Madagascar. 
 
-== Morphology ==
-Archaeidae species have a striking characteristic of long “necks” joint to the [[Cephalothorax]], The long neck-like structures help Archaeidae species keep the prey at arm’s length. These spiders have long, thin appendages. In terms of size and body mass the length of most species ranges from 2-8 mm (roughly the length of a grain of rice). The common name “'''Pelican Spider'''” is highly appropriate for Archaeidae, as they possess long, thick mandibles resembling that of of a pelican’s beak. The long mandibles are thicker towards the bottom yet thinner at the base. 
+Ixodes scapularis
+[[File:Deer_tick.jpg|thumb|194px]]''Ixodes scapularis'' or the '''Deer tick''' is a [[tick]] found throughout the US and other parts of the world. A female deer tick will drink blood for 4 or 5 days, and then will drop off of the host, and then lays her eggs. A deer tick drinks blood to reproduce, but during the drinking of blood, the tick could transmit diseases. The order of this tick is [[Acari]] and the family is [[Ixodidae]].
 
-== Behaviour ==
-
-=== Hunting ===
-Archaeidae spiders prey exclusively on other species of spiders. They are known to hunt instead of utilising webs. Using their thin, elongated appendages. These spiders walk silently and “assassinate” other spiderwebs, hence the name '''assassin spiders''' due to their silent hunting patterns. Upon attacking the prey, assassin spiders release sharp, poison-laced fangs from the tips of their mandibles holding the prey upright to prevent an escape, they continue to liquify their prey by pumping large amounts of toxins into their bodies.
-
-== Taxonomy ==
-
-=== Genre ===
-
-* [[Afrarchaea]]
-* [[Austrarchaea]]
-* [[Eriauchenus]]
-* [[Madagascarchaea]]
-* [[Zephyrarchaea]]
-
-== Geological distribution ==
-
-* [[Afrarchaea]] - South Africa 
-* [[Austrarchaea]] - Australia 
-* [[Eriauchenus]] - Madagascar
-* [[Madagascarchaea]] - Madagascar
-* [[Zephyrarchaea]] - Australia 
-
+{{ArachnidMove}}
+[[Category:Acari]]
+[[Category:Ixodidae]]
 [[Category:Arachnids]]
-[[Category:Araneae]]
-[[Category:Spiders]]</text>
-      <sha1>32z34d3r39kw7p54h3vskr0c0h4tsdv</sha1>
-    </revision>
-  </page>
-  

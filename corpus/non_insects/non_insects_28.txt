@@ -1,49 +1,12 @@
 
-    <title>Orb-weaver spider</title>
-    <ns>0</ns>
-    <id>3484</id>
-    <revision>
-      <id>5566</id>
-      <timestamp>2016-07-21T03:58:52Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''Orb-weaver spiders''' or '''araneids''' are members of the [[spider]] family Araneidae. They are the most common group of builders of spiral..."</comment>
-      5566
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="7474" sha1="ktbopxko5iob0387mdzep7qggg4o54m" xml:space="preserve">[[File:Placeholder|right|300px]]'''Orb-weaver spiders''' or '''araneids''' are members of the [[spider]] family Araneidae. They are the most common group of builders of spiral wheel-shaped webs often found in gardens, fields and forests. "Orb" was previously used in English to mean "circular",[2] hence the English name of the group. Araneids have eight similar eyes, hairy or spiny legs, and no stridulating organs.[1]
 
-The family is cosmopolitan, including many well-known large or brightly colored garden spiders. With around 3,100 species in 169 genera worldwide, Araneidae is the third-largest family of spiders (behind Salticidae and Linyphiidae).[1] Araneid webs are constructed in a stereotyped fashion. A framework of nonsticky silk is built up before the spider adds a final spiral of silk covered in sticky droplets.
+Latrodectus mactans
+[[File:Placeholder|right|300px]]'''''Latrodectus mactans''''', known as the '''southern black widow''' or simply '''black widow''', is a highly venomous species of spider in the genus ''[[Latrodectus]]''. They are well known for the distinctive black and red coloring of the female of the species that will occasionally eat her mate after reproduction. The species is native to North America. The venom is seldom fatal to healthy humans.
+==Taxonomy==
+''Latrodectus mactans'' was first described by Johan Christian Fabricius in 1775, placing it in the genus Aranea.[1][3] It was transferred to the genus Latrodectus in 1837 by Charles Walckenaer and is currently placed in the Theridiidae family of the order Araneae.[1] The species is closely related to ''[[Latrodectus Hesperus]]'' (western black widow) and ''[[Latrodectus variolus]]'' (northern black widow). Members of the three species are often confused with the genus Steatoda, the false widows. Prior to 1970, when the current taxonomic divisions for North American black widows were set forth by Kaston,[4] all three varieties were classified as a single species, ''L. mactans''. As a result, there exist numerous references which claim that "black widow" (without any geographic modifier) applies to ''L. mactans'' alone. Common usage of the term "black widow" makes no distinction between the three species.
+==Description==
+The body length (excluding legs) of the mature female is 8–13 mm (0.31–0.51 in), 3–6 mm (0.12–0.24 in) for males. Legs are long in proportion to body.[5] Females are shiny and black in color, with a red marking in the shape of an hourglass on the ventral (under) side of her very rounded abdomen.[6] There is much variation in female size, particularly in egg-carrying (gravid) females. The abdomen of a gravid female can be more than 1.25 cm (0.5 in) in diameter. Many female widows also have an orange or red patch just above the spinnerets on the top of the abdomen.[7] Juveniles have a distinctly different appearance from the adults; the abdomen is grayish to black with white stripes running across it and is spotted with yellow and orange.[7] Males are either purple, or closer to the appearance of the juveniles in color.
 
-Orb-webs are also produced by members of other spider families. The large golden orb-weavers (Nephilidae) and the long-jawed orb weavers (Tetragnathidae) were formerly included in the Araneidae; they are closely related, being part of the superfamily Araneoidea. The cribellate or hackled orb-weavers (Uloboridae) belong to a different group of spiders. Their webs are strikingly similar, but use a different kind of sticky silk.
-==The orb-web==
-Generally, orb-weaving spiders are three-clawed builders of flat webs with sticky spiral capture silk. The building of a web is an engineering feat, begun when the spider floats a line on the wind to another surface. The spider secures the line and then drops another line from the center, making a "Y". The rest of the scaffolding follows with many radii of nonsticky silk being constructed before a final spiral of sticky capture silk.
-
-The third claw is used to walk on the nonsticky part of the web. Characteristically, the prey insect that blunders into the sticky lines is stunned by a quick bite, and then wrapped in silk. If the prey is a venomous insect, such as a wasp, wrapping may precede biting.
-
-Many orb-weavers build a new web each day. Most orb-weavers tend to be active during the evening hours; they hide for most of the day. Generally, towards evening, the spider will consume the old web, rest for approximately an hour, then spin a new web in the same general location. Thus, the webs of orb-weavers are generally free of the accumulation of detritus common to other species, such as black widow spiders.
-
-Some orb-weavers do not build webs at all. Members of the genera ''[[Mastophora]]'' in the Americas, ''[[Cladomelea]]'' in Africa, and ''[[Ordgarius]]'' in Australia produce sticky globules, which contain a pheromone analog. The globule is hung from a silken thread dangled by the spider from its front legs. The pheromone analog attracts male moths of only a few species. These get stuck on the globule and are reeled in to be eaten. Interestingly, both types of bolas spiders are highly camouflaged and difficult to locate.
-
-The spiny orb-weaving spiders in the genera ''[[Gasteracantha]]'' and ''[[Micrathena]]'' look like plant seeds or thorns hanging in their orb-webs. Some species of ''Gasteracantha'' have very long, horn-like spines protruding from their abdomens.
-
-One feature of the webs of some orb-weavers is the stabilimentum, a crisscross band of silk through the center of the web. It is found in a number of genera, but ''[[Argiope]]'', the yellow and banded garden spiders of North America, is a prime example. The band has been hypothesized to be a lure for prey, a marker to warn birds away from the web, and a camouflage for the spider when it sits in the center of the web. However, recent research suggests the stabilimentum actually decreases the visibility of the silk to insects, thus making it harder for prey to avoid the web.[3] The orb-web consists of a frame and supporting radii overlaid with a sticky capture spiral, and the silks used by orb-weaver spiders have exceptional mechanical properties to withstand the impact of flying prey.[4]
-
-During the Cretaceous, a radiation of angiosperm plants and their insect pollinators occurred. Fossil evidence shows that the orb web was in existence at this time, which permitted a concurrent radiation of the spider predators along with their insect prey.[5][6] The capacity of orb–webs to absorb the impact of flying prey led orbicularian spiders to become the dominant predators of aerial insects in many ecosystems.[7] Insects and spiders have comparable rates of diversification, suggesting they co-radiated, and the peak of this radiation occurred 100 Mya before the origin of angiosperms.[8] Vollrath and Selden (2007) make the bold proposition that insect evolution was driven less by flowering plants than by spider predation – particularly through orb webs – as a major selective force.
-
-Most arachnid webs are vertical and the spiders usually hang with their head downward. A few webs, such as those of orb-weavers in the genus ''[[Metepiera]]'' have the orb hidden within a tangled space of web. Some ''Metepiera'' are semisocial and live in communal webs. In Mexico, such communal webs have been cut out of trees or bushes and used for living fly paper.[citation needed] In 2009, workers at a Baltimore Wastewater Treatment Plant called for help to deal with over 100 million orb-weaver spiders, living in a community that managed to spin a phenomenal web that covered some 4 acres of a building with spider densities in some areas reaching 35,176 spiders per cubic meter.
-==Natural history==
-The oldest known true orb-weaver is ''[[Mesozygiella dunlopi]]'', from the Lower Cretaceous. Several fossils provide direct evidence that the three major orb-weaving families, namely Araneidae, Tetragnathidae and Uloboridae, had evolved by this time, about 140 million years ago.[10] They probably originated during the Jurassic (200 to 140 million years ago). Based on new molecular evidence in silk genes, all three families are likely to have a common origin.[4][6][7]
-
-The two families, Deinopoidea and Araneoidea, have similar behavioral sequences and spinning apparatuses to produce architecturally similar webs. The Araneidae weave true viscid silk with an aqueous glue property, and the Deinopoidea use dry fibrils and sticky silk.[4][11] The Deinopoidea (including the Uloboridae), have a cribellum – a flat, complex spinning plate from which the cribellate silk is released.[12]
-
-They also have a calamistrum – an apparatus of bristles used to comb the cribellate silk from the cribellum. The Araneoidea, or the "ecribellate" spiders, do not have these two structures. The two families of orb-weaving spiders are morphologically very distinct, yet there is much similarity between their web form and web construction behavior. The cribellates retained the ancestral character, yet the cribellum was lost in the escribellates. The lack of a functional cribellum in araneoids is most likely synapomorphic.[12]
-
-If the orb-weaver spiders are a monophyletic group, the fact that only some species in the group lost a feature adds to the controversy. The cribellates are split off as a separate taxon that retained the primitive feature, which makes the lineage paraphyletic and not synonymous with any real evolutionary lineage. The morphological and behavioral evidence surrounding orb webs led to the disagreement over a single origin or a dual origin.[12] However, molecular analysis provides more support for a monophyletic origin.
-==Reproduction==
-[[Category:Araneae]]</text>
-      <sha1>ktbopxko5iob0387mdzep7qggg4o54m</sha1>
-    </revision>
-  </page>
-  
+The web of the black widow spider is a three-dimensional tangled cobweb of exceptionally strong silk.
+==Range==
+[[Category:Araneae]]

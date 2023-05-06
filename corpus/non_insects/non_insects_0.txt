@@ -1,44 +1,39 @@
-<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
-  <siteinfo>
-    <sitename>Insect Wiki</sitename>
-    <dbname>insect</dbname>
-    <base>https://insects.fandom.com/wiki/Insect_Wiki</base>
-    <generator>MediaWiki 1.37.6</generator>
-    <case>first-letter</case>
-    <namespaces>
-      <namespace key="-2" case="first-letter">Media</namespace>
-      <namespace key="-1" case="first-letter">Special</namespace>
-      <namespace key="0" case="first-letter" />
-      <namespace key="1" case="first-letter">Talk</namespace>
-      <namespace key="2" case="first-letter">User</namespace>
-      <namespace key="3" case="first-letter">User talk</namespace>
-      <namespace key="4" case="first-letter">Insect Wiki</namespace>
-      <namespace key="5" case="first-letter">Insect Wiki talk</namespace>
-      <namespace key="6" case="first-letter">File</namespace>
-      <namespace key="7" case="first-letter">File talk</namespace>
-      <namespace key="8" case="first-letter">MediaWiki</namespace>
-      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
-      <namespace key="10" case="first-letter">Template</namespace>
-      <namespace key="11" case="first-letter">Template talk</namespace>
-      <namespace key="12" case="first-letter">Help</namespace>
-      <namespace key="13" case="first-letter">Help talk</namespace>
-      <namespace key="14" case="first-letter">Category</namespace>
-      <namespace key="15" case="first-letter">Category talk</namespace>
-      <namespace key="110" case="first-letter">Forum</namespace>
-      <namespace key="111" case="first-letter">Forum talk</namespace>
-      <namespace key="420" case="first-letter">GeoJson</namespace>
-      <namespace key="421" case="first-letter">GeoJson talk</namespace>
-      <namespace key="500" case="first-letter">User blog</namespace>
-      <namespace key="501" case="first-letter">User blog comment</namespace>
-      <namespace key="502" case="first-letter">Blog</namespace>
-      <namespace key="503" case="first-letter">Blog talk</namespace>
-      <namespace key="828" case="first-letter">Module</namespace>
-      <namespace key="829" case="first-letter">Module talk</namespace>
-      <namespace key="1200" case="first-letter">Message Wall</namespace>
-      <namespace key="1201" case="first-letter">Thread</namespace>
-      <namespace key="1202" case="first-letter">Message Wall Greeting</namespace>
-      <namespace key="2900" case="first-letter">Map</namespace>
-      <namespace key="2901" case="first-letter">Map talk</namespace>
-    </namespaces>
-  </siteinfo>
-  
+Argyroneta aquatica
+{{Infobox
+|Box title = Argyroneta aquatica
+|Image file = Argyroneta aquatica.jpg
+|Image size = 175px
+|Row 1 title = [[Class]]
+|Row 1 info = [[Arachnida]]
+|Row 2 title = [[Order]]
+|Row 2 info = [[Araneae]]
+|Row 3 title = [[Family]]
+|Row 3 info = [[Cybaeidae]]
+|Row 4 title = [[Genus]]
+|Row 4 info = ''[[Argyroneta]]''
+|Row 5 title = [[Species]]
+|Row 5 info = '''''Argyroneta aquatica'''''
+|Row 6 title = [[Subspecies]]
+|Row 6 info = [[Argyroneta aquatica japonica]]
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+''Argyroneta aquatica'' or the '''Water Spider''' is a spider that lives underwater for most of its life. They belong to the [[Araneae]] order and the [[Argyronetidae]] family.
+
+==Appearance==
+
+Their whole body is opague/translucent. Their head is brown and their body is black. The water spider is the only spider in which the males are larger than the females. 
+
+==Habitat==
+
+These spiders occur in Europe and some parts of Asia. It is one of the few spiders that can survive in water. Its prey consists of insects and and other small animals that are foolish enough to get too close.
+
+{{ArachnidMove}}
+[[Category:Arachnids]]
+[[Category:Araneae]]
+[[Category:Argyronetidae]]

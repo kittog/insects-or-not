@@ -1,31 +1,12 @@
 
-    <title>Nephila clavipes</title>
-    <ns>0</ns>
-    <id>3518</id>
-    <revision>
-      <id>5600</id>
-      <timestamp>2016-08-15T03:34:00Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Nephila clavipes''''' is the only species of [[golden orb-web spider]] indigenous to continental North and South America. In the United St..."</comment>
-      5600
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1166" sha1="6dpbwnvjuwe878f876ho50i7zjfyk8d" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Nephila clavipes''''' is the only species of [[golden orb-web spider]] indigenous to continental North and South America. In the United States it is commonly known as the "banana spider".
-==Physical attributes==
-''Nephila clavipes'' has the large size and the long legs with clumps of hair that are typical of the genus. It is large compared to most other members of the genus, and is distinguished by the bright colors of the female abdomen, which changes colour as the spider matures.
 
-As is usual among orb-weavers, there is marked sexual dimorphism in general appearance, but especially in size; in linear measurements males are three to four times smaller than females, and they also are more slenderly built. This implies a mass some thirty to seventy times smaller than that of a large female.
-==Etymology==
-The specific epithet clavipes is derived from the Latin:
-*clava, that variously may mean "knotted staff", "club", or "key"; and
-*pēs meaning "of or pertaining to a foot".[1]
+Ero aphana
+[[File:Placeholder|right|300px]]'''''Ero aphana''''' is a species of [[pirate spider]] in the Mimetidae family. It is a hunting spider and feeds on other spiders.
+==Distribution==
+This spider has a palearctic distribution and is found in Western Europe, most commonly in Belgium, Germany, France and the United Kingdom. It is recorded in the fauna list of Parley Common, a Site of Special Scientific Interest in Dorset, England.[2]
 
-In assigning the name, Linnaeus apparently referred to the clumps of hair on the legs.
-==Distribution and transport==
-[[Category:Araneae]]</text>
-      <sha1>6dpbwnvjuwe878f876ho50i7zjfyk8d</sha1>
-    </revision>
-  </page>
-  
+It has been introduced into Saint Helena, Queensland and Western Australia.
+==Description==
+''Ero aphana'' grows to about three millimetres long, the females being slightly larger than the males. The sternum is dark colored with radiating pale markings in the posterior half and a larger, irregular pale blotch in the anterior half.[5] The abdomen is broad and globular, light grey with darker brownish grey patches, craggy tubercles and sparse hairs growing out of orange spots. The legs are hairy and pale colored with dark bands and one thin orange band. The front two pairs of legs bear a marginal row of long, curved spines.
+==Habitat==
+[[Category:Araneae]]

@@ -1,41 +1,28 @@
 
-    <title>Calidea dregii</title>
-    <ns>0</ns>
-    <id>3980</id>
-    <revision>
-      <id>8064</id>
-      <parentid>6768</parentid>
-      <timestamp>2022-09-14T17:01:09Z</timestamp>
-      <contributor>
-        <username>Actinoidz</username>
-        <id>51823979</id>
-      </contributor>
-      <comment>Fixed punctuation and grammar errors, removed personal recounts</comment>
-        8064
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3773" sha1="kfvnuc66xvuyg97ko9j2zwjolzseca5" xml:space="preserve">Also known as the rainbow shield bug, the green jewel beetle of India, or the lychee shield bug, this beautiful beetle with an average body length of 14-17 mm
 
-{{Insects_Simple|caption1=A Vibrant shield bug|order=Pentatomidae|family=Scuelleridae|genus=Pentatomidae|species=Calidea dregii|similar_species=Sagra buqueti    
-Phalacrognathus mulleri 
-Stethaspis suturalis 
-Eupholus benneti 
-Chrysolophus spectabilis|image1=Rainbow shield bug.png}}
+Cicadoidea
+[[File:Cicada being held.jpg|thumb]]
+The '''cicadas''' (/sɪˈkɑːdə/ or /sɪˈkeɪdə/) are a superfamily, the '''Cicadoidea''', of insects in the order Hemiptera (true bugs). They are in the suborder Auchenorrhyncha,[a] along with smaller jumping bugs such as leafhoppers and froghoppers. It is divided into the Tettigarctidae, with two species in Australia, and Cicadidae, with more than 1,300 species described from around the world; many undescribed species remain.
 
-is flashing with vibrant colors and can be seen worldwide, except Antarctica, and has a vibrant green-lustrous exoskeleton. The propagation of the light reflected depicts the colours seen by the human eye present on it's exoskeleton and appears to shine a rainbow hue under clear white light. The beautiful colors on it's exoskeleton make it an easy prey for most predators, hence it is known to release a foul-smelling odor to scare off any unappealing predators that dare approach it. They feed on sap by sucking it out of new seeds. They can become a serious pest due to these habits of feeding on plants. Study more about their behaviors and where are they native to. 
+Cicadas have prominent eyes set wide apart, short antennae, and membranous front wings. They have an exceptionally loud song, produced not by stridulation, but by vibrating drum-like tymbals rapidly. The earliest known fossil Cicadomorpha appeared in the Upper Permian period; extant species occur all around the world in temperate to tropical climates. They typically live in trees, feeding on sap, and laying their eggs in a slit in the bark. Most cicadas are cryptic, singing at night to avoid predators. The periodic cicadas spend most of their lives as underground nymphs, emerging only after 13 or 17 years, which may reduce losses by satiating their predators.
 
-== Biology ==
-Calidea dregii likes feeding on sap from newly born trees as we know it. It's physical appearance can often be mistaken for a jewel beetle, however they are considered to be from the family of insects known as [[Pentatomidae]], which compromises of stink bugs (Another term for [[Pentatomoidea|shield bugs]]). Their classification to this category is due to their defense mechanism, excretion of a foul-smelling liquid to warn predators. The most notable feature is their lustrous carapace which reflects light in such ways causing white light to divide into red, orange, yellow, green, blue, indigo and violet (the propagation of light affects the pattern of the colors). They can be seen thriving in semi-arid climates all over the world and most commonly seen in Southeast Asia and other parts of the hemisphere, especially India, hence their second name (green jewel bug of India) These bugs also have green blotches on their carapace and are completely orange (sometimes yellowish-pink) on their underside. They are one of the biggest pests in agriculture. It has a vibrant exoskeleton and whitish-blue legs and a joint which connects a needle-like proboscis hidden underneath the head.  
+Cicadas have been featured in literature since the time of Homer's Iliad, and as motifs in art from the Chinese Shang dynasty. They have been used in myths and folklore to represent carefree living and immortality. Cicadas are eaten in various countries, including China, where the nymphs are served deep-fried in Shandong cuisine.
+==Etymology==
+The name is a direct derivation of the Latin cicada, meaning "tree cricket". American English of central Appalachia retains the name "jarfly".[1] In ancient Greek, it was called a tettix, and in modern Greek τζιτζίκας, tzitzikas—both names being onomatopoeic.
+==Taxonomy and diversity==
+Cicadas are arranged into two families: the Tettigarctidae and Cicadidae. The two extant species of Tettigarctidae include one in southern Australia and the other in Tasmania. The family Cicadidae is subdivided into the subfamilies Cicadinae, Tettigadinae, and Cicadettinae;[2] they are found on all continents except Antarctica. Some previous works also included a family-level taxon called the Tibiceninae. The largest species is the Malaysian emperor cicada ''[[Megapomponia imperatorial]]''; its wingspan is up to about 20 cm (8 in).[3] They are also notable for the great length of time some species take to mature.
 
-== Behavior ==
-They will look for the softer part of the host plant's stem and them use it's needle-like mouth to penetrate through the venations and the stem tissues, it will then, after unhinging it's needle-like mouth part, will suck out the sap from the stem of the unfortunate host plant (it's diet includes poisonous plants as well) . This is how it feeds. This type of feeding behavior is similar to that of [[ASSASIN Insect|assasin bugs]]. Unlike Calidea dregii, assasin bugs will use a paralyzing venom to melt down the prey's tissues and cells, then suck them out alongside the innards (this hunting behavior is very common for predatory insects). Now if we talk about Calidea dregii, their behavior is just the same as other Pentatomidae species with their methods of foraging being none other than wandering as they are practically flightless and will rarely ever use their wings.  
+At least 1300 cicada species are distributed worldwide with the majority being in the tropics. Most genera are restricted to a single biogeographical region and many species have a very limited range. This high degree of endemism has been used to study the biogeography of complex island groups such as in Indonesia and the Orient.[6] There are about 200 described species in Australia and New Zealand,[c] around 150 in South Africa, over 170 in America north of Mexico,[7] at least 800 in Latin America,[8] and over 200 in Southeast Asia and the Western Pacific.[9] About 100 species occur in the Palaearctic. A few species are found in southern Europe,[4] and a single species is in England, the New Forest cicada, ''Melampsalta montana'', which also occurs in continental Europe.[10]
 
-== Habitat ==
-Calidea dregii are happy under captivity if fed well enough. They prefer lychee trees and other young tree saplings. They can be seen thriving in unbelievably huge numbers in semi-arid regions of the southern hemisphere and can be seen scuttling on leaves, plants and in the soil. They prefer either slightly humid, yet not so cold, climates and are very common in Southeast Asia and can be seen in bushveld regions as it prefers weed patches of moss and overgrowth.
+Most of the North American species are in the genus ''[[Neotibicen]]'': the annual or jar fly or dog-day cicadas (so named because they emerge in late July and August).[11] The best-known North American genus, however, is ''[[Magicicada]]''. These periodical cicadas have an extremely long lifecycle of 13 or 17 years, suddenly and briefly emerging in large numbers.[11]
+
+Australian cicadas are found on tropical islands and cold coastal beaches around Tasmania, in tropical wetlands, high and low deserts, alpine areas of New South Wales and Victoria, large cities like Sydney, Melbourne, and Brisbane, and Tasmanian highlands and snowfields. Many of them go by common names such as cherry nose, brown baker, red eye, greengrocer, yellow Monday, whisky drinker, double drummer, and black prince. The Australian greengrocer, ''[[Cyclochila australasiae]]'', is among the loudest insects in the world.[12]
+
+Forty-two species from five genera populate New Zealand, ranging from sea level to mountain tops, and all are endemic to New Zealand and the surrounding islands (Norfolk Island, New Caledonia).
+===Palaeontology===
+Fossil Cicadomorpha first appeared in the Upper Permian.[14] The superfamily Palaeontinoidea contains three families. The Upper Permian Dunstaniidae are found in Australia and South Africa, and also in younger rocks from China. The Upper Triassic Mesogereonidae are found in Australia and South Africa.
+
+The Palaeontinidae or "giant cicadas" come from the Jurassic and Upper Cretaceous of Eurasia and South America.[15] The first of these was a forewing discovered in the Taynton Limestone Formation of Oxfordshire, England; it was initially described as a butterfly in 1873, before being recognized as a cicada and renamed ''Palaeontina oolitica''.
+==Biology==
 [[Category:Hemiptera]]
-[[Category:Heteroptera]]
-[[Category:Insecta]]</text>
-      <sha1>kfvnuc66xvuyg97ko9j2zwjolzseca5</sha1>
-    </revision>
-  </page>
-  
+[[Category:Cicadoidae]]

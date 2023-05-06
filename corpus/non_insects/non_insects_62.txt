@@ -1,25 +1,20 @@
 
-    <title>Amblyomma hebraeum</title>
-    <ns>0</ns>
-    <id>3668</id>
-    <revision>
-      <id>5750</id>
-      <timestamp>2016-08-31T23:25:02Z</timestamp>
-      <contributor>
-        <ip>184.186.6.124</ip>
-      </contributor>
-      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Amblyomma hebraeum''''', commonly known as the '''South African bont [[tick]]''', is a species of hard tick that is native to southern Afr..."</comment>
-      5750
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="799" sha1="3mgvdfgoz1gg5kkkaswf3ib80qysw31" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Amblyomma hebraeum''''', commonly known as the '''South African bont [[tick]]''', is a species of hard tick that is native to southern Africa. They are sexually dimorphic.
-==Description==
-The scutum and alloscutum of the male is dappled in various shades and colors. The female's scutum is dappled but the alloscutum is solid black. The alloscutum in both sexes is fringed by prominent festoons. The legs are swarthy or reddish, and paler at the joints.
-==Range==
-The species is native to eastern and northern South Africa, Swaziland, eastern Botswana, the greater part of Zimbabwe and southern Mozambique.[1] To the north and in Madagascar, the species is replaced by the tropical bont tick, with which it locally overlaps.
-==Disease vector==
-[[Category:Ticks]]</text>
-      <sha1>3mgvdfgoz1gg5kkkaswf3ib80qysw31</sha1>
-    </revision>
-  </page>
-  
+
+Varroidae
+[[File:Varroa_Mite_on_larvae.jpg|thumb|''[[Varroa destructor]]'' on a [[larva]]]]The family '''Varroidae''' consists of only 5 species of [[varroa mite]]s. 
+
+== Species ==
+*''[[Varroa destructor]]''
+*''[[Varroa jacobsoni]]''
+*''[[Varroa persicus]]'' (possibly a new species, or goes under a different name)
+*''[[Varroa rindereri]]''
+*''[[Varroa underwoodi]]''
+*''[[Varroa wongsirii]]''
+{{Stub}}
+
+== Sources ==
+*[http://www.speciesaccounts.org/Arachnida.htm Arachnids]
+*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+[[Category:Mites]]
+[[Category:Arachnid families]]
+[[Category:Varroidae]]

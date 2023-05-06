@@ -1,84 +1,33 @@
 
-    <title>Chilopoda</title>
-    <ns>0</ns>
-    <id>2003</id>
-    <revision>
-      <id>8036</id>
-      <parentid>8035</parentid>
-      <timestamp>2022-05-28T20:03:03Z</timestamp>
-      <contributor>
-        <ip>49.206.120.107</ip>
-      </contributor>
-      <comment>Improved grammer and added more info.</comment>
-      8036
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3405" sha1="2l4dhma73lyzdmazl9u2djr0ag89pb1" xml:space="preserve">{{Infobox
-|Box title = Chilopoda
-|Image file = Lithobius_forficatus.jpg
-|Image size = 250px
-|Row 1 title = Kingdom
-|Row 1 info = Animalia
-|Row 2 title = Phylum
-|Row 2 info = Arthropod
-|Row 3 title = Subphylum
-|Row 3 info = Myriapoda
-|Row 4 title = [[Class]]
-|Row 4 info = '''''Chilopoda'''''
-|Row 5 title = 
-|Row 5 info = 
-|Row 6 title = 
-|Row 6 info = 
-|Row 7 title = 
-|Row 7 info = 
-|Row 8 title = 
-|Row 8 info = 
-|Row 9 title = 
-|Row 9 info = 
-}}
 
-''Chilopoda'' is the main class of centipedes. A centipede is a [[myriapod]] that has usually more than 26 [[leg]]s. The largest species have nearly 64 pairs of legs, shich is contrary to the name. There are 4 [[order]]s and 22 families of centipedes. 
+House Centipede
+House Centipedes are the beautiful arthropods of the genus Scutigera.{{Insects_Simple|title1 = House Centipede|image1 = Gg.png|caption1 = After every molt, A nymph gains an additional 2-3 pairs of limbs until they reach maturity.|order = Scutigeromorpha|family = Scutigeridae|genus = Scutigera|species = S. coleoptrata|similar_species = --}}
 
-== Appearance ==
-A centipede can have anywhere from 26-64 pairs of appendages. A centipede's body is [[worm|worm-like]], covered with a burnished exoskeleton, they generally have a flattened body with two large fangs. And it may look like a centipede has two heads as a trick to confuse predators. Their [[antenna|antennae]] are sometimes barely noticable being around 4-5 cm. 
+== Morphology ==
+The House Centipede has a greyish-yellow coloration and has 15 pairs of legs and the maximum size is 20 cm. These legs enable them to reach speeds of up to 1.3 Feet per second along any surface capable of being grappled. They feature a pair of two long, extensive antennae capable of detecting chemical and tactile change in their surroundings, protruding from both their head and posterior. 
 
-== Defenses ==
-Centipedes are commonly flexible and fast, making it hard to kill or capture one. Most species will also attack with [[venom]], that will sting if you are touched. The venom is injected into the prey through their large fangs while their pointed appendages provide a hold on to their prey or any attacker. Some may use their size as a defense being so minute and barely noticable while the larger species are equipped with deadly toxins. 
+== Origins ==
+Originally from the Mediterranean region, the species has spread to other parts of the world where it lives in people's homes, thus acquiring the name of "House Centipede".
 
-== Feeding ==
-Centipedes are nocturnal predacious animals, thus meaning that they hunt mainly at night. All centipedes are [[predacious]]. They sometimes even use their venom to kill much larger prey. Their diet commonly includes smaller insects such as orthropterans, smaller centipedes and sometimes even rats and reptiles. 
+== Ecology ==
 
-== Life Cycle ==
-The male centipedes drop sperm on the ground and the female eventually picks it up. The [[egg]]s are often laid underground in large clutches. 
+=== Behavior ===
+Behaviorally, House Centipedes are nomadic, drawn to the presence of prey and habitability, before searching elsewhere, even if conditions remain unchanged. They do not nest, and they do not parasitize a home's resources, instead devoting their focus to living prey.
 
-== Geography ==
-Centipedes mainly live worldwide, but mainly live in temperate locations and tropical and sub-tropical regions. Being most common in temperate and torrid zone generally larger species can be found inhabiting secluded islands and tropical rainforests. 
+When threatened, House Centipedes are non-confrontational unless cornered or physically trapped. Like other centipedes, they are capable of stridulating, producing clicks in order to deter predators and attracts mates. House Centipedes are capable of biting humans when threatened, although this is a rare occurrence, as they tend towards limb-sacrificing and fleeing before defending themselves. 
 
-== Orders ==
-Five orders of centipedes exist in the world from prehistoric times to current day. 
+=== Food Sources ===
+It is an insectivore that consumes other arthropods such as insects and arachnids. If anything, an abundance of House Centipedes is an indicator of a more serious arthropod infestation in one's home, although this doesn't leave these centipedes exempt from being intruders themselves, despite the fact that they do not nest or cause any tangible damage to property.
 
-===Geophilimorpha===
-The order Geophilida is an order of centipedes that are usually straw color to brown and are long and slender, usually made up of 35 segments. 
+=== Defence mechanism ===
+When threatened, House Centipedes are known to involuntarily detach legs much like a Harvestmen Spider in order to escape larger prey, or get themselves out of adhesive traps, sacrificing several limbs in order to continue living.
 
-===Lithobiomorpha===
-Lithobiida is an order of centipedes that are usually red-brown with a flat body and usually have around 15 pairs of legs. 
+=== Reproduction ===
+[[File:Fff.jpg|thumb|233x233px]]Mating takes place in the spring and the females lay between 63-151 eggs.
 
-===Scolopendromorpha===
-Centipedes in the order Scolopendromorpha are usually brightly coloured with dark stripes or bands. They usually have 21 or 23 pairs of legs. 
+== Bites ==
+Their bites aren’t painful. They’re venom is ineffective on humans. They almost never bite humans. The worst case scenario, bites can cause a rash, nothing more itching and irritation lasts for 1-2 days on average. Large species can deliver a painful bite but not smaller centipedes.
 
-===Scutigeromorpha===
-Scutigerid centipedes are fairly short that are usually brown with some pale markings. These centipedes have 30 legs that are very long. 
-
-=== Craterostigmorpha ===
-Containing only two extant species, ''Craterostigmus crabilli'' and ''Craterostigmus tasmanianus.'' They are restricted to New Zealand and the Tasman area.
-
-
-
-== Sources ==
-*[http://www.wikipedia.com/wiki/centipede Centipedes on Wikipedia]
-*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
-[[Category:Myriapods]]</text>
-      <sha1>2l4dhma73lyzdmazl9u2djr0ag89pb1</sha1>
-    </revision>
-  </page>
-  
+<br />
+[[Category:Myriapods]]
+[[Category:Culicidae]]

@@ -1,30 +1,26 @@
 
-    <title>Melittosphex</title>
-    <ns>0</ns>
-    <id>2362</id>
-    <revision>
-      <id>3833</id>
-      <timestamp>2009-07-07T16:36:23Z</timestamp>
-      <contributor>
-        <username>Dser</username>
-        <id>1032852</id>
-      </contributor>
-      <comment>Created article</comment>
-        3833
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="299" sha1="lmq8sg26zk3pwpwt8j1k4ejwu2zppgn" xml:space="preserve">The [[genus]] '''''Melittosphex''''' consists of only one species, and belongs to the [[Melittosphecidae]] family. 
 
-== Species ==
-*''[[Melittosphex burmensis]]'' 
-
-{{Stub}}
-[[Category:Prehistoric Insects]]
-[[Category:Genera]]
-[[Category:Monotypic genera]]
+Scaptotrigona bipunctata
+{{Insect
+|name        = {{tt|Tubuna|Nogueira-Neto, 1970}}
+|image       = [[File:Tubuna.png|300px]]
+|binomen     = {{tt|Scaptotrigona bipunctata|Lepeletier, 1836}}
+{{tt|Melipona (Trigona) bipunctata|Lepeletier, 1836}}<br>{{tt|Trigona hispida|Marianno, 1911}}
+|common      = Tubuna
+|native      = Mandaguari
+|other       = {{tt|Boca-de-barro|Mud mouth}}
+|order       = [[Hymenoptera]]
+|suborder    = [[Apocrita]]
+|superfamily = [[Apoidea]]
+|family      = [[Apidae]]
+|subfamily   = [[Apinae]]
+|tribe       = [[Meliponini]]
+|genus       = [[Trigona]]
+|subgenus    = Scaptotrigona
+|species     = '''''S. bipunctata'''''
+|status      =
+|imagehab    = [[File:TubunaHab.png|300px]]
+}}
+[[Category:South American insects]]
 [[Category:Hymenoptera]]
-[[Category:Bees]]</text>
-      <sha1>lmq8sg26zk3pwpwt8j1k4ejwu2zppgn</sha1>
-    </revision>
-  </page>
-  
+[[Category:Bees]]

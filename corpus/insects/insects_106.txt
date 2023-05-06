@@ -1,38 +1,32 @@
 
-    <title>Praying Mantis</title>
-    <ns>0</ns>
-    <id>3934</id>
-    <revision>
-      <id>7276</id>
-      <parentid>6235</parentid>
-      <timestamp>2021-11-24T04:55:13Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7276
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3518" sha1="24ejoi0sf9qsagp17awboxmkg10yl53" xml:space="preserve">&lt;big&gt;Although The same, please do not confuse with either ''[[Mantodea]]'' or ''[[Mantids]]''.&lt;/big&gt;[[File:Tinodera sinensis.png|thumb]]
-'''Mantises''' are an order of insects that contains over 2,400 species in about 430 genera in 30 families. The largest family is the [[Mantids|Mantidae]]. Mantises are distributed worldwide in temperate and tropical habitats. They have triangular heads with bulging eyes supported on flexible necks.
+
+Hymenopus coronatus
+{{Insects_Simple|image1=Hymenopus coronatus (Juvenile).jpg|caption1=With it's flower-like appearance, it lures it's prey into it's vicinity ready to strike.|order=Mantodea|family=Hymenopodidae|genus=Hymenopus|species=H. coronatus|similar_species=Devil's flower mantis
+Indian flower mantis 
+Nigerian flower mantis}}Orchid mantids or Hymenopus coronatusare a species of mantid which are usually white or pink it is found in rainforests of of south east found in the rain forests of Southeast Asia, including Malaysia, Myanmar, Thailand, Philippines, and Indonesia. It is also found in the Western Ghats of India. 
+
+Asia, They are one of the most Astonishingly beautiful species of flower mantids in the world famous for their amazing mimicry and can be near impossible to find one without paying any close attention to your surroundings, concentration is greatly important while finding one in it's natural habitat. 
 
 == Morphology ==
-Mantises have large, triangular heads with a beak-like snout and mandibles. They have two bulbous compound eyes, three small simple eyes, and a pair of antennae. The articulation of the neck is also remarkably flexible; some species of mantis can rotate their heads nearly 180°. The mantis thorax consists of a prothorax, a mesothorax, and a metathorax. In all species apart from the genus ''Mantoida'', the prothorax, which bears the head and forelegs, is much longer than the other two thoracic segments. The prothorax is also flexibly articulated, allowing for a wide range of movements of the head and fore limbs while the remainder of the body remains more or less immobile. 
+A beautiful flower mantis with a vibrant exoskeleton covered with plates that resemble flower petals, they come in two different colorations either white or Vibrant pink, These mantids have their limbs covered with large plates that resemble petals of an orchid flower, a pair of large cone-shaped yellowish pair of compound eyes with a highly flexible joint connecting to the elongated thorax with an olive-green ring covering their thorax and a flexible abdomen with a line of spiracles (Respiratory tubes) being carries along with plates aligned horizontally, a pair of highly specialized "Forelimbs"  allowing them to snatch onto any unsuspecting prey that mislead by it's orchid-like coloration and deceived between those large forelimbs armed with hard pointed needle like structures though they are completely harmless to humans and require low-maintenance, they are famously kept as a pet in several Asian countries. these mantids do not require constant attention and are quite exotic as a pet.
 
-== Behavior ==
-The closest relatives of mantises are termites and cockroaches (Blattodea), which are all within the superorder Dictyoptera. Mantises are sometimes confused with stick insects (Phasmatodea), other elongated insects such as grasshoppers (Orthoptera), or other unrelated insects with raptorial forelegs such as mantisflies (Mantispidae). 
+== Behaviors ==
+[[File:Image.png|thumb|308x308px]]
+[[File:Hymenopus coronatus (female).jpg|thumb|219x219px|Mature Female]]
+These mantids stay motionless with their forelimbs stretched inwards deceiving moths and butterflies desperately looking for some sweet nectar, the orchid mantis excel at deceiving it's prey before killing them, with the petal like plates covering their bodies painted with white and pink pigments their yellowish-lime colored eyes also appear to mimic the filaments of an orchid flowers the green rings on their elongated thorax have a purpose as well, these natural beauties are excellent hunters and never miss a chance to strike and will do so upon every opportunity being provided to them, They have a really strong grip and are ferocious despite being Beautiful. Their toothed forelimbs to gasp and stun their prey by surprising them, they love humans! making them an excellent choice for a pet as well as being a skilled hunter.
 
-=== Hunting mechanism ===
-Mantises are generalist predators of arthropods. The majority of mantises are ambush predators that only feed upon live prey within their reach. They either camouflage themselves and remain stationary, waiting for prey to approach, or stalk their prey with slow, stealthy movements. Larger mantises sometimes eat smaller individuals of their own species, as well as small vertebrates such as lizards, frogs, fish, and particularly small birds.
+== Food ==
+Their main source of diet comes from the pollinators deceived by their camouflage and other insects attracted to flowers mainly moths, butterflies, beetles, flower chafers and other insects such as planthoppers, lacewings, smaller pests and many many others that visit orchids in a Habitual manner. They love to feed on smaller winged insects formerly pests that may pests that can harm or kill plants such as orchids.
 
-=== Defense mechanism ===
-Mantises are preyed on by vertebrates such as frogs, lizards, and birds, and by invertebrates such as spiders, large species of hornets, and ants. Some hunting wasps, such as some species of ''Tachytes'' also paralyse some species of mantis to feed their young. Generally, mantises protect themselves by camouflage, most species being cryptically colored to resemble foliage or other backgrounds, both to avoid predators and to better snare their prey. Those that live on uniformly colored surfaces such as bare earth or tree bark are dorsoventrally flattened so as to eliminate shadows that might reveal their presence. 
+== Care for Orchid mantids ==
+[[File:Hymenopus coronatus (male).jpg|thumb|221x221px|Mature Male]]
+Orchid mantids are exquisitely gorgeous pets and require low maintenance, they are pretty and easy to take care of although they may not be a good [[Insects as pets|pet]] being for being a friend with, all you need for having one is a terrarium either square or rectangular in shape it is recommended using old unwanted terrariums, aquariums, fishbowls or you can purchase one, to make one all you need is some wooden planks, a measuring tape and most importantly a glass planes in order to see the pet orchid mantis, the price for a homemade terrarium is relatively low and quite easy to make. Orchid mantids need an atmosphere closely similar to their original habitat please be gentle while handling it as any possible wounds can lead to bacterial infections and are very gentle. They are an Ideal choice as a pet if you prefer silent pets. Add in more plants to your terrarium, add pebbles rocks, old timber wood and other ornamental objects Ideal as an addition to the terrarium, Pests are the core part of it's diet Mealworms can be fed twice or thrice in a week as they are high in fat or you can feed them with small beetles, leafhoppers, moths (Occasionally) and that is all you need to know before keeping one.
 
 == Metamorphosis ==
-The adult female praying mantis lays 100 to 400 eggs after fertilization. The eggs are laid safely on a firm leaf or stem with a liquid that hardens to be a protective sac structure known as ootheca. Initially, the hatched nymphs stay around the egg casing for a while. It's during this period that the mantis try to feed on each other. After spreading out, they will begin to hunt for small insects such as fruit flies. Adolescent mantises are larger in size than nymphs. They shed their exoskeletons occasionally, a feature that differentiates them from adult mantises. Mantises tend to be sluggish before they molt and will rarely feed during this period. Full-grown mantises are normally between 1 to 6 inches in length, and are different in size depending on their species. Female mantises can be distinguished from males as they have heavier abdomens.
-&lt;br /&gt;
-[[Category:Mantodea]]</text>
-      <sha1>24ejoi0sf9qsagp17awboxmkg10yl53</sha1>
-    </revision>
-  </page>
-  
+[[File:Orchid mantis.png|thumb|222x222px|Adult]]
+Orchid mantids go through an [[Metamorphosis|incomplete metamorphosis]], They start out as eggs that will hatch into tiny nymphs, they firstly start out pale white but will soon gain a brighter coloration over time, they will molt several times each time gaining a brighter coloration of the plates on their [[exoskeleton]] and will soon obtain their distinctive physical features, their life cycle is simple however less known about upon being compared to a normal [[Praying Mantis|mantis]].
+[[Category:Mantodea]]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]
+[[Category:Hymenopodidae]]

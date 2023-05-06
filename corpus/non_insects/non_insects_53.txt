@@ -1,30 +1,35 @@
 
-    <title>Brevipalpus phoenicis</title>
-    <ns>0</ns>
-    <id>2105</id>
-    <revision>
-      <id>4252</id>
-      <parentid>4170</parentid>
-      <timestamp>2009-08-31T07:18:21Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-      4252
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1346" sha1="r2go225e6gcubsum59lt7x991zoei6z" xml:space="preserve">[[File:Brevipalpus_phoenicis.jpg|thumb|200px]]'''''Brevipalpus phoenicis''''' is a [[mite]] belonging to the [[Tenuipalpidae]] [[insect family|family]] and the [[Acari]] [[insect orders|order]]. These mites live in tropical and sub-tropical regions but somehow got transported to parts of North America. ''Brevipalpus phoenicis'' has been located in many locations such as Central America, Oceania, Africa, South America, and parts of the U.S. This species of mite has been a pest to crops since the beginning of the 20th century. They have been known to transmit the citrus leprosis virus to plants. 
 
-== Life cycle ==
-The [[egg]]s are deposited singly, but close to the same female in cracks, crevices, and holes. The eggs are reddish orange and have a tail-like projection. After the eggs hatch, they become [[larva|larvae]] The larva are bright orange to red with six legs. After the larva stage is done, they become [[nymph]]s. They have 2 nymphal stages, protonymph and deutonymph. The protonymph is larger than the larvae and does have 8 legs. The deutonymph is similar, except it has an extra pair of legs. After these two nymphal stages, it becomes an adult. The adult has all 8 legs and is an opaque orange color.
+Varroa underwoodi
+{{Infobox
+|Box title = Varroa underwoodi
+|Image file = 
+|Image size = 
+|Row 1 title = [[Phylum]]
+|Row 1 info = [[Arthropoda]] 
+|Row 2 title = Subphylum
+|Row 2 info = [[Chelicerata]]
+|Row 3 title = Superclass
+|Row 3 info = None
+|Row 4 title = [[Class]]
+|Row 4 info = [[Arachnida]]
+|Row 5 title = [[Order]]
+|Row 5 info = [[Acari]]
+|Row 6 title = [[Family]]
+|Row 6 info = [[Varroidae]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Varroa]]''
+|Row 8 title = Species
+|Row 8 info = ''V. underwoodi''
+|Row 9 title = 
+|Row 9 info = 
+|Row 10 title = 
+|Row 10 info = 
+}}
+'''''Varroa underwoodi''''' is a species of [[varroa mite]]s that is very uncommon. 
 
 {{Stub}}
 {{ArachnidMove}}
-[[Category:Arachnids]]
+[[Category:Varroidae]]
 [[Category:Acari]]
-[[Category:Tenuipalpidae]]
-[[Category:Article stubs]]</text>
-      <sha1>r2go225e6gcubsum59lt7x991zoei6z</sha1>
-    </revision>
-  </page>
-  
+[[Category:Mites]]

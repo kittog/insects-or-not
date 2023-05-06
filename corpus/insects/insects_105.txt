@@ -1,50 +1,22 @@
 
-    <title>Idolomantis diabolica</title>
-    <ns>0</ns>
-    <id>4021</id>
-    <revision>
-      <id>8365</id>
-      <parentid>8363</parentid>
-      <timestamp>2023-04-30T11:58:32Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        8365
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="5412" sha1="t30bdip51e8lfg5fkmqzy0mpeejdz5k" xml:space="preserve">The '''Devil's Flower Mantis''', also known as the '''Giant Devil's Flower Mantis''', is one of the largest species of praying mantis, and is believed 
 
-{{Insects_Simple|image1=Devil flower mantis.png|caption1=The largest mantis known to mimic flowers, With it's Dagger-like forelimbs, This species can seize it's prey in halt with a great accuracy.|order=Mantodea|family=Empusidae|genus=Idolomantis|species=Diabolica|similar_species=Indian flower mantis   
-Orchid mantis}}
-
-to be the largest to mimic flowers. 
+Praying Mantis
+<big>Although The same, please do not confuse with either ''[[Mantodea]]'' or ''[[Mantids]]''.</big>[[File:Tinodera sinensis.png|thumb]]
+'''Mantises''' are an order of insects that contains over 2,400 species in about 430 genera in 30 families. The largest family is the [[Mantids|Mantidae]]. Mantises are distributed worldwide in temperate and tropical habitats. They have triangular heads with bulging eyes supported on flexible necks.
 
 == Morphology ==
-Females grow to be about 13 centimetres (about 5 inches) in length and males to about 10 centimetres (about 4 inches). They are native to Ethiopia, Kenya, Malawi, Somalia, Tanzania, and Uganda. Its threat display is magnificently colored, with red, white, blue, purple and black. The head of ''I. diabolica'' contains three vital components: compound eyes, antennae, and mandibles. The compound eyes, composed of thousands of individual photoreceptor cells, enable good eyesight. The arrangement of photoreceptor units, for instance, allows the insect to capture a perceptual span of 180°. This allows ''I. diabolica'' to identify prey and predators without increasing its vulnerability by spoiling its camouflage. The antennae, a pair of long and thin bristles, serve as the insect's sensory perception. Projecting outwards, the antennae can detect much in the surrounding environment such as chemicals, movement, and odors. The male antennae are more developed than those of the females and are feather-like. This allows them to track down females by detecting the pheromones released by the females. These pheromones notify the males that the females are ready to reproduce. The mandibles can be used to "tear, puncture, or grind" food. he thorax constitutes a large portion of the insect's body. As in all insects, it is composed of three segments: the prothorax, mesothorax, and metathorax. Each section "contains one pair of legs, however, the wings are found only on the mesothoracic and metathoracic segments. Reproductive organs, respiratory organs, and other organ systems occupy the abdominal region of the insect.
+Mantises have large, triangular heads with a beak-like snout and mandibles. They have two bulbous compound eyes, three small simple eyes, and a pair of antennae. The articulation of the neck is also remarkably flexible; some species of mantis can rotate their heads nearly 180°. The mantis thorax consists of a prothorax, a mesothorax, and a metathorax. In all species apart from the genus ''Mantoida'', the prothorax, which bears the head and forelegs, is much longer than the other two thoracic segments. The prothorax is also flexibly articulated, allowing for a wide range of movements of the head and fore limbs while the remainder of the body remains more or less immobile. 
 
 == Behavior ==
+The closest relatives of mantises are termites and cockroaches (Blattodea), which are all within the superorder Dictyoptera. Mantises are sometimes confused with stick insects (Phasmatodea), other elongated insects such as grasshoppers (Orthoptera), or other unrelated insects with raptorial forelegs such as mantisflies (Mantispidae). 
+
+=== Hunting mechanism ===
+Mantises are generalist predators of arthropods. The majority of mantises are ambush predators that only feed upon live prey within their reach. They either camouflage themselves and remain stationary, waiting for prey to approach, or stalk their prey with slow, stealthy movements. Larger mantises sometimes eat smaller individuals of their own species, as well as small vertebrates such as lizards, frogs, fish, and particularly small birds.
 
 === Defense mechanism ===
-When confronted by a predator, ''I. diabolica'' initiates a deimatic display in an attempt "to scare off or momentarily distract a predator". Its front legs, specifically the femora, are raised to expose the conspicuous patterns depicted on the bottom of the thorax and abdomen. Similarly, the wings display a combination of vibrant colours. Observational analysis of ''I. diabolica'' in captive settings revealed an additional tactic of shifting its wings left to right to startle and confuse predators. 
+Mantises are preyed on by vertebrates such as frogs, lizards, and birds, and by invertebrates such as spiders, large species of hornets, and ants. Some hunting wasps, such as some species of ''Tachytes'' also paralyse some species of mantis to feed their young. Generally, mantises protect themselves by camouflage, most species being cryptically colored to resemble foliage or other backgrounds, both to avoid predators and to better snare their prey. Those that live on uniformly colored surfaces such as bare earth or tree bark are dorsoventrally flattened so as to eliminate shadows that might reveal their presence. 
 
-=== Predatory Habits ===
-In the presence of prey, ''I. diabolica'', impersonating a flower, remains motionless. Its objective is to seduce the insect into its striking zone. In this zone, ''Idolomantis diabolica'' uses the tibiae of its legs to grasp and maintain a strong grip on the prey. The mandibles are then "wielded as formidable weapons" to decapitate and devour the prey. The dietary preference of ''I. diabolica'' is exclusively airborne insects, specifically flies, moths, butterflies and beetles.
-
-== Life cycle ==
-[[File:Idolomantis.jpg|thumb]]
-A female deposits some 10 to 50 eggs in an ootheca. The period between egg-laying and hatching varies according to temperature and humidity, but about fifty days would be typical. After hatching, the nymphs feed on small insects such as houseflies and fruit flies. Males develop into adults after undergoing ecdysis about seven times into successive instars, while females mature after about eight instars. The lifespan of ''I. diabolica'' varies according to the habitat, but is typically about 12 months.
-
-== Care as a pet ==
-Due to its beauty and dramatic displays, the devil's flower mantis is considered a prestigious pet. Consumers, specifically in the Western Hemisphere, purchase thousands on a yearly basis, this is indeed true that mantids are exquisitely gorgeous pets and require low maintenance, they are pretty and easy to take care of although they may not be a good [[Insects as pets|pet]] being for being a friend with, all you need for having one is a terrarium either square or rectangular in shape it is recommended using old unwanted terrariums, aquariums, fishbowls or you can purchase one, to make one all you need is some wooden planks, a measuring tape and most importantly a glass planes in order to see the pet orchid mantis, the price for a homemade terrarium is relatively low and quite easy to make. Devil mantids need an atmosphere closely similar to their original habitat please be gentle while handling it as any possible wounds can lead to bacterial infections and are very gentle. They are an Ideal choice as a pet if you prefer silent pets. Add in more plants to your terrarium, add pebbles rocks, old timber wood and other ornamental objects Ideal as an addition to the terrarium, large creatures especially lepidopteran prey are the core part of it's diet Mealworms can be fed twice or thrice in a week as they are high in fat or you can feed them with small beetles, leafhoppers, moths and butterflies (More often) and that is all you need to know before keeping one.
+== Metamorphosis ==
+The adult female praying mantis lays 100 to 400 eggs after fertilization. The eggs are laid safely on a firm leaf or stem with a liquid that hardens to be a protective sac structure known as ootheca. Initially, the hatched nymphs stay around the egg casing for a while. It's during this period that the mantis try to feed on each other. After spreading out, they will begin to hunt for small insects such as fruit flies. Adolescent mantises are larger in size than nymphs. They shed their exoskeletons occasionally, a feature that differentiates them from adult mantises. Mantises tend to be sluggish before they molt and will rarely feed during this period. Full-grown mantises are normally between 1 to 6 inches in length, and are different in size depending on their species. Female mantises can be distinguished from males as they have heavier abdomens.
+<br />
 [[Category:Mantodea]]
-[[Category:Insecta]]
-[[Category:Insect pets]]
-[[Category:Pterygota]]
-[[Category:Endopterygota]]
-[[Category:Neoptera]]</text>
-      <sha1>t30bdip51e8lfg5fkmqzy0mpeejdz5k</sha1>
-    </revision>
-  </page>
-  

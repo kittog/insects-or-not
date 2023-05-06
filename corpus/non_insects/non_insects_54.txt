@@ -1,51 +1,11 @@
 
-    <title>Varroa underwoodi</title>
-    <ns>0</ns>
-    <id>2248</id>
-    <revision>
-      <id>4362</id>
-      <parentid>3664</parentid>
-      <timestamp>2009-09-02T05:41:55Z</timestamp>
-      <contributor>
-        <username>SmartOneKg</username>
-        <id>1072595</id>
-      </contributor>
-      4362
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="731" sha1="ewk6szq40bg2xfgk6y0gp27g8sneisf" xml:space="preserve">{{Infobox
-|Box title = Varroa underwoodi
-|Image file = 
-|Image size = 
-|Row 1 title = [[Phylum]]
-|Row 1 info = [[Arthropoda]] 
-|Row 2 title = Subphylum
-|Row 2 info = [[Chelicerata]]
-|Row 3 title = Superclass
-|Row 3 info = None
-|Row 4 title = [[Class]]
-|Row 4 info = [[Arachnida]]
-|Row 5 title = [[Order]]
-|Row 5 info = [[Acari]]
-|Row 6 title = [[Family]]
-|Row 6 info = [[Varroidae]]
-|Row 7 title = [[Genus]]
-|Row 7 info = ''[[Varroa]]''
-|Row 8 title = Species
-|Row 8 info = ''V. underwoodi''
-|Row 9 title = 
-|Row 9 info = 
-|Row 10 title = 
-|Row 10 info = 
-}}
-'''''Varroa underwoodi''''' is a species of [[varroa mite]]s that is very uncommon. 
 
-{{Stub}}
-{{ArachnidMove}}
-[[Category:Varroidae]]
+Lorryia formosa
+[[File:Placeholder|right|300px]]'''''Lorryia formosa''''', commonly known as the '''yellow mite''' or the '''citrus yellow mite''',[1] is a species of acariform [[mite]]. They are in the subfamily Tydeinae of the family Tydeidae. Commonly found on the foliage of citrus trees around the world, ''Lorryia formosa'' also associates with a variety of other plant types. The life cycle includes six discrete stages of development, and the lifespan averages about 37 days. The females of the species use an asexual form of reproduction where the growth and development of embryos occurs without fertilization by a male, a process called thelytoky.
+==Taxonomy==
+''Lorryia formosa'', originally found in Morocco, was first described by Cooreman in 1958.[2] In his 1980 revision of the family Tydeidae, H.M. André synonymized the genus ''Lorryia'' with ''Tydeus'', and ''Lorryia formosa'' became ''Tydeus formosus''.[3] André based his revision on the similarities of the chaetotaxy, especially on the legs, but ignored body ornamentation, which is a major character used by other authors. In 1998, Kazmierski revised the Tydeinae subfamily, this time using ornamentation and other features, and reestablished the genus ''Lorryia''.
+==Description==
+In ''Lorryia formosa'', like all Acariformes mites, the capitulum is the head segment and the idiosoma is the body segment. The idiosoma is further subdivided into the propodosoma, metapodosoma, and opisthosoma. The Tydeinae subfamily, to which ''Lorryia formosa'' belongs, is characterized by having three pairs of lyrifissures (grooves that encircle the surface of an appendage) and a pair of primitive eyes (oculi) which commonly occur laterally on the propodosoma, the middle body segment to which the first two pairs of legs are attached. The genital region includes a progenital aperture flanked by setae. Specimens are generally less than 250 µm long.
+==Life cycle==
+[[Category:Mites]]
 [[Category:Acari]]
-[[Category:Mites]]</text>
-      <sha1>ewk6szq40bg2xfgk6y0gp27g8sneisf</sha1>
-    </revision>
-  </page>
-  

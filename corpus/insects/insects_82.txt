@@ -1,31 +1,30 @@
 
-    <title>Archisargoidea</title>
-    <ns>0</ns>
-    <id>4276</id>
-    <revision>
-      <id>7693</id>
-      <parentid>7692</parentid>
-      <timestamp>2021-12-28T06:32:58Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        7693
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="878" sha1="mnfhvoksi3h0gfedenr60gh15d2zf4y" xml:space="preserve">[[File:Archisargoidea.jpg|thumb|Four specimen discovered and beautifully preserved in resin.|330x330px]]
-'''Archisargoidea''' is an extinct superfamily of brachyceran flies known from the late Middle Jurassic (Callovian) to early Late Cretaceous (Turonian). 
-==Morphology==
-Most flies in the superfamily have large eyes and an elongated abdomen, preserved females have a sharp, piercing oviscapt used for injecting eggs into host matter. Their relationships with other members of Brachycera is controversial, 
 
-== Analysis ==
-they are usually considered close relatives of either Stratiomyomorpha or Muscomorpha. Internal relationships between the families are uncertain and the topology of the only cladistic analysis of the family was weakly supported.
+Muscomorpha
+The Brachyceran infraorder '''Muscomorpha''' is a large and diverse group of flies, containing the bulk of the Brachycera, and, most of the known flies. It includes a number of the most familiar flies, such as the housefly, the fruit fly, and the blow fly. The antennae are short, usually three-segmented, with a dorsal arista. Their bodies are often highly setose, and the pattern of setae is often taxonomically important.
+
+== Metamorphosis ==
+The larvae of muscomorphs (in the sense the name is used here; see below) have reduced head capsules, and the pupae are formed inside the exoskeleton of the last larval instar; exit from this puparium is by a circular line of weakness, and this pupal type is called "cyclorrhaphous"; this feature gives this group of flies their traditional name, Cyclorrhapha.
+
+== Classification ==
+The name Cyclorrhapha is used, in various modern classifications, to represent either a subgroup within the infraorder Muscomorpha, or simply a rankless group within the Brachycera. In either case, the Empidoidea are the sister taxon to the Cyclorrhapha. In the present classification, as the term Muscomorpha is used to refer to the sister taxon of the Empidoidea, the names "Muscomorpha" and "Cyclorrhapha" are effectively synonymous (though not entirely interchangeable: for nomenclatural purposes, it is always considered better if the endings of names of similar rank are consistent, and since all the other infraordinal names end in "-morpha", the use of "Cyclorrhapha" as an infraordinal name would be inconsistent)
+
+* Superfamily [[Platypezoidea]]
+* Superfamily [[Syrphoidea]]
+* Superfamily [[Conopoidea]]
+* Superfamily [[Tephritoidea]]
+* Superfamily [[Nerioidea]]
+* Superfamily [[Diopsoidea]]
+* Superfamily [[Sciomyzoidea]]
+* Superfamily [[Sphaeroceroidea]]
+* Superfamily [[Lauxanioidea]]
+* Superfamily [[Opomyzoidea]]
+* Superfamily [[Ephydroidea]]
+* Superfamily [[Carnoidea]]
+* Superfamily [[Muscoidea]]
+* Superfamily [[Oestroidea]]
+* Superfamily [[Hippoboscoidea]]
+[[Category:Insecta]]
 [[Category:Diptera]]
 [[Category:Brachycera]]
-[[Category:Prehistoric Insects]]
-[[Category:Insecta]]
-[[Category:Infraorders]]</text>
-      <sha1>mnfhvoksi3h0gfedenr60gh15d2zf4y</sha1>
-    </revision>
-  </page>
-  
+[[Category:Infraorders]]

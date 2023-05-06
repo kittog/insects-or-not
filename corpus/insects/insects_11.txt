@@ -1,66 +1,21 @@
 
-    <title>Dorcus titanus</title>
-    <ns>0</ns>
-    <id>2980</id>
-    <revision>
-      <id>7590</id>
-      <parentid>7138</parentid>
-      <timestamp>2021-12-20T11:00:56Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-      <comment>Adding categories</comment>
-        7590
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3323" sha1="9vaz5jfl25r8j4knjrwee1mgc52bmwi" xml:space="preserve">{{Infobox|Box title=Dorcus Titanus|Image file=Dorcus titanus.JPG|Image size=255px|Row 1 title=Kingdom|Row 1 info=Animalia|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Coleopteran families | Coleoptera]]|Row 5 title=[[Family]]|Row 5 info=[[Lucanidae]]|Row 6 title=[[Subfamily]]|Row 6 info=[[Lucaninae]]|Row 7 title=[[Genus]]|Row 7 info=[[Dorcus]]|Row 8 title=[[Species]]|Row 8 info=Dorcus Titanus}}
 
-'''''Dorcus titanus''''' is a beetle of the family Lucanidae. It was described by Jean Baptiste Boisduval in 1835. This species is widely distributed in Indonesia, the Philippines, Malaysia, Thailand, Vietnam, Laos, Myanmar, India, Japan, China, Taiwan and Korea.
+Allotopus rosenbergi
+{{Insects_Simple|title1=Allotopus rosenbergi|image1=Allotopus rosenbergi.JPG|caption1=The stunning glistening golden color has a  true shine which is visible as per the direction and propagation of light!|order=Coleoptera|family=Lucanidae|genus=Allotopus|species=A. rosenbergi|similar_species=[[Phalacrognathus muelleri]]}}Allotopos rosenbergi is a species of [[Lucaninae|stag beetle]] from the family [[Lucanidae|Lucanide]] from the tribe [[Allotopus]].
 
 == Morphology ==
-Males can grow upto 32.0–111.3 millimetres (1.26–4.38 in) if we include mandibles. Females have been known to reach lengths of approximately 36.5–54 millimetres (1.44–2.13 in). They have an elongated and flat body with a metallic black colored exoskeleton. The Males have large and thick scissor-like pair of antlers that are aligned with several teeth that can penetrate through wood and provide an excellence at rivalry battles. An unusual thing about Dorcus titanus is the enormous head of a large male which has been recorder to reaches nearly the astounding length of its prothorax and abdomen combined.
+Burnished golden [[Coleoptera families|beetles]] with a bronze coloration, the propagation of light affects the luster of this stag beetle. Their beauty makes them one of the famous insects for collectors. They have a pair of slightly distorted [[Mandible|mandibles]] or "horns" These [[Lucanidae|lucanids]] have a pair of reddish-brown elytra with a fine venation. The [[abdomen]] beneath the burnished [[elytron]]'s is also reddish-brown in color. The [[Insect terminology|tibia]] and the [[Insect terminology|tarsus]] is covered with sharp edged thorns with a sickle-end at the tibia with two extra-sharp [[Insect terminology|claws]]. they can measure between 4-8 centimeters, their exquisite appearance makes them popular targets for bug collecting.
 
-== Metamorphosis ==
-Dorcus titanus undergoes a complete metamorphosis. Adults can be seen from May to August during the late months of summers to Spring. They tend to feed on sap from trees, what allows them to do so is their large and powerful mandibles with their amazing vitality whenever it comes to rivalry. The main target for Dorcus titanus includes ''Quercus'' species of plants. Females lay eggs on the underground among the roots of a matured Oak tree. The eggs hatch within an approximate time period of about a month and the larvae feed on rotten wood as they reside themselves among the roots of the host plant. The larval period lasts about one year it will pupate among the roots and emerge as an adult during early summers. The complete life cycle can last approximately from 1 to 2 years.
-
-== Subspecies ==
-
-* ''[[Dorcus titanus castanicolor]]''
-* ''[[Dorcus titanus daitoensis]]''
-* ''[[Dorcus titanus elegans]]''
-* ''[[Dorcus titanus fafner]]'' 
-* ''[[Dorcus titanus hachijoensis]]''
-* ''[[Dorcus titanus imperialis]]''
-* ''[[Dorcus titanus isabella]]''
-* ''[[Dorcus titanus karasuyamai]]''
-* ''[[Dorcus titanus mindanaoensi]]''
-* ''[[Dorcus titanus nobuyukii]]''
-* ''[[Dorcus titanus palawanicus]]'' 
-* ''[[Dorcus titanus okinoerabuensis]]''
-* ''[[Dorcus titanus okinawanus]]''
-* ''[[Dorcus titanus pilifer]]''
-* ''[[Dorcus titanus platymelus]]''
-* ''[[Dorcus titanus sakishimanus]]''
-* ''[[Dorcus titanus sika]]''
-* ''[[Dorcus titanus titanus]]''
-* ''[[Dorcus titanus takaraensis]]''
-* ''[[Dorcus rectus|Dorcus titanus tatsutai]]''
-* ''[[Dorcus titanus typhoniformis]]''
-* ''[[Dorcus titanus typhon]]''
-* ''[[Dorcus titanus tokunoshimaensis]]''
-* ''[[Dorcus titanus westermanni]]''
-* ''[[Dorcus titanus yasuokai]]''
+== Region ==
+Found in several regions of Southeast Asia, with the most abundant generations found in Myanmar and Indonesia, they also have a distribution range from Cambodia, Thailand, Vietnam and a few found in Eastern India and Southwestern China.
 [[Category:Insecta]]
-[[Category:Coleoptera]]
-[[Category:Lucanidae]]
-[[Category:Lucaninae]]
-[[Category:Dorcus]]
-[[Category:Beetles]]
-[[Category:Endopterygota]]
 [[Category:Neoptera]]
-[[Category:Pterygota]]</text>
-      <sha1>9vaz5jfl25r8j4knjrwee1mgc52bmwi</sha1>
-    </revision>
-  </page>
-  
+[[Category:Pterygota]]
+[[Category:Lucanidae]]
+[[Category:Coleoptera]]
+[[Category:Lucaninae]]
+[[Category:Lucanini]]
+[[Category:Lucanus]]
+[[Category:Rosenbergi]]
+[[Category:Beetles]]
+[[Category:Allotopus]]

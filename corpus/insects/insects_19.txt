@@ -1,44 +1,37 @@
 
-    <title>Actias dubernardi</title>
-    <ns>0</ns>
-    <id>4012</id>
-    <revision>
-      <id>6514</id>
-      <parentid>6495</parentid>
-      <timestamp>2021-10-14T06:40:04Z</timestamp>
-      <contributor>
-        <username>Entomologist Jr.</username>
-        <id>49928406</id>
-      </contributor>
-        6514
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="3414" sha1="4cfvbsq38v8vsmuklq2nt4y8n0ir2cx" xml:space="preserve">Actias dubernardi also known as the Chinese moon moth, Is an insect from the order [[Lepidoptera]] from the family [[saturniidae]] and from the 
 
-{{Insects_Simple|image1=Chinese moon moth.png|caption1=Adult male|order=Lepidoptera|family=Saturniidae|genus=Actias|species=A. dubernardi|similar_species=Indian moon moth     
-Spanish moon moth    
-Luna moth        
-IO moth}}
+Danaus plexippus
+'''On an account on it's physiology Not to be confused with [[Limenitis archippus|Limenitis Archippus.]]''' 
 
-Genus Actias which compromises of [[moon moths]]. The species was first described by Charles Oberthür in 1897. And reaches An adult moth's life is short, no longer than 10 to 12 days (females live longer due to the fact that the female sits still waiting for a mate). Pairing is easy in a medium-sized cage. A beautiful hybrid with ''Graellsia isabellae'' was obtained by a team of French entomologists
+Danaus plexippus, (Formerly known as monarch) Is regarded as the most beautiful butterfly on this planet (Alongside being the most  
 
-== Morphology ==
-An incredibly large moon moth with different colorations depending on their genders, the adult males are a beautiful shade of lime yellow with a vibrant pink wing borders and a pair of yellow combed antennae and a large "Tail" like structure which of the same coloration of vibrant pink seen on the wing borders in males, the females are a beautiful shade of turquoise and teal with a similar shade of lime yellow tails. with a pair of short and straightened antennae the adults are gorgeous in their appearance with beautiful shades of their own and have widespread distribution in several parts of China The newly hatched larva is black with hairs. It sheds its skin four times in its larval stage. In the first instar, it is initially black but becomes a deep red brown as it grows. In the second instar, it continues to lighten to an orange brown. In the third instar it changes into beautiful green with white stripes and silver/gold metallic reflective markings on the sides of the tubercles.
+{{Insects_Simple|order=Lepidoptera|family=Nymphalidae|genus=Daunus|species=Danaus plexippus|similar_species=Limenitis archippus          . 
+Danaus gilippus                  .
+Danaus eresimus      .  
+Dione vanillae         .|image1=Daunaus plexippus.png|caption1=|title1=Monarch}}
 
-== Life cycle ==
-The female lays up to 120 eggs, and may place their eggs anywhere. The egg is oval-shaped, 1.5 × 1 mm; whitish gray, and firmly stuck to branches or sides of the cage that the female had been kept in. Caterpillars, 4–5 mm long, hatch after 10–14 days, the warmer and the higher the humidity, the quicker it happens. The newly hatched larva is black with hairs. It sheds its skin four times in its larval stage. In the first instar, it is initially black but becomes a deep red brown as it grows. In the second instar, it continues to lighten to an orange brown. In the third instar it changes into beautiful green with white stripes and silver/gold metallic reflective markings on the sides of the tubercles. Above the thoracic segments there is a stripe of white, black and red which can be opened and closed to show or hide the aposematic colouration. It is hairy in all its stages, and it feeds on pine trees. The fully grown caterpillar is 60–75 mm long. It spins its brownish silk cocoon on the ground among moss or among pine needles. They are easy to rear, as long as they eat in their first instar. The species comes from high mountainous regions, so it is quite cold hardy. It is best reared indoors, sleeved on a small pine tree. The chrysalis is about 35 mm long, and the imago emerges from the cocoon after about four weeks, depending on the temperature and humidity.
+food source is obtained from the milkweed plant making them venomous as an adult. Monarches have been known to do great and wondersome migrations in groups that contain innumerably great quantities of these beautiful butterflies. Also known as the the milkweed butterfly due to it's diet as a juvenile which primarily consists of nectar. 
 
-== Host plants ==
+== Appearance ==
+They have a vibrant appearance, their bodies are black and have white spots on their bodies, their wings are a shade of vibrant vermillion with black intersecting lines on the fore wings and parallel ones at the hindwings, the borders of their wings are black and spotted with white polka-dots. The alignment of the venation-like patterns can help one differentiate between viceroy butterflies and Monarches as the wings of the viceroy butterflies have parallel lines on both hindwings and forewings that intersect with a single line at the near-end of their wings however viceroy butterflies look exactly similar to monarches on the underside of their wings, I will explain why as we proceed reading this article further. Anyway monarch butterflies can be seen in large swarms of upto 20 million individuals at once travelling from Canada to central America during the fall and looping the same migration annually, one of the most pretty sight in the world is to see the swarm resting idle on trees making them look (Almost) Completely vermillion in color.
 
-* Pine tree - ''Pinus'' species. 
-* ''Pinus massoniana''. 
-* ''Pinus sylvestris'' (Scots pine),
-* ''nigra'' (black pine).
+== [[The great monarch butterfly migration|The migration]] ==
+[[The great monarch butterfly migration|The great monarch migration]] is definitely something one can glare at for hours, these butterflies swarm up into huge clouds of butterflies and flutter from Canada to central America during fall and repeating the same process over and over in a cycle again and again. These butterflies will lay their eggs every generation as their maximum lifespan is only for 28 days and the minimum being 18 days. These swarms of fluttering wonders rest idle on trees and cover their leaves with their wings wide open and expanded making the entire forest look vermillion in color, it is a natural process as their caterpillars feed on milkweeds, there are many milkweed plants, plenty for all of the butterflies in total as milkweed is considered as a weed, monarches help in keeping the population of milkweeds under controlled. 
 
-[[Category:Lepidoptera]]
-[[Category:Behavior]]
-[[Category:Caterpillars]]</text>
-      <sha1>4cfvbsq38v8vsmuklq2nt4y8n0ir2cx</sha1>
-    </revision>
-  </page>
-  
+== Behaviors ==
+[[File:Monarch Life cycle.png|thumb|Life cycle]]
+As we said earlier, viceroy butterflies mimic Monarches this is because monarch butterflies are feared by several species of birds and other bigger predators due to the toxic chemical within their bodies they obtain as a larva by feeding off milkweed. The sap from the milkweed plants contain a notorious chemical which is highly venomous, Danous plexippus can digest such venom and use them for their own defense, birds that swallow monarch butterflies on accidents have been seen throwing up to save their lives Viceroy butterflies and other species of butterflies cannot afford consuming such venomous weeds like milkweed and therefore mimic monarch butterflies to avoid predators, monarch butterflies on the other hand have almost no predators due to this. If we talk about the common behaviour of Danous plexippus then the main point that comes into one's mind is that they are highly well socialized and migrate in large numbers. But that is NOT what makes them very special it is the fact that they always remember their way home, even a newly born generation remembers it's way from central America to Canada. Now most people may not know it but their brains despite being the size of a pinpoint carries this special genre  which helps them remember their way home each time they migrate. This is one of the main features that make them unique  from other [[Lepidoptera|lepidopterans.]]
+
+== Distribution and Habitat ==
+They prefer a wide range of tropical and sub-tropical regions occurring anywhere between central to north America. They prefer all kinds of forest ranging from deciduous to evergreen forests although native to north America they have a wide distribution in the northern temperate zone and love sunny-warm patches of grass covering meadows thriving with flowers and more importantly on a really necessary note, Monarches need milkweed plants in order to reproduce and for a new generation of butterflies to arise this is where they breed however the eastern distribution of butterflies ranged from Australia and some parts of Asia making them a greatly successful specimen.
+
+== See also ==
+<big>Read more about this species on the following sources:</big>
+
+* [https://en.wikipedia.org/wiki/Monarch_butterfly Monarch butterfly (wikipedia)]
+* [https://www.nationalgeographic.com/animals/invertebrates/facts/monarch-butterfly Monarch butterfly (National Geographic)]
+* [[Category:Lepidoptera]] [https://www.biologicaldiversity.org/species/invertebrates/monarch_butterfly/ Monarch butterfly (Biological Diversity)]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]
+[[Category:Nymphalidae]]
