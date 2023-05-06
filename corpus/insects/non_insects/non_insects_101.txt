@@ -1,0 +1,25 @@
+
+    <title>Hadrurus arizonensis</title>
+    <ns>0</ns>
+    <id>3506</id>
+    <revision>
+      <id>5588</id>
+      <timestamp>2016-07-27T20:56:47Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''Hadrurus arizonensis''', the '''giant desert hairy scorpion''', '''giant hairy scorpion''', or '''Arizona Desert hairy [[scorpion]]''', is t..."</comment>
+      5588
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1977" sha1="a0l3haa8w7fxnmpfw3dz6vf7lfafy1f" xml:space="preserve">[[File:Placeholder|right|300px]]'''Hadrurus arizonensis''', the '''giant desert hairy scorpion''', '''giant hairy scorpion''', or '''Arizona Desert hairy [[scorpion]]''', is the largest scorpion in North America,[2] and one of the 8–9 species of ''Hadrurus'' in the United States, attaining a length of 14 cm (5.5 in).[3] Its large size allows it to feed easily on other scorpions and a variety of other prey, including lizards and snakes. This species is usually yellow with a dark top[3] and has lobster-like pincers. It gets its common names from the brown hairs that cover its body. These hairs help it to detect vibration in the soil.[3] A similar species is ''[[Hadrurus spadix]]''.
+==Habitat==
+''Hadrurus arizonensis'' is distributed throughout the Sonora and Mojave deserts. In Mexico, the species' range flanks the Gulf of California in Sonora and Baja California Norte. In the United States, it is found in the western two thirds of Arizona, the Colorado Desert and Mojave Desert regions of southern California, southern Nevada, and extreme southwestern Utah. Arizona Desert hairy scorpions are a warm-desert species, specially adapted to hot and dry conditions. They are usually found in and around washes or low-elevation valleys where they dig elaborate burrows (up to 2.5 m or 8 ft 2 in) and emerge at night to forage for prey and mates. Other species commonly encountered living sympatrically with this species are: ''Smeringurus mesaensis'', ''Hoffmannius confusus'', and ''[[Hoffmannius spinigerus]]''.
+==Diet and behavior==
+It is a burrowing scorpion, but is commonly found under rocks containing moisture. Its diet consists of large [[insect]]s, [[spider]]s, and small vertebrates.[2] This is an aggressive and active scorpion, which, as with all scorpions, is nocturnal. Like all scorpions, the giant desert hairy scorpion gives birth to live young, which remain on the mother's back for a week or more before leaving.
+==Toxicity==
+[[Category:Scorpiones]]</text>
+      <sha1>a0l3haa8w7fxnmpfw3dz6vf7lfafy1f</sha1>
+    </revision>
+  </page>
+  

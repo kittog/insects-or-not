@@ -1,0 +1,33 @@
+
+    <title>Latrodectus</title>
+    <ns>0</ns>
+    <id>3479</id>
+    <revision>
+      <id>5561</id>
+      <timestamp>2016-07-21T03:40:40Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Latrodectus''''' is a genus of [[spider]] in the family Theridiidae, most of which are commonly known as widow spiders. The genus contains..."</comment>
+      5561
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3867" sha1="plxcikomb31ph7uep30gdl3zz0b5lqd" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Latrodectus''''' is a genus of [[spider]] in the family Theridiidae, most of which are commonly known as widow spiders. The genus contains 31 recognized species[2] distributed worldwide, including the North American [[black widow]]s (''L. mactans'', ''L. hesperus'', and ''L. variolus''), the button spiders of Africa, and the Australian redback. Species vary widely in size. In most cases the females are dark-colored and readily identifiable by reddish hourglass-shaped markings on the abdomen.
+
+The venomous bite of these spiders is considered particularly dangerous because of the neurotoxin latrotoxin, which causes the condition latrodectism, both named for the genus. The female black widow has unusually large venom glands and its bite can be particularly harmful to humans. However, despite the genus' notoriety, ''Latrodectus'' bites are rarely fatal. Only female bites are dangerous to humans.
+==Description==
+Female widow spiders are typically dark brown or black in color, usually exhibiting a red or orange hourglass on the ventral surface (underside) of the abdomen; some may have a pair of red spots or have no marking at all. They often exhibit various red or red and white markings on the dorsal surface (upper side) of the abdomen, ranging from a single stripe to bars or spots. Females of a few species are paler brown and some have no bright markings.
+==Behavior==
+The prevalence of sexual cannibalism, a behavior in which the female eats the male after mating, has inspired the common name "widow spiders".[3] Research at the University of Hamburg in Germany suggests this behaviour may promote the survival odds of the offspring;[4] however, females of some species only rarely show this behavior, and much of the documented evidence for sexual cannibalism has been observed in laboratory cages where the males could not escape.
+
+Like other members of the family Theridiidae, the widow spiders construct a web of irregular, tangled, sticky silken fibers. The spider very frequently hangs upside down near the center of its web and waits for insects to blunder in and get stuck. Then, before the insect can extricate itself, the spider rushes over to bite it and wrap it in silk. To feed, it uses its fangs to inject digestive enzymes, liquefying the prey's internal organs.[5] If the spider perceives a threat, it will quickly let itself down to the ground on a safety line of silk. As with other web-weavers, these spiders have very poor eyesight and depend on vibrations reaching them through their webs to find trapped prey or warn them of larger threats. When a widow spider is trapped, it is unlikely to bite, preferring to play dead or flick silk at the potential threat; bites are the result of continual harassment.[6] While some species are more aggressive, most are not: many injuries to humans are due to defensive bites delivered when a spider gets unintentionally squeezed or pinched.
+
+The ultimate tensile strength and other physical properties of ''[[Latrodectus Hesperus]]'' (western black widow) silk were found to be similar to the properties of silk from orb-weaving spiders that had been tested in other studies. The tensile strength for the three kinds of silk measured in the Blackledge study was about 1000 MPa. The ultimate strength reported in a previous study for ''[[Nephila edulis]]'' was b1290 MPa ± 160 MPa.[7] The tensile strength of spider silk is comparable to that of steel wire of the same thickness.[8] However, as the density of steel is about six times that of silk,[9] silk is correspondingly stronger than steel wire of the same weight.
+
+Spiders of the genus ''Steatoda'' (also of the Theridiidae family) are often mistaken for widow spiders, and are known as "[[false widow spider]]s"; they are significantly less harmful to humans.
+==Species==
+[[Category:Araneae]]</text>
+      <sha1>plxcikomb31ph7uep30gdl3zz0b5lqd</sha1>
+    </revision>
+  </page>
+  

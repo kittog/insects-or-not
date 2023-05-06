@@ -1,0 +1,60 @@
+
+    <title>Synanthedon exitiosa</title>
+    <ns>0</ns>
+    <id>2417</id>
+    <revision>
+      <id>6539</id>
+      <parentid>6538</parentid>
+      <timestamp>2021-10-16T08:07:29Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        6539
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2031" sha1="1l2y9h3uz4ntzn9fqost6ytzt7mgxqn" xml:space="preserve">{{Infobox
+|Box title = Synanthedon exitiosa
+|Image file = Synanthedon exitiosa.jpg
+|Image size = 250px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Lepidoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Glossata]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Sesioidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Sesiidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Sesiinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Synanthedonini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Synanthedon]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Synanthedon exitiosa'''''
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+'''''Synanthedon exitiosa''''' or the '''Peachtree borer''' is a black species of [[moth]] in the family [[Sesiidae]].
+
+==Appearance==
+
+The most noticeable feature of Exitosa is the broad orange stripe on the body. The wings are slightly tinted to blue with transparent blotches on the wings. and the body is coated black. This is a specialized method of mimicry to prevent unsuspecting predators from consuming them, It is indeed true that this moth mimics wasp (Although it is harmless) as a method of preventing larger insects and birds from consuming them. It has been known to attack ''Prunus persica'' and Rosaceae species of plants, a family of fruit bearing trees. The wingspan of Exitiosa ranges from 14 mm to 33 mm, and are noticeable between May and September. The adult female of the species has a wingspan of about 3.5 centimeters. . It has opaque forewings and clear hindwings. The male is smaller and more slender, and both pairs of wings are clear. The larva is up to 3.5 centimeters long and white with a brown head.
+
+==Habitat==
+[[File:Synanthedon exitiosa larva.jpg|thumb|290x290px|Larva]]
+noticeable between May and September, These moths prefer temperate semi arid areas with an availability of host plants to infest.
+[[Category:Insecta]]
+[[Category:Lepidoptera]]
+[[Category:Glossata]]
+[[Category:Sesioidea]]
+[[Category:Sesiidae]]
+[[Category:Sesiinae]]
+[[Category:Synanthedonini]]
+[[Category:Synanthedon]]</text>
+      <sha1>1l2y9h3uz4ntzn9fqost6ytzt7mgxqn</sha1>
+    </revision>
+  </page>
+  

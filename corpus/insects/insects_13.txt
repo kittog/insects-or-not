@@ -1,0 +1,60 @@
+
+    <title>Cybister lateralimarginalis</title>
+    <ns>0</ns>
+    <id>2387</id>
+    <revision>
+      <id>4342</id>
+      <parentid>4266</parentid>
+      <timestamp>2009-09-01T21:14:55Z</timestamp>
+      <contributor>
+        <username>SmartOneKg</username>
+        <id>1072595</id>
+      </contributor>
+        4342
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1347" sha1="2xvfqnx2h0pybcjbq495b4rxpvm649d" xml:space="preserve">{{Infobox
+|Box title = Cybister lateralimarginalis
+|Image file = Cybister lateralimarginalis.jpg
+|Image size = 231px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Adephaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Dytiscoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Dytiscidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Dytiscinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Cybistrini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Cybister]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Cybister lateralimarginalis'''''
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+'''''Cybister laterimarginalis''''' is a species of [[diving beetle]] belonging to the ''[[Cybister]]'' genus in the [[Dytiscidae]] family. In 1997, it was redlisted, but they have been growing in population ever since.
+
+==Appearance==
+
+This diving beetle is the largest [[Dytiscid]] in Denmark. The body is mainly green and looks quite like the [[fruit beetle]]. The eyes and pinchers are clearly seen.
+
+==Habitat==
+
+The laterimarginalis swims on the brim of shallow water using its strong pinchers. It can survive in water and on land.
+[[Category:Insecta]]
+[[Category:Coleoptera]]
+[[Category:Adephaga]]
+[[Category:Dytiscoidea]]
+[[Category:Dytiscidae]]
+[[Category:Dytiscinae]]
+[[Category:Cybistrini]]
+[[Category:Cybister]]</text>
+      <sha1>2xvfqnx2h0pybcjbq495b4rxpvm649d</sha1>
+    </revision>
+  </page>
+  

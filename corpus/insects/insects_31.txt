@@ -1,0 +1,45 @@
+
+    <title>Coscinocera hercules</title>
+    <ns>0</ns>
+    <id>4118</id>
+    <revision>
+      <id>7482</id>
+      <parentid>6748</parentid>
+      <timestamp>2021-12-13T07:31:25Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <minor/>
+      <comment>Entomologist Jr. moved page [[Hercules moth]] to [[Coscinocera hercules]]</comment>
+        6748
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1589" sha1="nsytv24ogn8xm1tp1gywm80bzikqoof" xml:space="preserve">'''''Coscinocera hercules''''', the '''Hercules moth''', is a [[moth]] of the family [[Saturniidae]], endemic to New Guinea and northern Australia. The 
+
+{{Insects_Simple|title1=Coscinocera hercules|image1=Hercules moth (Female).jpg|caption1=Adult female|order=Lepidoptera|family=[[Saturniidae]]|genus=[[Cocinocera]]|species=Coscinocera hercules|similar_species=[[Atlas moth]]                                   .
+[[Papilio antimachus]]                  .
+[[Argema mittrei]]             .}}
+
+species was first described by William Henry Miskin in 1876.
+
+== Morphology ==
+[[Adult|Adults]] have a wingspan of about 27 centimetres (11 in), making it the largest moth found in Australia, and its wings have the largest documented surface area (300 square centimeters) of any living insect (Other than ''[[White Witch moth|Thysania agrippina]])'' . They are mainly colored golden-brown and white, with transparent spots on each of the four wing sections – the coloring and patterns between genders is mostly static. However, adult males have longer, slimmer tails on their wings than females do, making it somewhat easy to differentiate them in this way.
+
+Their larvae grow up to 12 cm (about 4.7 in), and will weigh around 29 grams in their final instar.  They are a pale-blue or green color, with red dots along their sides and yellow spines.
+
+== Host plants ==
+
+* ''Dysoxylum muelleri,''
+* ''Glochidion ferdinandi,''
+* ''Timonius rumphii,''
+* ''Timonius singularis''
+* ''Homalanthus populifolius''
+[[Category:Lepidoptera]]
+[[Category:Saturniidae]]
+[[Category:Insects]]
+[[Category:Insecta]]</text>
+      <sha1>nsytv24ogn8xm1tp1gywm80bzikqoof</sha1>
+    </revision>
+  </page>
+  

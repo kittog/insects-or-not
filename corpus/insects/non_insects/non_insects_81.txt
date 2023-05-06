@@ -1,0 +1,84 @@
+
+    <title>Chilopoda</title>
+    <ns>0</ns>
+    <id>2003</id>
+    <revision>
+      <id>8036</id>
+      <parentid>8035</parentid>
+      <timestamp>2022-05-28T20:03:03Z</timestamp>
+      <contributor>
+        <ip>49.206.120.107</ip>
+      </contributor>
+      <comment>Improved grammer and added more info.</comment>
+      8036
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3405" sha1="2l4dhma73lyzdmazl9u2djr0ag89pb1" xml:space="preserve">{{Infobox
+|Box title = Chilopoda
+|Image file = Lithobius_forficatus.jpg
+|Image size = 250px
+|Row 1 title = Kingdom
+|Row 1 info = Animalia
+|Row 2 title = Phylum
+|Row 2 info = Arthropod
+|Row 3 title = Subphylum
+|Row 3 info = Myriapoda
+|Row 4 title = [[Class]]
+|Row 4 info = '''''Chilopoda'''''
+|Row 5 title = 
+|Row 5 info = 
+|Row 6 title = 
+|Row 6 info = 
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+''Chilopoda'' is the main class of centipedes. A centipede is a [[myriapod]] that has usually more than 26 [[leg]]s. The largest species have nearly 64 pairs of legs, shich is contrary to the name. There are 4 [[order]]s and 22 families of centipedes. 
+
+== Appearance ==
+A centipede can have anywhere from 26-64 pairs of appendages. A centipede's body is [[worm|worm-like]], covered with a burnished exoskeleton, they generally have a flattened body with two large fangs. And it may look like a centipede has two heads as a trick to confuse predators. Their [[antenna|antennae]] are sometimes barely noticable being around 4-5 cm. 
+
+== Defenses ==
+Centipedes are commonly flexible and fast, making it hard to kill or capture one. Most species will also attack with [[venom]], that will sting if you are touched. The venom is injected into the prey through their large fangs while their pointed appendages provide a hold on to their prey or any attacker. Some may use their size as a defense being so minute and barely noticable while the larger species are equipped with deadly toxins. 
+
+== Feeding ==
+Centipedes are nocturnal predacious animals, thus meaning that they hunt mainly at night. All centipedes are [[predacious]]. They sometimes even use their venom to kill much larger prey. Their diet commonly includes smaller insects such as orthropterans, smaller centipedes and sometimes even rats and reptiles. 
+
+== Life Cycle ==
+The male centipedes drop sperm on the ground and the female eventually picks it up. The [[egg]]s are often laid underground in large clutches. 
+
+== Geography ==
+Centipedes mainly live worldwide, but mainly live in temperate locations and tropical and sub-tropical regions. Being most common in temperate and torrid zone generally larger species can be found inhabiting secluded islands and tropical rainforests. 
+
+== Orders ==
+Five orders of centipedes exist in the world from prehistoric times to current day. 
+
+===Geophilimorpha===
+The order Geophilida is an order of centipedes that are usually straw color to brown and are long and slender, usually made up of 35 segments. 
+
+===Lithobiomorpha===
+Lithobiida is an order of centipedes that are usually red-brown with a flat body and usually have around 15 pairs of legs. 
+
+===Scolopendromorpha===
+Centipedes in the order Scolopendromorpha are usually brightly coloured with dark stripes or bands. They usually have 21 or 23 pairs of legs. 
+
+===Scutigeromorpha===
+Scutigerid centipedes are fairly short that are usually brown with some pale markings. These centipedes have 30 legs that are very long. 
+
+=== Craterostigmorpha ===
+Containing only two extant species, ''Craterostigmus crabilli'' and ''Craterostigmus tasmanianus.'' They are restricted to New Zealand and the Tasman area.
+
+
+
+== Sources ==
+*[http://www.wikipedia.com/wiki/centipede Centipedes on Wikipedia]
+*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+[[Category:Myriapods]]</text>
+      <sha1>2l4dhma73lyzdmazl9u2djr0ag89pb1</sha1>
+    </revision>
+  </page>
+  

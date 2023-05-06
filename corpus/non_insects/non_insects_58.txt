@@ -1,0 +1,29 @@
+
+    <title>Amblypygi</title>
+    <ns>0</ns>
+    <id>2005</id>
+    <revision>
+      <id>8146</id>
+      <parentid>6336</parentid>
+      <timestamp>2023-01-19T09:48:23Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8146
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="867" sha1="i6gfug8jxvtnkk6y66nv4dz9a0xj11w" xml:space="preserve">Amblypygi is the order of [[whip-spider]]s.
+
+Amblypygi is in the wide range of Arachnids, which is a family of [[Asilidae|spiders]], [[Buthidae|scorpions]], [[Uropygi|whip scorpions]], and [[Thrips|mites]].
+
+Amblypygi normally can be from a few inches long to as long as 7 inches in lengt (larger species Like [[whip-spider]] normally live in Arizona) and even through they deliver painful bites, These beauties lurk within caves especially humid, limestone caves and may also be ground dwelling arachnids. They are beautiful and have varying appearances, commonly known as tailless whip scorpions they’re beautiful arachnids inhabiting equatorial, deciduous and rainforest in Africa, Australia, New Zealand etc.
+
+== See Also ==
+For more information about the [[insect orders|order]], '''Amblypygi''', see [[whip-spider]].
+[[Category:Orders]]
+[[Category:Amblypygi]]</text>
+      <sha1>i6gfug8jxvtnkk6y66nv4dz9a0xj11w</sha1>
+    </revision>
+  </page>
+  

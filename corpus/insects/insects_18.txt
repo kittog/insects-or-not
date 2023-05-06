@@ -1,0 +1,38 @@
+
+    <title>Puss Moth</title>
+    <ns>0</ns>
+    <id>3929</id>
+    <redirect title="Megalopyge opercularis" />
+    <revision>
+      <id>7754</id>
+      <parentid>6225</parentid>
+      <timestamp>2022-01-05T05:40:44Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Redirected page to [[Megalopyge opercularis]]</comment>
+        7754
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" sha1="li4oorjy10ah4oztgsxb8u6u7r7khy8" xml:space="preserve">#REDIRECT [[Megalopyge opercularis]]!! [NOTICE: Red links mean a missing page, so if a red link is seen, CREATE THE PAGE] !![[File:Black Witch Moth.jpg|frame|A '''Puss Moth'''.]]
+
+A puss moth is a [[Lepidoptera|lepidopteran]] from the family [[Notodontidae]]. The species was first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae.&lt;br&gt;
+
+*Scientific name: [[Cerura vinula]]&lt;br&gt;
+
+*Order: [[Lepidoptera]]&lt;br&gt;
+
+*Family: [[Notodontidae]]&lt;br&gt;
+
+*Phylum: [[Arthropoda]]&lt;br&gt;
+
+*Kingdom: [[Animalia]]&lt;br&gt;
+
+[[Category:Lepidoptera]]
+
+&lt;br /&gt;</text>
+      <sha1>li4oorjy10ah4oztgsxb8u6u7r7khy8</sha1>
+    </revision>
+  </page>
+  

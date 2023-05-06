@@ -1,0 +1,41 @@
+
+    <title>Lycaenidae</title>
+    <ns>0</ns>
+    <id>4556</id>
+    <revision>
+      <id>8027</id>
+      <parentid>7970</parentid>
+      <timestamp>2022-04-23T06:51:57Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        8027
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="694" sha1="a10m9manb4gn9s8ugr8hwaxzgl90ihx" xml:space="preserve">Lycaenidae is the second-largest family of butterflies, with over 6,000 species worldwide, whose members are also called gossamer-winged butterflies. They constitute about 30% of the known butterfly species. The family comprises seven subfamilies, including the blues, the coppers, the hairstreaks, and the harvesters.
+
+Scientific name: Lycaenidae
+
+Order: [[Lepidoptera]]
+
+Family: Lycaenidae; Leach, 1815
+
+Kingdom: Animalia
+
+Superfamily: [[Papilionoidea]]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Genera]]
+[[Category:Neoptera]]
+[[Category:Families]]
+[[Category:InsectFamilies]]
+[[Category:Lycaenidae]]
+[[Category:Papilionoidea]]
+[[Category:Lepidoptera]]</text>
+      <sha1>a10m9manb4gn9s8ugr8hwaxzgl90ihx</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,57 @@
+
+    <title>Tabanus sudeticus</title>
+    <ns>0</ns>
+    <id>2413</id>
+    <revision>
+      <id>7251</id>
+      <parentid>5902</parentid>
+      <timestamp>2021-11-23T10:54:50Z</timestamp>
+      <contributor>
+        <username>Enosgian</username>
+        <id>48189863</id>
+      </contributor>
+        7251
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1072" sha1="1vm16kvmw6umb0gf9yfdo5p0nt3eahm" xml:space="preserve">{{Infobox
+|Box title = Tabanus sudeticus
+|Image file = Tabanus sudeticus.jpg
+|Image size = 250 px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Diptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Brachycera]]
+|Row 3 title = [[Family]]
+|Row 3 info = [[Tabanidae]]
+|Row 4 title = [[Subfamily]]
+|Row 4 info = [[Tabaninae]]
+|Row 5 title = [[Tribe]]
+|Row 5 info = [[Tabanini]]
+|Row 6 title = [[Genus]]
+|Row 6 info = ''[[Tabanus]]''
+|Row 7 title = [[Species]]
+|Row 7 info = '''''Tabanus sudeticus'''''
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+'''''Tabanus sudeticus''''', or the '''dark giant horsefly''' is a species of [[Calliphora vomitoria|horsefly]] in the family [[Tabanidae]].
+
+==Appearance==
+
+It is the heaviest [[Diptera]]n in all of Europe. It perfectly resembles an enormous honeybee with compound eyes. Their size ranges to the size of a tablespoon.
+
+==Habitat==
+
+This horsefly is the one of the few horsefly that bites.
+[[Category:Insecta]]
+[[Category:Diptera]]
+[[Category:Tabanidae]]
+[[Category:Tabaninae]]
+[[Category:Tabanini]]
+[[Category:Tabanus]]
+[[Category:Brachycera]]</text>
+      <sha1>1vm16kvmw6umb0gf9yfdo5p0nt3eahm</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,53 @@
+
+    <title>Ascalapha odorata</title>
+    <ns>0</ns>
+    <id>3891</id>
+    <revision>
+      <id>6084</id>
+      <parentid>6082</parentid>
+      <timestamp>2019-08-24T06:24:46Z</timestamp>
+      <contributor>
+        <username>Birds Forever</username>
+        <id>39819824</id>
+      </contributor>
+      <minor/>
+        6084
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4227" sha1="l5wf97ehuqurpkytd3k2c5p7ew2rj7q" xml:space="preserve">{{Insects_Simple|title1 = Black Witch Moth|order = Lepidoptera|family = Erebidae|genus = Ascalapha|species = A. odorata|similar_species = Bat-like|image1 = Black Witch Moth.jpg|caption1 = Adult female}}The nocturnal black witch moth - the largest moth in the continental United States, with a wing span of six to seven inches - has been vested with a foreboding aura of darkness and mystery. It bears common names such as Mariposa de la Muerte (Butterfly of Death) in Mexico, Duppy Bat (Lost Soul) in Jamaica, or Sorciére Noire (or Dark Sorcerer) in French-speaking Caribbean islands.
+
+==Folklore==
+According to folklore, if the black witch flies into your field of view, it conveys a curse from an enemy. If it flies over your head, it will cause your hair to fall out. If it flies into your home when you are sick, you will not get well. You will die.
+
+​​​On a happier note, if the black witch appears before you after someone has died, it represents the soul of the person returning to bid you farewell. Should one alight on you, you will become rich.
+
+Should one land above the door of your home, you will win the lottery.
+
+Unlike the butterflies - colorful and delicate nymphs of the daylight hours - the moths - drab spirits of the night - often recall humankind’s mysterious and darker side.
+
+==Description==
+The male Black Witch Moth has superficial resemblance to a small bat. It has a wingspan of up to 6 inches. Its wings are broad along insect’s head and body; pointed at the ends; often tattered by rigors of migratory flight. The proboscis is coiled, straw-like, used for taking nectar from flowers or liquids from other sources. Thier wings are brown with undulating dark brown or black lines; single black-outlined ‘9’-shaped mark near leading edge of each of its forewings; single black-outlined umbrella-shaped mark near trailing edge of each of its hindwings; marks distinguished by iridescent violent tinges.
+
+Females are slightly larger than the male; distinguished by wavy white line traversing its wings.
+==Occurrence==
+The insect’s range extends from northern South America across Caribbean islands, Central America and Mexico and throughout the United States. In some locations, the moths breed throughout the year, in overlapping generations.
+
+Some populations migrate seasonally, with those of the tropical regions heading north during rainy seasons. Mexican populations, for instance, head north into the Southwest during the summer. Like other migratory moths, the Black Witch flies only at night, well above ground level. It may travel considerable distances, even across open water.
+
+The Black Witch stages occasional mass migrations, probably propelled by a population explosion, to seek new territory. Its migrations often appear to be prompted by weather, for instance, storms, falling temperatures, persistent winds, or prolonged rainfall.
+==Life History==
+Like all butterflies and moths - which belong to the advanced insects - the Black Witch has a ‘complete’ life cycle. Their life cycle starts with the adults mating. Then the female lays eggs. Caterpillars hatch from the eggs, feed voraciously, and spin cocoons. Adults emerge from the cocoons, prepared for a highly mobile life that will last no more than several weeks.
+
+The Black Witch favors stands of woody legumes. The larvae, or caterpillars - striped and 2 1/2 to 3 inches in length - feed on the foliage of the legumes during the night and take refuge beneath bark during the day. Unlike some other moth larvae, they pose no threat to agricultural crops.
+
+Like almost all moths, the adult Black Witch flies mostly at night, attracted to the nectar of flowers, the juices of fallen fruit or the sap of a legume. It rests during the day, oftentimes on the walls or under the eaves of entranceways, porches, garages.
+===Life Hazards===
+While the Black Witch is active primarily at night, with the darkness offering some protection, it sometimes falls prey to birds, for instance, the House Sparrow or the Loggerhead Shrike. It may become a meal for a bat or even an occasional meal for a spider.
+[[Category:Lepidoptera]]
+[[Category:Insecta]]
+[[Category:Erebidae]]
+[[Category:Insects of North America]]</text>
+      <sha1>l5wf97ehuqurpkytd3k2c5p7ew2rj7q</sha1>
+    </revision>
+  </page>
+  

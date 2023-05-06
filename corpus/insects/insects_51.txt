@@ -1,0 +1,27 @@
+
+    <title>Drone ant</title>
+    <ns>0</ns>
+    <id>3436</id>
+    <revision>
+      <id>8023</id>
+      <parentid>5514</parentid>
+      <timestamp>2022-04-23T06:47:56Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        8023
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="455" sha1="tddw5kid0xgkdqh97i1dkgpl0c4xyln" xml:space="preserve">Drone ants are ants that have one task in life: to mate with a queen ant. A drone ant goes out in nuptial flights when it's the certain season (different for each species) and will mate with a winged queen. 2 days later the drone will curl up and die for other ants to eat but the queen can live for another 20 years.
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Hymenoptera]]
+[[Category:Ants]]
+[[Category:Formicidae]]</text>
+      <sha1>tddw5kid0xgkdqh97i1dkgpl0c4xyln</sha1>
+    </revision>
+  </page>
+  

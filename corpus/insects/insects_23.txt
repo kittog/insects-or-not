@@ -1,0 +1,50 @@
+
+    <title>Hyles livornica</title>
+    <ns>0</ns>
+    <id>4056</id>
+    <revision>
+      <id>6842</id>
+      <parentid>6841</parentid>
+      <timestamp>2021-10-22T06:22:21Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <minor/>
+      <comment>Entomologist Jr. moved page [[Striped Hawk Moth]] to [[Hyles livornica]]: The scientific name of the species is more appropriate according to me.</comment>
+        6841
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2907" sha1="gtaau6qal48osyzqfda8utis1z8wp4j" xml:space="preserve">&lt;span lang="ga" dir="ltr"&gt;Hyles livornica, the '''striped hawk-moth''', is a moth of the family [[Sphingidae]].&lt;/span&gt; 
+
+==&lt;span lang="ga" dir="ltr"&gt;Taxonomy&lt;/span&gt;==
+&lt;span lang="ga" dir="ltr"&gt;Eugenius Johann Christoph Esper described the striped hawk-moth in 1780 using a specimen found in Italy at Livorno (hence the Latin name ''livornica''). In 1819 Jacob Hübner allocated this species in his newly erected genus ''Hyles''.&lt;/span&gt;
+
+&lt;span lang="ga" dir="ltr"&gt;Until the 20th century ''Hyles livornica'' has been considered conspecific with the American ''Hyles lineata'' and is therefore under that name (or as ''Celerio lineata'' ssp. ''livornica'') found in the older literature. Similar was the case with the ''Hyles livornicoides'', which is prevalent in Australia. ''Hyles renneri'' from Nepal is sometimes treated as a valid species.&lt;/span&gt;
+{{Insects_Simple|title1=Hyles livornica|image1=35981119593 8220851d27 o striped hawk moth.jpg|caption1=A pretty, medium-sized hawkmoth|order=Lepidoptera|family=[[Sphingidae]]|genus=[[Hyles]]|species=H. Livornica|similar_species=[[Lime hawk moth]]
+[[Laothoe populi]]}}
+
+==&lt;span lang="ga" dir="ltr"&gt;Morphology&lt;/span&gt;==
+&lt;span lang="ga" dir="ltr"&gt;''Hyles livornica'' has a wingspan reaching 60–80 mm. Males are slightly smaller than females. The forewings and the body are mainly olive brown or beige, with white stripes. brown forewings wings and Cream colored venation with paler white marking on the thoracic region alongside a striped abdomen The hindwings are pink, with black and white edges. The head and the thorax are olive-brown, with white stripes. The olive-brown abdomen has black-and-white segment, the first two segments have large black and white side spots. The antennae are dark olive brown and have a white tip. These moths fly from February to October depending on the location. In Europe they are visible from April to June and from August to September in two generations and sometimes they overwinter. This species is a migrant from Africa to Europe. The caterpillars are green, with black markings and reach a length from 65 to 80 millimeters.&lt;/span&gt;
+
+==&lt;span lang="ga" dir="ltr"&gt;Host plants&lt;/span&gt;==
+
+*&lt;span lang="ga" dir="ltr"&gt;''Galium'', (Bedstraw)&lt;/span&gt;
+* ''&lt;span lang="ga" dir="ltr"&gt;Gossypium (cotton)&lt;/span&gt;''
+*&lt;span lang="ga" dir="ltr"&gt;''Rumex'', (Sorrels)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Vitis'', (Grapevine)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Euphorbia'', (Spurge)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Linaria'', (toadflax)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Epilobium'', (Onagraceae)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Antirrhinum'', (Snapdragon)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Scabiosa'', (Scabious)&lt;/span&gt;
+*&lt;span lang="ga" dir="ltr"&gt;''Linum'', (Common flax)&lt;/span&gt;
+* ''&lt;span lang="ga" dir="ltr"&gt;Fuchsia&lt;/span&gt;''
+*&lt;span lang="ga" dir="ltr"&gt;''Asphodelus''.&lt;/span&gt; 
+
+[[Category:Lepidoptera]]
+[[Category:Sphingidae]]</text>
+      <sha1>gtaau6qal48osyzqfda8utis1z8wp4j</sha1>
+    </revision>
+  </page>
+  

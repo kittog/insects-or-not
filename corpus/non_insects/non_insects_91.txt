@@ -1,0 +1,66 @@
+
+    <title>Scolopendra viridis</title>
+    <ns>0</ns>
+    <id>4680</id>
+    <revision>
+      <id>8268</id>
+      <parentid>8241</parentid>
+      <timestamp>2023-03-09T07:25:46Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8268
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2651" sha1="8ucnb6q24xniorpwngsptuqhbs2tx0k" xml:space="preserve">{{Info}}
+
+Scolopendra viridis, also known as '''Florida blue centipede''' or '''giant Florida blue centipede''' 
+
+{{Insect Infobox|title1=Scolopendra viridis|image1=[[File:Scolopendra viridis(2).png|250px]]|caption1=Blue stripe morph|kingdom=Animalia|phylum=Arthropoda|class=Chilopoda|subclass=Not Assigned|infraclass=Not Assigned|order=Scolopendramorpha|suborder=Not Assigned|infraorder=Not Assigned|superfamily=Not Assigned|family=Scolopendridae|subfamily=Not Assigned|genus=Scolopendra|tribe=(?)|species=Viridis|subspecies=Total 5}}
+
+is a species of giant centipede (genus [[Scolopendra]]). There is extremely poor and scarce information about  Scolopendra viridis, in short, this page is a '''Currently incomplete''' ,expect future updates on this article. 
+
+== Biology ==
+Scolopendra viridis occurs in a variety of morphs.  Scolopendra viridis reaches a maximum length of 4 inches at best. Variations differ on the basis of habitat.
+
+=== Morphology ===
+
+==== Blue Stripe morph ====
+The most notable form of  Scolopendra viridis is the “Blue-striped morph”. It has a brown to pale white body along with a single, electric-blue, vertical stripe running down from it’s head to cerci.  It reaches about 3 inches in length.
+
+==== Arizona mountain morph ====
+Inhabiting the low mountains of Arizona, this morph has a greyish-green exoskeleton with a blue band between each section of their bodies&lt;ref&gt;https://www.arthropodantics.com/product-page/scolopendra-viridis-arizona-mountain-variant&lt;/ref&gt;.
+
+=== Ecology ===
+
+==== Hunting ====
+Scolopendra viridis is described as being fast and agile, it is a voracious hunter and feeds of anything that is smaller in size&lt;ref&gt;https://bugguide.net/node/view/52215&lt;/ref&gt;. 
+
+==== Toxicity ====
+[[File:Scolopendra viridis.png|thumb]]
+Scolopendra viridis possess a venom with a powerful potency, it’s bite can result in excruciating pain followed by a prolonged burning sensation on near the initial bite which can cause irritation and rashes to form&lt;ref&gt;https://www.arthropodantics.com/product-page/scolopendra-viridis-arizona-mountain-variant&lt;/ref&gt;.
+
+== Geological distribution ==
+
+=== Habitats ===
+They reside in a variety of habitats each being linked with a separate morph. Generally found in tropical habitats they reside in tree barks.
+
+=== Range ===
+It is native to Georgia and Arizona&lt;ref&gt;https://eol.org/pages/309608&lt;/ref&gt;.
+
+== Subspecies &lt;ref&gt;https://eol.org/pages/309608&lt;/ref&gt; ==
+
+* Scolopendra viridis viridis
+* Scolopendra viridis genuina 
+* Scolopendra viridis lagunesis 
+* Scolopendra viridis maya
+* Scolopendra viridis storkani
+
+== References ==
+[[Category:Chilopoda]]
+[[Category:Myriapods]]</text>
+      <sha1>8ucnb6q24xniorpwngsptuqhbs2tx0k</sha1>
+    </revision>
+  </page>
+  

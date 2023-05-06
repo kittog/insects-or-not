@@ -1,0 +1,31 @@
+
+    <title>Archisargoidea</title>
+    <ns>0</ns>
+    <id>4276</id>
+    <revision>
+      <id>7693</id>
+      <parentid>7692</parentid>
+      <timestamp>2021-12-28T06:32:58Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7693
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="878" sha1="mnfhvoksi3h0gfedenr60gh15d2zf4y" xml:space="preserve">[[File:Archisargoidea.jpg|thumb|Four specimen discovered and beautifully preserved in resin.|330x330px]]
+'''Archisargoidea''' is an extinct superfamily of brachyceran flies known from the late Middle Jurassic (Callovian) to early Late Cretaceous (Turonian). 
+==Morphology==
+Most flies in the superfamily have large eyes and an elongated abdomen, preserved females have a sharp, piercing oviscapt used for injecting eggs into host matter. Their relationships with other members of Brachycera is controversial, 
+
+== Analysis ==
+they are usually considered close relatives of either Stratiomyomorpha or Muscomorpha. Internal relationships between the families are uncertain and the topology of the only cladistic analysis of the family was weakly supported.
+[[Category:Diptera]]
+[[Category:Brachycera]]
+[[Category:Prehistoric Insects]]
+[[Category:Insecta]]
+[[Category:Infraorders]]</text>
+      <sha1>mnfhvoksi3h0gfedenr60gh15d2zf4y</sha1>
+    </revision>
+  </page>
+  

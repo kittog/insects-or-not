@@ -1,0 +1,55 @@
+
+    <title>Cercopis vulnerata</title>
+    <ns>0</ns>
+    <id>2422</id>
+    <revision>
+      <id>7531</id>
+      <parentid>3939</parentid>
+      <timestamp>2021-12-16T05:26:44Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7531
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2541" sha1="tqtw7nt6gwka6khianaaa2hrnmp2i72" xml:space="preserve">[[File:Cercopis vulnerata.jpg|thumb|189px]]'''''Cercopis vulnerata''''' is a [[froghopper]] species belonging to the family [[Cercopidae]].
+
+[[File:Cercopis vulnerata 2.jpg|left|thumb|170px]]
+== Morphology ==
+Males are 8.9-10.5 mm long, while females are 8.2-10.5 mm they are A beautiful and charmingly tiny insect with irregular-shaped scarlet or vermillion patterns on the wings, The head along with the thoracic region are matt-black This species are often remarked over their elongated almost shield-like bodies They have a triangular mark at the base of their wings, They have a visibly clear defence mechanism, That is their Aposetismic coloration ( Technical term: Warning coloration ) They have a smoky and rough-textured wings Their hindwings are potentially transparent.  They are sometimes kept as pets.
+
+== Geographical range ==
+This species is present in most of Europe (Albania, Austria, Belgium, Bulgaria, Croatia, Czech Republic, France, Greece, Spain, the former Yugoslavia, Moldova, the Netherlands, Norway, Poland, Romania, Russia, Slovakia, Slovenia, Switzerland, Hungary, Great Britain and Italy
+
+== Ecology ==
+
+=== Seasonal History ===
+Adults can be found from April to August. They are polyphagous, mainly sucking vegetable juices of grasses, but also of other plants (''Arrhenatherum elatius'', ''Dactylis glomerata'', ''Urtica dioica'', ''Filipendula ulmaria'', ''Aegopodium podagraria'', etc.), 
+
+=== Flight ===
+They can easily fly and are also equipped with very effective saltatory back legs, allowing jumps of up to 70 centimeters. They can extend their hindlegs in under a millisecond to execute a jump, implying elastic storage of energy for sudden release.
+
+== Metamorphosis ==
+When they mate ''Cercopis'' male and female stay side by side with an angle of less than 45°. The female lays eggs at the end of summer in plants and trees that overwinter. Larvae live underground on the roots of various plants, inside a typical foam nest, that protects them from dehydration and against enemies. The nymph sucks vegetable juices out of the roots of the host plants. The nymph comes up in spring.
+
+== Host Plants ==
+
+* ''Arrhenatherum elatius'' (False-Oat Grass)
+* ''Dactylis glomerata'' (Cat-grass)
+* ''Urtica dioica'' (Stinging Nettles)
+* ''Filipendula ulmaria'' (Meadow Weed)
+* ''Aegopodium podagraria'' (Ground Elder)
+
+[[Category:Cercopidae]]
+[[Category:Hemiptera]]
+[[Category:Insect pets]]
+[[Category:Neoptera]]
+[[Category:Endopterygota]]
+[[Category:Pterygota]]
+[[Category:Cicadoidae]]
+[[Category:Cicadidae]]</text>
+      <sha1>tqtw7nt6gwka6khianaaa2hrnmp2i72</sha1>
+    </revision>
+  </page>
+  

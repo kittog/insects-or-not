@@ -1,0 +1,112 @@
+
+    <title>Blattaria</title>
+    <ns>0</ns>
+    <id>4365</id>
+    <revision>
+      <id>7663</id>
+      <parentid>7521</parentid>
+      <timestamp>2021-12-24T08:07:00Z</timestamp>
+      <contributor>
+        <username>Enosgian</username>
+        <id>48189863</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7663
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2125" sha1="6li3eads15ihbo1lq6g3kz7lo9v5hq0" xml:space="preserve">Blattodea is an order of insects that contains cockroaches and termites. Formerly, the termites were considered a separate order, [[Isoptera]], but genetic and molecular evidence suggests termites evolved from within the cockroach lineage, cladistically making them cockroaches as well.
+
+== Evolution ==
+According to one hypothesis, cockroaches were an '''ancient group of insects''' that arose during the Devonian epoch. Fossil roachoids that lived during that time differ from modern cockroaches in that they had long external ovipositors and are the ancestors of mantises, as well as modern cockroaches.[[File:Abstract cockroach.jpg|thumb]]
+
+==Taxonomy==
+[[File:Spotted cockroach.jpg|thumb]]
+===Taxonomic Hierarchy===
+{| class="fandom-table"
+|Kingdom
+|Animalia  – Animal, animaux, animals
+
+|-
+
+|  Subkingdom
+|Bilateria
+
+|-
+
+|     Infrakingdom
+|Protostomia
+
+|-
+
+|        Superphylum
+|Ecdysozoa
+
+|-
+
+|           Phylum
+|Arthropoda
+
+|-
+
+|              Subphylum
+|Hexapoda  – hexapods
+
+|-
+
+|                 Class
+|Insecta  – insects, hexapoda, inseto, insectes
+
+|-
+
+|                    Subclass
+|Pterygota  – insects ailés, winged insects
+
+|-
+
+|                       Infraclass
+|Neoptera  – modern, wing-folding insects
+
+|-
+
+|                          Superorder
+|Polyneoptera
+
+|-
+
+|                             Order
+|Blattodea  – cockroaches, termites
+
+|-
+
+|'''Direct Children:'''
+
+|-
+
+|                                Superfamily
+|Blaberoidea
+
+|-
+
+|                                Superfamily
+|Blattoidea
+
+|-
+
+|                                Superfamily
+|Corydioidea
+|}
+
+== Origin ==
+Greek Origins of Name: Blattodea is derived from “blatta”, the Greek word for '''cockroach'''.
+
+== Trivia ==
+
+* The name '''cockroach comes from the Spanish term cucaracha, which derives from the Latin blatta, “an insect that shines the light'''.” It comes from the insect order Blattodea, which also includes termites
+
+[[Category:Orders]]
+[[Category:Blattodea]]
+[[Category:Bilateria]]</text>
+      <sha1>6li3eads15ihbo1lq6g3kz7lo9v5hq0</sha1>
+    </revision>
+  </page>
+  

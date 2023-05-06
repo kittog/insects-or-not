@@ -1,0 +1,64 @@
+
+    <title>Honey bee</title>
+    <ns>0</ns>
+    <id>3637</id>
+    <revision>
+      <id>6043</id>
+      <parentid>5719</parentid>
+      <timestamp>2018-11-24T02:50:14Z</timestamp>
+      <contributor>
+        <username>Goosebumpsgeek</username>
+        <id>37263581</id>
+      </contributor>
+      <comment>File added via photo placeholder</comment>
+        6043
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11079" sha1="rvz7jc0cqzq2vk832jkut9wdpj8mkc7" xml:space="preserve">[[File:Apis mellifera scutellata.jpg|thumb|300px|right]]A '''honey bee''' (or '''honeybee''') is any [[bee]] member of the genus ''Apis'', primarily distinguished by the production and storage of honey and the construction of perennial, colonial nests from wax. Currently, only seven species of honey bee are recognized, with a total of 44 subspecies,[1] though historically, from six to eleven species have been recognized. The best known honey bee is the Western honey bee which has been domesticated for honey production and crop pollination. Honey bees represent only a small fraction of the roughly 20,000[2] known species of bees. Some other types of related bees produce and store honey, including the stingless honey bees, but only members of the genus Apis are true honey bees. The study of bees including honey bees is known as melittology.
+==Etymology and name==
+The genus name Apis is Latin for "bee".[3]
+
+Although modern dictionaries may refer to Apis as either honey bee or honeybee, entomologist Robert Snodgrass explains that correct usage is to use two words, i.e. honey bee, as it is a kind or type of bee, whereas it is incorrect to run the two words together as in dragonfly or butterfly, because the latter are not flies.[4] Honey bee, not honeybee, is the listed common name in the Integrated Taxonomic Information System, the Entomological Society of America Common Names of Insects Database, and the Tree of Life Web Project.
+==Origin, systematics and distribution==
+Honey bees appear to have their center of origin in South and Southeast Asia (including the Philippines), as all the extant species except ''[[Apis mellifera]]'' are native to that region. Notably, living representatives of the earliest lineages to diverge (''[[Apis florea]]'' and ''[[Apis andreniformis]]'') have their center of origin there.[8]
+
+The first Apis bees appear in the fossil record at the Eocene–Oligocene boundary (34 mya), in European deposits. The origin of these prehistoric honey bees does not necessarily indicate Europe as the place of origin of the genus, only that the bees were present in Europe by that time. Few fossil deposits are known from South Asia, the suspected region of honey bee origin, and fewer still have been thoroughly studied.
+
+No Apis species existed in the New World during human times before the introduction of ''A. mellifera'' by Europeans. Only one fossil species is documented from the New World, ''[[Apis nearctica]]'', known from a single 14-million-year-old specimen from Nevada.[9]
+
+The close relatives of modern honey bees – e.g. bumblebees and stingless bees – are also social to some degree, and social behavior seems a plesiomorphic trait that predates the origin of the genus. Among the extant members of Apis, the more basal species make single, exposed combs, while the more recently evolved species nest in cavities and have multiple combs, which has greatly facilitated their domestication.
+
+Most species have historically been cultured or at least exploited for honey and beeswax by humans indigenous to their native ranges. Only two of these species have been truly domesticated, one (''A. mellifera'') at least since the time of the building of the Egyptian pyramids, and only that species has been moved extensively beyond its native range.
+
+Honey bees are the only extant members of the tribe Apini. Today's honey bees constitute three clades.
+===Genetics===
+The chromosome counts of female bees for the three clades are: Micrapis 2N = 16, Megapis 2N = 16, and Apis 2N = 32. Drones of all species have 1N chromosome counts. The genome of Apis has been mapped.
+
+Drones (males) are produced from unfertilized eggs, so represent only the DNA of the queen that laid the eggs, i.e. have only a mother. Workers and queens (both female) result from fertilized eggs, so have both a mother and a father. Arrhenotokous parthenogenesis, a modified form of parthenogenesis, controls sex differentiation. The sex allele is polymorphic, and so long as two different variants are present, a female bee results. If both sex alleles are identical, diploid drones are produced. Honey bees detect and destroy diploid drones after the eggs hatch.
+
+Queens typically mate with multiple drones on more than one mating flight. Once mated, they lay eggs and fertilize them as needed from sperm stored in the spermatheca. Since the number of sex alleles is limited – about 18 are known in Apis – a queen will most likely mate with one or more drones having sex alleles identical with one of the sex alleles in the queen. The queen, then, typically produces a percentage of diploid drone eggs.
+====''Micrapis''====
+''Apis florea'' and ''Apis andreniformis'' are small honey bees of southern and southeastern Asia. They make very small, exposed nests in trees and shrubs. Their stings are often incapable of penetrating human skin, so the hive and swarms can be handled with minimal protection. They occur largely sympatrically, though they are very distinct evolutionarily and are probably the result of allopatric speciation, their distribution later converging. Given that ''A. florea'' is more widely distributed and ''A. andreniformis'' is considerably more aggressive, honey is, if at all, usually harvested from the former only. They are the most ancient extant lineage of honey bees, maybe diverging in the Bartonian (some 40 million years ago or slightly later) from the other lineages, but do not seem to have diverged from each other a long time before the Neogene.[10] ''Apis florea'' have smaller wing spans than its sister species.[11] ''Apis florea'' are also completely yellow with the exception of the scutellum of workers, which is black.
+====''Megapis''====
+One species is recognized in the subgenus ''Megapis''. It usually builds single or a few exposed combs on high tree limbs, on cliffs, and sometimes on buildings. They can be very fierce. Periodically robbed of their honey by human "honey hunters", colonies are easily capable of stinging a human being to death if provoked.
+*''Apis dorsata'', the giant honey bee, is native and widespread across most of South and Southeast Asia. 
+**''A. d. binghami'', the Indonesian honey bee, is classified as the Indonesian subspecies of the giant honey bee or a distinct species; in the latter case, ''A. d. breviligula'' and/or other lineages would probably also have to be considered species.[12]
+**''A. d. laboriosa'', the Himalayan honey bee, was initially described as a distinct species. Later, it was included in ''A. dorsata'' as a subspecies[1] based on the biological species concept, though authors applying a genetic species concept have suggested it should be considered a species.[10] Essentially restricted to the Himalayas, it differs little from the giant honey bee in appearance, but has extensive behavioral adaptations that enable it to nest in the open at high altitudes despite low ambient temperatures. It is the largest living honey bee.
+====''Apis''====
+The eastern species include three or four species. The reddish Koschevnikov's bee (''[[Apis koschevnikovi]]'') from Borneo is well distinct; it probably derives from the first colonization of the island by cave-nesting honey bees. ''[[Apis cerana]]'', the eastern honey bee proper, is the traditional honey bee of southern and eastern Asia, kept in hives in a similar fashion to ''A. mellifera'', though on a much smaller and regionalized scale. It has not been possible yet to resolve its relationship to the Bornean ''A. c. nuluensis'' and ''[[Apis nigrocincta]]'' from the Philippines to satisfaction; the most recent hypothesis is that these are indeed distinct species, but that ''A. cerana'' is still paraphyletic, consisting of several good species.
+
+''A. mellifera'', the most common domesticated species, was the third insect to have its genome mapped. It seems to have originated in eastern tropical Africa and spread from there to Northern Europe and eastwards into Asia to the Tien Shan range. It is variously called the European, western or common honey bee in different parts of the world. Many subspecies have adapted to the local geographic and climatic environments; in addition, hybrid strains, such as the [[Buckfast bee]], have been bred. Behavior, color, and anatomy can be quite different from one subspecies or even strain to another.
+
+Regarding phylogeny, this is the most enigmatic honey bee species. It seems to have diverged from its eastern relatives only during the Late Miocene. This would fit the hypothesis that the ancestral stock of cave-nesting honey bees was separated into the western group of East Africa and the eastern group of tropical Asia by desertification in the Middle East and adjacent regions, which caused declines of food plants and trees that provided nest sites, eventually causing gene flow to cease. The diversity of subspecies is probably the product of a largely Early Pleistocene radiation aided by climate and habitat changes during the last ice age. That the western honey bee has been intensively managed by humans for many millennia – including hybridization and introductions – has apparently increased the speed of its evolution and confounded the DNA sequence data to a point where little of substance can be said about the exact relationships of many ''A. mellifera'' subspecies.[10]
+
+''Apis mellifera'' is not native to the Americas, so was not present upon the arrival of the European explorers and colonists. However, other native bee species were kept and traded by indigenous peoples.[13] In 1622, European colonists brought the dark bee (''A. m. mellifera'') to the Americas, followed later by [[Italian bee]]s (''A. m. ligustica'') and others. Many of the crops that depend on honey bees for pollination have also been imported since colonial times. Escaped swarms (known as "wild" bees, but actually feral) spread rapidly as far as the Great Plains, usually preceding the colonists. Honey bees did not naturally cross the Rocky Mountains; they were transported by the Mormon pioneers[14] to Utah in the late 1840s, and by ship to California in the early 1850s.
+
+====[[Africanized bee]]====
+Africanized bees (known colloquially as "killer bees") are hybrids between European stock and one of the African subspecies ''A. m. scutellata''; they are often more aggressive than European bees and do not create as much of a honey surplus, but are more resistant to disease and are better foragers.[citation needed] Originating by accident in Brazil, they have spread to North America and constitute a pest in some regions. However, these strains do not overwinter well, so are not often found in the colder, more northern parts of North America. The original breeding experiment for which the African bees were brought to Brazil in the first place has continued (though not as intended). Novel hybrid strains of domestic and redomesticated Africanized bees combine high resilience to tropical conditions and good yields. They are popular among beekeepers in Brazil.
+==Beekeeping==
+[[Category:Apis (genus)]]
+[[Category:Bees]]</text>
+      <sha1>rvz7jc0cqzq2vk832jkut9wdpj8mkc7</sha1>
+    </revision>
+  </page>
+  

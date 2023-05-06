@@ -1,0 +1,48 @@
+
+    <title>Haemactis sanguinalis</title>
+    <ns>0</ns>
+    <id>4515</id>
+    <revision>
+      <id>7882</id>
+      <parentid>7881</parentid>
+      <timestamp>2022-01-30T17:16:06Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7882
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2144" sha1="rdfixnckoiqj3qo9ciuqs9dmy9ogrkv" xml:space="preserve">{{Infobox|Box title=Blood-Red Skipper|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Subphylum]]|Row 2 info=[[Hexapoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Subclass]]|Row 4 info=[[Pterygota]]|Row 5 title=[[Infraclass]]|Row 5 info=[[Endopterygota]]|Row 6 title=[[Order]]|Row 6 info=[[Lepidoptera]]|Row 7 title=[[Suborder]]|Row 7 info=[[Papilionoidea]]|Row 8 title=[[Family]]|Row 8 info=[[Hesperiidae]]|Row 9 title=[[Subfamily]]|Row 9 info=[[Hesperiinae]]|Row 10 title=[[Genus]]|Row 10 info=[[Haemactis]]|Image file=Haemactis Sanguinalis (Male).jpg|Image size=255px}}
+
+&lt;big&gt;This Article requires more information, Help Insect wiki by [https://insects.fandom.com/wiki/Haemactis_sanguinalis?veaction=edit adding more information].&lt;/big&gt;
+
+''Haemactis sanguinalis ,'' Commonly known as '''Blood-Red skipper''' is a species of [[Hesperiidae]] family [[Papilionoidea|Butterfly]] native to the Neotropical Realm. 
+
+== Morphology ==
+
+=== Wing Morphology ===
+
+==== Male ====
+''Haemactis sanguinalis'' is a remarkably vivid and beautiful species, Males have a vibrant blood-red borderline with a gunmetal-colored patch in the central proportion of the wing, the dense borderline is followed by radiating gunmetal bands. The dorsal side of the wings is brown with two vermillion blotches on the apical halves of the wings.
+
+==== Female ====
+The wings have a matt-black crystal-clear venation with blood-red vertexes, the forewings have a fine venation disturbed by a curvilinear elliptical-shaped pattern which is furthermore crossed-over by longitudinal dash of matt-black. The blood-red tips have gunmetal edges. The apical halves of the wings are also blood-red with gunmetal edges.
+[[File:Haemactis Sanguinalis (Female).jpg|thumb|259x259px|Adult Female]]
+
+== Geographical Range ==
+
+=== Geographical Distribution ===
+This species is native to Columbia in addition to that some occurrences were recorded near Ecuador (?)
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Papilionoidea]]
+[[Category:Lepidoptera]]
+[[Category:Hesperiidae]]
+[[Category:Hesperiinae]]</text>
+      <sha1>rdfixnckoiqj3qo9ciuqs9dmy9ogrkv</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,22 @@
+
+    <title>Pseudoscorpion</title>
+    <ns>0</ns>
+    <id>2020</id>
+    <revision>
+      <id>3298</id>
+      <parentid>3296</parentid>
+      <timestamp>2009-05-14T22:28:50Z</timestamp>
+      <contributor>
+        <username>Dser</username>
+        <id>1032852</id>
+      </contributor>
+      <comment>added image</comment>
+      3298
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="455" sha1="r5ovs20hk246lov8yd58tr48i86hzuz" xml:space="preserve">[[File:Lasiochernes_cretonatus.jpg|thumb|218px|''[[Lasiochernes cretonatus]]'']]A pseudoscorpion resembles a [[scorpion]], except it doesn't have a tail, but stings predators and prey with their pedipalps (pincers). There are 23 families and 3300 species of pseudoscorpion. Pseudoscorpions live worldwide, but mainly live in deserts, beaches, tropical, and sub-tropical regions. The order of pseudoscorpions is [[Pseudoscorpiones]].
+[[Category:Arachnids]]</text>
+      <sha1>r5ovs20hk246lov8yd58tr48i86hzuz</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,51 @@
+
+    <title>Camponotus</title>
+    <ns>0</ns>
+    <id>4629</id>
+    <revision>
+      <id>8145</id>
+      <parentid>8144</parentid>
+      <timestamp>2023-01-18T11:24:03Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        8145
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2152" sha1="bu3yw47iyriytw8x835qrxxhm3p0h2t" xml:space="preserve">{{Insect|name=Camponotus|binomen=Camponotus Mayr, 1861|common=Carpenter Ants|native=(?)|other=(?)|order=[[Hymenoptera]]|suborder=(?)|superfamily=[[Formicoidea]]|family=[[Formicidae]]|subfamily=[[Formicinae]]|tribe=[[Camponotini]]|genus=[[Camponotus]]|species=1000+|status=Not Evaluated}}
+
+'''Not to be confused for  ''[[Camptonotus]].'''''
+
+== General ==
+Camponotus is a genus of [[Formicidae]] (Ants) commonly known as the '''Carpenter ants.''' The genus consists of 1000+ species of ants from the tribe '''“Camponotini”''' and are found throughout the evergreen, deciduous and equatorial forests around the world. 
+
+== Morphology ==
+Morphological features vary from one species to another and all share a common morphological feature of “waists” and other physiological features considered “ant-like” in nature (waists, medium length antennae and sharp mandibles.
+
+== Behaviour ==
+
+=== Habitat ===
+Carpenter ants mainly reside in decaying, or fresh wood notably preferring woody, large trees, wooden buildings, logs etc. causing devastating problems to wooden structures. The nests are made deep inside wooden builds and heartwoods of trees composed of intricate network patterns of tunnels. Common signs of habitation includes appearance of sawdust like wood shavings and, holes present on wooden structures. 
+
+=== Communication ===
+These ants communicate via pheromones or touch and possess great homing instincts. The queen possesses a unique ability of affecting colonies with a variety of odours, having distinctive effects on members of the colony aiding the queen in control over the hive-mind colonies. 
+
+== Importance ==
+Their unique abilities of excavation of wood helps in forests decomposition and increments in the presence and quality of hummus in soil. Some species are consumed as a food source for example, consumption of [[Camponotus Inflatus]] (Honeypot ants) by indigenous Australians&lt;ref&gt;https://en.m.wikipedia.org/wiki/Carpenter_ant#Pheromones&lt;/ref&gt;.
+{{Stub}}
+
+
+
+[[Category:Article stubs]]
+[[Category:Insecta]]
+[[Category:Hymenoptera]]
+[[Category:Formicidae]]
+[[Category:Ants]]
+[[Category:Genuses]]
+
+== References ==</text>
+      <sha1>bu3yw47iyriytw8x835qrxxhm3p0h2t</sha1>
+    </revision>
+  </page>
+  

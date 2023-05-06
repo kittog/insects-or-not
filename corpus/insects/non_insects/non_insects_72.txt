@@ -1,0 +1,27 @@
+
+    <title>Pyemotes herfsi</title>
+    <ns>0</ns>
+    <id>3543</id>
+    <revision>
+      <id>5625</id>
+      <timestamp>2016-08-23T22:09:56Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Pyemotes herfsi''''', also known as the oak leaf gall [[mite]] or itch mite, is an ectoparasitic mite identified in central Europe in 1936..."</comment>
+      5625
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2194" sha1="9hjqfoercnyvkhyfjndug2w2oo26vw3" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Pyemotes herfsi''''', also known as the oak leaf gall [[mite]] or itch mite, is an ectoparasitic mite identified in central Europe in 1936 and subsequently found in India, Australia, and the United States. The mite parasitizes a variety of insect hosts and bites humans, causing red, itchy, and painful wheals (welts). The mites are barely visible, measuring about 0.2 millimeters; their great reproductive potential, small size, and high capacity for dispersal by wind make them difficult to control or avoid.
+==Life cycle==
+Newly emerged and mated females inject a neurotoxin-containing saliva into their hosts, which paralyzes the host and enables the gravid female mites to feed on the host's hemolymph.[1] The posterior portion (opisthosoma) of the female enlarges as its progeny develops inside, and, within a few days, up to 250 adult mites emerge from the gravid female.[1] Bruce and Wrensch (1990) found that progeny of the straw itch mite averaged 254 offspring of which 92% were females. Males emerge before the females, position themselves around the mother's genital opening, and mate with emerging females.[1] Then, mated females disperse to find new hosts.[1] These mites often are dispersed by wind, and when they land on vertebrate hosts, they attempt to feed, resulting in the bites.[1] A life cycle can be completed within seven days, and progeny emergence can be extended to 15 days.[1]
+
+The mites' reported hosts have included ''Anobium punctatum'', the pink bollworm, ''Grapholita molesta'', ''Tineola bisselliella'', ''Apis cerana'' (Asiatic honey bee), periodic [[cicada]]s, and various pests of stored grain, as well as humans and their pets.[2][3][4] Their usual hosts in the United States are oak midge larvae.[2] Conditions that are cooler and moister than average favor its population growth. Outbreaks of attacks on humans in the United States have been attributed to fluctuations in the supply of oak midge larvae.
+==Distribution==
+''P. herfsi'' has been recorded in Czechoslovakia,[5] Egypt,[6] Australia,[7] northern India,[8] and the United States. It is a regulated pest in Germany.
+==Impact on humans==
+[[Category:Mites]]</text>
+      <sha1>9hjqfoercnyvkhyfjndug2w2oo26vw3</sha1>
+    </revision>
+  </page>
+  

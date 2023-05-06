@@ -1,0 +1,36 @@
+
+    <title>Africanized honey bees</title>
+    <ns>0</ns>
+    <id>3207</id>
+    <redirect title="Africanized bee" />
+    <revision>
+      <id>7685</id>
+      <parentid>7390</parentid>
+      <timestamp>2021-12-28T06:25:16Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Redirected page to [[Africanized bee]]</comment>
+        7685
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1081" sha1="dddlg6rn49belx7zolfi1yjknxh9s2j" xml:space="preserve">#REDIRECT [[Africanized bee]]&lt;div class="notice metadata plainlinks" id="stub" style="clear:both;"&gt;[[42-32948546 1024x1024.jpeg|75px]] This article is an Orphaned page. That means that this page has no existing links, Please feel free to contribute to insect wiki by adding Links to this page.. ''&lt;/div&gt;This page lacks any links whatsoever therefore is catagorised as an '''''Orphaned page'''''&lt;includeonly&gt;[[Category:Orphaned pages]]&lt;/includeonly&gt;&lt;noinclude&gt;
+----
+''This template will categorize articles that include it into [[:Category:Orphaned pages]].''
+[[Category:Article management templates|{{PAGENAME}}]]
+&lt;/noinclude&gt;
+
+This invasive species of honey bee originally came from africa and is much faster in swarms then the native European honey bees. They 
+
+spead by invading other hives.
+
+First they do a movment and get the other bees to let them in, then they get their queen into the hive and she lays her own eggs and they kill all the larvae and workers and take over the hive.
+[[Category:Hymenoptera]]
+[[Category:Insecta]]
+[[Category:Bees]]
+[[Category:Orphaned pages]]</text>
+      <sha1>dddlg6rn49belx7zolfi1yjknxh9s2j</sha1>
+    </revision>
+  </page>
+  

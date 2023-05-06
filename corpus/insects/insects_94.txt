@@ -1,0 +1,62 @@
+
+    <title>Neuroptera</title>
+    <ns>0</ns>
+    <id>1968</id>
+    <revision>
+      <id>6431</id>
+      <parentid>6423</parentid>
+      <timestamp>2021-10-04T04:44:21Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        6431
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6630" sha1="rq8oku2ulgjar7wwzox9eu5sodovnd9" xml:space="preserve">== Taxonomy ==
+{| class="fandom-table"
+|+Neuroptera-Taxonomy
+!'''&lt;big&gt;Class&lt;/big&gt;'''
+!&lt;big&gt;Insecta&lt;/big&gt;
+! rowspan="4" |
+|-
+|'''&lt;big&gt;Kingdom&lt;/big&gt;'''
+|&lt;big&gt;Animalia&lt;/big&gt;
+|-
+|'''&lt;big&gt;phyllum&lt;/big&gt;'''
+|&lt;big&gt;Invertebrates&lt;/big&gt;
+|-
+|'''&lt;big&gt;Order&lt;/big&gt;'''
+|&lt;big&gt;Neuroptera&lt;/big&gt;
+|}[[File:Libelloides coccajus.jpg|alt=|thumb|239x239px|Sulfur owlfly (''Libelloides coccajus'')]]
+
+'''Neuroptera''' is the order of [[Antlion]] [[lacewing]]s, [[Raphidioptera|snake flies]] , [[Alderfly|alder flies]], [[Caddisfly|caddis flies]] and other winged insects, it consists of insects with one similarity and that is a pair of thin-finely membranous wings. he order consists of some 6,000 species. '''Neuroptera''' can be grouped together with the [[Megaloptera]] and [[Raphidioptera]] in the unranked taxon '''Neuropterida''' including: alderflies, [[fishflies]], [[Dobsonfly|dobsonflies]], and snakeflies. Adult Neuropterans have four membranous wings, all about the same size, with many veins. They have chewing mouth as for, they are predatory insects and mostly feed off smaller invertebrates.
+
+== Behavior &amp; Biology ==
+[[File:Green Lacewing.jpg|thumb|256x256px|[[Lacewing|Green Lacewing]]]]
+These predatory insects have a pair of finely membranous wings used to maintain flight also known as "Net wings" they function in a typical way. Antlions have a greatly interesting behavior as a larva which is to dig in sand pits which is a trap for it's victims, smaller insects (mainly ants) will carelessly walk into the sand pits dug up the juvenile antlion and upon being sensed by the predator, the antlion will use it's large jaws to ensnare the prey into pieces. Some species of caddis flies as a juvenile use a fine tape-like secretions to build their own homes, the compositions of these portable homes normally consists of stones, these homes help the larva withstand extreme changes within the water current while providing a camouflage against larger predators such as salamanders and newts however this can only be seen in a few notable species of caddis flies. 
+
+== Antlions ==
+'''[[Antlion|Main source of information]].'''
+[[File:Antlion.jpg|thumb|220x220px|[[antlion]] (juvenile)]]
+Antlions are part of the Myrmeleontidae family and their likely genus is Myrmeleo. Antlion adults are sometimes called antlion lacewings. Antlion larva are often called a doodlebug, because of the tracks that the larva leave. The tracks are somewhat spiral-shaped and look as if someone "doodled' on the sand, hence the name doodlebug. Antlions got their name upon their predatory behaviors and their food source which primarily consists of ants. Their hunting methods are quite unique in particular during their juvenile stage of their life cycle. The larva of an antlions will dig in sand pits and cover itself with sand at the very bottom of it's own pit. When any small insects (notably ants) fall into these pits the hunter lying at the bottom of the pit awakens and ensnare it's prey in it's large mandibles that are only meant for hunting, this predatory behavior gave them their common name.
+
+== [[Lacewing|Lacewings]] ==
+[[File:Green Lacewing.jpg|thumb|1x1px|alt=]]
+Lace wings are predatory flying insects that posses a pair of membranous net wings with a tinted shade casted over it They belong to the family Chrysopidae which compromises of 1300-2000 described species. Lacewings are predatory and mainly feed on aphids. They are called so due to the extremely thin venations on their wings that somewhat have a resemblance to a textile known as lace however this is to only help the lacewings camouflage within their surroundings. Due to their habit of feeding on aphids, lacewings are often considered to help the final outcome from crop harvests. Lacewings normally have a body length (including wingspan) of 7-30 mm the most interesting thing which makes lacewings so special is their habit of laying their eggs on large silky stalks that support the eggs until they hatch into larvae this may be a protection against ants.
+
+== [[Dobsonfly|Dobsonflies]] ==
+Not to be mistaken for [[Odonata|dragonflies]]. Dobsonflies are a subfamily of insects, Corydalinae, part of the Megalopteran family Corydalidae. The larvae are aquatic insects and are more likely to be seen inhabiting streams, ponds and lakes, the adults also prefer habitats closeby to freshwater lakes and rivers. The adults posses an enormous pair of curved pincer-like jaws that only males have, the females have smaller pair of pincers for no clear purpose as dobsonflies do not feed as an adult as for, after reaching maturity their main purpose is to reproduce as they only live for no longer than a few days as an adult. Dobsonflies are harmless to humans, as they do not cause any structural damage, bite or sting, or even transmit diseases. The females are able to bite, but these cases are very rare, and their bite has no lasting effects. Their larva has a physical appearance similar to that of a juvenile centipede. They will survive on the food they consumed as a larva and will eventually die as their energy they restored as a juvenile starts to wane away and vanish.
+
+== [[Raphidioptera|Snakeflies]] ==
+snakeflies is the sub-family of insects known as [[Raphidioptera]] which consists of nearly 251 species of insects, these insects feed on smaller insects such as aphids as a larva and upon reaching maturity they feed on soft-bodied insects and arthropods. These insects are called so due to their large "necks" their heads are supported by. Snakeflies are confined to arboreal habitats in the broadest sense, including all types of forests, with scattered shrubs In the northern temperate zones. Both the adults and the larva are predatory and feed on soft-bodied insects.
+
+== [[Nemopteridae]] ==
+[[File:Nemoptera.jpg|thumb|257x257px|Spoonwing]]
+Nemopteridae is the order of spoonwings, there are less than 200 species of Nemopteridae they belong to the order [[Neuroptera]], they are sometimes known as thread tailed antlions and can be easily confused with swallowtail butterflies in flight. These insects have a large pair of vibrantly colored wings painted with pigmented scales and their hindwings morphed into a long-thread like structure that are normally larger in their size compared to the forewings. They can easily mistaken for a swallowtail butterfly in their flight motion due to their physical appearencce. They are predatory and feed on small-soft bodied insects. Spoonwings in the case of males posses a bullas located at the margin of the wings which used to release pheromones to attract mates
+[[Category:Orders]]
+[[Category:Neuroptera]]</text>
+      <sha1>rq8oku2ulgjar7wwzox9eu5sodovnd9</sha1>
+    </revision>
+  </page>
+  

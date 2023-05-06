@@ -1,0 +1,25 @@
+
+    <title>Demodex folliculorum</title>
+    <ns>0</ns>
+    <id>3538</id>
+    <revision>
+      <id>5620</id>
+      <timestamp>2016-08-23T16:33:14Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Demodex folliculorum''''' is a species of face [[mite]]. ''D. folliculorum'' is one of the parasitic/commensal face mites that occur on pe..."</comment>
+      5620
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="ry33n17nizeyex5qn3xts5d7kek9t7i" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Demodex folliculorum''''' is a species of face [[mite]]. ''D. folliculorum'' is one of the parasitic/commensal face mites that occur on people (the other one is ''[[Demodex brevis]]'').[1][2] When large numbers of ''D. folliculorum'' are found on humans, the infestation is known as demodicosis.
+==History==
+''Demodex canis'' was first discovered in 1840 to cause mange in dogs. Tulk was the first to publish about ''Demodex'' in dogs. In 1842, a Frenchman named Berger discovered ''Demodex folliculorum'' in earwax.
+==Behavior==
+These mites are found in human hair follicles, normally found in greater numbers around the cheeks, nose, eyebrows, eyelashes, and forehead. They could also be found in other parts of the body such as arms, chest, and ears. It is a species of tiny mites that have been thought to contribute to hair loss (though this hypothesis is under debate)[5] and lives in pores and hair follicles. The mites vary in size from 0.1 mm to 0.4 mm long.[6] Mites do not invade internal organs. Under normal conditions, they are not harmful, and classified as commensals (the mite benefits but there is no harm or benefit to the host) rather than parasites (where the host is harmed), though under outbreak conditions (demodicosis) they can be harmful.
+==Morphology==
+[[Category:Mites]]</text>
+      <sha1>ry33n17nizeyex5qn3xts5d7kek9t7i</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,27 @@
+
+    <title>Spider mite</title>
+    <ns>0</ns>
+    <id>3474</id>
+    <revision>
+      <id>5556</id>
+      <timestamp>2016-07-21T03:20:15Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''Spider mites''' are members of the [[Acari]] ([[mite]]) family Tetranychidae, which includes about 1,200 species.[1] They generally live on ..."</comment>
+      5556
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1654" sha1="fn4i3dqjz87end22ohnb59jfjj3klqk" xml:space="preserve">[[File:Placeholder|right|300px]]'''Spider mites''' are members of the [[Acari]] ([[mite]]) family Tetranychidae, which includes about 1,200 species.[1] They generally live on the undersides of leaves of plants, where they may spin protective silk webs, and they can cause damage by puncturing the plant cells to feed.[2] [[Spider]] mites are known to feed on several hundred species of plants.
+==Description==
+Spider mites are less than 1 millimetre (0.04 in) in size and vary in color. They lay small, spherical, initially transparent eggs and many species spin silk webbing to help protect the colony from predators; they get the "spider" part of their common name from this webbing.
+==Life cycle==
+Hot, dry conditions are often associated with population build-up of spider mites. Under optimal conditions (approximately 80 °F or 27 °C), the two-spotted spider mite can hatch in as little as 3 days, and become sexually mature in as little as 5 days. One female can lay up to 20 eggs per day and can live for 2 to 4 weeks, laying hundreds of eggs. This accelerated reproductive rate allows spider mite populations to adapt quickly to resist pesticides, so chemical control methods can become somewhat ineffectual when the same pesticide is used over a prolonged period.[3]
+
+Spider mites, like hymenopterans and some [[scale insect]]s, are arrhenotochous: females are diploid and males are haploid.[4] When mated, females avoid the fecundation of some eggs to produce males. Fertilized eggs produce diploid females. Unmated, unfertilized females still lay eggs, that originate exclusively haploid males.
+==Genera (Classification)==
+[[Category:Mites]]</text>
+      <sha1>fn4i3dqjz87end22ohnb59jfjj3klqk</sha1>
+    </revision>
+  </page>
+  

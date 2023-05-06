@@ -1,0 +1,40 @@
+
+    <title>Notodontidae</title>
+    <ns>0</ns>
+    <id>3930</id>
+    <revision>
+      <id>7409</id>
+      <parentid>6218</parentid>
+      <timestamp>2021-12-09T07:29:23Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7409
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="613" sha1="p60wjrmmwltug54g6uz3c2lmtj239hs" xml:space="preserve">Notodontidae is a family of moths with approximately 3,800 known species. The family was described by James Francis Stephens in 1829. Moths of this family are found in all parts of the world, but they are most concentrated in tropical areas, especially in the New World.&lt;br&gt;
+Family: Notodontidae; Stephens, 1829
+
+Scientific name: Notodontidae
+
+Higher classification: Noctuoidea
+
+Order: Lepidoptera
+
+Phylum: Arthropoda
+
+Rank: Family
+[[Category:Families]]
+[[Category:Genera]]
+[[Category:Lepidoptera]]
+[[Category:Noctuidae]]
+[[Category:Notonectidae]]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]</text>
+      <sha1>p60wjrmmwltug54g6uz3c2lmtj239hs</sha1>
+    </revision>
+  </page>
+  

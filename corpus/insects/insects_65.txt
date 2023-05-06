@@ -1,0 +1,51 @@
+
+    <title>Apis</title>
+    <ns>0</ns>
+    <id>4246</id>
+    <revision>
+      <id>7359</id>
+      <parentid>7124</parentid>
+      <timestamp>2021-12-06T08:35:37Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7359
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7436" sha1="284bpc9424q3387910twkvvfqi91a71" xml:space="preserve">&lt;br /&gt;
+
+== Description ==
+[[File:Bee 2.png|thumb|281x281px|[[Apis mellifera]]]]
+[[File:Apis mellifera.jpg|thumb|[[Apis mellifera]]]]
+[[File:Apis cerana japonica Queen.jpg|thumb|241x241px|[[Apis cerana japonica]] (Subspecies)]]
+[[File:Bee.jpg|thumb|275x275px]]
+'''Bees''' are insects with wings closely related to wasps and ants, known for their role in pollination and, in the case of the best-known bee species, the western honey bee, for producing honey. Bees are a monophyletic lineage within the superfamily Apoidea. They are presently considered a clade, called '''Anthophila'''. There are over 16,000 known species of bees in seven recognized biological families. Some species – including honey bees, bumblebees, and stingless bees – live socially in colonies while most species (&gt;90%) – including mason bees, carpenter bees, leafcutter bees, and sweat bees – are solitary. Bees are found on every continent except for Antarctica, in every habitat on the planet that contains insect-pollinated flowering plants. The most common bees in the Northern Hemisphere are the Halictidae, or sweat bees, but they are small and often mistaken for wasps or flies. Bees range in size from tiny stingless bee species, whose workers are less than 2 millimetres (0.08 in) long, to ''Megachile pluto'', the largest species of leafcutter bee, whose females can attain a length of 39 millimetres (1.54 in).Bees feed on nectar and pollen, the former primarily as an energy source and the latter primarily for protein and other nutrients. Most pollen is used as food for their larvae. Vertebrate predators of bees include primates and birds such as bee-eaters; insect predators include beewolves and dragonflies.Bee pollination is important both ecologically and commercially, and the decline in wild bees has increased the value of pollination by commercially managed hives of honey bees. The analysis of 353 wild bee and hoverfly species across Britain from 1980 to 2013 found the insects have been lost from a quarter of the places they inhabited in 1980.Human beekeeping or apiculture (meliponiculture for stingless bees) has been practised for millennia, since at least the times of Ancient Egypt and Ancient Greece. Bees have appeared in mythology and folklore, through all phases of art and literature from ancient times to the present day, although primarily focused in the Northern Hemisphere where beekeeping is far more common. In Mesoamerica, the Mayans have practiced large-scale intensive meliponiculture since pre-Columbian times. The ancestors of bees were wasps in the family Crabronidae, which were predators of other insects. The switch from insect prey to pollen may have resulted from the consumption of prey insects which were flower visitors and were partially covered with pollen when they were fed to the wasp larvae. This same evolutionary scenario may have occurred within the vespoid wasps, where the pollen wasps evolved from predatory ancestors. The oldest non-compression bee fossil is found in New Jersey amber, ''Cretotrigona prisca'', a corbiculate bee of Cretaceous age (~65 mya). A fossil from the early Cretaceous (~100 mya), ''Melittosphex burmensis'', was initially considered "an extinct lineage of pollen-collecting Apoidea sister to the modern bees", but subsequent research has rejected the claim that ''Melittosphex'' is a bee, or even a member of the superfamily Apoidea to which bees belong, instead treating the lineage as ''incertae sedis'' within the Aculeata. By the Eocene (~45 Mya) there was already considerable diversity among eusocial bee lineages.The highly eusocial corbiculate Apidae appeared roughly 87 Mya, and the Allodapini (within the Apidae) around 53 Mya. The Colletidae appear as fossils only from the late Oligocene (~25 Mya) to early Miocene. The Melittidae are known from ''Palaeomacropis eocenicus'' in the Early Eocene. The Megachilidae are known from trace fossils (characteristic leaf cuttings) from the Middle Eocene. The Andrenidae are known from the Eocene-Oligocene boundary, around 34 Mya, of the Florissant shale. The Halictidae first appear in the Early Eocene with species found in amber. The Stenotritidae are known from fossil brood cells of Pleistocene age.
+
+== Morphology ==
+bees differ from closely related groups such as wasps by having branched or plume-like setae (hairs), combs on the forelimbs for cleaning their antennae, small anatomical differences in limb structure, and the venation of the hind wings; and in females, by having the seventh dorsal abdominal plate divided into two half-plates.
+
+Bees have the following characteristics:
+
+* A pair of large compound eyes which cover much of the surface of the head. Between and above these are three small simple eyes (ocelli) which provide information on light intensity.
+* The antennae usually have 13 segments in males and 12 in females, and are geniculate, having an elbow joint part way along. They house large numbers of sense organs that can detect touch (mechanoreceptors), smell and taste; and small, hairlike mechanoreceptors that can detect air movement so as to "hear" sounds.
+* The mouthparts are adapted for both chewing and sucking by having both a pair of mandibles and a long proboscis for sucking up nectar.
+* The thorax has three segments, each with a pair of robust legs, and a pair of membranous wings on the hind two segments. The front legs of corbiculate bees bear combs for cleaning the antennae, and in many species the hind legs bear pollen baskets, flattened sections with incurving hairs to secure the collected pollen. The wings are synchronised in flight, and the somewhat smaller hind wings connect to the forewings by a row of hooks along their margin which connect to a groove in the forewing.
+* The abdomen has nine segments, the hindermost three being modified into the sting.
+
+== [[Honey bee|Honey bees]] ==
+A '''honey bee''' (or '''honeybee''') is any bee member of the genus ''Apis'', primarily distinguished by the production and storage of honey and the construction of perennial, colonial nests from wax. Currently, only seven species of honey bee are recognized, with a total of 44 subspecies, though historically, from six to eleven species have been recognized. The best known honey bee is the Western honey bee which has been domesticated for honey production and crop pollination. Honey bees represent only a small fraction of the roughly 20,000[ known species of bees. Some other types of related bees produce and store honey, including the stingless honey bees, but only members of the genus Apis are true honey bees. The study of bees including honey bees is known as melittology. he genus name Apis is Latin for "bee". Although modern dictionaries may refer to Apis as either honey bee or honeybee, entomologist Robert Snodgrass explains that correct usage is to use two words, i.e. honey bee, as it is a kind or type of bee, whereas it is incorrect to run the two words together as in dragonfly or butterfly, because the latter are not flies.[4] Honey bee, not honeybee, is the listed common name in the Integrated Taxonomic Information System, the Entomological Society of America Common Names of Insects Database, and the Tree of Life Web Project.
+[[Category:Insecta]]
+[[Category:Hymenoptera]]
+[[Category:Apoidea]]
+[[Category:Apis (genus)]]
+[[Category:Apocrita]]
+[[Category:Apinae]]
+[[Category:Bees]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]</text>
+      <sha1>284bpc9424q3387910twkvvfqi91a71</sha1>
+    </revision>
+  </page>
+  

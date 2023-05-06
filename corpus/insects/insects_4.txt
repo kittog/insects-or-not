@@ -1,0 +1,78 @@
+
+    <title>Trypoxylus dichotomus</title>
+    <ns>0</ns>
+    <id>2455</id>
+    <revision>
+      <id>7327</id>
+      <parentid>7326</parentid>
+      <timestamp>2021-12-04T18:22:10Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7327
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3412" sha1="rqrfmwxbifdm60to6crge91jkw3yvr9" xml:space="preserve">{{Infobox
+|Box title = Trypoxylus dichotomus
+|Image file = Trypoxylus dichotomus.jpg
+|Image size = 250px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Polyphaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Scarabaeoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Scarabaeidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Dynastinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Dynastini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Trypoxylus]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Trypoxylus dichotomus'''''
+|Row 9 title = [[Subspecies]]
+|Row 9 info = '''Trypoxylus dichotoma dichotoma'''
+* [[Trypoxylus dichotoma davidis]]
+* [[Trypoxylus dichotoma inchachina]] 
+* [[Trypoxylus dichotoma septentrionalis]] 
+* [[Trypoxylus dichotoma takarai]] 
+* [[Trypoxylus dichotoma tunobosonis]]
+}}
+
+The Trypoxylus dichotomus is a very common East Asian beetle in the [[Dynastinae]] subfamily.
+
+== Overview ==
+
+=== Etymology ===
+In Japanese, rhinoceros beetles are called ''kabutomushi'' (かぶとむし, also written 甲虫 or かぶと虫). ''Mushi'' is Japanese for insect, and ''kabuto'' is Japanese for helmet, literally referring to the samurai helmet. The beetle's Korean name meaning 'Jangsupungdeng-i(장수풍뎅이, "General beetle") is similar in nature but it sounds completely different. In Chinese the beetle is called '獨角仙' (which translates to 'single-horned immortal') or '雙叉犀金龜'.
+
+== Biology ==
+
+===Appearance===
+
+The Rhinoceros beetle has a pale maroon exoskeleton coated with a an iridescent shine. Male specimen have large Y shaped horns that pronge into two smaller thorns at the end, A smaller horn is present at the top of the thoracic plate wihich pronges into two smaller ones. Horns can range in size and shape These are used to defeat other beetles or to plow through tough soil or stone. Females do not obtain horns. The males can reach lengths of 40-80 mm (excluding the horns) The Tibia and tarsus are coated densely with sharp spikes that end with a pair of sickle-end claws on each limb in females, the apex of the abdomen is aligned with rows of spikes. the larva ave pale white bodies with  bodies composed of  several ring-like segments with three pairs of brown legs and a dark-brown bulbous head.
+
+=== Metamorphosis ===
+The females lay their eggs in either rotting wood or underground where they reside in their larval stage feeding off rotting wood of trees and timber. the males die during Autumn and so do the females during late fall, The larva spend their lives as a juvenile overwinter emerging as an adult during middle to late spring. 
+
+===Habitat===
+
+They can be seen borrowing in rotting wood or basking on rocks in Japan, South-East Asia and are now imported to other countries such as United Kingdom. They are an extremely successful species with estimated to be over 100 annual generations.
+
+== Culture ==
+Many children in Japan buy or catch these beetles and breed them. Male and female insects will cost about 500 to 1000 yen (approximately five to ten US dollars).This beetle is sold as a pet in department stores in many countries of Asia where it is also frequently depicted in popular media
+[[Category:Insecta]]
+[[Category:Coleoptera]]
+[[Category:Polyphaga]]
+[[Category:Scarabaeoidea]]
+[[Category:Scarabaeidae]]
+[[Category:Dynastinae]]
+[[Category:Dynastini]]
+[[Category:Trypoxylus]]</text>
+      <sha1>rqrfmwxbifdm60to6crge91jkw3yvr9</sha1>
+    </revision>
+  </page>
+  

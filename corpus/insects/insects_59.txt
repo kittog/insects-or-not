@@ -1,0 +1,81 @@
+
+    <title>Apis cerana</title>
+    <ns>0</ns>
+    <id>4044</id>
+    <revision>
+      <id>6557</id>
+      <timestamp>2021-10-17T09:12:34Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Created page with "'''''Apis cerana''''', the '''eastern honey bee''', '''Asiatic honey bee''' or '''Asian honey bee''', is a species of honey bee native to southern, southeastern,  {{Insects_Si..."</comment>
+        6557
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11099" sha1="oipo1x3ri58qrvmqixtfuyzb0ltq7d9" xml:space="preserve">'''''Apis cerana''''', the '''eastern honey bee''', '''Asiatic honey bee''' or '''Asian honey bee''', is a species of honey bee native to southern, southeastern,
+
+{{Insects_Simple|title1=Apis Cerana|image1=Apis cerana.jpg|caption1=Worker Asiatic honeybee|order=[[Hymenoptera]]|family=[[Apidae]]|genus=[[Apis]]|species=A. cerana|similar_species=[[Apis mellifera]]
+[[Apis koschevnikovi]]}}
+
+and eastern Asia. This species is the sister species of ''Apis koschevnikovi'' and both are in the same subgenus as the western (European) honey bee, ''Apis mellifera''. ''A. cerana'' is known to live sympatrically along with ''Apis koschevnikovi'' within the same geographic location. ''Apis cerana'' colonies are known for building nests consisting of multiple combs in cavities containing a small entrance, presumably for defense against invasion by individuals of another nest. The diet of this honey bee species consists mostly of pollen and nectar, or honey. Moreover, ''Apis cerana'' is known for its highly social behavior, reflective of its classification as a type of honey bee.
+
+The terms ''Apis cerana indica'' and ''Apis Indica'' or Indian honey bee, is an historic term, with all Asian hive bees now referred to as ''Apis cerana''. 
+
+&lt;br /&gt;
+
+== Taxonomy and phylogeny ==
+Danish zoologist Johan Christian Fabricius described ''Apis cerana'', also known as the eastern or Asian honey bee, in 1793. The genus name ''Apis'' is Latin for "bee". The eastern honey bee is of the Apidae family, one of the most diverse families of bees, including honey bees, carpenter bees, orchid bees, bumblebees, cuckoo bees, and even stingless bees. In the past, there has been discussion that ''Apis cerana'' and ''Apis mellifera'' are simply distinct races of the same species. This is essentially due to overwhelming similarities in both morphology and behavior, as both are medium-sized bees (10-11mm) that generally build multiple comb nests inside cavities. Other honey bee species, including the giant honey bees ''Apis dorsata'' and ''Apis laboriosa'', generally construct nests consisting of a single comb in open areas. However, despite the striking similarities between ''Apis cerana'' and ''Apis mellifera'', there is evidence to suggest that these two species are quite distinct; for example, mating between these species does not produce offspring. In addition, while ''Apis mellifera'' colonies can reach sizes of up to 50,000 or more individuals, ''Apis cerana'' colonies are relatively small, with only around 6,000 to 7,000 workers. Moreover, ''Apis cerana'' is found predominantly in the Eastern Asian region of the world, while ''Apis mellifera'' is found predominantly in the Western European and African region of the world. For these reasons, it has now been concluded that these are in fact two separate species, contrary to prior beliefs. 
+
+=== Infraspecies grouping ===
+Historically, ''Apis cerana'' has been subdivided into eight subspecies according to Engel (1999) they are:
+
+* [[Apis cerana Fabricius|''Apis cerana'' Fabricius]] (= ''sinensis'') ('''Chinese honey bee''') - Afghanistan, Pakistan, northern India, northern Vietnam, southern and coastal China, Taiwan, South Korea and North Korea and Primorsky Krai in Russia
+* ''Apis cerana heimifeng'' Engel ('''black Chinese honey bee''') - highlands in central China
+* [[Apis cerana indica Fabricius|''Apis cerana indica'' Fabricius]] ('''Indian honey bee''') - southern India, Sri Lanka, Bangladesh
+* ''A[[Apis cerana japonica|pis cerana japonica]]'' [[Apis cerana japonica|Fabricius]] ('''Japanese honey bee''') - Japan
+* [[Apis cerana javana Enderlein|''Apis cerana javana'' Enderlein]] ('''Javan honey bee''') - Java to East Timor
+* [[Apis cerana johni Skorikov|''Apis cerana johni'' Skorikov]] ('''Sumatran honey bee''') - Sumatra
+* [[Honey bee|''Apis cerana nuluensis'' Tingek]], Koeniger and Koeniger ('''Bornean honey bee''') - Borneo
+* [[Honey bee|''Apis cerana skorikovi'' Engel]] (= ''himalaya'') ('''Himalayan honey bee''') - the central and eastern Himalayan mountains (Ruttner, 1987)
+
+Recent genetic analysis, however, has determined that some of the subspecies described may have been inadvertent misidentifications of very similar sympatric species, including ''Apis koschevnikovi'' of Borneo and ''Apis nigrocincta'' of the Philippines. ''Apis cerana nuluensis'' of Borneo is also now generally considered to be a separate species, as ''Apis nuluensis''. 
+
+== Distribution and habitat ==
+''Apis cerana'' encompass a wide range of climatic zones including moist tropical rainforests, wet-dry tropical savannas, mid-latitude steppes, dry mid-latitude grasslands, moist continental deciduous forests, and taigas. The natural range of ''Apis cerana'' extends from Primorsky Krai in Russia in the north, to eastern Indonesia in the south; and to Japan in the east, to as far as the highlands of Afghanistan in the west. Countries they are native to include Afghanistan, Bangladesh, Bhutan, Brunei, Cambodia, China, India, Indonesia, Japan, Laos, Malaysia, Myanmar, Nepal, North Korea, Pakistan, the Philippines, Russia, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, and Vietnam. It was introduced deliberately to New Guinea in the 1970s, and has since spread into the Torres Strait Islands into Australia and the Solomon Islands. Although the species was naturally clustered in East Asia, it has now expanded to various regions across the world as a result of human interference, with particular concern about its invasive potential in Australia as nests are found in a variety of environments, including both natural and man-made
+&lt;br /&gt;
+
+== Behavior ==
+
+=== Colony cycle ===
+The colony of ''Apis cerana'', a typical honey bee, consists of several thousand female worker bees, one queen bee, and several hundred male drone bees. The colony is constructed inside beeswax combs inside a tree cavity, with a special peanut-shaped structure on the margins of the combs where the queens are reared.
+
+The colony's annual cycle in cold temperature regions begins shortly after the winter solstice, when the colony raises the core temperature of its cluster to about 34 degrees Celsius and starts to rear brood. At first, only around 100 bees are produced, but several thousand bees are developing by early spring. By late spring, the colony will have already attained full size, and will begin to reproduce. The colony then rears several new queens, and divides itself with about half the workers plus the old queen once the new queens have nearly matured. This new swarm then flies to a new tree branch, explores nest cavities, and then directs the other bees to the new site once satisfied with the location.
+
+During the remainder of summer and into the fall, the colonies in the new locations build combs, rear brood, and gather food to quickly rebuild their populations and food reserves prior to the arrival of winter.
+
+=== Division of labor ===
+As a social species, ''Apis cerana'' colonies contain divisions of labor depending on what each member of the group is specialized to perform. There is generally only one queen bee whose sole responsibility it is to lay eggs; therefore, she is the mother of all the workers present in the colony. Apart from the queen bee, the remaining female bees are known as the worker bees, as these individuals perform all the tasks necessarily to maintain the hive including tending to the eggs, larvae, and pupae, foraging for food and water, cleaning the facility, and producing honey. These tasks are divided among the female worker bees by a factor of age. The remaining individuals are the males, known as the “drones,” whose only responsibility is to mate with queen from another colony; therefore, drones are solely produced during the reproductive season.
+
+=== Communication ===
+The principal method of communication is the waggle dance, performed primarily when a worker bee discovers a rich source of pollen or nectar and wishes to share this knowledge with her fellow nest-mates. The waggle dance occurs deep inside the colony's hive, where the worker bee performs a brief reenactment of the recent journey to a patch of flowers. Neighboring bees observe and learn this dance and can then follow the same pattern, utilizing the odor of the flowers to fly in a certain path and arrive at the same destination. The bees following the informed worker bee will extend their antennae towards the dancer in order to detect the dance sounds, as the frequency of the bee's antennae closely matches the vibration frequency of its wings. The overall direction and duration of each waggle is closely correlated with the direction and distance from the flower patch being described.
+
+=== Mating behavior ===
+Within the honey bee colony, a queen bee typically mates with 10 or more males. This extensive mating is performed in an effort to secure a great range of genetic variation in her colony to cope with diseases, as well as respond to nectar sources and a wide range of external stimuli. Apart from the queen bee, the only other sexual members of the society are the male drones, whose only function is to mate with the queen, after which they will die.
+
+The exact time and place of ''Apis cerana'' mating is specific to the subspecies, often varying by local environment. For instance, in Sri Lanka, ''Apis cerana'' males typically aggregate beside a tree canopy as opposed to above a tree as is found in the ''Apis cerana'' subspecies of Japan. The most significant factor in determining mating time, however, is not ecological conditions, but rather the presence of drones of other species. Mating time decreases as the number of non-species drones present increases.
+
+==== Reproductive swarming ====
+In ''A. cerana'', reproductive swarming is similar to ''A. mellifera''. ''A. cerana'' reproductive swarms settle 20–30 m away from the natal nest (the mother or primary colony) and stay for a few days before departing for a new nest site after getting information from scout bees. Scout bees search for suitable cavities in which to construct the swarm's home. Successful scouts come back and report the location of suitable nesting sites to the other bees by performing communication dances on the surface of the swarm cluster in the same way as for food sources.
+
+===== Absconding behavior =====
+Apart from reproductive swarming, ''A. cerana'' has migration and absconding behavior, abandoning the current nest and building a new nest in a new location where an abundant supply of nectar and pollen is available. These bees usually do not store great amounts of honey, so they are more vulnerable to starvation if a prolonged shortage of nectar and pollen occurs. Absconding will start when not enough pollen and nectar are available. After the last brood emerges, the adult bees fill their honey stomachs from the hive's stores and swarm to establish a new nest at a new location. ''A. cerana'' has more absconding behavior than ''A. mellifera''.
+[[Category:Hymenoptera]]
+[[Category:Hymenopodidae]]
+[[Category:Apis (genus)]]
+[[Category:Apidae]]
+[[Category:Bees]]</text>
+      <sha1>oipo1x3ri58qrvmqixtfuyzb0ltq7d9</sha1>
+    </revision>
+  </page>
+  

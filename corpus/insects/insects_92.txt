@@ -1,0 +1,25 @@
+
+    <title>Mantidfly</title>
+    <ns>0</ns>
+    <id>3149</id>
+    <revision>
+      <id>5105</id>
+      <parentid>5104</parentid>
+      <timestamp>2013-01-12T20:22:56Z</timestamp>
+      <contributor>
+        <username>Majoras revenge!!!</username>
+        <id>5362365</id>
+      </contributor>
+        5105
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1465" sha1="mjmtuic2ruklusfqop8iqk2bsh7r12j" xml:space="preserve">[[File:Mantidfly.jpg|thumb|A mantidfly standing on a leaf. Notice how it looks similar to a mantis.]]Mantidflies are medium sized insects About 5–47 millimetres (0.2–1.9 in) long and with a wingspan of 5–30 mm (0.2–1.2 in) most are brownish with green, yellow and sometimes red hues, larva are often parastoids but are sometimes moble predators.
+
+Mantispinae have the most specialized larval development among all mantidflies studied to date: their campodeiform larvae seek out female Spiders or their egg sacs which they then enter; the scarabaeiform larvae then feed on the spider eggs, draining egg contents through a piercing/sucking tube formed by modified mandibles and maxillae, pupating in the egg sac.
+
+First-instar mantispids use two strategies to locate spider eggs: larvae may burrow directly through the silk of egg sacs they find, or they may board and be carried by female spiders prior to sac production entering the sac as it is being constructed. Mantispids that board spiders usually adopt positions on or near the base of the abdomen; some species may enter the spider's book lungs. Larvae maintain themselves aboard spiders by feeding on spider hemolymph. transfers of larvae from spider to spider are possible during spider mating or cannibalism. All of the major groups of hunting spiders are attacked by spider-boarding mantispids; the egg sacs of web-building species are also entered by egg-sac penetrators.
+[[Category:Neuroptera]]</text>
+      <sha1>mjmtuic2ruklusfqop8iqk2bsh7r12j</sha1>
+    </revision>
+  </page>
+  

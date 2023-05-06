@@ -1,0 +1,56 @@
+
+    <title>Apinae</title>
+    <ns>0</ns>
+    <id>4165</id>
+    <revision>
+      <id>6936</id>
+      <parentid>6935</parentid>
+      <timestamp>2021-11-06T19:36:31Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        6936
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1822" sha1="gvquvfux82i0rcr11ivke6puez05sl6" xml:space="preserve">The '''Apinae''' are the subfamily that includes the majority of bees in the family Apidae. It includes the familiar "corbiculate" (pollen basket) 
+
+{{Subfamily|title1=Apinae|image1=Bee 2.png|caption1=[[Apis mellifera]]|phylum=[[Arthropoda]]|order=[[Hymenoptera]]|family=[[Apidae]]|class=[[Insecta]]|kingdom=Animalia|tribes=--}}
+
+bees—bumblebees, honey bees, orchid bees, stingless bees, and the extinct genus ''Euglossopteryx''. It also includes all but two of the groups (excluding Nomadinae and Xylocopinae) that were previously classified in the family Anthophoridae.
+
+Most species in the subfamily (other than honey bees, bumblebees, and stingless bees) are solitary, though several of the tribes are entirely cleptoparasitic, such as the Ericrocidini, Isepeolini, Melectini, Osirini, Protepeolini, and Rhathymini.
+
+== Behaviors ==
+Certain behaviors are known from members of the Apinae that are rarely seen in other bees, including the habit of males forming "sleeping aggregations" on vegetation - several males gathering on a single plant in the evening, grasping a plant with their jaws and resting there through the night (sometimes held in place only by the jaws, with the legs dangling free in space).
+
+Also known from Apinae is the habit of gathering floral oils instead of pollen for use as a larval food; this behavior is otherwise known only from a few lineages in the family Melittidae.
+
+== Tribes ==
+
+* [[Ancylaini]]
+* [[Ancyloscelidini]]
+* [[Anthophorini]] 
+* [[Centridini]]
+* [[Ctenoplectrini]]
+* [[Emphorini]]
+* [[Ericrocidini]]
+* [[Eucerini]] 
+* [[Exomalopsini]]
+* [[Isepeolini]]
+* [[Melectini]]
+* [[Osirini]]
+* [[Protepeolini]]
+* [[Rhathymini]]
+* [[Tapinotaspidini]]
+* [[Tetrapediini]]
+[[Category:InsectFamilies]]
+[[Category:Insecta]]
+[[Category:Hymenoptera]]
+[[Category:Apidae]]
+[[Category:Bees]]</text>
+      <sha1>gvquvfux82i0rcr11ivke6puez05sl6</sha1>
+    </revision>
+  </page>
+  

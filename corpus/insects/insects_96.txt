@@ -1,0 +1,73 @@
+
+    <title>Hemileuca hera</title>
+    <ns>0</ns>
+    <id>4670</id>
+    <revision>
+      <id>8220</id>
+      <parentid>8219</parentid>
+      <timestamp>2023-02-08T10:32:34Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        8220
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3183" sha1="nbt3l96r17l7ybrp0boriinbqjbcarl" xml:space="preserve">''Hemileuca hera,'' also known as the '''sagebrush sheep moth''' or '''Hera buckmoth''' is a species 
+
+{{Insect|name=Hemileauca Hera|binomen=Hemileauca Hera, Harris 1841|common=Hera Buckmoth|native=Sagebrush sheep moth|other=(?)|order=[[Lepidoptera]]|suborder=(Unranked)|superfamily=[[Bombycoidea]]|family=[[Saturniidae]]|subfamily=Hemileucinae|tribe=Hemileucini|genus=Hemileucinae|subgenus=(?)|species=H. Hera|status=Secure|image=[[File:Hemileauca Hera.png|250px]]|imagehab=[[File:Hemileauca Hera(3).png|250px]]}}
+
+of diurnal moth Native to Northern America.
+
+== Biology ==
+
+=== Morphology ===
+The sage brush sheep moth is a beautiful white moth with a wingspan of 71-93 mm.&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; The white wings have black markings on their subtle wings including a small black crescent on each wings alongsides black stripes. The moth has fluffy orange bodies with black and white markings present on the thorax. Males have feathery crimson antennae. 
+
+=== Behaviour ===
+
+==== Imago behaviour ====
+Imagos do not feed and are diurnal by nature. Emergence from the occurs during early morning hours. The adults can be observed from July to September&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; but varies depending on location. The adults are known to fly several meters above the ground and have an erratic flight patterns.&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt;
+
+==== Infant behaviour ====
+Infants feed in groups when young, as they mature they tend to become more solitary in nature.&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt;
+
+=== Life cycle ===
+The females lay their eggs on sagebrush plant in a ring shape&lt;ref&gt;https://www.butterfliesandmoths.org/species/Hemileuca-hera&lt;/ref&gt; on the surface of the leaves. The infants hatch during mid summers to mid late spring. The caterpillars build cocoons in mulch and leaf litter&lt;ref&gt;http://pnwmoths.biol.wwu.edu/browse/family-saturniidae/subfamily-hemileucinae/hemileuca/hemileuca-hera/&lt;/ref&gt; followed by the emergence of adults during early springtime.
+
+=== Ecology ===
+
+==== Host plants&lt;ref&gt;https://en.m.wikipedia.org/wiki/Hemileuca_hera&lt;/ref&gt; ====
+
+* Big basin sagebrush 
+* Sand sagebrush 
+* threetip sagebrush 
+* Bluebonnets (Lupine)
+* Wild buckwheat 
+* Sulphurflower buckwheat&lt;ref&gt;https://bugguide.net/node/view/61936&lt;/ref&gt;
+
+== Distribution ==
+
+=== Geographical range ===
+[[File:Hemileauca Hera(2).jpeg|thumb]]
+''Hemileuca hera'' has a vast range over Northern America ranging from Colorado, New Mexico, Arizona, California, San Francisco, Las Vegas and Washington.&lt;ref&gt;https://www.butterfliesandmoths.org/species/Hemileuca-hera&lt;/ref&gt;
+
+=== Habitat ===
+Adult moths can be observed in sagebrush meadows, basins, softwood forests, temperate plains and Juniper woodland areas.
+
+== References ==
+&lt;references /&gt;
+[[Category:Insecta]]
+[[Category:Lepidoptera]]
+[[Category:Saturniidae]]
+[[Category:Pterygota]]
+[[Category:Holometabola]]
+[[Category:Endopterygota]]
+[[Category:Neuroptera]]
+[[Category:Insects of North America]]
+[[Category:Heterocera]]</text>
+      <sha1>nbt3l96r17l7ybrp0boriinbqjbcarl</sha1>
+    </revision>
+  </page>
+  

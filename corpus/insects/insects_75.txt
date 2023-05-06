@@ -1,0 +1,38 @@
+
+    <title>Stalk-eyed fly</title>
+    <ns>0</ns>
+    <id>3843</id>
+    <revision>
+      <id>6012</id>
+      <timestamp>2018-03-29T16:52:20Z</timestamp>
+      <contributor>
+        <ip>184.186.4.209</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''Stalk-eyed flies''' are insects of the fly family Diopsidae. The family is distinguished from most other flies by the possession of "eyestal..."</comment>
+        6012
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3241" sha1="krzvo2e4rz81udgarcvv6acoij8p0jz" xml:space="preserve">[[File:Placeholder|right|300px]]'''Stalk-eyed flies''' are insects of the fly family Diopsidae. The family is distinguished from most other flies by the possession of "eyestalks": projections from the sides of the head with the eyes at the end. Some fly species from other families such as Drosophilidae, Platystomatidae, Richardiidae, and Tephritidae have similar heads, but the unique character of the Diopsidae is that their antennae are located on the stalk, rather than in the middle of the head as in all other flies.
+
+The stalk-eyed flies are up to a centimeter long, and they feed on both decaying plants and animals. Their unique morphology has inspired research into how the attribute may have arisen through forces of sexual selection and natural selection. Studies of the behavior of the Diopsidae have yielded important insights into the development of sexual ornamentation, the genetic factors that maintain such a morphological feature, sexual selection, and the handicap principle.
+
+==Distribution and habitat==
+More than 100 species in the Diopsidae are known, with the greatest diversity found in the Old World tropics.[2] They are distributed throughout the region, with the best-known species being from Southeast Asia and Southern Africa. Also, two species in North America have been described and a European species has recently been found in Hungary.[3]
+
+Adult diopsids are typically found on low-lying vegetation in humid areas, often near streams and rivers, where they feed on fungi and bacteria, which they scavenge from decaying vegetation. The larvae are saprophagic or phytophagous, eating decaying and fresh plant matter. ''[[Diopsis macrophthalma]]'' Dalman, 1817, is a pest of rice and sorghum in tropical Africa.
+
+The peculiar morphology of stalk-eyed flies makes it easy to identify their fossils (e.g. in amber); one prehistoric genus that has been discovered in that form is Prosphyracephala.
+
+==Morphology==
+The Diopsidae are small to medium-sized flies, ranging from about 4.0 to about 12.0 mm in length. Their heads are subtriangular, with transverse eye stalks in all genera except the African genus Centrioncus. The head is usually sparsely haired, with vibrissae (whiskers) absent.[5]
+
+The posterior portion of the fly's metathorax, or scutellum, has a pair of stout processes, and often the laterotergite (one of a number of lateral flanges) of the postnotum (a small dorsal sclerite on the insect thorax posterior to the notum) has a dome-like swelling or spine-like process. The anterior femora of the legs are stout, with ventral spines. Adult males have lost tergites seven and eight, and the seventh sternite forms a complete ventral band.[5]
+
+Stalk-eyed flies, as the name implies, typically possess eyestalks. Their eyes are mounted on projections from the sides of the head, and the antennae are located on the eyestalks, unlike stalk-eyed flies from other families. A rather remarkable feature of stalk-eyed flies is their ability, shortly after they emerge from their pupae, to ingest air through their oral cavity and pump it through ducts in the head to the tips of the eye stalks, thereby elongating them while they are still soft and transparent
+
+==Taxonomy==
+[[Category:Brachycera]]</text>
+      <sha1>krzvo2e4rz81udgarcvv6acoij8p0jz</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,25 @@
+
+    <title>Drone</title>
+    <ns>0</ns>
+    <id>2208</id>
+    <revision>
+      <id>3601</id>
+      <parentid>3599</parentid>
+      <timestamp>2009-06-18T17:14:05Z</timestamp>
+      <contributor>
+        <username>Dser</username>
+        <id>1032852</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        3601
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="5565hxg9h6q35wgrfuehmq0zfxqmfgq" xml:space="preserve">A '''drone''' is a male [[honeybee]] whose main function is to mate with the [[queen]].
+[[Category:Bees]]
+[[Category:Hymenoptera]]
+[[Category:Article stubs]]
+[[Category:Insect individuals]]</text>
+      <sha1>5565hxg9h6q35wgrfuehmq0zfxqmfgq</sha1>
+    </revision>
+  </page>
+  

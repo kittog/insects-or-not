@@ -1,0 +1,62 @@
+
+    <title>Megasoma elephas</title>
+    <ns>0</ns>
+    <id>2492</id>
+    <revision>
+      <id>4308</id>
+      <parentid>4307</parentid>
+      <timestamp>2009-09-01T17:10:56Z</timestamp>
+      <contributor>
+        <username>SmartOneKg</username>
+        <id>1072595</id>
+      </contributor>
+        4308
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1826" sha1="pis6kslohisg2pturay1sim1c30dzet" xml:space="preserve">{{Infobox
+|Box title = Megasoma elephas
+|Image file = Megasoma elephas.jpg
+|Image size = 150px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Polyphaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Scarabaeoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Scarabaeidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Dynastinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Dynastini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Megasoma]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Megasoma elephas'''''
+|Row 9 title = [[Subspecies]]
+|Row 9 info = '''Megasoma elephas elephas'''
+* [[Megasoma elephas iijimai]]
+* [[Megasoma elephas occidentalis]]
+}}
+
+Megasoma elephas is a very heavy beetle in the family [[Dynastinae]].
+
+==Appearance==
+
+The Elephant Beetle is pretty large by weight and by size. The main colour of the Elephant is yellow. There are horns on the side like the [[Goliath Beetle]]. One very large horn resembles a hook and an elephant trunk, hence the name. 
+
+==Habitat==
+
+Elephant Beetle larvae develop in large decaying logs and take up to four years to develop into adult beetles. The female lays her eggs inside the decaying log. After about 3 weeks, the eggs hatch into C-shaped larva, white grubs with brown heads and six legs. The larval stage lasts 30 weeks, during which the grubs consume organic matter. The third and last stage, the pupal stage, lasts around 5 weeks at a temperature of 25°C. The life span of an adult Elephant Beetle is around four months. Elephant beetles eat spiny fruit on the coast like lychee or pineapple. Elephants are nocturnal.
+[[Category:Insecta]]
+[[Category:Coleoptera]]
+[[Category:Polyphaga]]
+[[Category:Scarabaeoidea]]
+[[Category:Scarabaeidae]]
+[[Category:Dynastinae]]
+[[Category:Dynastini]]
+[[Category:Megasoma]]</text>
+      <sha1>pis6kslohisg2pturay1sim1c30dzet</sha1>
+    </revision>
+  </page>
+  

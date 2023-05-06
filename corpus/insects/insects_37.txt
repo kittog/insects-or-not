@@ -1,0 +1,36 @@
+
+    <title>Burara Gomata</title>
+    <ns>0</ns>
+    <id>4249</id>
+    <revision>
+      <id>7285</id>
+      <parentid>7130</parentid>
+      <timestamp>2021-11-24T06:47:05Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7285
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2765" sha1="jjzy770q36l93kxf065c2gribhzk523" xml:space="preserve">{{Infobox|Box title=Burara Gomata|Image file=Burara Gomata.jpg|Image size=255px|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Class]]|Row 2 info=[[Insecta]]|Row 3 title=[[Order]]|Row 3 info=[[Lepidoptera]]|Row 4 title=[[Family]]|Row 4 info=[[Hesperiidae]]|Row 5 title=[[Subfamily]]|Row 5 info=[[Hesperiinae]]|Row 6 title=[[Genus]]|Row 6 info=[[Burara]]}}'''''Bibasis gomata''''', commonly known as the '''pale green awlet''', is a [[butterfly]] belonging to the family [[Hesperiidae]]. It is found in Northeast India, the Western Ghats and parts of Southeast Asia. The butterfly was reassigned to genus ''[[Burara]]'' by Vane-Wright and de Jong (2003) and is considered by them to be ''Burara gomata''. The common green Awlet can now be seen as a mascot for the [[Insect Wiki]]! 
+
+== Morphology ==
+Both genders among this species of butterfly have a wingspan of 50 to 55 mm.  Upperside pale vinaceous brown; both wings with pale brownish yellow streaks longitudinally between the veins. [[Abdomen]] blackish brown with yellowish bands. Cilia yellowish. Underside dark brown, with the veins and longitudinal streaks between them greyish green, the brown showing only along each side of the veins; posterior margin of forewing broadly pale vinaceous; exterior margin of both wings defined by a brown line. Third joint of [[Insect terminology|palpi]] and edge of sides brown, the rest yellow. Thorax, legs and abdomen beneath orange yellow. The females Expanse 2.3 inches. Upperside of the wings are very dark glossy bronzy and green, shading off into glossy indigo-blue at the apex and outer margin. Underside with the markings and ground-colour darker than in Sikkim males; forewing with a pale green spot in the second median interspace, with a larger one in the interspace below it, in the male these spots are merged in a large patch of the ochreous ground-colour from the inner margin. The green markings everywhere more restricted and of a darker shade than in the male.
+
+== Region ==
+[[File:Bibas gomata.jpg|thumb|283x283px]]
+The pale green awlet ranges from India, Myanmar, the Malay Peninsula, the Philippines, and the Indonesian archipelago. In India, the butterfly is found in South India up to North Kanara, and along the Himalayas from Sikkim to Assam and eastwards to Myanmar. The type locality is Darjeeling in the north of West Bengal. This species is rare in South India but fairly common in the Himalayas.
+
+== Trivia ==
+
+* Burara Gomata was the chosen mascot for the insect Wiki with the other two mascots being '''Vanessa atalanta''' and '''Aglais IO.''' Coincedentally, both species including Burara Gomata can also be found in India.
+[[Category:Insecta]]
+[[Category:Lepidoptera]]
+[[Category:Hesperiidae]]
+[[Category:Hesperiinae]]</text>
+      <sha1>jjzy770q36l93kxf065c2gribhzk523</sha1>
+    </revision>
+  </page>
+  

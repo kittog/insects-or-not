@@ -1,0 +1,100 @@
+
+    <title>Zygoptera</title>
+    <ns>0</ns>
+    <id>2227</id>
+    <revision>
+      <id>7040</id>
+      <parentid>7037</parentid>
+      <timestamp>2021-11-12T10:58:46Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7040
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4753" sha1="ib41xmucqaaw3ngclq7uo3ghsz6zhua" xml:space="preserve">{{Infobox
+|Box title = Zygoptera
+|Image file = Ischnura heterosticta.jpg
+|Image size = 250 px
+|Row 1 title = [[Class]]
+|Row 1 info = [[Hexapoda]]
+|Row 2 title = [[Order]]
+|Row 2 info = [[Odonata]]
+|Row 3 title = Suborder
+|Row 3 info = '''''Zygoptera'''''
+|Row 4 title = [[Family]]
+|Row 4 info =  [[Coenagrionidae]]
+* [[Amphipterygidae]]
+* [[Calopterygidae]]
+* [[Chlorocyphidae]]
+* [[Dicteriadidae]]
+* [[Euphaeidae]]
+* [[Hemiphlebidae]]
+* [[Isosticidae]]
+* [[Lestidae]]
+* [[Lestoididae]]
+* [[Megapodagrionidae]]
+* [[Perilestidae]]
+* [[Platycnemididae]]
+* [[Platystictidae]]
+* [[Polythoridae]]
+* [[Protoneuridae]]
+* [[Pseudostigmatidae]]
+* [[Synlestidae]]
+* [[Zacallitidae]]
+|Row 5 title = 
+|Row 5 info = 
+|Row 6 title = 
+|Row 6 info = 
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+|Row 10 title = 
+|Row 10 info = 
+}} 
+
+A '''damselfly''' is an [[insect]] belonging to the [[Odonata]] [[order]] that resembles a [[Anisoptera|dragonfly]] in many ways. Zygoptera itself is an [[infraorder]] from the order [[Odonata]] with more than 5000 described species. 
+
+The main difference between damselflies and dragonflies is that a damselfly has a thinner [[abdomen]] and they are usually smaller, they tend to have a weak-fluttering flight unlike dragonflies and keep their wings closed at rest (Excluding spreadwing damselflies) 
+
+Damselflies are also weaker fliers than dragonflies, dragonflies tend to hover in mid-air swooping down at any unlucky dipteran that gets into it's way.
+
+== Biology: ==
+
+=== Morphology ===
+Coming in a wide array of iridescent and stunning coloration, these delicate-winged flyers are carnivorous insects that dwell within shallow lakes and streams of water as a [[Naiad|juvenile]] and flying high in the tropical forests and fluttering across flower meadows, damselflies are surely a beautiful sight. Unlike dragonflies, damselflies have an [[ocelli]] (Light-sensory organ) on their head (although absent in a few species) and thin abdomens painted with natural pigmentations. These fragile insects have highly flexible [[Mandible|jaws]] and an cylindrical head along with the [[Thorax|thoracic region]] lift slightly upwards connecting the [[Insect terminology|wings]] and the thin [[abdomen]]. Their eyes cover an enormous portion of their heads similar to dragonflies, 70% of a damselflies' brain is dedicated to it's sight! 
+
+=== Metamorphosis ===
+Damselflies are '''''hemmimatabolous''','' meaning they undergo [[metamorphosis|incomplete metamorphosis]] and have an aquatic nymphal stage. The female will lay her [[egg]]s in water or high in trees. Once the eggs hatch, the [[naiad]] will search in the water for [[daphnia]] (mosquito [[larva|larvae]]) and eat them. After the final nymphal stage, the [[naiad]] becomes mature and will then eat [[fly|flies]] and [[mosquito]]es on the surface. they've also been known to feed on other soft-bodied insects namely [[Aphid|aphids]]. Some larger tropical species will also consume other arthropods such as [[spider]]s. 
+
+== Behavior ==
+
+=== Mating ===
+Mating in damselflies, as in dragonflies, is a complex, precisely choreographed process involving both indirect insemination and delayed fertilisation. The male first has to attract a female to his territory, continually driving off rival males. When he is ready to mate, he transfers a packet of sperm from his primary genital opening on segment 9, near the end of his abdomen, to his secondary genitalia on segments 2–3, near the base of his abdomen. The male then grasps the female by the head with the claspers at the end of his abdomen; the structure of the claspers varies between species, and may help to prevent interspecific mating. The pair fly in tandem with the male in front, typically perching on a twig or plant stem. The female then curls her abdomen downwards and forwards under her body to pick up the sperm from the male's secondary genitalia, while the male uses his "tail" claspers to grip the female behind the head: this distinctive posture is called the "heart" or "wheel"; the pair may also be described as being "in cop".
+
+== Trivia ==
+
+* Damselflies along with their counterparts dragonflies have been existing on earth since 300 million years.
+* Even after possessing 3 pairs of legs, they are unable to walk.
+* Damselflies can be found on 6 continents (With the excluded continent being Antarctica)
+* Both males and females in every species possess 10 segments in their abdomen this is to help form the coupulatry wheel during the process of mating.
+* Female damselflies take a dive into the shallow waters to lay eggs!
+
+
+
+
+&lt;br /&gt;
+[[Category:Damselflies]]
+[[Category:Odonata]]
+[[Category:Infraorders]]
+[[Category:InsectFamilies]]
+[[Category:Insecta]]</text>
+      <sha1>ib41xmucqaaw3ngclq7uo3ghsz6zhua</sha1>
+    </revision>
+  </page>
+  

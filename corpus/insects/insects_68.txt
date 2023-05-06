@@ -1,0 +1,23 @@
+
+    <title>Pteromalid</title>
+    <ns>0</ns>
+    <id>2238</id>
+    <revision>
+      <id>3649</id>
+      <timestamp>2009-06-23T16:10:52Z</timestamp>
+      <contributor>
+        <username>Dser</username>
+        <id>1032852</id>
+      </contributor>
+      <comment>Created Pteromalid</comment>
+        3649
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="0t11qtar1sk92lw1udnow0welrlnd92" xml:space="preserve">[[File:Female Catolaccus grandis wasp.jpg|thumb|164px|''[[Catolaccus grandis]]'']]'''Pteromalids''' are [[wasp]]s belonging to the [[Pteromalidae]] [[family]] and the [[Hymenoptera]] [[order]]. They belong to a large family of about 4000 species. All Pteromalids are in fact [[parasatic]], feeding off the [[larvae]] of other [[insect]]s. Most Pteromalids are metallic in color, and some have long [[ovipositor]]s. Some species will lay eggs in [[gall]]s, where their larvae can feed on what is inside. These wasps live worldwide, wherever hosts are found.
+[[Category:Pteromalidae]]
+[[Category:Hymenoptera]]
+[[Category:Wasps]]</text>
+      <sha1>0t11qtar1sk92lw1udnow0welrlnd92</sha1>
+    </revision>
+  </page>
+  

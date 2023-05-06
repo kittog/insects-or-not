@@ -1,0 +1,34 @@
+
+    <title>Tabanomorpha</title>
+    <ns>0</ns>
+    <id>4273</id>
+    <revision>
+      <id>7258</id>
+      <parentid>7248</parentid>
+      <timestamp>2021-11-23T11:37:50Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7258
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1302" sha1="39m5py79h7a3zl5wbi1e4v5hboakbh3" xml:space="preserve">The Brachyceran infraorder Tabanomorpha is a small group that consists primarily of two large families, the Tabanidae (horse and deer flies) and Rhagionidae (snipe flies), and an assortment of very small affiliated families, 
+
+== Overview ==
+Most of which have been (or could be, or sometimes are) included within the Rhagionidae. The Tabanomorpha is one of the two Brachyceran groups outside the Hippoboscoidea that contain blood-feeding (hematophagous) species, though they are not important disease vectors.
+
+== Behavior ==
+The larvae of tabanomorphs are primarily found in aquatic or semi-aquatic habitats, and are predatory. They often have "warts" or other body projections that may resemble the prolegs of caterpillars.
+
+== Classification ==
+The infraorder Vermileonomorpha is often included within the Tabanomorpha, though the most recent classifications place them as its sister taxon. There are also some classifications that place the Nemestrinoidea within the Tabanomorpha, though this is not widely accepted. There are two superfamily-level lineages currently recognized within Tabanomorpha; the Tabanoidea and the Rhagionoidea (the latter comprising Austroleptidae, Bolbomyiidae, and Rhagionidae).
+[[Category:Diptera]]
+[[Category:Insecta]]
+[[Category:Brachycera]]
+[[Category:Infraorders]]</text>
+      <sha1>39m5py79h7a3zl5wbi1e4v5hboakbh3</sha1>
+    </revision>
+  </page>
+  

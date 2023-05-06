@@ -1,0 +1,59 @@
+
+    <title>Pholcus phalangioides</title>
+    <ns>0</ns>
+    <id>3676</id>
+    <revision>
+      <id>8274</id>
+      <parentid>5758</parentid>
+      <timestamp>2023-03-09T08:00:28Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8274
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3845" sha1="36kfwo5oeu66k71ms7ri1mllrwa58ee" xml:space="preserve">'''''Pholcus phalangioides''''', known as the '''longbodied [[cellar spider]]''' or the '''skull [[spider]]''' due to 
+
+{{Insect|name=Pholcus phalangioides|image=[[File:Pholcus phalangioides.jpeg|260px]]|binomen=Pholcus phalangioides Füssli 1775|common=Long-bodied cellar spider|native=Daddy-long-legs spider|other=Skull spider|order=[[Araneae]]|suborder=(Infraorder)= Araneomorphae|superfamily=Unranked|family=Pholcidae|subfamily=-|tribe=-|genus=Pholcus|subgenus=-|species=Pholcus phalangioides|status=Least concerned|imagehab=[[File:Pholcus phalangioides Hab.png|260px]]}}
+
+its cephalothorax looking like a human skull, is a spider of the family Pholcidae. 
+
+== Morphology ==
+Females have a body length of about 9 mm; males are slightly smaller. Its legs are about 5 or 6 times the length of its body (reaching up to 7 cm of leg span in females). Its habit of living on the ceilings of rooms, caves, garages or cellars gives rise to one of its common names. They’re bodies are usually translucent beige or brown except a large brown patch present on the cephalothorax. The spiderlings are pale white with light-yellow translucent bodies.
+==Habitat==
+Originally a species restricted to warmer parts of the west Palearctic,[4][better source needed] through the help of humans this synanthrope now occurs throughout a large part of the world.[1][better source needed] It is unable to survive in cold weather, and consequently it is restricted to (heated) houses in some parts of its range.
+==Behaviors==
+
+=== Defence mechanism ===
+''Pholcus phalangioides'' is not considered aggressive, its first line of defense being to shake its web violently when disturbed as a mechanism against predators. Pholcus phalangioides  exhibit autonomy upon rough handling or when threatened.
+
+=== Feeding habits ===
+With the use of their messy, tangled webs,  Pholcus phalangioides can easily catch and eat other spiders even those much larger than itself, such as ''[[Eratigena atrica]],''it’s other primary sources of nutrition generally includes ''[[mosquito]]es, other insects and woodlouse.'' During scarcity of food available they are also known to exhibit cannibalism.
+
+=== Breeding ===
+Peak breeding in this species occurs between June and September. The female holds the 20 to 30 eggs in her pedipalps. Spiderlings are transparent with short legs, and change their skin about 5 or 6 times as they mature.
+==Venom==
+'''''Pholcus phalangioides''''' rarely bites, most bites are followed by a short-lived burning sensation with a relatively low toxicity. The bites can occasionally lead to swellings and development of red patches on skin especially among young children.
+
+== Ecological Importance ==
+
+=== Relation with humans ===
+They are considered beneficial in some parts of the world because they kill and eat other spiders, pests and disease-spreading insects such as mosquitoes and flies in addition to aranea species that can be considered a problem to humans such as hobo and redback spiders (although not fully confirmed).
+
+=== Ecological threat ===
+although useful to humans for pest eradication this species is becoming more common which could possibly lead to decline in the number of native species of flies, and other spiders. They may also be considered as being invasive and a great pest due to their messy-untidy cobwebs.
+
+== Geological information ==
+
+=== Range ===
+They have a wide range from Europe to the south-African velds, almost the entire southern America. North Africa a wide range in Asia extending from china to northern parts of India and some parts of North America.
+
+=== Habitats ===
+The preferred habitats of this species includes caves, houses, ceilings, and most commonly cellars and basements. This species is relatively common among urban habitats ranging from towns, settlements and cities. 
+
+[[Category:Araneae]]</text>
+      <sha1>36kfwo5oeu66k71ms7ri1mllrwa58ee</sha1>
+    </revision>
+  </page>
+  

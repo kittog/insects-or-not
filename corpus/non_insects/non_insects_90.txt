@@ -1,0 +1,40 @@
+
+    <title>Scolopendra alcyona</title>
+    <ns>0</ns>
+    <id>4655</id>
+    <revision>
+      <id>8242</id>
+      <parentid>8234</parentid>
+      <timestamp>2023-02-13T09:40:24Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8242
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1722" sha1="hc7rf2dstniunp2qz61ziiys5d56zw9" xml:space="preserve">{{Shortbox}}
+
+Scolopendra alcyona, also known as '''riûjin ômukade''' or '''Halcyon giant centipede''' is a 
+
+{{Insect|name=Scolopendra alcyona|image=[[File:Scolopendra alcyona(2).png|275px]]|binomen=Scolopendra alcyona Tsukamoto &amp; Shimano 2021|common=Halcyon Giant Centipede|native=琉神大百足|other=Riujin Giant Centipede|order=[[Scolopendramorpha]]|suborder=(?)|superfamily=(?)|family=[[Scolopendridae]]|subfamily=(?)|tribe=[[Scolopendrini]]|genus=[[Scolopendra]]|subgenus=(?)|species=Scolopendra alcyona Tsukamoto &amp; Shimano, 2021|status=Urgent Endangered species designation|imagehab=[[File:Scolopendra alcyona(1).png|300px]]}}
+
+species of [[Centipede]] native to ryuku Archipelago in Okinawa as well as Taiwan the species was discovered in 2021. It is the third only amphibious species of centipede in the world with the first two being [[Scolopendra cataracta]] and [[Scolopendra paradoxa]].
+
+== Biology ==
+
+=== Morphology ===
+Scolopendra alcyona is a beautiful centipede with a length of 20 cm and a width of 2 cm making it the largest centipede species in Japan. Scolopendra alcyona has a vivid, turquoise to a jade coloured base and lighter coloured legs. Scolopendra alcyona has between 18-19 pairs of legs..
+
+=== Ecology ===
+Scolopendra alcyona are solitary, amphibious centipedes that sport a venomous, excruciatingly painful bite. They are known to feed on giant freshwater prawns and hide underneath submerged rocks and crevices underwater.
+
+== Geographical Range ==
+Scolopendra alcyona was found living in streamsides forests and was first discovered in the Ryuku Archipelago in Okinawa, specimen were also found in Taiwan.
+[[Category:Myriapods]]
+[[Category:Chilopoda]]
+[[Category:Endangered species]]</text>
+      <sha1>hc7rf2dstniunp2qz61ziiys5d56zw9</sha1>
+    </revision>
+  </page>
+  

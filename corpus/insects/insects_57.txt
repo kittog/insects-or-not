@@ -1,0 +1,59 @@
+
+    <title>Africanized bee</title>
+    <ns>0</ns>
+    <id>3635</id>
+    <revision>
+      <id>6057</id>
+      <parentid>6054</parentid>
+      <timestamp>2018-12-27T05:42:47Z</timestamp>
+      <contributor>
+        <username>Noeliria123</username>
+        <id>30310702</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        6057
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9291" sha1="sveoh16cl85rxhbvxp602hpfmw0s90k" xml:space="preserve">[[File:Apis mellifera scutellata.jpg|thumb|346px|right|the B]]'''Africanized honey bees''' (also spelled '''Africanised honey bees'''), known colloquially as '''"killer bees"''', are a hybrid of the [[Western honey bee]] species (''Apis mellifera''), produced originally by cross-breeding of the African honey bee (''A. m. scutellata''), with various European honey bees such as the Italian bee ''A. m. ligustica'' and the Iberian bee ''A. m. iberiensis''.
+
+The Africanized honey bee was first introduced to Brazil in the 1950s in an effort to increase honey production; but, in 1957, 26 swarms accidentally escaped quarantine. Since then, the species has spread throughout South America, and arrived in North America in 1985. Hives were found in south Texas of the United States in 1990. This species was discovered to have spread into the American Northwest in 2011.[1]
+
+Africanized bees are more aggressive, and react to disturbances faster than European honey bees. They can chase a person a quarter of a mile (400 m); they have killed some 1,000 humans, with victims receiving ten times more stings than from European honey bees.[2] They have also killed horses and other animals.
+==History==
+There are 28 recognized subspecies of ''Apis mellifera'' based largely on geographic variations. All subspecies are cross-fertile. Geographic isolation led to numerous local adaptations. These adaptations include brood cycles synchronized with the bloom period of local flora, forming a winter cluster in colder climates, migratory swarming in Africa, enhanced (long-distance) foraging behavior in desert areas, and numerous other inherited traits.
+
+The Africanized honey bees in the Western Hemisphere are descended from hives operated by biologist Warwick E. Kerr, who had interbred honey bees from Europe and southern Africa. Kerr was attempting to breed a strain of bees that would produce more honey and be better adapted to tropical conditions (i.e., more productive) than the European strain of honey bee currently in use throughout North, Central and South America. The hives containing this particular Africanized subspecies, were housed at an apiary near Rio Claro, São Paulo, in the southeast of Brazil and were noted to be especially defensive. These hives had been fitted with special excluder screens (called queen excluders) to prevent the larger queen bees and drones from getting out and mating with the local population of European bees. According to Kerr, in October 1957 a visiting beekeeper, noticing that the queen excluders were interfering with the worker bees' movement, removed them resulting in the accidental release of 26 Tanganyikan swarms of ''A. m. scutellata''. Following this accidental release, the Africanized swarms spread out and cross-bred with local European colonies; their descendants have since spread throughout the Americas. Because their movement through South and Central America was rapid and largely unassisted by humans, Africanized bees have earned the reputation of being one of the most successful biologically invasive species of all time.
+
+The first Africanized bees in the US were discovered in 1985 at an oil field in the San Joaquin Valley of California. "Bee experts theorized the colony had arrived hidden in a load of oil-drilling pipe shipped from South America."[4] The first permanent colonies arrived in Texas, from Mexico, in 1990. In the Tucson region of Arizona, a study of trapped swarms in 1994 found that only 15 percent had been Africanized; this number had grown to 90 percent by 1997.[5]
+
+Though Africanized bees display certain behavioral traits that make them less than desirable for commercial beekeeping, excessive defensiveness and swarming foremost, they have now become the dominant type of honey bee for beekeeping in Central and South America due to their genetic dominance as well as ability to out-compete their European counterpart, with clear evidence that they are superior honey producers and pollinators.
+
+The major differences between Africanized and other Western bee types are:
+*Tends to swarm more frequently and go farther than other types of honey bees.
+*Is more likely to migrate as part of a seasonal response to lowered food supply.
+*Is more likely to "abscond"—the entire colony leaves the hive and relocates—in response to stress.
+*Has greater defensiveness when in a resting swarm, compared to other honey bee types.
+*Lives more often in ground cavities than the European types.
+*Guards the hive aggressively, with a larger alarm zone around the hive.
+*Has a higher proportion of "guard" bees within the hive.
+*Deploys in greater numbers for defense and pursues perceived threats over much longer distances from the hive.
+*Cannot survive extended periods of forage deprivation, preventing introduction into areas with harsh winters or extremely dry late summers.
+==Geographic spread throughout North America==
+African honeybees are considered an invasive species in the Americas. As of 2002, the Africanized honeybees had spread from Brazil south to northern Argentina and north to Central America, Trinidad (West Indies), Mexico, Texas, Arizona, Nevada, New Mexico, Florida, and southern California. Their expansion stopped for a time at eastern Texas, possibly due to the large population of honey bee hives in the area. However, discoveries of the Africanized bees in southern Louisiana indicate this subspecies has penetrated this barrier,[6] or has come as a swarm aboard a ship. In June 2005, it was discovered that the bees had penetrated the border of Texas and had spread into southwest Arkansas. On September 11, 2007, Commissioner Bob Odom of the Louisiana Department of Agriculture and Forestry said that Africanized honey bees established themselves in the New Orleans area.[7] In February 2009, Africanized honeybees were found in southern Utah.[8][9] In October 2010, a 73-year-old man was killed by a swarm of Africanized honey bees while clearing brush on his south Georgia property, as determined by Georgia's Department of Agriculture. In 2012 state officials reported that a colony was found for the first time in a bee keepers colony in Monroe County, eastern Tennessee.[10] In June 2013, 62-year-old Larry Goodwin of Moody, TX was killed by a swarm of bees.[11]
+
+In tropical climates they effectively out-compete European bees and, at their peak rate of expansion, they spread north at a rate of almost two kilometers (about one mile) a day. There were discussions about slowing the spread by placing large numbers of docile European-strain hives in strategic locations, particularly at the Isthmus of Panama, but various national and international agricultural departments were unable to prevent the bees' expansion. Current knowledge of the genetics of these bees suggests that such a strategy, had it been attempted, would not have been successful.[12]
+
+As the Africanized honeybee migrates further north, colonies continue to interbreed with European honeybees. In a study conducted in Arizona in 2004 it was observed that swarms of Africanized bees were capable of taking over weakened European honey bee hives by invading the hive, then killing the European queen and establishing their own queen.[13] There are now relatively stable geographic zones in which either African bees dominate, a mix of African and European bees is present, or only non-African bees are found, as in the southern portions of South America or northern North America.
+
+African honeybees abscond (abandon the hive and any food store to start over in a new location) more readily than European honeybees. This is not necessarily a severe loss in tropical climates where plants bloom all year but in more temperate climates it can leave the colony with insufficient stores to survive the winter. Thus Africanized bees are expected to be a hazard mostly in the Southern States of the United States, reaching as far north as the Chesapeake Bay in the east. The cold-weather limits of the African bee have driven some professional bee breeders from Southern California into the harsher wintering locales of the northern Sierra Nevada and southern Cascade Range. This is a more difficult area to prepare bees for early pollination placement in, such as is required for the production of almonds. The reduced available winter forage in northern California means that bees must be fed for early spring buildup.
+
+The arrival of the Africanized honey bee in Central America is threatening the ancient art of keeping ''[[Melipona]]'' [[stingless bee]]s in log gums even though they do not interbreed or directly compete with each other. The honey production from a single hive of Africanized bees can be 100 kg annually and far exceeds the much smaller 3–5 kg of the various ''Melipona'' stingless species. Thus economic pressures are forcing beekeepers to switch from the traditional bees of their ancestors to the new reality of the Africanized honey bee. Whether this will lead to their extinction is unknown, but they are well adapted to exist in the wild, and there are a number of indigenous plants that the Africanized honey bees do not visit, so their fate remains to be seen.
+==Foraging behavior==
+[[Category:Bees]]
+[[Category:Hymenoptera]]
+[[Category:Insecta]]
+[[Category:Apoidea]]</text>
+      <sha1>sveoh16cl85rxhbvxp602hpfmw0s90k</sha1>
+    </revision>
+  </page>
+  

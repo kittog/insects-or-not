@@ -1,0 +1,44 @@
+
+    <title>Ataccus Atlas</title>
+    <ns>0</ns>
+    <id>4094</id>
+    <revision>
+      <id>6907</id>
+      <parentid>6721</parentid>
+      <timestamp>2021-10-29T06:14:21Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <minor/>
+      <comment>Entomologist Jr. moved page [[Atlas moth]] to [[Ataccus Atlas]]: The scientific name sounds a lot more pleasing rather than the common name.</comment>
+        6721
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3003" sha1="saestb888tnerfhz220y6r3jw6fwrlz" xml:space="preserve">Attacus atlas, the Atlas moth, is a large saturniid moth endemic to the forests of Asia. The species was also first described by Carl Linnaeus
+
+{{Insects_Simple|title1=Attacus Atlas|image1=Atlas moth being held.jpg|caption1=The third largest moth|order=Lepidoptera|family=[[Saturniidae]]|genus=[[Attacus]]|species=A. atlas|similar_species=[[Hercules moth]] 
+[[White Witch moth]]}}
+
+in his 1758 10th edition of Systema Naturae. Atlas moths are named after Atlas, the Titan of Greek mythology (due to their size). In Hong Kong, the Cantonese means "snake's head moth", referring to the prominent extension of the forewing which bears resemblance to the head of a snake.
+
+== Morphology ==
+The Atlas moth is one of the largest lepidopterans, with a wingspan measuring up to 24 cm (9.4 in) and a wing surface area of about 160 cm&lt;sup&gt;2&lt;/sup&gt; (~25 in&lt;sup&gt;2&lt;/sup&gt;). It is only surpassed in wingspan by the white witch (''Thysania agrippina'') and ''Attacus caesar'', and in wing surface area by the Hercules moth (''Coscinocera hercules''). As in most Lepidoptera, females are noticeably larger and heavier than males, while males have broader antennae.
+
+The body is disproportionately small compared to the wings. The upperside of the wings are reddish brown with a pattern of black, white, pink, and purple lines and triangular, scale-less windows bordered in black. The undersides of the wings are paler. Both forewings have a prominent extension at the tip, with markings that resemble the head of a snake, a resemblance which is exaggerated by movements of the wings when the moth is confronted by potential predators.
+
+The Atlas moth has a very short, vestigial proboscis, and they do not eat once they have emerged from the cocoon, relying on fat storage for energy. Every flight takes valuable energy and can take days off their already short lives, as it has a very short life span of only one to two weeks. They conserve energy by flying as little as possible. A female will wait for a male to come along and be fertilised, lay eggs and die.
+
+== The time to see atlas moths ==
+The Atlas Moth is nocturnal in nature, and pops out in the '''evening and nighttime hours between 7 p.m. and 4 a.m.''' in your time zone. If your island is in the Northern Hemisphere, this variety of moth will be around from April until the end of September.
+
+== Region ==
+[[File:Atlas moth caterpillar.jpg|thumb|The larva of atlas moths.]]
+One of the largest moth species in the world, the atlas moth (Attacus atlas), is found '''throughout Asia''' and is widespread in China, Bangladesh, Cambodia, Hong Kong, India, Laos, Malaysia, Nepal, and Taiwan and even Indonesia. Their habitat is primarily dry tropical forests, secondary forests, and shrublands across Asia, including Borneo, though one specimen, an adult female, was found in 2012 in Ramsbottom, England after it landed on a windowsill, and presumed to have escaped from a private collection
+[[Category:Saturniidae]]
+[[Category:Lepidoptera]]
+[[Category:Insecta]]</text>
+      <sha1>saestb888tnerfhz220y6r3jw6fwrlz</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,41 @@
+
+    <title>Xylophagomorpha</title>
+    <ns>0</ns>
+    <id>4271</id>
+    <revision>
+      <id>7260</id>
+      <parentid>7246</parentid>
+      <timestamp>2021-11-23T11:39:08Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7260
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1040" sha1="ef82wslq99ly66uh7qdrpjnstot398m" xml:space="preserve">The Brachyceran infraorder '''Xylophagomorpha''' is a small group that consists solely of the family '''[[Xylophagidae]]''', which presently contains subfamilies that were sometimes considered to be two small related families ('''[[Coenomyiidae]]''' and '''[[Rachiceridae]]'''). Other obsolete names for members of this family include '''[[Exeretonevridae]]''' and '''[[Heterostomidae]]'''. The family is known by the English name '''[[Flies|awl-flies]]'''. The larvae are often predatory, consuming other insect larvae living in rotting wood.
+
+== Description ==
+Flies in this family have elongated bodies and resemble ichneumon wasps in shape. The base of the abdomen is constricted. The antennae have three segments.
+
+== Genera ==
+These nine genera belong to the family Xylophagidae:
+
+* ''Anacanthaspis'' 
+* ''Arthropeas'' 
+* ''Coenomyia'' 
+* ''Dialysis'' 
+* ''Exeretonevra''
+* ''Heterostomus''
+* ''Odontosabula''
+* ''Rachicerus''
+* ''Xylophagus''
+[[Category:Insecta]]
+[[Category:Brachycera]]
+[[Category:Diptera]]
+[[Category:Infraorders]]</text>
+      <sha1>ef82wslq99ly66uh7qdrpjnstot398m</sha1>
+    </revision>
+  </page>
+  

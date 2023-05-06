@@ -1,0 +1,50 @@
+
+    <title>Automeris IO</title>
+    <ns>0</ns>
+    <id>4072</id>
+    <revision>
+      <id>7480</id>
+      <parentid>6685</parentid>
+      <timestamp>2021-12-13T07:30:54Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <minor/>
+      <comment>Entomologist Jr. moved page [[IO Moth]] to [[Automeris IO]]</comment>
+        6685
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3784" sha1="48igdzv0j4uevdbz6o3vvv6j25agaae" xml:space="preserve">[[File:Automeris io.jpg|thumb]]
+'''''Automeris IO''''', the '''IO moth''', is a colorful North American moth in the family Saturniidae. The Io (''EYE-oh'') moth ranges from the southeast corner of Manitoba and in the southern extremes of Ontario, Quebec, New Brunswick and Nova Scotia in Canada, and in the US it is found from Montana, North Dakota, South Dakota, Nebraska, Colorado, New Mexico, Texas, Utah, east of those states and down to the southern end of Florida. The species was first described by Johan Christian Fabricius in 1775.
+
+Higher classification: Automeris
+
+Family: [[Saturniidae]]
+
+Order: [[Lepidoptera]]
+
+== Appearance ==
+A large moth  with a wingspan of 2.5–3.5 inches (63–88 mm), this species have differences among both genders with the females having dark-brown colored wings and the hind wings possessing a pair of eye spots used to threaten predators by reveling them as a method of astonishing their predators. The males have their wings painted with bright yellow, vermillion and brown delicate scales alongside having Indigo painted eye spots with a Dark outlined hindwing. The female's dark brown scales blend them in perfectly within their sorroundings concealing them from potential predators.
+
+== Life cycle ==
+The eggs have large micropyle rosettes that turn black as the fertile eggs develop. They are usually laid in clusters of more than twenty. From the eggs, orange larvae emerge, usually eating their egg shell soon after hatching. They go through five instars, each one being a little different. The caterpillars are gregarious in all their instars, many times traveling in single file processions all over the food plant. As the larvae develop, they will lose their orange color and will turn bright green and urticating, having many spines. These stinging spines have a very painful venom that is released with the slightest touch; a condition known as erucism. The green caterpillars have two lateral stripes, the upper one being bright red and the lower one being white. When the caterpillars are ready, they spin a flimsy, valveless cocoon made from a dark, coarse silk. Some larvae will crawl to the base of the tree and make their cocoons among leaf litter on the ground, while others will use living leaves to wrap their cocoons with. The leaves will turn brown and fall to the ground during autumn, taking the cocoons with them. There they pupate, the pupa being dark brown/black. The pupae of the females are considerably larger than those of the males.
+
+Adult moths normally emerge from their cocoons in late morning or early afternoon. Eclosion (emergence from the cocoon) only takes a few minutes. After eclosing, the moths climb and hang on plants so that their furled wings can be inflated with fluid (hemolymph) pumped from the body. This inflation process takes about twenty minutes.
+
+Adult moths are strictly nocturnal, flying generally only during the first few hours of the night. The females generally wait until nightfall and then extend a scent gland from the posterior region of the abdomen, in order attract males via wind-borne pheromones. The males use their much bigger antennae to track down the females. After mating, the females lay eggs then wait to die. These moths, like all moths in the family Saturniidae, have vestigial mouthparts and do not eat in the adult stage.
+
+== Poison level ==
+[[File:Io moth catterpillar.jpeg|thumb]]
+The larval stage of the io moth ranks near the top of any list of problematic stinging caterpillars. The spines that cover the caterpillar are connected '''to poison glands'''.&lt;syntaxhighlight lang="http"&gt;
+Pain Level: 2/10
+&lt;/syntaxhighlight&gt;&lt;syntaxhighlight lang="http"&gt;
+Max Pain: 3/10
+&lt;/syntaxhighlight&gt;
+[[Category:Lepidoptera]]
+[[Category:Saturniidae]]
+[[Category:Insecta]]</text>
+      <sha1>48igdzv0j4uevdbz6o3vvv6j25agaae</sha1>
+    </revision>
+  </page>
+  

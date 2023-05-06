@@ -1,0 +1,65 @@
+
+    <title>Texella reddelli</title>
+    <ns>0</ns>
+    <id>3525</id>
+    <revision>
+      <id>8346</id>
+      <parentid>8338</parentid>
+      <timestamp>2023-04-09T16:07:12Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8346
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4674" sha1="08dt2fk4pctnor8f45zi95zgccemk00" xml:space="preserve">'''''Texella reddelli''''', also known by the common name, the '''Bee Creek cave harvestman''', is a 
+
+{{More_detailed_infobox|title1=Texella reddelli|image1=Texella reddelli.png|caption1=Adult|common_name=Bee creek cave harvestman|order=Opiliones|genus=Texella|family=Phalangodidae|diet=Predacious|activity=Troglobitic|distribution=karst ecosystem in Travis County and Williamson County, Texas, USA|habitat=Karst ecosystem|other_common_names=N/A}}
+
+rare species of troglobitic opilione. T. Reddelli was added to the United States endangered species list in 1988. 
+==Morphology ==
+[[File:Texella reddelli(2).png|thumb]]
+These arachnids are about 1/8 of an inch (3.175 mm) long with a unique orange coloration and long, delicate legs. Juveniles have a yellowish-white body. They have small, well-developed yet ineffectual eyes broadly set in conical eye moods, and elongated appendages, thin appendages reaching about 0.07-0.09 inches on average. 
+
+It can be distinguished from it’s closest relative The bone cave harvestman (T. Reyesi) by its shorter appendages and it’s colouration.
+
+== Behaviour ==
+
+=== Feeding ===
+T. Reddelli exclusively preys on [[Springtail|Colembolans]] by using its modified pedipalps to grasp onto its prey. It utilises its foremost pair of appendages for locomotion through its lightless environment. No information about the life cycle of T. Reddelli is known.
+
+== Life history ==
+''Texella reddelli'' is a type of [[:Category:Troglobitic species|troglobite]]. These species survived in the cave environment and adapted to it. The Karst terrain created caves that were not always connected with each other. This brought about "islands" of individual populations that were disconnected for long periods of time.[''[[Wikipedia:Citation needed|citation needed]]''] Over time the separate groups became different species because of the isolation. The rate at which each population speciated was different. The species that are more mobile have larger ranges and are less isolated. Since they are all still relatively close together, disturbances can make them highly susceptible to extinction. They require stable temperatures and often stay in remote corners or the ceiling of the cave that are the warmest.
+
+== Threats ==
+The primary threat to the Bee Creek Cave harvestman and other cave invertebrates, more specifically invasive species. The most notable invasive species which has proven to have bought a significant threat to T. Reddelli populations. in its range is the loss of its habitat. Residential and urban areas continue to grow in this region. As a result, many caves have been paved over or filled in. Because the caves are formed by seeping water, any change or alteration in the flow of that water can change the environment of a cave. To meet the needs of these newly populated areas, much of this water has been diverted. Some caves have become dry while others have become flooded. Pollution from populated areas has also seeped into the groundwater, and the water in many caves has become contaminated.
+
+== Distribution ==
+This harvestman is an example of a localized cave fauna found in Travis and Williamson Counties, Texas. It has been collected from five caves in the region and is suspected to occupy a sixth.
+
+The size of the Bee Creek Cave harvestman population has not been estimated, but the U. S. Fish and Wildlife Service (FWS) biologists believe that the species may be more limited in numbers than previously thought. This harvestman has been collected from Tooth, Bee Creek, McDonald, Weldon, and Bone Caves. In 1984, it was reported from Root Cave in Travis County, but its presence there has not been confirmed.
+
+==Geographical range ==
+
+=== Range ===
+They are found in Kretschmarr Double Pit and Jester Estates Cave, north of the Colorado River on the Jollyville Plateau, and in three caves in the Rollingwood karst fauna region in Travis County, Texas.
+
+=== Habitat ===
+Bee Creek Cave Harvestman inhabit limestone caves. They are only able to survive in caves that maintain stable temperatures and humidity (close to 100%). They have been found in caves both on the north and south side of the Colorado river. They live in 'karst' type of terrain in Travis County.
+
+== Sources ==
+
+* http://www.earthsendangered.com/profile.asp?gr=AR&amp;view=&amp;ID=&amp;sp=667
+* https://www.encyclopedia.com/environment/applied-and-social-sciences-magazines/harvestman-bee-creek-cave
+* https://www.encyclopedia.com/environment/science-magazines/bee-creek-cave-harvestman
+* https://en.m.wikipedia.org/wiki/Texella_reddelli
+
+[[Category:Opiliones]]
+[[Category:Arachnids]]
+[[Category:Endangered species]]
+[[Category:Troglobitic species]]</text>
+      <sha1>08dt2fk4pctnor8f45zi95zgccemk00</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,34 @@
+
+    <title>Zebra spider</title>
+    <ns>0</ns>
+    <id>3715</id>
+    <revision>
+      <id>5797</id>
+      <timestamp>2016-10-09T16:36:52Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]The '''zebra back spider''' (''Salticus scenicus'') is a common jumping [[spider]] of the Northern Hemisphere. Like other jumping spiders, it d..."</comment>
+      5797
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3437" sha1="fsxmsb4dnskps89gfhlj21qt17tvak4" xml:space="preserve">[[File:Placeholder|right|300px]]The '''zebra back spider''' (''Salticus scenicus'') is a common jumping [[spider]] of the Northern Hemisphere. Like other jumping spiders, it does not build a web. It uses its four pairs of large eyes to locate prey and its jumping ability to pounce and capture it. Zebra spiders are often noted for their awareness of humans. Upon noticing someone observing them, they can be seen raising their head, and usually change behavior (hence the name ''Salticus scenicus'', theatrical jumper).
+==Description==
+Female zebra spiders are 5-9 mm long and males are 5-6 mm.[1] The most distinctive feature of these spiders is their six very large eyes, which is typical for jumping spiders. Although they have eight eyes, the six at the front are the largest and give them excellent binocular vision. These tiny spiders are black with white hairs that form stripes.
+==Behavior==
+===Diet===
+Zebra spiders tend to hunt smaller spiders and similar insects. They have been observed feeding on mosquitos that are almost twice their length. They have also been observed taking on prey items up to 3 times the length of the spider, such as some of the smaller species of moth. Like other jumping spiders, these spiders use their large front eyes to locate and stalk their prey. They move slowly towards their prey until they are close enough to pounce on top of their victim, and their hunting behavior has been described as cat-like. Using their acute eyesight, they are able to accurately judge the distances they need to jump.
+===Hunting===
+They orient towards prey detected by its lateral eyes whenever the angle subtended by such prey exceeds 5.5°. The velocity of the prey is not involved in the determination of reactive distance, but only moving objects elicit orientation. The probability that orientation is followed by stalking is a function of both prey size and velocity. The zebra spider's stalk velocity declines progressively as it nears its (stationary) prey.[2]
+
+Before jumping, they glue a silk thread to the surface that they are jumping from so that if they miss the target, they can climb up the thread and try again - However, they may 'abseil' with a silk thread if they wish to descend from a height safely, for instance they have been documented 'abseiling' from ceilings. They ignore unappetizing insects such as ants.
+
+There are no extensor muscles at the 'hinge joints' of the spider leg, instead joints extension is due to the haemocoelic blood pressure in the leg. The most significant evidence that this extension is due to hydraulic forces is that the leg spines become erect during the jump, a result of increased body pressure which can be demonstrated on many spiders. The zebra spider's jump is almost entirely due to the sudden straightening of the fourth pair of legs. The mean jumping velocity is estimated to be between 0.64–0.79 m/s (2.1–2.6 ft/s).
+===Reproduction===
+When these spiders meet, the male carries out a courtship dance involving waving his front legs and moving his abdomen up and down. The better the dance the more likely the female will want to mate, with success guaranteed if the male can exhibit a perfect shuffle.[citation needed] Females will stay with their egg sacs and will guard the young after they hatch. After the spiderlings have had their second molt they will leave the mother and fend for themselves.
+==Taxonomic history==
+[[Category:Araneae]]</text>
+      <sha1>fsxmsb4dnskps89gfhlj21qt17tvak4</sha1>
+    </revision>
+  </page>
+  

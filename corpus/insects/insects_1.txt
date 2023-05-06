@@ -1,0 +1,47 @@
+
+    <title>Coccinella Septempunctata</title>
+    <ns>0</ns>
+    <id>4550</id>
+    <revision>
+      <id>7963</id>
+      <timestamp>2022-02-16T14:05:45Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Created page with "{{Stub}}{{Insect|name=Coccinella Septempunctata|binomen=Coccinella Septempunctata, Linnaeus 1758|common=Seven-Spot Ladybug|other=Seven Spotted Ladybug|native=N/A|order=Coleo..."</comment>
+        7963
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2543" sha1="ofon1z4pnajyz52xldx1ik12zh4w6zr" xml:space="preserve">{{Stub}}{{Insect|name=Coccinella Septempunctata|binomen=Coccinella Septempunctata, Linnaeus 1758|common=Seven-Spot Ladybug|other=Seven Spotted Ladybug|native=N/A|order=[[Coleoptera]]|suborder=[[Polyphaga]]|superfamily=[[Coccinelloidea]]|subfamily=[[Coccinellinae]]|genus=[[Coccinella]]|family=[[Coccinellidae]]|species=Coccinella Septempunctata, Linnaeus 1758|status=Least Concerned|image=[[File:Ladybird-facts-5.jpg|300px]]}}
+
+Coccinella Septempunctata, or commonly known as '''Seven-Spot Ladybug''' is a species of [[Coccinellidae|coccinelid]] from the subfamily [[Coccinellinae]].
+
+== Morphology ==
+C. Septempunctata has vivid scarlet elytron speckled with seven matt-black spots, the first one is present on apical halves of the elytrons forming a joint between the two elytra, the second spot is present within the center of the elytron adjacent to the third spot, the fourth spot is located near the margin of the elytra adjacent to the fifth spot. The sixth and seventh spots are adjacent to fifth and fourth spots and to one another, the forth and fifth spots are present above the sixth and seventh spots, Adults are known to reach lengths between 7.6 - 12.7 cm. Their noticeable colorations make them un-appealing to predators. The adult's abdomen is black with two black spots present adjacent to one another.
+
+== Seasonal History ==
+This section is a stub due to lack information sources, please help insect wiki by inserting more valid information to this section!
+
+== Biology ==
+C. Septempunctata was introduced to UK as a biological means of non-chemical pest control due to their diet which mainly compromises of Aphids and other smaller insects, C. Septempunctata are vulnerable to becoming a prey for Harmonia axyridis (Harlequin Ladybug) The seven-spot ladybug is now widely used as pest-control agent to control aphid populations all over the world, They are a reliable means of non-chemical pest control and exceptionally helpful for farms, Greenhouses and gardens.
+
+== Ecology ==
+
+=== Food Sources &amp; Diet ===
+Adult and Infant C. Septempunctata feed on aphids and Imago are also known to occasionally feed on nectar &amp; pollen grains from flowers.
+
+== Geolocation ==
+C. Septempunctata are known to be found worldwide with the exception of Antarctica and some isolated remote areas. Large Populations are found in humid climatic mainly Asia &amp; America.
+&lt;br /&gt;
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Polyphaga]]
+[[Category:Coleoptera]]
+[[Category:Coccinellidae]]</text>
+      <sha1>ofon1z4pnajyz52xldx1ik12zh4w6zr</sha1>
+    </revision>
+  </page>
+  

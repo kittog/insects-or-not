@@ -1,0 +1,48 @@
+
+    <title>Apis mellifera</title>
+    <ns>0</ns>
+    <id>4014</id>
+    <revision>
+      <id>6851</id>
+      <parentid>6771</parentid>
+      <timestamp>2021-10-22T08:00:46Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        6851
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8033" sha1="gp4wtnbygzhjbfnwr5774td2dygph0j" xml:space="preserve">Apis mellifera, also known as the western honeybee or the European honeybee, these insect are remarkably the most common species of
+
+{{Insects_Simple|title1=Western Honeybee|image1=Apis mellifera.jpg|caption1=A docile and a sweet pollinator|order=Hymenoptera|family=Apidae|genus=Apis|species=A. mellifera|similar_species=Apis cerana}}
+
+honey bees found worldwide except desolated arid regions. These insects are primarily responsible for the production of the natural sweetener, delicious honey!
+
+&lt;br /&gt;
+
+== Behavior ==
+The genus name ''Apis'' is Latin for "bee", and ''mellifera'' is the Latin for "honey-bearing", referring to the species' production of honey. Like all honey bee species, the western honey bee is eusocial, creating colonies with a single fertile female responsible for the entire population and existence for the entire colon , many normally non-reproductive females workers honeybees, and a small proportion of male honeybees. Individual colonies can house tens thousands of Individual western honeybees. Colonies of Western honeybees are organized by complex communication between individuals, through both pheromones and the dance language. Known as the waggle dance where a honeybee informs the colony about predators and food sources nearby by walking in ∞ like pattern.
+
+The western honey bee was the very first domesticated honeybees, and it is the primary species maintained by beekeepers to this day for both its honey production and pollination activities, more than 80% of the plants worldwide depend upon pollination as the main source of their existence other than soil, sunlight, water and nutrition-rich nitrogen amonium salts mixed with decayed manure in the soil. under the human assistance, the western honey bee now occupies every continent except Antarctica and several other desolated areas around the world. Western honey bees are threatened by pests, diseases, and fungal and bacterial infections especially the [[Varroa destructor|''Varroa'' mite]] and [[Varroa destructor|colony collapse disorder.]] As of 2018, the western honey bee is listed as Data Deficient on the IUCN Red List, as numerous amounts of specialized studies indicate that the species has undergone significant declines in Europe due to parasites, infections and unsuitable climatic  conditions. however, it is not clear if they refer to population reduction of managed colonies. Further research is required to enable differentiation between wild and non-wild colonies in order to determine the conservation status of the species in the wild.
+
+=== The colony ===
+[[File:Apis mellifera scutellata.jpg|thumb|252x252px]]
+There are different types of occupations each individual bee from a colony posses performing a specific kind of role beneficial for the entire colony and ensure their existence, Apis mellifera is able to repopulate their hive only under human captivity that they're adapted to. The colony can house more than 3000 individual members helping in the entire composition of the colony, Including a single queen responsible for populating the beehive, queens are the only members of the colony that are dominant as they are responsible for the entire colony's survival Honeybee hives have no hope for further existence under the absence of the queen, the honeybees are completely passive if they do not belong to any colony and will swarm up and bask on a tree branch. These bees can offer a highly toxic sting which gives off a constant burning feel to the wound, how to get rid of the wound is mentioned further in the article. The worker bees pollinate flowers and carry pollen and nectar, nectar is used for making honey primarily used for the creation of honey which is used to feed the larva of the honeybees until they pupate. Unlike most other bee species, western honey bees have perennial colonies which persist year after year. Because of this high degree of sociality and permanence, western honey bee colonies can be considered superorganisms. This means that reproduction of the colony, rather than individual bees, is the biologically significant unit. Western honey bee colonies reproduce through a process called "swarming". In most climates, western honey bees swarm in the spring and early summer, when there is an abundance of blooming flowers from which to collect nectar and pollen. In response to these favorable conditions, the hive creates one to two dozen new queens. Just as the pupal stages of these "daughter queens" are nearly complete, the old queen and approximately two-thirds of the adult workers leave the colony in a swarm, traveling some distance to find a new location suitable for building a hive (e.g., a hollow tree trunk). In the old colony, the daughter queens often start "piping", just prior to emerging as adults, and, when the daughter queens eventually emerge, they fight each other until only one remains; the survivor then becomes the new queen. If one of the sisters emerges before the others, she may kill her siblings while they are still pupae, before they have a chance to emerge as adults.Once she has dispatched all of her rivals, the new queen, the only fertile female, lays all the eggs for the old colony, which her mother has left. Virgin females are able to lay eggs, which develop into males (a trait shared with wasps, bees, and ants because of haplodiploidy). However, she requires a mate to produce female offspring, which comprise 90% or more of bees in the colony at any given time. Thus, the new queen goes on one or more nuptial flights, each time mating with 1–17 drones. Once she has finished mating, usually within two weeks of emerging, she remains in the hive, playing the primary role of laying eggs. Throughout the rest of the growing season, the colony produces many workers, who gather pollen and nectar as cold-season food; the average population of a healthy hive in midsummer may be as high as 40,000 to 80,000 bees. Nectar from flowers is processed by worker bees, who evaporate it until the moisture content is low enough to discourage mold, transforming it into honey, which can then be capped over with wax and stored almost indefinitely. In the temperate climates to which western honey bees are adapted, the bees gather in their hive and wait out the cold season, during which the queen may stop laying. During this time, activity is slow, and the colony consumes its stores of honey used for metabolic heat production in the cold season. In mid- through late winter, the queen starts laying again. This is probably triggered by day length. Depending on the subspecies, new queens (and swarms) may be produced every year, or less frequently, depending on local environmental conditions and a number of characteristics inside the hive. 
+
+== Metamorphosis ==
+Like other insects that undergo complete metamorphosis, the western honey bee has four distinct life stages: egg, larva, pupa and adult. The complex social structure of western honey bee hives means that all of these life stages occur simultaneously throughout much of the year. The queen deposits a single egg into each cell of a honeycomb prepared by worker bees. The egg hatches into a legless, eyeless larva fed by "nurse" bees (worker bees who maintain the interior of the colony). After about a week, the larva is sealed in its cell by the nurse bees and begins its pupal stage. After another week, it emerges as an adult bee. It is common for defined regions of the comb to be filled with young bees (also called "brood"), while others are filled with pollen and honey stores. Worker bees secrete the wax used to build the hive, clean, maintain and guard it, raise the young and forage for nectar and pollen; the nature of the worker's role varies with age. For the first 10 days of their lives, worker bees clean the hive and feed the larvae. After this, they begin building comb cells.
+
+== Additional information ==
+
+=== Pain index ===
+
+* Average pain: 4\10
+* Maximum pain: 6\10&lt;br /&gt;
+[[Category:Hymenoptera]]
+[[Category:Insecta]]
+[[Category:Bees]]</text>
+      <sha1>gp4wtnbygzhjbfnwr5774td2dygph0j</sha1>
+    </revision>
+  </page>
+  

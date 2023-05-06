@@ -1,0 +1,29 @@
+
+    <title>Giant Laotian harvestman</title>
+    <ns>0</ns>
+    <id>3526</id>
+    <revision>
+      <id>8047</id>
+      <parentid>5608</parentid>
+      <timestamp>2022-06-16T00:21:33Z</timestamp>
+      <contributor>
+        <ip>104.62.166.110</ip>
+      </contributor>
+      8047
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1324" sha1="c0ijv0e1e2yydrnyrxbse0i8e6mzj32" xml:space="preserve">[[File:Placeholder|right|300px]]The '''giant Laotian harvestman''' is the unofficial name for an as-yet undescribed species of [[Opiliones]] belonging to the family Sclerosomatidae. The species was discovered in April 2012 near a cave in the southern province of Khammouan, by Dr. Peter Jäger of the Senckenberg Research Institute in Frankfurt, Germany, whilst shooting a television documentary about the wildlife of Laos.
+
+==Physical description==
+The giant Laotian harvestman dwells inside the caves of Laos, and has a leg span stretching just over 330 millimeters (13 inches), thus making it the second largest harvestman discovered so far - surpassed only by another species in South America. It is currently unknown why it has such a large leg span, but it is believed that, since opiliones breathe[clarification needed] through their legs, a larger leg span makes respiration easier in the caves' low oxygen environment.
+
+==Predators==
+Predators of the giant Laotian harvestman most likely include the larger but not as lengthy [[giant huntsman spider]] (''Heteropoda maxima''), ''Thereuopoda longicornis'',[2] other larger arthropods in terms of body mass - such as other predatory [[centipede]]s, [[huntsman spider]]s and larger arachnids - and small cave mammals.
+
+==Binomial nomenclature==
+
+[[Category:Opiliones]]</text>
+      <sha1>c0ijv0e1e2yydrnyrxbse0i8e6mzj32</sha1>
+    </revision>
+  </page>
+  

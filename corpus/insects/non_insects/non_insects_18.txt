@@ -1,0 +1,55 @@
+
+    <title>Gigantometrus swammerdami</title>
+    <ns>0</ns>
+    <id>4698</id>
+    <revision>
+      <id>8276</id>
+      <timestamp>2023-03-11T09:38:10Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Created page with "Gigantometrus swammerdami, also known by the name of “'''giant forest''' '''scorpion'''”   {{More_detailed_infobox|title1=Gigantometrus swammerdami|image1=Gigantometrus swammerdami.jpeg|caption1=Adult specimen|common_name=Giant forest scorpion|order=[[Scorpiones]]|genus=Gigantometrus|family=[[Scorpionidae]]|diet=Insects, arachnids and other invertebrates|activity=Usually nocturnal  Hunting session occur during mid-summers|distribution=Sri Lanka to India|habitat=Tropi..."</comment>
+      8276
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3204" sha1="m3lvxku2u213nx0pk76icnyso8izmdo" xml:space="preserve">Gigantometrus swammerdami, also known by the name of “'''giant forest''' '''scorpion'''” 
+
+{{More_detailed_infobox|title1=Gigantometrus swammerdami|image1=Gigantometrus swammerdami.jpeg|caption1=Adult specimen|common_name=Giant forest scorpion|order=[[Scorpiones]]|genus=Gigantometrus|family=[[Scorpionidae]]|diet=Insects, arachnids and other invertebrates|activity=Usually nocturnal 
+Hunting session occur during mid-summers|distribution=Sri Lanka to India|habitat=Tropical rainforests, grasslands, farms etc.|other_common_names=—}}
+
+(although this alternate name may also imply to another species of scorpion I.e [[Heterometrus spinifer]])
+
+== Morphology ==
+Gigantometrus swammerdami is the largest known scorpion, some specimen are known to reach an astounding 23 cm in length.  Gigantometrus swammerdami is a rather attractive species of scorpion with a leathery, rigid exoskeleton. Their carapace is mainly reddish-black, occasionally brown the juveniles are usually brown with a yellow-coloured telson.  Gigantometrus swammerdami are known to weigh as much as 56 gm.  Manus completely covered by large rounded granulae, but without true carinae. Pedipalp patella lacks a pronounced internal tubercle. Carapace with a smooth disc in which the margins and posterior portion are granulate. Telson bulbous, and the vesicle longer than aculeus.&lt;ref&gt;https://en.m.wikipedia.org/wiki/Gigantometrus_swammerdami&lt;/ref&gt; They have 16-20 comb-like teeth known as [[Pectinal teeth]].
+
+== Ecology ==
+
+=== Hunting ===
+G. Swammerdami has evolved in such as way to not be reliant on their toxic secretions &lt;ref&gt;https://www.inaturalist.org/taxa/340922-Heterometrus-swammerdami&lt;/ref&gt;but rather use their impressive, large pincers to crush and tear apart their prey, the peak hunting season for this species usually occurs during mid-summers. Known for being both Nocturnal but can rarely be found during daytime. &lt;ref&gt;https://factanimal.com/giant-forest-scorpion/&lt;/ref&gt;This solitary species rise from their burrows during late evening and hunting sessions can last overnight [Critation needed]. They may also use their pectinal teeth to locate chemical trails left behind by their prey in a manner similar to desert centipedes.&lt;ref&gt;https://factanimal.com/giant-forest-scorpion/&lt;/ref&gt;
+
+==== Feeding ====
+They usually feed on a large array of animals most notable ones include smaller arachnids, insects and possibly even small mammals such as mice.
+
+=== Courtship &amp; maternal care ===
+As with most scorpions, this species is ovoviviparous and give birth to live young. The courtship “dance” is exhibited by this species or not remains as an unanswered question . Females show maternal care, carrying the infants on her back until their exoskeleton hardens. 
+
+== Geological distribution ==
+
+=== Range ===
+The species ranges from Sri Lanka to the western ghats of India.&lt;ref&gt;https://factanimal.com/giant-forest-scorpion/&lt;/ref&gt;
+
+=== Habitat ===
+The habitats for this species usually occurs in either moderate-temperature areas to tropical rainforests. This species can be found in the Tropical-wet monsoon zone of India.
+
+== References ==
+
+
+
+[[Category:Arachnids]]
+[[Category:Scorpiones]]
+[[Category:Scorpionidae]]</text>
+      <sha1>m3lvxku2u213nx0pk76icnyso8izmdo</sha1>
+    </revision>
+  </page>
+  

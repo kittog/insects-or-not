@@ -1,0 +1,29 @@
+
+    <title>Anadenobolus monilicornis</title>
+    <ns>0</ns>
+    <id>3476</id>
+    <revision>
+      <id>7401</id>
+      <parentid>7372</parentid>
+      <timestamp>2021-12-08T11:54:36Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      7401
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1567" sha1="1at9neghbqxdtrl4x1mk78mhvhglyte" xml:space="preserve">[[File:Anadenobolus monilicornis.jpg|link=link=Special:FilePath/Placeholder|alt=|right]]
+'''''Anadenobolus monilicornis''''', known as the '''yellow-banded [[millipede]]''' or '''bumble bee millipede''', is a species of millipede in the family Rhinocricidae. It is native to the Caribbean but has been introduced to the southeastern United States.
+==Description==
+Individuals are dark brown with distinctive yellow bands, and measure 2.5–10 centimetres (1.0–3.9 in) long. The legs and antennae are tinted maroon, It indeed is a beautiful millipede with a vast and abundant population with several generations on annual bases.
+==Ecology and behavior==
+This species inhabits leaf litter. Birds and captive monkeys have been observed crushing these millipedes and rubbing their secretions on their wings or fur, probably to repel insects.
+==Distribution==
+With an abundance of habitats thriving with this species, They are found all across central america the most abundant range includes floride and have been seen on Bramhas sea (Nassau Islands) and Mexico alongside being found Puerto rico, San Juan as we extend to the East, This species is thiving in El salvador, In mexico it can be found in several states namely Veracruz, Morelia and near Durango and even Columbia with upto 900 known occurences around central America. These species establish their populations at a rapid pace in wet and moist climatic conditions, they inhabit damp woods as they settle in the rotting wood from which they their food is driven.
+[[Category:Diplopoda]]
+[[Category:Myriapods]]</text>
+      <sha1>1at9neghbqxdtrl4x1mk78mhvhglyte</sha1>
+    </revision>
+  </page>
+  

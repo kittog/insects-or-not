@@ -1,0 +1,25 @@
+
+    <title>Arabian fat-tailed scorpion</title>
+    <ns>0</ns>
+    <id>3520</id>
+    <revision>
+      <id>5602</id>
+      <timestamp>2016-08-16T21:16:40Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]The '''Arabian fat-tailed scorpion''' (''Androctonus crassicauda'') is a species of dangerous [[scorpion]] usually found in North Africa and th..."</comment>
+      5602
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="639" sha1="c9droqvxg0tpirqelmd3bzfaaiq7i4j" xml:space="preserve">[[File:Placeholder|right|300px]]The '''Arabian fat-tailed scorpion''' (''Androctonus crassicauda'') is a species of dangerous [[scorpion]] usually found in North Africa and the Middle East.
+==Description==
+''A. crassicauda'' is a generalist desert species,[1] an Old World scorpion.[2] Adults can vary in colour from a light brown to reddish to blackish-brown, to black. They can grow to over 10 centimetres (3.9 in) in length.
+==Distribution==
+This species is found mainly in the Palaearctic region. It is commonly found in such countries as Saudi Arabia, Iran, Turkey,[4] and in north African nations.
+==Habitat==
+[[Category:Scorpiones]]</text>
+      <sha1>c9droqvxg0tpirqelmd3bzfaaiq7i4j</sha1>
+    </revision>
+  </page>
+  

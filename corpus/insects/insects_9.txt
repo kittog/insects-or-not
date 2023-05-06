@@ -1,0 +1,66 @@
+
+    <title>Goliathus orientalis</title>
+    <ns>0</ns>
+    <id>2507</id>
+    <revision>
+      <id>4381</id>
+      <parentid>4374</parentid>
+      <timestamp>2009-09-03T22:43:59Z</timestamp>
+      <contributor>
+        <username>SmartOneKg</username>
+        <id>1072595</id>
+      </contributor>
+        4381
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1941" sha1="d8vnkopqhfc246xhti1qqeg2rsgo4hg" xml:space="preserve">{{Infobox
+|Box title = Goliathus orientalis
+|Image file = Goliathus orientalis.jpg
+|Row 1 title = [[Order]]
+|Row 1 info = [[Coleoptera]]
+|Row 2 title = [[Suborder]]
+|Row 2 info = [[Polyphaga]]
+|Row 3 title = [[Superfamily]]
+|Row 3 info = [[Scarabaeoidea]]
+|Row 4 title = [[Family]]
+|Row 4 info = [[Scarabaeidae]]
+|Row 5 title = [[Subfamily]]
+|Row 5 info = [[Cetoniinae]]
+|Row 6 title = [[Tribe]]
+|Row 6 info = [[Goliathini]]
+|Row 7 title = [[Genus]]
+|Row 7 info = ''[[Goliathus]]''
+|Row 8 title = [[Species]]
+|Row 8 info = '''''Goliathus orientalis'''''
+|Row 9 title = [[Subspecies]]
+|Row 9 info = '''Goliathus orientalis orientalis'''
+* [[Goliathus orientalis pressi]]
+* [[Goliathus orientalis quadrimaculatus]]
+* [[Goliathus orientalis undulatus]]
+}}
+
+Goliathus orientalis is a Goliath beetle in the family [[Scarabaeidae]].
+
+==Appearance==
+
+This Goliath beetle has a patterned shell and brown wings with an outline of blue. The eyes are clearly visible and the head has a striking black pattern. The horns are more like pencil erasers and the legs have hazel hair growing on the sides. They also have sharp claws for grabbing things.
+
+Orientalis differs from [[Goliathus regius|Regius]] because of the pattern. Orientalis has more whiteness and has a different pattern.
+
+==Habitat==
+
+The Goliath Beetle usually enjoys climbing branches - or what looks like a branch - like the rest of the family. The beetle grabs dead leaves on palm trees for its source of protein. Adults sip sugar substances from fruits and palm trees, which is most likely coconut.
+
+Goliath beetles are the jewel of a beetle collector. They can range from 50,000-60,000 Yen (Japan has many Goliaths) and are sold without their legs. The value increases if the wings are open.
+[[Category:Insecta]]
+[[Category:Coleoptera]]
+[[Category:Polyphaga]]
+[[Category:Scarabaeoidea]]
+[[Category:Scarabaeidae]]
+[[Category:Cetoniinae]]
+[[Category:Goliathini]]
+[[Category:Goliathus]]</text>
+      <sha1>d8vnkopqhfc246xhti1qqeg2rsgo4hg</sha1>
+    </revision>
+  </page>
+  

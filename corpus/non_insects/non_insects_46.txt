@@ -1,0 +1,31 @@
+
+    <title>Xysticus</title>
+    <ns>0</ns>
+    <id>3739</id>
+    <revision>
+      <id>5888</id>
+      <timestamp>2017-01-09T17:53:04Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "'''''Xysticus''''' is a [[genus]] of ground crab spiders described by C. L. Koch in 1835, belonging to the order [[Araneae]], family Thomisidae. The genus name is derived from..."</comment>
+      5888
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1684" sha1="7023hgh2o6dt5jctlutj3mnvvgxb39m" xml:space="preserve">'''''Xysticus''''' is a [[genus]] of ground crab spiders described by C. L. Koch in 1835, belonging to the order [[Araneae]], family Thomisidae. The genus name is derived from the Ancient Greek root xyst, meaning "scraped, scraper".
+==Distribution==
+The genus ''Xysticus'' is distributed almost worldwide, but has not been recorded from South America. Of the about 360 species of the genus currently described, about 71 are present in Europe.
+==Description==
+''Xysticus'' and ''[[Coriarachne]]'' are dark brown or reddish-brown crab spiders often encountered on weeds or trees. While similar to the 'flower spiders', they tend to have shorter, sturdier legs. Many, but not all, species have abdomens more patterned than most ''[[Thomisus]]'' species, rather like some of the ''[[Synema]]'' species. Some however, that are more terrestrial, resemble earth in color and texture.
+
+Most species of the genus ''Xysticus'' are small to medium sized spiders. They show a sexual dimorphism in size. Females of typical species reach a maximum of 10 millimetres (0.39 in) of body length, while their males are about 3–5 millimetres (0.12–0.20 in) long, about half the size of the females.
+
+The basic color of these species is usually brown, beige or gray. The prosoma is sometimes slightly smaller than the opisthosoma. In many species the front body shows in the middle a broad, pale longitudinal band. The opisthosoma is clearly flattened in most species and shows a median broad and dark leaf marking.
+
+The species are often very similar to each other, and in most cases can be distinguished only by a microscopic examination of the reproductive organs.
+==Behavior==
+[[Category:Araneae]]</text>
+      <sha1>7023hgh2o6dt5jctlutj3mnvvgxb39m</sha1>
+    </revision>
+  </page>
+  

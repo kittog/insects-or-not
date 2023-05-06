@@ -1,0 +1,32 @@
+
+    <title>Ascalpha odorata</title>
+    <ns>0</ns>
+    <id>4115</id>
+    <revision>
+      <id>7384</id>
+      <parentid>7035</parentid>
+      <timestamp>2021-12-07T17:01:38Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7384
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1496" sha1="k3b713ir04l46mql3nc83ez6xvkyxyi" xml:space="preserve">{{Insects_Simple|title1=Ascalpha odorata|image1=The black which moth.png|caption1=One of the largest moths with a 24 cm wingspan, Several blood-curdling myths are associated with this species.|order=Lepidoptera|family=Erebidae|genus=Ascalpha|species=A. odorata|similar_species=[[Erebus odora]]
+[[Otosema odora]]
+[[Phalaena Bombyx odorata]]}}The erebid moth Ascalapha odorata, commonly known as the black witch, is a large bat-shaped, dark-colored nocturnal moth, ranging from the southern United States to Brazil. It is the largest noctuoid in the continental United States.
+
+== Morphology ==
+Female moths can attain a wingspan of 24 cm. The dorsal surfaces of their wings are mottled brown with hints of iridescent purple and pink, and, in females, crossed by a white bar. The diagnostic marking is a small spot on each forewing shaped like a number nine or a comma. This spot is often green with orange highlights. Males are somewhat smaller, reaching 12 cm in width, darker in color and lacking the white bar crossing the wings. The larva is a large caterpillar up to 7 cm in length with intricate patterns of black and greenish-brown spots and stripes.
+&lt;br /&gt;
+
+== Diet ==
+Black Witch Moths caterpillars eat '''legumes''', and favor acacia and mesquite. They are perfectly harmless, not an agricultural pest, and have no teeth or stingers. The folklore surrounding Black Witch Moth, like the moth itself, is all over the map.
+[[Category:Lepidoptera]]
+[[Category:Erebidae]]
+[[Category:Insecta]]</text>
+      <sha1>k3b713ir04l46mql3nc83ez6xvkyxyi</sha1>
+    </revision>
+  </page>
+  

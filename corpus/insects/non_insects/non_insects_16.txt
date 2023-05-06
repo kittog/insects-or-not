@@ -1,0 +1,55 @@
+
+    <title>Thelyphonida</title>
+    <ns>0</ns>
+    <id>4633</id>
+    <revision>
+      <id>8155</id>
+      <parentid>8154</parentid>
+      <timestamp>2023-01-20T16:39:23Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8155
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2811" sha1="a59d7nub44eg8mtilst905b9ofc5ej8" xml:space="preserve">Thelyphonida is an order of [[Arachnida]] comprised of '''whip scorpions''' also known as 
+
+{{Infobox_100|title1=Thelyphonida|order=Thelyphonida|phylum=[[Arthropoda]]|class=[[Insecta]]|family=[[Thelyphonidae]]|image1=81BC182F-9574-482F-9AB0-05E55C31877C.png}}
+
+'''vinegaroons'''. For the categoy of whip scorpions on this wiki, see [[:Category:Thelyphonida|'''Thelyphonida''']].
+
+== Morphology ==
+Vinegaroons are beautiful arachnids that have a close resemblance to [[Scorpion|true scorpions]]. They have fairly large bodies and somewhat flattened cephalothorax, several small ocelli. The the frontal pair of legs is thinner, antennae-like limb, the pedipalps are very large, thick, short and possess sharp spikes to ensure the prey can’t escape. The name “'''Vinegar'''oon” is highly appropriate as these Arthropods have long, whip-like caudal appendages (Flagellum) that release acetic acid when the scorpion is threatened. They’re usually dark in colour and may reach upto 85 mm in length.
+
+== Behaviour ==
+
+=== Feeding Habits ===
+[[File:C7855158-DD37-4934-B694-8BA2A8239DA1.jpeg|thumb]]
+Whip scorpions are [[Predacious]] in nature and feed on whatever is smaller in size.
+
+=== Defensive mechanism ===
+Their primary defence is the utilisation of the vinegar-like acid sprayed through the caudal appendage or a voracious bite. Signs of aggression are usually determined by a threat display.
+
+==== Threat display ====
+[[File:FC011E7B-1CB3-49A5-A063-6CDB3BF0D1BC.png|thumb]]
+Threat display involves raising the abdomen and caudal appendages upright angled at the prey with pedipalps wide open to reveal the spikes.
+
+=== Hunting ===
+The prey is held upright by the second pair of antenna-like limbs while the pedipalps mutilate the prey and push it into the mouth The prey is dragged into the whip scorpion’s lair (usually an underground burrow or a ditch) before being consumed whole.
+
+== Life Cycle ==
+A few months after fertilisation of eggs, the female burrows herself in a ditch where the eggs are laid. The female then sticks the eggs onto her abdomen to ensure they won’t touch the ground. Similar to [[Whip-spider]]&lt;nowiki/&gt;s the young ones are carried onto the mother’s back. The first instar of nymphs is pale white which later changes to a miniature version of the adults after the first molt. They are [[Hemimetabolous]].
+
+== Geological distribution ==
+They are found throughout the world’s equatorial rainforests except Australia and Europe. Only one known species inhabits African continent i.e [[Etienneus africanus]].
+
+=== Habitat ===
+Vinegaroons inhabit caves, equatorial, continental and tropical rainforests, they can also be ground dwelling arachnids (especially larger species) living in caves and burrows.
+[[Category:Arachnids]]
+[[Category:Thelyphonida]]
+[[Category:Orders]]</text>
+      <sha1>a59d7nub44eg8mtilst905b9ofc5ej8</sha1>
+    </revision>
+  </page>
+  

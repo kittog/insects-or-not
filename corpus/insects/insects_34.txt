@@ -1,0 +1,37 @@
+
+    <title>Lime hawk-moth</title>
+    <ns>0</ns>
+    <id>4055</id>
+    <revision>
+      <id>6832</id>
+      <parentid>6573</parentid>
+      <timestamp>2021-10-21T18:01:04Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        6832
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="638" sha1="2td333ncptyhq3b09wobxxxpr9vodzm" xml:space="preserve">[[File:Lime hawk-moth2.jpg|thumb|212x212px|Original form of the Lime Hawk-moth.]]
+Mimas tiliae, also known as the '''lime hawk-moth''', is a moth of the family [[Sphingidae]]. It is found throughout the Palearctic region and the Near East, and has also been identified in Canada's east and western provinces and in northern Spain. The species was also first described by Carl Linnaeus in his 1758 10th edition of Systema Naturae.
+
+Scientific name: Mimas tiliae
+
+Higher classification: Mimas
+
+Phylum: Arthropoda
+
+Order: [[Lepidoptera]]
+
+Rank: Species
+
+Kingdom: Animalia
+[[Category:Sphingidae]]
+[[Category:Insecta]]
+[[Category:Lepidoptera]]</text>
+      <sha1>2td333ncptyhq3b09wobxxxpr9vodzm</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,48 @@
+
+    <title>Sostrata Festiva</title>
+    <ns>0</ns>
+    <id>4510</id>
+    <revision>
+      <id>7875</id>
+      <timestamp>2022-01-28T06:00:00Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Created page with "[[File:Sostrata festiva.jpg|thumb|383x383px|Picture taken in Satipo (Peru)]] Sostrata Festiva also known as the '''Festive Skipper''' is an Amazonian species of Lepidoptera|..."</comment>
+        7875
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1872" sha1="a4mlcm2wc4ajn3oa3ls0zksqprkqolo" xml:space="preserve">[[File:Sostrata festiva.jpg|thumb|383x383px|Picture taken in Satipo (Peru)]]
+Sostrata Festiva also known as the '''Festive Skipper''' is an Amazonian species of [[Lepidoptera|Lepidopteran]] from the family [[Hesperiidae]]. It is one of the 580 species from the tribe [[Pyrgini]]. It is one of the eight species in the [[genus]] Sostrata.
+
+== Morphology ==
+
+=== Wing Morphology ===
+The ventral side of the wings have a matt-black background and a smooth borderline, The forewings are densely speckled with iridescent marks, two Dashes of vibrant, lustrous metallic-blue color are present on the hindwings. The wings are charmingly tiny and vivid, This is surely one of the most remarkable and brilliant Amazonian species of Lepidoptera.
+
+=== Body Morphology ===
+The abdomens have 4 sparkling latitudinal lines of metallic-blue coloration, the body is thick and has a brown thoracic region speckled with sparkling blue patches, the head compromises of two gunmetal colored bulging eyes and hooked antennae.
+
+== Behavior ==
+Sostrata Festiva generally keep their wings extent outwards which is a unique behavior for a Papillion and is generally typical among moths.  They tend to typical stay solo, males can often be seen basking above ground-level on lowland foliage.
+
+== Geographical Range ==
+
+=== Geographical Distribution ===
+Sostrata festiva is known from Guyana, Venezuela, Brazil, Ecuador and Peru, but probably also occurs in Colombia, Bolivia and Argentina.
+
+=== Habitat ===
+S. Festiva prefers to thrive in lush steep and densely foliated tropical rainforests, sunny large patches of grass blossoming with flowers. They prefer to flutter in steep groves and forests as well.
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:Lepidoptera]]
+[[Category:Papilionoidea]]
+[[Category:Hesperiidae]]
+[[Category:Pyrginae]]</text>
+      <sha1>a4mlcm2wc4ajn3oa3ls0zksqprkqolo</sha1>
+    </revision>
+  </page>
+  

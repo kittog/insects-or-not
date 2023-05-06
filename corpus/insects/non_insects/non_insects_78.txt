@@ -1,0 +1,53 @@
+
+    <title>Myriapod orders</title>
+    <ns>0</ns>
+    <id>2188</id>
+    <revision>
+      <id>3567</id>
+      <parentid>3562</parentid>
+      <timestamp>2009-06-17T17:14:44Z</timestamp>
+      <contributor>
+        <username>Dser</username>
+        <id>1032852</id>
+      </contributor>
+      <minor/>
+      <comment>Edit incorrect link</comment>
+      3567
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="671" sha1="35m40xkgrot6e36cow8wtqqvvyw5qqt" xml:space="preserve">[[Myriapod]] orders.
+
+*[[Chilopoda]]
+**[[Geophilida]]
+**[[Lithobiida]]
+**[[Scolopendrida]]
+**[[Scutigerida]]
+*[[Diplopoda]]
+**[[Pentazonia]]
+**[[Glomeridesmida]]
+**[[Glomerida]]
+**[[Sphaerotheriida]]
+**[[Polyzoniida]]
+**[[Platydesmidaydesmida]] 
+**[[Siphonophorida]]
+**[[Polydesmida]]
+**[[Callipodida]]
+**[[Chordeumatida]]
+**[[Stemmiulida]]
+**[[Julida]]
+**[[Xyloiuloida]] (extinct)
+**[[Siphoniulida]]
+**[[Spirobolida]]
+**[[Spirostreptida]]
+*[[Pauropoda]]
+*[[Symphyla]]
+
+== Sources ==
+*[http://www.wikipedia.com/wiki/millipede Millipede on Wikipedia]
+*[[Smithsonian Handbooks: Insects, Spiders, and Other Terrestrial Arthropods]]
+[[Category:Myriapods]]
+[[Category:Orders]]</text>
+      <sha1>35m40xkgrot6e36cow8wtqqvvyw5qqt</sha1>
+    </revision>
+  </page>
+  

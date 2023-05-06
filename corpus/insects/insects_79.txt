@@ -1,0 +1,57 @@
+
+    <title>Brachycera</title>
+    <ns>0</ns>
+    <id>4270</id>
+    <revision>
+      <id>7631</id>
+      <parentid>7247</parentid>
+      <timestamp>2021-12-22T07:26:33Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7631
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1790" sha1="8fl8sdliznroa2o40vpp4my81j2s64z" xml:space="preserve">[[File:Tabanus sudeticus.jpg|thumb|318x318px|[[Tabanus sudeticus]]]]
+The '''Brachycera''' are a suborder of the order Diptera. It is a major suborder consisting of around 120 families. Their most distinguishing characteristic is reduced antenna segmentation.
+
+== Description ==
+A summary of the main physical characteristics is:
+
+* Antenna size (with eight or fewer flagellomeres) is reduced.
+* The maxillary palp (an elongated appendage near the mouth) has two segments or fewer.
+* The back portions of the larval head capsule extend into the prothorax (the anterior part of the thorax, which bears the first pair of legs).
+* Two distinct parts make up of the larval mandible (lower jaw).
+* The epandrium and hypandrium of the genitalia are separated in males.
+* No premandible is present on the lower surface of the labrum (the roof of the mouth).
+
+Brachyceran flies can also be distinguished through behavior. Many of the species are predators or scavengers.
+
+== Classification ==
+The structure of subgroups within the Brachycera is a source of much confusion and controversy; many of the names used historically (e.g., Orthorrhapha) have not been used in decades, but still persist in textbooks, checklists, faunal catalogs, and other sources. Additionally, most recent classifications no longer use the Linnaean ranks for taxa (e.g., the Tree of Life Web Project), and this creates its own set of problems.
+
+=== Infraorders ===
+
+* [[Asilomorpha]]
+* [[Muscomorpha]]
+* [[Stratiomyomorpha]]
+* [[Tabanomorpha]]
+* [[Vermileonomorpha]]
+* [[Xylophagomorpha]]
+* [[Archisargoidea|† Archisargoidea]]
+
+&lt;br /&gt;
+[[Category:Insecta]]
+[[Category:Brachycera]]
+[[Category:Diptera]]
+[[Category:Pterygota]]
+[[Category:Holometabola]]
+[[Category:Endopterygota]]
+[[Category:Suborder]]
+[[Category:Neoptera]]</text>
+      <sha1>8fl8sdliznroa2o40vpp4my81j2s64z</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,42 @@
+
+    <title>Erythemis simplicicollis</title>
+    <ns>0</ns>
+    <id>4169</id>
+    <revision>
+      <id>6951</id>
+      <timestamp>2021-11-09T15:50:23Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Created page with "{{Insects_Simple|title1=Erythemis Simplicicollis|image1=Erythemis simplicicollis.jpg|caption1=Erythemis simplicicollis (Adult male)|order=Odonata (Anisoptera)|family=Libelluli..."</comment>
+        6951
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2292" sha1="9fgnwpkommbiwvnb2mretuhi7htdd5r" xml:space="preserve">{{Insects_Simple|title1=Erythemis Simplicicollis|image1=Erythemis simplicicollis.jpg|caption1=Erythemis simplicicollis (Adult male)|order=Odonata (Anisoptera)|family=Libellulidae|genus=Erythemis|species=E. simplicicollis|similar_species=Erythemis attala  
+Erythemis collocata  
+Erythemis peruviana}}
+
+''Erythemis simplicicollis'', Also known as the '''eastern pondhawk''' and more formerly, The '''common pondhawk''', is a species of pond 
+
+[[Anisoptera|dragonfly]] from the [[Libellulidae]]. 
+
+== Morphology ==
+A medium sized-dragonfly with an approximate body length of 36 mm with an average wingspan being 43 mm in length, They are fairly common is slow-moving ponds, lakes, rivers and streams. The males are vibrant blue in color with a turquoise colored thorax and faint black rings on abdomen, the females are bright green in color with darker and more clearly visible blotches and rings present on the [[abdomen]], both genders have one common physical trait being their lovely iridescently colored metallic green [[Compound eye|eyes]].
+
+=== Larva ===
+The [[Naiad|larva]] are dull-olive green color with vibrant green compound. Eyes upon reaching the point at which they can [[Molting|molt]], the early [[Adult|adults]] are dull olive in color. The larval stage of this energetic flyer is just as ferocious as the adults.
+
+== Behavior ==
+''Erythemis simplicicollis'' is truly an energetic and powerful hunter, It's agility allows only a few skilled preys to escape this furious hunter. They are widespread.The males are vastly territorial and will chase away anything that dares enter their domain. The females tend to lay [[Egg|eggs]] in safe and shallow water with an ample [[Culex|food source]]. The Eastern pond hawk is a vibrant species which sparks up the life in water bodies while serving as an important part of the aquatic food chain both as a juvenile and an adult Anisopteran. 
+
+== Distribution ==
+The eastern pondhawk is native to parts of North America and Central America. Its range includes the rivers of Ontario and Quebec in Canada, much of the eastern United States, the Bahamas, the West Indies, Mexico and Central America as far south as Costa Rica. It is a widespread and abundant species.
+&lt;br /&gt;
+[[Category:Odonata]]
+[[Category:Insecta]]
+[[Category:Dragonflies]]</text>
+      <sha1>9fgnwpkommbiwvnb2mretuhi7htdd5r</sha1>
+    </revision>
+  </page>
+  

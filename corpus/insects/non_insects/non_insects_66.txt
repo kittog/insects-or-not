@@ -1,0 +1,25 @@
+
+    <title>Eriophyes tiliae</title>
+    <ns>0</ns>
+    <id>3475</id>
+    <revision>
+      <id>5557</id>
+      <timestamp>2016-07-21T03:24:10Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Eriophyes tiliae''''' is a [[mite]] that forms the lime nail gall or bugle gall.[2] It develops in a chemically induced gall; an erect, ob..."</comment>
+      5557
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="814" sha1="0lkpf6kjlgu7o8vkgxubt9084npmzmr" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Eriophyes tiliae''''' is a [[mite]] that forms the lime nail gall or bugle gall.[2] It develops in a chemically induced gall; an erect, oblique or curved distortion rising up from the upper surface of the leaves of the common lime (US: linden) tree Tilia × europaea (synonym T. × vulgaris).
+==The physical appearance==
+During late spring and summer, tubular growths up to 5 millimetres (0.20 in) long develop on the upper surface of lime tree leaves. These galls may be yellow-green or red in color, may be very numerous, and predominantly occur on the lower leaves in some sub-species.
+==Taxonomy==
+Several sub-species have been identified, partly identified by their positioning on the leaves in relation to the veins and other structures.
+==Life cycle==
+[[Category:Mites]]</text>
+      <sha1>0lkpf6kjlgu7o8vkgxubt9084npmzmr</sha1>
+    </revision>
+  </page>
+  

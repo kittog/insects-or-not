@@ -1,0 +1,29 @@
+
+    <title>Antlion</title>
+    <ns>0</ns>
+    <id>3143</id>
+    <revision>
+      <id>5101</id>
+      <parentid>5075</parentid>
+      <timestamp>2013-01-12T07:18:53Z</timestamp>
+      <contributor>
+        <username>Majoras revenge!!!</username>
+        <id>5362365</id>
+      </contributor>
+        5101
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="466" sha1="7nsace1zhl0v3a0tbfjksp8mddssokx" xml:space="preserve">
+
+
+==Antlion==
+Antlions are part of the Myrmeleontidae family and their likely genus is Myrmeleo. Antlion adults are sometimes called antlion lacewings. Antlion larva are often called a doodlebug, because of the tracks that the larva leave. The tracks are somewhat spiral-shaped and look as if someone "doodled' on the sand, hence the name doodlebug.[[File:Spider.jpg|thumb|A fully grown antlion.]]
+
+
+
+[[File:Antlion.jpg|thumb|Antlion larva]]
+[[Category:Neuroptera]]</text>
+      <sha1>7nsace1zhl0v3a0tbfjksp8mddssokx</sha1>
+    </revision>
+  </page>
+  

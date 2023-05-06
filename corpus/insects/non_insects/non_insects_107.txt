@@ -1,0 +1,52 @@
+
+    <title>Fissilicreagris imperialis</title>
+    <ns>0</ns>
+    <id>2044</id>
+    <revision>
+      <id>4216</id>
+      <parentid>4215</parentid>
+      <timestamp>2009-08-28T22:22:46Z</timestamp>
+      <contributor>
+        <username>SmartOneKg</username>
+        <id>1072595</id>
+      </contributor>
+      4216
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="961" sha1="3gx2c0ycchhrmqxz2em9864hvoq4frx" xml:space="preserve">{{Infobox
+|Box title = Fissilcreagris imperialis
+|Image file = 
+|Image size = 
+|Row 1 title = Classified
+|Row 1 info = [[Pseudoscorpion]]
+|Row 2 title = [[Insect genus|Genus]]
+|Row 2 info = Fissilcreagris
+|Row 3 title = Order
+|Row 3 info = [[Pseudoscorpiones]]
+|Row 4 title = Family
+|Row 4 info = [[Neobisiidae]]
+|Row 5 title = Located
+|Row 5 info = Cave Gulch, California
+|Row 6 title = Feeding habits
+|Row 6 info = [[Predacious]]
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+|Row 10 title = 
+|Row 10 info = 
+}}
+ 
+''Fissilcreagris imperialis'' or the Empire Cave Pseudoscorpion is a [[pseudoscorpion]] in the [[Neobisiidae]] family and the [[Pseudoscorpiones]] order. It lives in caves in Cave Gulch, California, but their habitats are at risk because of students coming into the caves. 
+
+{{ArachnidMove}}
+[[Category:Pseudoscorpiones]]
+[[Category:Pseudoscorpions]]
+[[Category:Neobisiidae]]
+[[Category:Arachnids]]</text>
+      <sha1>3gx2c0ycchhrmqxz2em9864hvoq4frx</sha1>
+    </revision>
+  </page>
+  

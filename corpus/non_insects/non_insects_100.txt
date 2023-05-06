@@ -1,0 +1,25 @@
+
+    <title>Fattail scorpion</title>
+    <ns>0</ns>
+    <id>3483</id>
+    <revision>
+      <id>5565</id>
+      <timestamp>2016-07-21T03:52:17Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''Fattail [[scorpion]]''' or '''fat-tailed scorpion''' is the common name given to scorpions of the genus ''[[Androctonus]]'', one of the most..."</comment>
+      5565
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1793" sha1="rdyzasa7lkfy2rdeuhb6ckuc195su7v" xml:space="preserve">[[File:Placeholder|right|300px]]'''Fattail [[scorpion]]''' or '''fat-tailed scorpion''' is the common name given to scorpions of the genus ''[[Androctonus]]'', one of the most dangerous groups of scorpions species in the world.[1] They are found throughout the semi-arid and arid regions of the Middle East and Africa.[1] They are a moderate sized scorpion, attaining lengths of 10 cm (just under 4 in).[2] Their common name is derived from their distinctly fat metasoma, or tail, while the Latin name originates from Greek and means "man killer".[2] Their venom contains powerful neurotoxins and is especially potent.[1] Stings from ''Androctonus'' species are known to cause several human deaths each year.[1] Several pharmaceutical companies manufacture an antivenom for treatment of ''Androctonus'' envenomations.
+==Geographical range==
+''Androctonus'' is widespread in North and West Africa, the Middle East and eastwards to the Hindukush region. Countries where ''Androctonus'' species live include: Armenia, Morocco, Algeria, Tunisia, Libya, Egypt, Togo, Palestine, Israel, India, Lebanon, Turkey, Jordan, Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Kuwait, Iraq, Iran, Afghanistan, Bahrain and Pakistan.
+==Etymology==
+A rough English translation of the name ''Androctonus'' is "man-killer", from the Greek andras (άνδρας), meaning "man" and kteinein (κτείνειν), meaning "to kill". ''Crassicauda'' means fat-tailed, from the Latin crassus meaning "thick" or "fat" and cauda, meaning "tail". ''Androctonus crassicauda'' is widespread throughout the Middle East and its name means "fat-tailed man-killer". Similarly, the Latin word for South is australis, from which ''Androctonus australis'', "southern man-killer", derives.
+==Taxonomy==
+[[Category:Scorpiones]]</text>
+      <sha1>rdyzasa7lkfy2rdeuhb6ckuc195su7v</sha1>
+    </revision>
+  </page>
+  

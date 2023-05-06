@@ -1,0 +1,41 @@
+
+    <title>Calidea dregii</title>
+    <ns>0</ns>
+    <id>3980</id>
+    <revision>
+      <id>8064</id>
+      <parentid>6768</parentid>
+      <timestamp>2022-09-14T17:01:09Z</timestamp>
+      <contributor>
+        <username>Actinoidz</username>
+        <id>51823979</id>
+      </contributor>
+      <comment>Fixed punctuation and grammar errors, removed personal recounts</comment>
+        8064
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3773" sha1="kfvnuc66xvuyg97ko9j2zwjolzseca5" xml:space="preserve">Also known as the rainbow shield bug, the green jewel beetle of India, or the lychee shield bug, this beautiful beetle with an average body length of 14-17 mm
+
+{{Insects_Simple|caption1=A Vibrant shield bug|order=Pentatomidae|family=Scuelleridae|genus=Pentatomidae|species=Calidea dregii|similar_species=Sagra buqueti    
+Phalacrognathus mulleri 
+Stethaspis suturalis 
+Eupholus benneti 
+Chrysolophus spectabilis|image1=Rainbow shield bug.png}}
+
+is flashing with vibrant colors and can be seen worldwide, except Antarctica, and has a vibrant green-lustrous exoskeleton. The propagation of the light reflected depicts the colours seen by the human eye present on it's exoskeleton and appears to shine a rainbow hue under clear white light. The beautiful colors on it's exoskeleton make it an easy prey for most predators, hence it is known to release a foul-smelling odor to scare off any unappealing predators that dare approach it. They feed on sap by sucking it out of new seeds. They can become a serious pest due to these habits of feeding on plants. Study more about their behaviors and where are they native to. 
+
+== Biology ==
+Calidea dregii likes feeding on sap from newly born trees as we know it. It's physical appearance can often be mistaken for a jewel beetle, however they are considered to be from the family of insects known as [[Pentatomidae]], which compromises of stink bugs (Another term for [[Pentatomoidea|shield bugs]]). Their classification to this category is due to their defense mechanism, excretion of a foul-smelling liquid to warn predators. The most notable feature is their lustrous carapace which reflects light in such ways causing white light to divide into red, orange, yellow, green, blue, indigo and violet (the propagation of light affects the pattern of the colors). They can be seen thriving in semi-arid climates all over the world and most commonly seen in Southeast Asia and other parts of the hemisphere, especially India, hence their second name (green jewel bug of India) These bugs also have green blotches on their carapace and are completely orange (sometimes yellowish-pink) on their underside. They are one of the biggest pests in agriculture. It has a vibrant exoskeleton and whitish-blue legs and a joint which connects a needle-like proboscis hidden underneath the head.  
+
+== Behavior ==
+They will look for the softer part of the host plant's stem and them use it's needle-like mouth to penetrate through the venations and the stem tissues, it will then, after unhinging it's needle-like mouth part, will suck out the sap from the stem of the unfortunate host plant (it's diet includes poisonous plants as well) . This is how it feeds. This type of feeding behavior is similar to that of [[ASSASIN Insect|assasin bugs]]. Unlike Calidea dregii, assasin bugs will use a paralyzing venom to melt down the prey's tissues and cells, then suck them out alongside the innards (this hunting behavior is very common for predatory insects). Now if we talk about Calidea dregii, their behavior is just the same as other Pentatomidae species with their methods of foraging being none other than wandering as they are practically flightless and will rarely ever use their wings.  
+
+== Habitat ==
+Calidea dregii are happy under captivity if fed well enough. They prefer lychee trees and other young tree saplings. They can be seen thriving in unbelievably huge numbers in semi-arid regions of the southern hemisphere and can be seen scuttling on leaves, plants and in the soil. They prefer either slightly humid, yet not so cold, climates and are very common in Southeast Asia and can be seen in bushveld regions as it prefers weed patches of moss and overgrowth.
+[[Category:Hemiptera]]
+[[Category:Heteroptera]]
+[[Category:Insecta]]</text>
+      <sha1>kfvnuc66xvuyg97ko9j2zwjolzseca5</sha1>
+    </revision>
+  </page>
+  

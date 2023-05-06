@@ -1,0 +1,36 @@
+
+    <title>Hellgramite</title>
+    <ns>0</ns>
+    <id>3948</id>
+    <revision>
+      <id>7740</id>
+      <parentid>7729</parentid>
+      <timestamp>2022-01-03T17:07:50Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      7740
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="893" sha1="085qiacxwak7ste1l54542r8td9bypx" xml:space="preserve">Ecological Role - '''Hellgrammites''' are voracious predators that live underneath submerged rocks and logs. They will capture and eat any creature smaller than themselves, especially mayfly and stonefly nymphs, small crayfish, and other invertebrates.[[File:Lithobius forficatus.jpg|thumb|A hellgrammite, indeed.]]
+
+=== Information ===
+{| class="article-table"
+| Higher classification: ||[[Megaloptera]]
+
+|-
+| Scientific name: ||[[Dobsonfly|Corydalidae]]
+
+|-
+| Rank: ||[[Family]]
+|}
+
+== Life Cycle ==
+After spending one to 14 days inside the cell as a pre[[pupa]], the '''hellgrammite''' sheds its exoskeleton to '''become''' a pupa. The pupal stage requires seven to 14 days after which the adult emerges and digs its way out of the cell. Adult [[Dobsonfly|dobsonflies]] are short-lived (about three days for males and eight to 10 days for females).
+[[Category:Extra]]
+[[Category:Myriapods]]</text>
+      <sha1>085qiacxwak7ste1l54542r8td9bypx</sha1>
+    </revision>
+  </page>
+  

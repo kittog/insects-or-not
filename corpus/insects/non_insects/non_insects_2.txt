@@ -1,0 +1,25 @@
+
+    <title>Spider</title>
+    <ns>0</ns>
+    <id>1991</id>
+    <revision>
+      <id>6059</id>
+      <parentid>4347</parentid>
+      <timestamp>2019-01-16T00:12:35Z</timestamp>
+      <contributor>
+        <ip>49.187.46.57</ip>
+      </contributor>
+      <comment>Adding categories</comment>
+      6059
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="344" sha1="gcv1dnz91to9go35kxlp8u9o9aoidpp" xml:space="preserve">Spiders are [[arachnid]]s that have the ability to make webs in order to catch prey and help give birth. They are members of the [[Araneae]] [[Insect orders|order]]. Spiders are common pest controls, but people kill them because they find spiders to be pests.
+
+{{ArachnidMove}}
+[[Category:Arachnids]]
+[[Category:Spiders]]
+[[Category:Scorpions]]</text>
+      <sha1>gcv1dnz91to9go35kxlp8u9o9aoidpp</sha1>
+    </revision>
+  </page>
+  

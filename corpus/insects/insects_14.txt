@@ -1,0 +1,53 @@
+
+    <title>Abantiades hyalinatus</title>
+    <ns>0</ns>
+    <id>2368</id>
+    <revision>
+      <id>6873</id>
+      <parentid>4247</parentid>
+      <timestamp>2021-10-22T17:30:35Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        6873
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="910" sha1="o5u2e5bs19i71kgwrtff0arlgnth9qw" xml:space="preserve">{{Infobox
+|Box title = Abantiades hyalinatus
+|Image file = Abantiades hyalinatus.JPG
+|Image size = 200px
+|Row 1 title = [[Order]]
+|Row 1 info = [[Lepidoptera]]
+|Row 2 title = [[Family]]
+|Row 2 info = [[Hepialidae]]
+|Row 3 title = [[Genus]]
+|Row 3 info = ''[[Abantiades]]''
+|Row 4 title = [[Species]]
+|Row 4 info = '''''Abantiades hyalinatus'''''
+|Row 6 title = 
+|Row 6 info = 
+|Row 7 title = 
+|Row 7 info = 
+|Row 8 title = 
+|Row 8 info = 
+|Row 9 title = 
+|Row 9 info = 
+}}
+
+'''''Abantiades hyalinatus''''' is a [[moth]] belonging to the [[Hepialidae]] family. It is found from Queensland to Tasmania in Australia. 
+
+==Appearance==
+
+The wingspan of this [[insect]] is 10-12 mm. This moth has a white pattern on its wings. Females have a purple body. All species have brown wings.
+{{Shortbox}}
+[[Category:Insecta]]
+[[Category:Lepidoptera]]
+[[Category:Hepialidae]]
+[[Category:Abantiades]]
+[[Category:Hepialoidea]]</text>
+      <sha1>o5u2e5bs19i71kgwrtff0arlgnth9qw</sha1>
+    </revision>
+  </page>
+  

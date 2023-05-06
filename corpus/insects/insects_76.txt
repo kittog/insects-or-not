@@ -1,0 +1,46 @@
+
+    <title>Calliphora vomitoria</title>
+    <ns>0</ns>
+    <id>2260</id>
+    <revision>
+      <id>7147</id>
+      <parentid>4176</parentid>
+      <timestamp>2021-11-17T17:02:18Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7147
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4440" sha1="bzgwlf6hf1jraa5l3iib3varnyw7ys8" xml:space="preserve">{{Infobox|Box title=Calliphora Vomitoria|Image file=Calliphora vomitoria.jpg|Image size=255px|Row 1 title=[[Kingdom]]|Row 1 info=[[Animalia]]|Row 2 title=[[Phylum]]|Row 2 info=[[Arthropoda]]|Row 3 title=[[Class]]|Row 3 info=[[Insecta]]|Row 4 title=[[Order]]|Row 4 info=[[Diptera]]|Row 5 title=[[Superorder]]|Row 5 info=[[Holometabola]]|Row 6 title=[[Suborder]]|Row 6 info=[[Brachycera]]|Row 7 title=[[Infraorder]]|Row 7 info=[[Muscomporpha]]|Row 8 title=[[Family]]|Row 8 info=[[Calliphoridae]]|Row 9 title=[[Genus]]|Row 9 info=[[Calliphora]]|Row 10 title=[[Tribe]]|Row 10 info=[[Calliphorina]]}}
+
+''Calliphora vomitoria'', also known as the '''bluebottle fly,''' or the '''Orange bearded blue bottle'''  is a [[blow fly]] belonging to the [[Calliphoridae]]  
+
+family and the [[Diptera]] order. 
+
+== Appearance ==
+This species is 10-14 mm long, thus making it slightly larger than a housefly. The head and [[thorax]] are a dull gray color, and the abdomen is bright metallic blue with black markings. The body and [[leg]]s are covered with black bristle-like hair known as [[setae]]. The eyes are red and the wings are clear. The legs and antennae are black. The setae adorning it's entire body are sensory hairs that act as a set of "Feelers" that enable the fly to detect the presence of foods as the taste-sensory receptors are present on the underside of the legs. The abdomen is metallic and may often appear in a variety of shades due to the slight iridescent coating. The abdomen also has dark marking on it. The main distinctive feature from which the common name The orange bearded bluebottle is derived from are the orange setae covering the undersides of their heads close to the [[Insect anatomy|labellum]].
+
+== Life cycle ==
+The female bluebottle fly will lay her eggs in decaying leftover edible objects, garbage, and feces once mating as took place. The [[maggot]]s will feed on the place where the eggs were laid consuming the leftovers and feces, the maggots do not have any protective exoskeletons and are exposed to outer environments, the larva are pale with minute sized bulbous heads that are generally brown. The larva have ring-like segments which they use to move around by pushing their muscles forwards and contrasting them in order to move. After a few days, the [[larvae]] enters a pupal stage where they borrow within soil and manure the pupa is brown in color eventually after few days, A fully mature fly will emerge. After 2 or 3 weeks, the cycle will start over again. 
+
+== senses ==
+A bluebottle fly will feed off almost anything it can find, and can smell meat up to a distance of 7 kilometers away and have an extra sensory stimulus, The setae covering their bodies are receptors for taste as they also have pluvial organs on their feet (Taste receptors) , their eyes are composed of more than 10000 lenses whereas mammals like humans only have one lens in each eye.  
+
+== Feeding ==
+Like other blowflies, ''Calliphora vomitoria'' colonize animal remains, including humans. While adult ''Calliphora vomitoria'' feed on nectar, the larvae feed on corpses, the medium in which they grow. However, it has been shown that feeding on processed substrates (food that are modified for human consumption by increasing shelf life and taste through salting, curing, smoking, etc) provided much better growth than unprocessed substrates such as raw unmodified liver. Because different substrates drastically affected growth, ''C. vomitoria'' is best characterized as a specialist that best utilizes processed substrates (minced meats, for example). Its close relative, ''Calliphora vicina'', is a generalist, being able to utilize mixed substrates with equal growth rates. In the case of overcrowding, ''C. vomitoria'' competition results in compensation by increased speed of development, leading to smaller larvae and adults. This has complications in forensics because different parts of the body would grow at different rates.
+
+== Pollination ==
+This species of flies have been known to pollinate certain plants such as skunk cabbage, goldenrod and sunflowers, what allows them to do so is the presence of setae on their bodies that give a perfect place for pollen adhesion as pollen grains cling onto the setae and align in a lane like formation. 
+[[Category:Insecta]]
+[[Category:Diptera]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]
+[[Category:Brachycera]]
+[[Category:Muscomorpha]]
+[[Category:Calliphoridae]]</text>
+      <sha1>bzgwlf6hf1jraa5l3iib3varnyw7ys8</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,40 @@
+
+    <title>Redback spider</title>
+    <ns>0</ns>
+    <id>3493</id>
+    <revision>
+      <id>5575</id>
+      <timestamp>2016-07-21T17:52:37Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]The '''redback [[spider]]''' ('''''Latrodectus hasseltii''''') is a species of venomous spider indigenous to Australia. It is a member of the c..."</comment>
+      5575
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7396" sha1="92ftux3hee5ewj5c8aehl20ra0g4qze" xml:space="preserve">[[File:Placeholder|right|300px]]The '''redback [[spider]]''' ('''''Latrodectus hasseltii''''') is a species of venomous spider indigenous to Australia. It is a member of the cosmopolitan genus Latrodectus, the widow spiders. The adult female is easily recognized by her spherical black body with a prominent red stripe on the upper side of her abdomen and an hourglass-shaped red/orange streak on the underside. Females have a body length of about 10 millimetres (0.4 in), while the male is much smaller, being only 3–4 mm (0.12–0.16 in) long.
+
+Mainly nocturnal, the female redback lives in an untidy web in a warm sheltered location, commonly near or inside human residences. It preys on insects, spiders and small vertebrates that become ensnared in its web. It kills its prey by injecting a complex venom through its two fangs when it bites, before wrapping them in silk and sucking out the liquefied insides. Male spiders and spiderlings often live on the periphery of the female spiders' web and steal leftovers. Other species of spider and parasitoid wasps prey on this species. The redback is one of few arachnids which usually display sexual cannibalism while mating. The sperm is then stored in the spermathecae, organs of the female reproductive tract, and can be used up to two years later to fertilize several clutches of eggs. Each clutch averages 250 eggs and is housed in a round white silken egg sac. The redback spider has a widespread distribution in Australia, and inadvertent introductions have led to established colonies in New Zealand, Japan, and in greenhouses in Belgium.
+
+The redback is one of the few spider species that can be seriously harmful to humans, and its preferred habitat has led it to being responsible for the large majority of serious spider bites in Australia. Predominantly neurotoxic to vertebrates, the venom gives rise to the syndrome of latrodectism in humans; this starts with pain around the bite site, which typically becomes severe and progresses up the bitten limb and persists for over 24 hours. Sweating in localized patches of skin occasionally occurs and is highly indicative of latrodectism. Generalized symptoms of nausea, vomiting, headache, and agitation may also occur and indicate severe poisoning. An antivenom has been available since 1956, and there have been no deaths directly due to redback bites since its introduction.
+==Taxonomy and naming==
+===Common names===
+The common name "redback" is derived from the distinctive red stripe along the dorsal aspect of its abdomen. Other common names include red-striped spider,[2] red-spot spider, jockey spider,[3] Murra-ngura spider, Kapara spider and the Kanna-jeri spider.
+===History===
+Before DNA analysis, the taxonomy of the widow spider genus ''[[Latrodectus]]'' had been unclear—changes in the number of species reflect the difficulty of using morphology to determine subdivisions within the genus.[5] Substantial interest in their systematics was most likely prompted by the medical importance of these venomous spiders.[5] Swedish arachnologist Tamerlan Thorell described the redback spider in 1870[6] from specimens collected in Rockhampton and Bowen in central Queensland.[7] He named it ''Latrodectus hasseltii'' in honor of colleague A.W.M. van Hasselt.[8] In the same paper, he named a female from Cape York with an all-black abdomen ''L. scelio'',[6][7] now regarded as the same species. These specimens are in the Naturhistoriska Riksmuseet in Stockholm.[9]
+
+German arachnologist Friedrich Dahl revised the genus in 1902 and named ''L. ancorifer'' from New Guinea,[10] which was later regarded as a subspecies of the redback. Another subspecies, ''L. h. aruensis'', was described by Norwegian entomologist Embrik Strand in 1911. Subspecies indica (of L. scelio) had been described by Eugène Simon in 1897, but its origin is unclear.[9] Frederick Octavius Pickard-Cambridge questioned Dahl's separating species on what he considered minor anatomical details but Dahl dismissed Pickard-Cambridge as an "ignoramus".[9] Pickard-Cambridge was unsure whether ''L. hasseltii'' warranted species status, though he confirmed scelio and hasseltii as a single species,[7] other researchers such as Ludwig Carl Christian Koch noting the differences to be inconsistent.[2] The redback was also considered by some to be conspecific with the katipo (L. katipo), which is native to New Zealand,[11] though Koch regarded them as distinct.[2]
+
+Reviewing the genus ''[[Lactrodectus]]'' in 1959, arachnologist Herbert Walter Levi concluded that the colour variations were largely continuous across the world and were not suitable for distinguishing the individual species. Instead, he focused on differences in the morphology of the female sexual organs, and revised the number of recognized species from 22 to 6. This included reclassifying the redback and several other species as subspecies of the best-known member of the group, the black widow spider (''[[Latrodectus mactans]]''), found in North America and other regions.[5] He did not consider the subspecies ''L. h. ancorifer'', ''L. h. aruensis'' and ''L. h. indicus'' distinct enough to warrant recognition.[9] Subsequently, more reliable genetic studies have split the genus into about 30 species, and the redback has no recognised subspecies in modern classifications.
+===Placement===
+A member of the genus ''Latrodectus'' in the family Theridiidae, the redback belongs in a clade with the black widow spider,[5] with the katipo as its closest relative.[13] A 2004 molecular study supports the redback's status as a distinct species, as does the unique abdomen-presenting behavior of the male during mating.[5] The close relationship between the two species is shown when mating: the male redback is able to successfully mate with a female katipo producing hybrid offspring. However, the male katipo is too heavy to mate with the female redback, as it triggers a predatory response in the female when it approaches the web, causing the female to eat it.[14] There is evidence of interbreeding between katipo and redbacks in the wild.
+==Description==
+The adult female redback has a body around 1 centimetre (0.4 in) long, with slender legs, the first pair of which are longer than the rest.[15] The round abdomen is a deep black (occasionally brownish), with a red (sometimes orange) longitudinal stripe on the upper surface and an hourglass-shaped red/orange streak on the underside.[16] Females with incomplete markings or all-black abdomens occasionally occur.[17] The cephalothorax is much smaller than the abdomen, and is black.[15] Redback spiderlings are grey with dark spots,[2] and become darker with each moult.[18] Juvenile females have additional white markings on the abdomen.[16] The bright red colors may serve as a warning to potential predators.[19] Each spider has a pair of venom glands each attached to each of its chelicerae[20] with very small fangs.[21] Small compared to the female,[22] the male redback is 3–4 mm (0.12–0.16 in) long and is light brown, with white markings on the upper side of the abdomen and a pale hourglass marking on the underside.[16]
+
+Another species in Australia with a similar physique, ''[[Steatoda capensis]]'', has been termed the "false redback spider", but it is uniformly black (or plum), and does not display the red stripe.
+==Behavior==
+[[Category:Araneae]]</text>
+      <sha1>92ftux3hee5ewj5c8aehl20ra0g4qze</sha1>
+    </revision>
+  </page>
+  

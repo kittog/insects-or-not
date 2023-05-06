@@ -1,0 +1,29 @@
+
+    <title>Harpaphe haydeniana</title>
+    <ns>0</ns>
+    <id>3482</id>
+    <revision>
+      <id>7509</id>
+      <parentid>7508</parentid>
+      <timestamp>2021-12-14T07:42:08Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      7509
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1422" sha1="gly5ytnzb356x8zt1f3b45vim1tugqs" xml:space="preserve">[[File:Harpaphe haydeniana.jpg|link=link=Special:FilePath/Placeholder|alt=|right]]
+'''''Harpaphe haydeniana''''' (the '''yellow-spotted millipede''', '''almond-scented millipede''' or '''cyanide [[millipede]]''') is a species of polydesmidan ("flat-backed") millipede found in the moist forests along the Pacific coast of North America, from Southeast Alaska to California. The dark coloration with contrasting yellow-tipped keels warn of its ability to exude toxic hydrogen cyanide as a defense. Despite the various common names given the species, the coloration pattern, cyanide defense, and associated almond scent occur in other flat-backed millipedes around the world.
+==Description==
+''H. haydeniana'' reach a length of 4–5 centimeters (1.6–2 in) when mature. The upper surface of the body is black to olive green, and is distinctively marked along the sides with patches of a yellowish colour. ''H. haydeniana'' has approximately twenty body segments, bearing a total of 30 (males) or 31 (females) pairs of legs. The difference between males and females is due to one pair of legs on the seventh segment in males being modified to form gonopods used for sperm transfer. Individuals may live for 2–3 years.
+==Distribution==
+''H. haydeniana'' occurs from southeast Alaska south to Monterey County, California, as far east as the Sierra Nevada mountains.
+==Ecology==
+[[Category:Myriapods]]
+[[Category:Diplopoda]]</text>
+      <sha1>gly5ytnzb356x8zt1f3b45vim1tugqs</sha1>
+    </revision>
+  </page>
+  

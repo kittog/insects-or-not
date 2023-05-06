@@ -1,0 +1,40 @@
+
+    <title>Ornithoptera tithonus</title>
+    <ns>0</ns>
+    <id>4554</id>
+    <revision>
+      <id>7968</id>
+      <parentid>7967</parentid>
+      <timestamp>2022-02-16T14:42:49Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7968
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2270" sha1="55m2kcn2jjq132n771lx5wlb5uiam9n" xml:space="preserve">Ornithoptera tithonus is a species of Lepidopteran which originates from New Guinea and can also be observed on neighboring Islands.
+
+{{Insect|name=Ornithoptera tithonus|binomen=Ornithoptera tithonus De Haan 1841|image=[[File:Ornithoptera tithonus (1).jpg|300px]]|common=Tithonus Birdwing|native=N/A|other=N/A|order=[[Lepidoptera]]|superfamily=[[Papilionoidea]]|family=[[Papilionoinea]]|subfamily=[[Papilioninae]]|genus=[[Ornithoptera]]|species=Ornithoptera tithonus, De Haan 1841|imagehab=[[File:Ornithoptera tithonus (2).jpg|300px]]|status=CITES Appendix II}}
+
+== Morphology ==
+
+=== Wing Morphology ===
+
+==== Female ====
+The dorsal side of the female's wings wings are black, speckled with elliptical pale-white marks present on the forewings, the forewings are elongated with a smooth borderline, The apical halves of the female's dorsal wings has longer white marks present on the apical halves which further extend downwards to a series of light-grey marks aligned together diagonally. The lower wings have a gradient white lower-side which has a series of elliptical dark-brown marks adjacent to each other forming and arc. The ventral side is similar to the dorsal side with the under-side of lower wings being gradient yellow and the marks present on the apical halves of the forewings being more elongated.
+
+==== Male ====
+The males have golden &amp; green colored wings, the shape of the wings is different from the females, with the males having more slender elongated forewings along with un-evenly shaped hindwings, the hindwings have a protrusion at the base which is pointed (Similar to a Swallowtail) The forewings of the males have a golden and white background with vivid scales coated with an iridescent golden tint. the margins of the male's wings is black along with slanting line extending from the prothorax to the apical point of the forewings, the males forewings also have matt-black markings which align together to form an arc the males have dashes of matt-black pigmented scales. The males have small black circular marks on the hindwings (Dorsal) and three on the Ventral side.
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Papilionoidea]]
+[[Category:Lepidoptera]]
+[[Category:Neoptera]]
+[[Category:Hexapoda]]</text>
+      <sha1>55m2kcn2jjq132n771lx5wlb5uiam9n</sha1>
+    </revision>
+  </page>
+  

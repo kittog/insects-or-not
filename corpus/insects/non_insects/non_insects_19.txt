@@ -1,0 +1,36 @@
+
+    <title>Chinchippus</title>
+    <ns>0</ns>
+    <id>2263</id>
+    <revision>
+      <id>8279</id>
+      <parentid>3734</parentid>
+      <timestamp>2023-03-11T10:06:16Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      8279
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1438" sha1="lyrxsn86msi1qs30gkawxd3o9n1othy" xml:space="preserve">[[File:Chinchippus peruvianus.jpg|thumb|196px|[[Chinchippus peruvianus]]]]The [[genus]] '''''Chinchippus,''''' prior to 2009 consisted of only one species of [[sun-spider]]: ''[[Chinchippus peruvianus]]'' which was followed by the discovery of [[Chinchippus viejaensis]] in 2009. Both of the species were discovered in Central Peru, guano islands in the Ica region, inhabiting the coastal deserts.
+
+== Discovery ==
+[[File:Chinchippus .png|thumb|Chinchippus viejaensis ]]
+The discovery of  Chinchippus peruvianus is known by the single female specimen discovered in central Peru’s arid, coastal desert regions. The discovery of Chinchippus viejaensis in 2009 was established upon the examination of the stomach contents of a desert gecko.
+
+== Ecology ==
+At the time being due to the fact that the availability of information on both the species is scarce the only assumptions that can be made is regarding their diet which could possibly be compromised of maritime prey such as springtails and amphipods it may also be considered true that they exhibit scavenger hunting behaviour feeding off Dead Sea bird carcasses.
+
+== Sources ==
+
+* https://www.researchgate.net/publication/250062832_Natural_history_of_coastal_Peruvian_solifuges_with_a_redescription_of_Chinchippus_peruvianus_and_an_additional_new_species_Arachnida_Solifugae_Ammotrechidae
+
+[[Category:Genera]]
+[[Category:Ammotrechidae]]
+[[Category:Solifugae]]
+[[Category:Arachnids]]</text>
+      <sha1>lyrxsn86msi1qs30gkawxd3o9n1othy</sha1>
+    </revision>
+  </page>
+  

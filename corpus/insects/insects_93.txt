@@ -1,0 +1,38 @@
+
+    <title>Owlfly</title>
+    <ns>0</ns>
+    <id>3510</id>
+    <revision>
+      <id>7731</id>
+      <parentid>7730</parentid>
+      <timestamp>2022-01-03T14:17:01Z</timestamp>
+      <contributor>
+        <username>Enosgian</username>
+        <id>48189863</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        7731
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2864" sha1="e9fw3tkjsgaog7ffkxn7oum7cnmwtbs" xml:space="preserve">[[File:Libelloides lacteus.jpg|alt=|right|304x304px|''Libelloides lacteus (Milky owlfly)'']]
+'''Owlflies''' are dragonfly-like insects with large bulging eyes and strongly knobbed antennae. They are neuropterans in the family Ascalaphidae; they are only distantly related to the true flies, and even more distant from the [[dragonflies]] and [[damselflies]]. They are diurnal or crepuscular predators of other flying insects, and are typically 5 cm (2.0 in) long.
+==Description==
+Owlflies are readily distinguished from dragonflies because the latter have short bristle-like antennae. The closely related antlions (family Myrmeleontidae) have short, weakly clubbed antennae, smaller eyes, and very different wing venation.[1] All but one species of Ascalaphidae have long antennae, easily distinguishing them; the sole exception is the Brazilian ''Albardia furcata'', the only living member of the subfamily Albardiinae, which has short antennae, but the club is very strong (compared to myrmeleontids) and its typical reticulate ascalaphid wing venation demonstrates its actual relationships.
+==Ecology and life cycle==
+Adult owlflies are aerial predators feeding on other insects. When disturbed, some owlflies release a strong, musk-like chemical to deter enemies. Adults of many New World species are most active at sunset and dawn and can often be collected around lights. During the day, such adults rest on stems and twigs with the body, legs, and antennae pressed to the stem. The abdomen in a few species is held up, projecting into the air, to look like a broken twig. Many Old World species, however, are most active during the day, and are brightly colored – many even hold their wings spread at rest like dragonflies; perhaps this is a form of mimicry to benefit from the fact that dragonflies are aggressive predators which smaller predatory insects (for which the average neuropteran would be prey) would be better to avoid. Most owlflies are about 2 inches in length.[2] Adult Ascalaphinae such as ''Ululodes'' have large divided eyes, which is where the common name "owlfly" came from,[2] in addition to their crepuscular habits. Owlflies are worldwide in distribution, though in North America they are primarily southerly.
+
+Eggs are laid on twigs or under stones. Larvae are ambush predators, and lie on the ground or in vegetation, covered with debris, waiting for prey. Larvae resemble those of antlions, but have a "finger-like appendage" on the side of each segment. Some genera actively cement sand and debris onto their bodies as camouflage. Pupation occurs in a spheroidal silk cocoon in leaf litter or soil.
+==Systematics==
+[[Category:Neuroptera]]
+[[Category:Insecta]]
+[[Category:Families]]
+[[Category:Genera]]
+[[Category:Pterygota]]
+[[Category:Endopterygota]]
+[[Category:Neoptera]]
+[[Category:InsectFamilies]]
+[[Category:Ascalaphidae]]</text>
+      <sha1>e9fw3tkjsgaog7ffkxn7oum7cnmwtbs</sha1>
+    </revision>
+  </page>
+  

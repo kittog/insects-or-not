@@ -1,0 +1,31 @@
+
+    <title>Gasteracantha cancriformis</title>
+    <ns>0</ns>
+    <id>3517</id>
+    <revision>
+      <id>5599</id>
+      <timestamp>2016-08-15T03:20:46Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Gasteracantha cancriformis''''' is a species of [[orb-weaver spider]] (family Araneidae). It is widely distributed in the New World.[1]  T..."</comment>
+      5599
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2229" sha1="6benehmlzo7h0q581wgb3t2mhvfsm0d" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Gasteracantha cancriformis''''' is a species of [[orb-weaver spider]] (family Araneidae). It is widely distributed in the New World.[1]
+
+The genus name Gasteracantha derives from the Greek words γαστήρ (gaster, "belly") and ἄκανθα (acantha, "thorn"), while the specific epithet cancriformis derives from the Latin words cancer ("crab") and forma ("shape, form, appearance").
+==Description==
+Females are 5–9 millimetres (0.20–0.35 in) long and 10–13 mm (0.39–0.51 in) wide. The six abdominal spine-like projections on the abdomen are characteristic. The carapace, legs and underside are black with white spots under the abdomen. Variations occur in the colour of the upperside of the abdomen: a white or yellow colour with both featuring black spots. A white upperside can have either red or black spines while a yellow upperside can only have black ones. Like with many other spiders, males are much smaller (2 to 3 mm long) and longer than wide. They are similar to the females in colour but have a gray abdomen with white spots and the spines are reduced to four or five stubby projections.
+
+This species of spider does not live very long. In fact, the lifespan lasts only until reproduction, which usually takes place in the spring following the winter when they hatched. Females die after producing an egg mass, and males die six days after a complete cycle of sperm induction to the female.
+==Distribution and habitat==
+It is found across the southern part of the United States from California to Florida, including Alabama as well as in Central America, Jamaica, Cuba, Dominican Republic, Bermuda, Puerto Rico, South America (including south and central Brazil, with several variations according to location) and certain islands in the Bahamas. It has also been sighted in the Whitsunday Islands, Australia, South Africa and Palawan, Philippines, as well as Kauai in the Hawaiian Islands, the Antilles and Koh Chang in Thailand eastern seaboard.
+
+It lives in woodland edges and shrubby gardens. Many of the studies on this spider have taken place in citrus groves in Florida. They frequently live in trees or around trees in shrubs.
+==Gallery==
+[[Category:Araneae]]</text>
+      <sha1>6benehmlzo7h0q581wgb3t2mhvfsm0d</sha1>
+    </revision>
+  </page>
+  

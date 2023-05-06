@@ -1,0 +1,43 @@
+
+    <title>Actias Luna</title>
+    <ns>0</ns>
+    <id>4088</id>
+    <revision>
+      <id>8086</id>
+      <parentid>7684</parentid>
+      <timestamp>2022-12-27T18:52:30Z</timestamp>
+      <contributor>
+        <ip>71.202.106.223</ip>
+      </contributor>
+        8086
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7348" sha1="3mzckdb90u1z5w0pxfdu4sacewcaoeq" xml:space="preserve">{{Infobox|Box title=Actias Luna|Row 1 title=[[Phylum]]|Row 1 info=[[Arthropoda]]|Row 2 title=[[Class]]|Row 2 info=[[Insecta]]|Row 3 title=[[Order]]|Row 3 info=[[Lepidoptera]]|Row 4 title=[[Family]]|Row 4 info=[[Saturniidae]]|Row 5 title=[[Superfamily]]|Row 5 info=[[Bombycoidea]]|Row 6 title=[[Subfamily]]|Row 6 info=[[Saturniinae]]|Row 7 title=[[Tribe]]|Row 7 info=[[Saturnini]]|Row 8 title=[[Genus]]|Row 8 info=[[Actias]]|Row 9 title=[[Species]]|Row 9 info=Actias Luna|Image file=Actias Luna (Male).jpg|Image size=275px}}
+The Luna moth is a Nearctic moth in the family [[Saturniidae]], subfamily [[Saturniinae]], a group commonly known as giant silk moths. The moths
+
+must wait for the wings to dry and harden before being able to fly. This process can take 2–3 hours to complete. Luna moths are not rare, but are rarely seen due to their very brief (7–10 day) adult lives and nocturnal flying time. As with all giant silk moths, the adults only have vestigial mouthparts and no digestive system and therefore do not eat in their adult form, instead relying on energy they stored up as caterpillars. In regions where there are two or three generations per year, the second and third may have wing coloration that is more of a yellow-green compared to the first generation of the year!
+
+== Taxonomy ==
+escribed and named ''Phalena plumata caudata'' by James Petiver in 1700, this was the first North American saturniid to be reported in the insect literature. The initial Latin name, which roughly translates to "brilliant, feather tail", was replaced when Carl Linnaeus described the species in 1758 in the tenth edition of Systema Naturae, and renamed it ''Phalaena luna'', later ''Actias luna'', with ''luna'' derived from Luna, the Roman moon goddess. The common name became "Luna moth". Several other North American giant silk moths were also given species names after Roman or Greek mythology.
+
+== Morphology ==
+eggs, attached in small groups to undersides of leaves, are mottled white and brown, slightly oval, and roughly 1.5 millimeters in diameter. Larvae are primarily green, with sparse hairs. The first instar, emerging from the egg, reaches a length of 6–8 mm (0.24–0.31 in), the second 9–10 mm (0.35–0.39 in), the third 12–16 mm (0.47–0.63 in) and the fourth 23–26 mm (0.91–1.02 in). The fifth (final) instar grows to approximately 70–90 mm (2.8–3.5 in) in length. Small, colorful dots – yellow or magenta – may line the sides of the fourth and fifth instars. The larvae may take on a reddish-brown color just prior to cocooning. Fifth-instar larvae descend to the ground and use silk to bind dead leaves around the cocoon. The imagoes (winged and mature), often referred to as 'adult moths,' emerge from the pupae with the wings small, crumpled and held close to the body. Over a period of several hours the wings will enlarge to full size. Wingspan is typically 8–11.5 cm (3.1–4.5 in), and in rare instances as much as 17.78 cm (7.00 in). Females and males are similar in size and appearance: green wings, eyespots on both forewings and hind wings, and long, sometimes somewhat twisted tails extending from the back edge of the hindwings. Bodies are white and hairy. Adults have vestigial mouthparts and do not feed. Energy is from fat stores created while a caterpillar. The forward edge of the forewing is dark-colored and thick, tapering in thickness from the thorax to the wing tip. Its color can range from maroon to brown. The eyespots, one per wing, are oval in shape on the forewings and round on the hindwings. Each eyespot can have arcs of black, blue, red, yellow, green or white. The eyespots are thought to confuse potential predators. There are some gender-determined and regional differences in appearance. Females will have a larger abdomen compared to males because it contains 200–400 eggs. Both sexes have antennae, but on the male, much longer and wider. Wing color is blue-green in the north and for the over-wintering generation in the central and southern states; second and third generation wing color has more of a yellow-green tint.
+
+== Life cycle ==
+[[File:Luna moth.jpg|thumb|281x281px]]
+Based on the climate in which they live, Luna moths produce different numbers of generations per year. In Canada and northern regions of the United States they are univoltine, meaning one generation per year. Life stages are approximately 10 days as eggs, 6–7 weeks as larvae, 2-3 weeks as pupae, finishing with one week as winged adults appearing in late May or early June. In the mid-Atlantic states the species is bivoltine, and farther south trivoltine, meaning respectively two and three generations per year. In the central states the first generation appears in April, second in July. Even farther south, first generation appears as early as March, with second and third spaced eight to ten weeks later. Females lay 200–400 eggs, singly or in small groups, on the underside of leaves of the tree species preferred by the larvae. Egg laying starts the evening after mating is completed and goes on for several days. Eggs hatch in about a week. Each instar – the period between molts – generally takes about 4–10 days. There are five instars before cocooning. At the end of each instar, a small amount of silk is placed on the major vein of a leaf and the larva undergoes apolysis, then ecdysis (molting), leaving the old exoskeleton behind. Sometimes the shed exoskeleton is eaten. Each instar is green, though the first two instars do have some variation in which some larvae will have black underlying splotches on their dorsal side. The final instar grows to approximately 70 mm (2.8 in) to 90 mm (3.5 in) in length. This is a tree-dwelling species. Larvae stay on the same tree where they hatched until it is time to descend to the ground to make a cocoon. When females emerge from cocoons they fly to preferred tree species, emit pheromones, and wait there for males to find them. The Luna moth pupates after spinning a silk cocoon, which is thin and single layered. Shortly before pupation, the final, fifth-instar caterpillar will engage in a "gut dump" where any excess water and intestinal contents are expelled. As pupae, this species is more physically active than most moths. When disturbed, the moths will wiggle within their pupal cases, producing a noise. Pupation takes approximately two weeks unless the individual is in diapause over winter, in which case the pupal stage takes about nine months. The mechanisms triggering diapause are generally a mixture of genetic triggers, duration of sunlight and temperature. The pupae have chitinous spurs near the base of the forewings. By vigorously moving about within the cocoon, these spurs tear a circular opening from which the imago emerges, the silk of the cocoon having also been weakened by the secretion of cocoonase, a protein-digesting enzyme.
+
+== Distribution ==
+Distribution. The Luna moth is found in '''North America''', from east of the Great Plains in the United States – Florida to Maine, and from Saskatchewan eastward through central Quebec to Nova Scotia in Canada. Luna moths are also rarely found in Western Europe as vagrants.
+
+&lt;br /&gt;
+[[Category:Lepidoptera]]
+[[Category:Saturniidae]]
+[[Category:Insecta]]
+[[Category:Pterygota]]
+[[Category:Neoptera]]
+[[Category:Endopterygota]]</text>
+      <sha1>3mzckdb90u1z5w0pxfdu4sacewcaoeq</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,31 @@
+
+    <title>Nemopteridae</title>
+    <ns>0</ns>
+    <id>3977</id>
+    <revision>
+      <id>6828</id>
+      <parentid>6433</parentid>
+      <timestamp>2021-10-21T17:58:50Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+        6828
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1933" sha1="q6p64is1zqhqn6z2j9oryp87bqn4o3k" xml:space="preserve">&lt;br /&gt;
+[[File:Nemoptera.jpg|thumb|Spoonwing |241x241px]]
+Nemopteridae is the order of spoonwings, there are less than 200 species of Nemopteridae they belong to the order [[Neuroptera]], they are sometimes known as thread tailed antlions and can be easily confused with swallowtail butterflies in flight. These insects have a large pair of vibrantly colored wings painted with pigmented scales and their hindwings morphed into a long-thread like structure that are normally larger in their size compared to the forewings. They can easily mistaken for a swallowtail butterfly in their flight motion due to their physical appearencce. They are predatory and feed on small-soft bodied insects. Spoonwings in the case of males posses a bulla located at the margin of the wings which used to release pheromones to attract mates They have a rather weak-fluttering flight and are often seen circling and moving in a chronological wave-like pattern. They can either be nocturnal or diurnal. They have two sub-families and in this article we're mentioning Nemopteridae which compromises of day-flying insects that can be found in a diverse range of habitats.
+
+== Habitat ==
+[[File:Nemopteridae.png|thumb|318x318px|Spoonwings]]
+there can be a little confusion when we talk about habitat of these insects as they prefer a wide range of habitats the most common habitat included sunny large patches of meadows thriving with enough food to last for generations but some spoonwings prefer shrublands and deserts as a suitable habitat some spoonwings have even adapted themselves to their survival in urbanization. Although they are becoming quite rare which is due to loss of habitat in nature. They have a great liking for semi-arid or arid climatic conditions especially semi-arid regions scattered with shrubs and bushes (shrubland) 
+[[File:Nemopteridae.png|thumb|1x1px]]
+[[Category:InsectFamilies]]
+[[Category:Insecta]]
+[[Category:Neuroptera]]</text>
+      <sha1>q6p64is1zqhqn6z2j9oryp87bqn4o3k</sha1>
+    </revision>
+  </page>
+  

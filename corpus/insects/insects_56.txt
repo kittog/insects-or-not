@@ -1,0 +1,42 @@
+
+    <title>Scaptotrigona bipunctata</title>
+    <ns>0</ns>
+    <id>3236</id>
+    <revision>
+      <id>5175</id>
+      <parentid>5174</parentid>
+      <timestamp>2013-09-28T07:49:51Z</timestamp>
+      <contributor>
+        <username>Gobi-Aoi</username>
+        <id>1265392</id>
+      </contributor>
+        5175
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="rgvi7yvgrlaj2i14lnxreubdjieyqe9" xml:space="preserve">{{Insect
+|name        = {{tt|Tubuna|Nogueira-Neto, 1970}}
+|image       = [[File:Tubuna.png|300px]]
+|binomen     = {{tt|Scaptotrigona bipunctata|Lepeletier, 1836}}
+{{tt|Melipona (Trigona) bipunctata|Lepeletier, 1836}}&lt;br&gt;{{tt|Trigona hispida|Marianno, 1911}}
+|common      = Tubuna
+|native      = Mandaguari
+|other       = {{tt|Boca-de-barro|Mud mouth}}
+|order       = [[Hymenoptera]]
+|suborder    = [[Apocrita]]
+|superfamily = [[Apoidea]]
+|family      = [[Apidae]]
+|subfamily   = [[Apinae]]
+|tribe       = [[Meliponini]]
+|genus       = [[Trigona]]
+|subgenus    = Scaptotrigona
+|species     = '''''S. bipunctata'''''
+|status      =
+|imagehab    = [[File:TubunaHab.png|300px]]
+}}
+[[Category:South American insects]]
+[[Category:Hymenoptera]]
+[[Category:Bees]]</text>
+      <sha1>rgvi7yvgrlaj2i14lnxreubdjieyqe9</sha1>
+    </revision>
+  </page>
+  

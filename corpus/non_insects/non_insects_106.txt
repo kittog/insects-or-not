@@ -1,0 +1,25 @@
+
+    <title>Vaejovis brysoni</title>
+    <ns>0</ns>
+    <id>3691</id>
+    <revision>
+      <id>5773</id>
+      <timestamp>2016-09-24T16:57:53Z</timestamp>
+      <contributor>
+        <ip>184.186.6.124</ip>
+      </contributor>
+      <comment>Created page with "[[File:Placeholder|right|300px]]'''''Vaejovis brysoni''''' is a species of [[scorpion]] belonging to the family Vaejovidae discovered in 2013 in the Santa Catalina Mountains o..."</comment>
+      5773
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1583" sha1="sxcao0bsb3mylq7xi8p7m6oqi8dk0fs" xml:space="preserve">[[File:Placeholder|right|300px]]'''''Vaejovis brysoni''''' is a species of [[scorpion]] belonging to the family Vaejovidae discovered in 2013 in the Santa Catalina Mountains of southern Arizona.[1] It was reportedly discovered in an area that overlooks the city of Tucson by Robert W. Bryson Jr., after whom the species is named. At the date of its discovery it became the tenth species of mountain scorpion known to occur in Arizona, and the second in the vorhiesi group to inhabit the specific mountain range.
+==Description and near relatives==
+The female of the species has a body measurement of about 27.5 millimetres (1.08 in).[2] As to its behavior, like other scorpions the female will carry its offspring on its back – up to 24 at one time. It is related to other creatures in the same genus and/or family such as the ''[[Vaejovis janssi]]'', ''[[Hoffmannius spinigerus]]'' and ''H. coahuilae''.
+==Sympatric range==
+Scorpions of the same evolutionary family inhabit the same region of the South West, particularly the southern regions of Arizona, some areas of Texas, New Mexico, and Mexico – the Sonoran region being their typical habitat. This species in particular was discovered in the Santa Catalina Mountains of Arizona near Tucson. Another scorpion of the same genus, ''Vaejovis deboerae'', inhabits this mountain range creating the peculiar situation where two members of the vorhiesi species have been found inhabiting the same area, and this due to the isolation each mountain, even within the same range, provides.
+==Species diversity==
+[[Category:Scorpiones]]</text>
+      <sha1>sxcao0bsb3mylq7xi8p7m6oqi8dk0fs</sha1>
+    </revision>
+  </page>
+  

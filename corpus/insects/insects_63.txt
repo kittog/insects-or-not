@@ -1,0 +1,65 @@
+
+    <title>Bombus family</title>
+    <ns>0</ns>
+    <id>3215</id>
+    <revision>
+      <id>6866</id>
+      <parentid>6792</parentid>
+      <timestamp>2021-10-22T09:16:42Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        6866
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8894" sha1="0lm5f0yc6ng4bj5aaocorxfprq0m5xo" xml:space="preserve">'''Dead end-page: This page currently does not have any links, help the wiki by adding some.'''
+
+The bombus family is the family of all the bumble-bees.  '''bumblebee'''  is any of over 250 species in the genus Bombus,
+
+{{Infobox_100|title1=Bombus|image1=Volucella bombylans (2).png|caption1=Volucella bombylans is perhaps the largest of the known species.|order=[[Hymenoptera]]|phylum=[[Arthropoda]]|class=Insecta|family=[[Apidae]]}}
+
+part of Apidae, one of the bee families. This genus is the only extant group in the tribe Bombini, though a few extinct related genera (e.g., ''Calyptapis'') are known from fossils. They are found primarily in higher altitudes or latitudes in the Northern Hemisphere, although they are also found in South America, where a few lowland tropical species have been identified. European bumblebees have also been introduced to New Zealand and Tasmania. Female bumblebees can sting repeatedly, but generally ignore humans and other animals.
+
+Most bumblebees are social insects that form colonies with a single queen. The colonies are smaller than those of honey bees, growing to as few as 50 individuals in a nest. Cuckoo bumblebees are brood parasitic and do not make nests or form colonies; their queens aggressively invade the nests of other bumblebee species, kill the resident queens and then lay their own eggs, which are cared for by the resident workers. Cuckoo bumblebees were previously classified as a separate genus, but are now usually treated as members of ''Bombus''.
+
+Bumblebees have round bodies covered in soft hair (long branched setae) called 'pile', making them appear and feel fuzzy. They have aposematic (warning) coloration, often consisting of contrasting bands of colour, and different species of bumblebee in a region often resemble each other in mutually protective Müllerian mimicry. Harmless insects such as hoverflies often derive protection from resembling bumblebees, in Batesian mimicry, and may be confused with them. Nest-making bumblebees can be distinguished from similarly large, fuzzy cuckoo bees by the form of the female hind leg. In nesting bumblebees, it is modified to form a pollen basket, a bare shiny area surrounded by a fringe of hairs used to transport pollen, whereas in cuckoo bees, the hind leg is hairy all round, and they never carry pollen.
+
+Like their relatives the honeybees, bumblebees feed on nectar, using their long hairy tongues to lap up the liquid; the proboscis is folded under the head during flight. Bumblebees gather nectar to add to the stores in the nest, and pollen to feed their young. They forage using colour and spatial relationships to identify flowers to feed from. Some bumblebees steal nectar, making a hole near the base of a flower to access the nectar while avoiding pollen transfer. Bumblebees are important agricultural pollinators, so their decline in Europe, North America, and Asia is a cause for concern. The decline has been caused by habitat loss, the mechanisation of agriculture, and pesticides.
+
+== Taxonomy ==
+
+
+The genus ''Bombus'', the only one extant genus in the tribe Bombini, comprises over 250 species; for an overview of the differences between bumblebees and other bees and wasps, see characteristics of common wasps and bees. The genus has been divided variously into up to 49 subgenera, a degree of complexity criticised by Williams (2008). The cuckoo bumblebees ''Psithyrus'' have sometimes been treated as a separate genus but are now considered to be part of ''Bombus'', in one or more subgenera.
+
+Examples of ''Bombus'' species include ''Bombus atratus'', ''Bombus dahlbomii'', ''Bombus fervidus'', ''Bombus lapidarius'', ''Bombus ruderatus'', and ''Bombus rupestris.''
+
+== Morphology ==
+Bumblebees vary in appearance, but are generally plump and densely furry. They are larger, broader and stouter-bodied than honeybees, and their abdomen tip is more rounded. Many species have broad bands of colour, the patterns helping to distinguish different species. Whereas honeybees have short tongues and therefore mainly pollinate open flowers, some bumblebee species have long tongues and collect nectar from flowers that are closed into a tube. Bumblebees have fewer stripes (or none), and usually have part of the body covered in black fur, while honeybees have many stripes including several grey stripes on the abdomen. Sizes are very variable even within species; the largest British species, ''B. terrestris'', has queens up to 22 mm (0.9 in) long, males up to 16 mm (0.6 in) long, and workers between 11 and 17 mm (0.4–0.7 in) long. The largest bumblebee species in the world is ''B. dahlbomii'' of Chile, up to about 40 mm (1.6 in) long, and described as "flying mice" and "a monstrous fluffy ginger beast".
+&lt;br /&gt;
+
+== Distribution and habitat ==
+Bumblebees are typically found in temperate climates, and are often found at higher latitudes and altitudes than other bees, although a few lowland tropical species exist. A few species (''B. polaris'' and ''B. alpinus'') range into very cold climates where other bees might not be found; ''B. polaris'' occurs in northern Ellesmere Island in the high Arctic, along with another bumblebee ''B. hyperboreus'', which parasitises its nest. This is the northernmost occurrence of any eusocial insect. One reason for their presence in cold places is that bumblebees can regulate their body temperature, via solar radiation, internal mechanisms of "shivering" and radiative cooling from the abdomen (called heterothermy). Other bees have similar physiology, but the mechanisms seem best developed and have been most studied in bumblebees. They adapt to higher elevations by extending their wing stroke amplitude. Bumblebees have a largely cosmopolitan distribution but are absent from Australia (apart from Tasmania where they have been introduced) and are found in Africa only north of the Sahara. More than a hundred years ago they were also introduced to New Zealand, where they play an important role as efficient pollinators.
+
+== Behavior ==
+
+=== Feeding ===
+The bumblebee tongue (the proboscis) is a long, hairy structure that extends from a sheath-like modified maxilla. The primary action of the tongue is lapping, that is, repeated dipping of the tongue into liquid. The tip of the tongue probably acts as a suction cup and during lapping, nectar may be drawn up the proboscis by capillary action. When at rest or flying, the proboscis is kept folded under the head. The longer the tongue, the deeper the bumblebee can probe into a flower and bees probably learn from experience which flower source is best-suited to their tongue length. Bees with shorter proboscides, like ''Bombus bifarius'', have a more difficult time foraging nectar relative to other bumblebees with longer proboscides; to overcome this disadvantage, ''B. bifarius'' workers were observed to lick the back of spurs on the nectar duct, which resulted in a small reward.
+
+=== Wax production ===
+The exoskeleton of the abdomen is divided into plates called dorsal tergites and ventral sternites. Wax is secreted from glands on the abdomen and extruded between the sternites where it resembles flakes of dandruff. It is secreted by the queen when she starts a nest and by young workers. It is scraped from the abdomen by the legs, moulded until malleable and used in the construction of honeypots, to cover the eggs, to line empty cocoons for use as storage containers and sometimes to cover the exterior of the nest.
+
+=== Coloration ===
+Cuckoo bumblebees, like this ''Bombus barbutellus'', have similar aposematic (warning) coloration to nest-making bumblebees, and may also mimic their host species.
+
+The brightly coloured pile of the bumblebee is an aposematic (warning) signal, given that females can inflict a painful sting. Depending on the species and morph, the warning colours range from entirely black, to bright yellow, red, orange, white, and pink. Dipteran flies in the families Syrphidae (hoverflies), Asilidae (robber flies), Tabanidae (horseflies), Oestridae (bot or warble flies) and Bombyliidae (bee flies, such as ''Bombylius major'') all include Batesian mimics of bumblebees, resembling them closely enough to deceive at least some predators.
+
+=== Sting ===
+Queen and worker bumblebees can sting. Unlike in honeybees, a bumblebee's stinger lacks barbs, so the bee can sting repeatedly without leaving the stinger in the wound and thereby injuring itself. Bumblebee species are not normally aggressive, but may sting in defence of their nest, or if harmed. Female cuckoo bumblebees aggressively attack host colony members, and sting the host queen, but ignore other animals unless disturbed. The sting is painful to humans, and not medically significant in most cases, although it may trigger an allergic reaction in susceptible individuals.
+[[Category:Bees]]
+[[Category:InsectFamilies]]
+[[Category:Insecta]]</text>
+      <sha1>0lm5f0yc6ng4bj5aaocorxfprq0m5xo</sha1>
+    </revision>
+  </page>
+  

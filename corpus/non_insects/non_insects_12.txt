@@ -1,0 +1,69 @@
+
+    <title>Varroa destructor</title>
+    <ns>0</ns>
+    <id>2177</id>
+    <revision>
+      <id>4359</id>
+      <parentid>3536</parentid>
+      <timestamp>2009-09-02T05:38:22Z</timestamp>
+      <contributor>
+        <username>SmartOneKg</username>
+        <id>1072595</id>
+      </contributor>
+      4359
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1805" sha1="tb792vnlx5fqtytn5lt4bh873lzfphp" xml:space="preserve">[[File:Varroa_Mite_on_larvae.jpg|thumb|''Varroa destructor'' on a [[larva]]]]The [[varroa mite]], ''Varroa destructor'' is one of the most common varroa mites in the world. 
+
+== Appearance ==
+'''Varroa destructor''' is small and oval shaped, with a tannish red color. They have eight legs and range from 1-1.8 mm long and 1.5-2 mm wide. 
+
+== Life cycle ==
+''V. destructor'' lays its [[egg]]s in [[bee]]'s brood cells, where, once the eggs hatch, the young will feed off of the [[larva|larvae]] of their [[bee|hosts]]. 
+
+== Feeding habits ==
+Like the species' young, ''Varroa destructor'' also feeds off of bee larvae and even cling onto the bees themselves to [[parasatic|parasitize]] the bees of their nutrients. Common bees they parasitize are ''[[Apis cerana]]'' and ''[[Apis mellifera]]''
+
+== Geography ==
+''Varroa destructor'' was found in several places and was introduced to many places as of 2007. They have practically been found worldwide. 
+
+===1960's===
+During the 60's, ''Varroa destructor'' was introduced to Japan and USSR. 
+
+===1960's-1970's===
+This mite was taken to Eastern Europe
+
+===1971===
+In 1971, ''Varroa destructor'' was introduced to Brazil. 
+
+===Late 70's===
+During the late 70's ''V. destructor'' was introduced to most of South America. 
+
+===1982===
+France imported several of this species in 1982. 
+
+===1984===
+In 1984, ''Varroa destructor'' was found in Italy, Spain, and Switzerland.
+
+===1987===
+In 1987, this [[mite]] was finally found in the US and Portugal. 
+
+===1989===
+''Varroa destructor'' finally hits Canada. 
+
+===1992===
+UK imports several of these mites. 
+
+===21st Century===
+Ever since the start of 2000, ''V. destructor'' was found in New Zealand and Hawaii. 
+
+
+{{ArachnidMove}}
+[[Category:Acari]]
+[[Category:Varroidae]]
+[[Category:Mites]]
+[[Category:Arachnids]]</text>
+      <sha1>tb792vnlx5fqtytn5lt4bh873lzfphp</sha1>
+    </revision>
+  </page>
+  

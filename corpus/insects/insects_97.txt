@@ -1,0 +1,54 @@
+
+    <title>Blaberus fusca</title>
+    <ns>0</ns>
+    <id>1882</id>
+    <revision>
+      <id>7184</id>
+      <parentid>4251</parentid>
+      <timestamp>2021-11-19T10:57:51Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7184
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3091" sha1="7f9llsh2ccvvcgqit8s2qn5xb3lmacx" xml:space="preserve">[[File:Blaberus_fusca.jpg|thumb|152px|Two ''Blaberus fusca'']]Keeping ''Blaberus fusca'', the smaller giant cave cockroach, as pets. A personal account.
+
+I bought 10 of these at a meeting for reptile fanciers, where they were sold as food insects. The box was marked ''blaberus fusca'' but I cannot independently confirm that this is correct. 
+
+==Morphology==
+The species apparently comes from South-America. The adults are winged, about 7 cm long, with a dark brown mark on the [[pronotum]], and shadowed places on the wings. The larvae are dark brown, with lighter markings, excellent at camouflaging among leaf litter. 
+
+==temperature==
+I keep them at 25-30 degrees celsius, at which they seem to thrive. Below 23 seems to be a slow death sentence for them - which is a good thing: if one of them should escape you don't want them in your kitchen. But to keep them you will need to heat the cage a bit. 
+
+==food==
+Cat pellets, oats, guppy food, and a bit of fresh food (piece of banana, piece of apple, changed every other day or when it seems dry or starts to get mouldy) keeps them happy. 
+
+==water==
+I take care that there is always some of water available but not in such a way that they could drown. An upside-down flask in a small petri dish.
+
+==size of cage==
+I use glass terrariums with doors that slide up (can't leave them open by accident) of 20x20x20 cm. A bit of sand or leaf litter on the floor and an egg carton for shelter. The do not climb against the glass and seem not to be able to fly despite their wings. One of these holds 5-8 animals comfortably. 
+
+==humidity==
+Misting with a plant spray gun once a day or every two days. In a very dry cage the moulting seems to give troubles occasionally: one emerging adult couldn't get out of its skin and several others who did, had underwings which did not fold properly under the top wings. 
+
+==reproduction==
+The first egg-case was noticed about 3-4 weeks after the first few adults emerged. It consists of about 40 long-ovoid eggs stuck together on their sides in two layers with a hard glue. The entire 'egg-stick' is about 1 inch long, 4 mm wide and 3 mm thick, and quite hard. Egg cases protrude a while  from the females' abdomen before they are laid. 
+
+==behaviour==
+Not very exciting. They take shelter in the dark, antennae waving about in all directions, and come out only to feed and moult. The can run but usually are quite careful, a few steps, short pause, another few steps. Antennae always on the move. Not aggressive, they do not bite and can easily be handled but the wriggling feet take a bit of nerve to keep hold of. 
+
+==moulting==
+Usually early in the evening. Recently moulted ones are quite white but turn tan in a few hours. The next morning they can be recognized only by a shinier skin than before. And they are shorter, broader and flatter. As they gain weight for the next moult they expand in the depth and length dimensions, the abdominal segments are pushed out like a telescope. 
+
+==contact for questions==
+Bart van Herk (evanherk@xs4all.nl).
+[[Category:Blattodea]]
+[[Category:Insect pets]]</text>
+      <sha1>7f9llsh2ccvvcgqit8s2qn5xb3lmacx</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,40 @@
+
+    <title>Ophionyssus natricis</title>
+    <ns>0</ns>
+    <id>3559</id>
+    <revision>
+      <id>7613</id>
+      <parentid>5641</parentid>
+      <timestamp>2021-12-21T06:24:21Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      7613
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3340" sha1="a9vyvzlztafl2tgo4i2t2q8x0o3d9h6" xml:space="preserve">[[File:O. Naticis.jpg|alt=|right]]
+'''''Ophionyssus natricis''''' or '''Reptile [[mite]]''' is a parasitic mite most commonly found on snakes, but also occurring on captive lizards, turtles, crocodiles and other reptiles.[1] The parasites feed on snakes, which cause the bodies of the mites to be engorged with blood and fluids from the snake. Once the mites feed by puncturing through the snake skin, the snake usually shows symptoms of irritation and discomfort. Also this provides a point of entry where diseases from Aeromonas spp. and Inclusion Body Disease (IBD) can be transmitted. Mites have also been shown to act as vectors for IBD. The pathology for disease transmission by the mites is still unknown. Human infestation has been reported.
+==Morphology==
+The larvae are pale white. They either stay pale ivory or yellow if unfed in the protonymph stage. The mites will turn a dark red if feeding does occur. After feeding, the mites have a soft body that is dark red or black in color and noticeable legs that can be seen by the human eye during the deutonymph stage.
+
+As adults, male mites are smaller than their female counterparts. The colors can range from dark yellowish-brown, dark red or black depending on the feeding of the mite onto the snake. Female adults, however, are big, fat, and black mites. They weigh 50 μg, but can weigh 750 μg if fully engorged from the blood meal.
+==Life cycle==
+There are five life stages for the snake mite: egg, larva, protonymph, deutonymph, and adult. The intermediate stages (larva, protonymph, and deutonymph) must shed at least once to progress into the next stage. The ideal conditions in the environment for the mite to fully develop into a parasite are at temperatures between 75–85 °F (24–29 °C) and a relative humidity of 70%–90%. The life stages can be completed usually in 13 to 19 days.
+
+Unfavorable conditions in the environment will cause impairment of development and survivorship at all stages of the mites. Mites are killed at all stages when exposed to temperatures above 105 °F (41 °C) or below 35 °F (2 °C) for several days. In terms of humidity, the mites will desiccate at levels below 20%. The mites will also drown if they are wet.
+
+Females can lay a dozen or two eggs at a time (60 to 80 in a lifetime). The eggs are usually laid in dark and humid areas. They are rarely laid on the snake where the adult mites are found. Eggs will hatch in one day in ideal conditions.
+
+After hatching, the young mites go through the larval stage, which takes about one or two days. The larvae tend to move very little away from the eggs, despite having the ability to walk.
+
+The larvae progress next into the protonymph stage, which can last three days to two weeks. At this stage, the protonymphs become attracted to the smell of snakes and require a blood meal from the snakes to go into the next stage. The protonymphs will tend to walk around the scale surfaces and head plates of the snake.
+
+The deutonymph stage then takes place after the blood meal at a place usually away from the snake. Shedding takes about a day to become adult mites. At the adult stage, the mites will continue to feed on the snake host until the males mate with female that is not engorged. Adult mites usually live up to 40 days.
+==Treatments==
+[[Category:Mites]]
+[[Category:Acari]]</text>
+      <sha1>a9vyvzlztafl2tgo4i2t2q8x0o3d9h6</sha1>
+    </revision>
+  </page>
+  

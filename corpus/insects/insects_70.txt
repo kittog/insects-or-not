@@ -1,0 +1,31 @@
+
+    <title>Mutillidae</title>
+    <ns>0</ns>
+    <id>3636</id>
+    <revision>
+      <id>7279</id>
+      <parentid>5718</parentid>
+      <timestamp>2021-11-24T05:39:34Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+        7279
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3748" sha1="ojp7myxhmliittq3zxsncw4no9xrqp1" xml:space="preserve">[[File:Placeholder|right|300px|link=Special:FilePath/Placeholder]]The '''Mutillidae''' are a family of more than 3,000 species of [[wasp]]s (despite the names) whose wingless females resemble large, hairy [[ant]]s. Their common name velvet ant refers to their dense pile of hair, which most often is bright scarlet or orange, but may also be black, white, silver, or gold. Black and white specimens are sometimes known as panda ants due to their hair coloration resembling that of the giant panda. Their bright colors serve as aposematic signals. They are known for their extremely painful stings, hence the common name cow killer or cow ant. Unlike real ants, they do not have drones, workers, and queens. However, velvet ants do exhibit haplodiploid sex determination similar to other members of the [[Hymenoptera]], including the Vespoidea.
+==Description==
+The exoskeleton of all velvet ants is unusually tough (to the point that some entomologists have reported difficulty piercing them with steel pins when attempting to mount them for display in cabinets). This characteristic allows them to successfully invade the nests of their prey and also helps them retain moisture. Like related families in the Vespoidea, males have wings, but females uniformly are wingless. They exhibit extreme sexual dimorphism. The males and females are distinct enough in their morphology, often making it very hard to decide whether or not a given male and female belong to the same species, unless they are captured while mating. In a few species, the male carries the smaller female aloft while mating, which is also seen in the related family Tiphiidae.
+==Behavior==
+Mature mutillids feed on nectar. Although some species are strictly nocturnal, females are often active during the day. Females of ''Tricholabiodes thisbe'' are sometimes active up to two hours before sunset. Guido Nonveiller (1963) hypothesized the Mutillidae are generally stenothermic and thermophilic; they may not avoid light, but rather are active during temperatures that usually occur only after sunset.
+
+=== Defense mechanism ===
+Predation is one of the strongest forces natural selection uses to drive the evolution of an organism’s morphology, physiology, and behavior. During this coevolution, the prey either being consumed by the predator or escaping has resulted in a plethora of impressive defensive strategies in prey species to improve the likelihood of escape. Velvet ants avoid predation using the following defense mechanisms; a venomous sting (if female), aposematic coloration, a stridulatory organ in their abdomen, an alarm secretion from their mandibular gland, and a durable exoskeleton. This array of defenses has contributed to the velvet ants being attributed the title of "the indestructible insect." This title was given to the velvet ants after experimental experiments of interactions between velvet ants and their potential predators that resulted in the survival of the ant and the ultimate avoidance by the predator. 
+
+==Life cycle==
+Male mutillids fly in search of females; after mating, the female enters a host insect nest, typically a ground-nesting bee or wasp burrow, and deposits one egg near each larva or pupa. Only a few species are known to parasitize other types of hosts; exceptions include the European velvet ant, ''Mutilla europaea'', one of the only species that attacks social bees (e.g., ''Bombus''), and the genus ''Pappognatha'', whose hosts are tree-dwelling orchid bees. The mutillid larvae then develop as idiobiont ectoparasitoids, eventually killing their immobile larval/pupal hosts within a week or two. Velvet ants exhibit haplodiploid sex determination, as do other members of the superfamily Vespoidea.
+[[Category:Wasps]]</text>
+      <sha1>ojp7myxhmliittq3zxsncw4no9xrqp1</sha1>
+    </revision>
+  </page>
+  

@@ -1,0 +1,42 @@
+
+    <title>Trichonephila clavata</title>
+    <ns>0</ns>
+    <id>4604</id>
+    <revision>
+      <id>8129</id>
+      <parentid>8104</parentid>
+      <timestamp>2023-01-13T06:56:28Z</timestamp>
+      <contributor>
+        <username>Entomologist Jr.</username>
+        <id>49928406</id>
+      </contributor>
+      <comment>Adding categories</comment>
+      8129
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2272" sha1="eulfl4cds4jirkqjoy21x4cn6cyf9qr" xml:space="preserve">'''Trichonephila clavata''' (Formerly known as '''Nephila clavata''')also known '''Joro Spider  (ジョロウグモ（女郎蜘蛛、上臈蜘蛛, Jorō-gumo)'''  is a large, beautiful spider native to Thailand, Japan, China, southeastern Georgia, Korea and United States. 
+[[File:076BA7BF-F069-4CC9-B208-07ECBBA85466.jpeg|thumb|Adult female]]
+
+== Morphology ==
+A very gorgeous species with a striking resemblance to [[Nephila|Golden orb weaver]] spiders. Females can be as large as 25 cm in length, males never exceed more than 11 cm in length. The adults have a bright, golden coloured abdomen along with black stripes and dashes of bright scarlet along the lower abdominal region with bodies speckled with bright yellow, the bands may either be navy blue or Matt black. Their heads are silver-grey and have long, rigid appendages banded with bright yellow or gold. Their webs are a uniquely golden coloured and may reach several metres in size, the beautiful species builds subtle, iridescent webs, the webs are intricate and incredibly tough; rigid. 
+
+== Life Cycles ==
+The female lays an egg sac consisting of 400-1500 babies, laid on trees during mid-autumn, coupling occurs during earlier days of autumn. The females dies by early winters or shortly after laying eggs. The eggs hatch in spring. The nymphs are very small, golden in colour and resemblance bears that of ticks.
+
+== Behaviour ==
+
+=== Diet ===
+This spiders eats small insects trapped in its intricate networks of strings, it liquifies them and wraps the carcass in silk cocoons. This beauty is an invasive species. 
+
+=== Aggression ===
+Aggression occurs in females during mid autumn, they are usually docile and shy of humans, they are however territorial during breeding seasons, only the females can pierce human skin. The bite is painful without doubt but their venom is ineffective on humans.
+
+== The Jorogumo ==
+The jorogumo is a half-human half-joro spider, she can disguise herself as a beautiful woman to seduce men to her den and devour them, she avoids mirrors as her reflection can reveal her true form. She inhabits the forests and urbanisations. It is said that a Joro spider becomes a jorogumo if she reaches 400 years old.
+[[Category:Arachnids]]
+[[Category:Araneae]]
+[[Category:Spiders]]</text>
+      <sha1>eulfl4cds4jirkqjoy21x4cn6cyf9qr</sha1>
+    </revision>
+  </page>
+  

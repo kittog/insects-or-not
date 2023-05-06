@@ -1,0 +1,48 @@
+
+    <title>Formicidae</title>
+    <ns>0</ns>
+    <id>1922</id>
+    <revision>
+      <id>5061</id>
+      <parentid>5040</parentid>
+      <timestamp>2012-04-15T09:32:16Z</timestamp>
+      <contributor>
+        <ip>83.111.44.202</ip>
+      </contributor>
+      <comment>/* Ants */</comment>
+        5061
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="677" sha1="2twbtobcjyg6eqahl2thui7fe8fti3t" xml:space="preserve">[[File:Fire_ants.jpg|thumb|190px]]
+==  
+
+ 
+ ==
+
+== social life ==
+'''
+The queen is the one who lays all the eggs. All the workers are Sterile females. 
+Some ants will form super colonies with many queens made from individual colonies.
+
+== '''Habitat''' ==
+
+
+
+Ants will live in every environment except the Antarctic. 
+Even the driest of regions are inhabited by the ants. 
+One species of ants has been shown to live in underwater colonies. They breathe in trapped
+pockets of air.
+
+
+
+=='''Predators'''==
+
+Ants have a variety of predators like amphibians, reptiles, insects, other ants,
+birds, bats, and spiders.
+[[Category:Hymenoptera]]
+[[Category:Ants]]
+[[Category:Formicidae]]</text>
+      <sha1>2twbtobcjyg6eqahl2thui7fe8fti3t</sha1>
+    </revision>
+  </page>
+  
