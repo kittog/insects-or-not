@@ -4,7 +4,7 @@ import glob
 
 if len(sys.argv) != 3:
 	print('La commande prend deux arguments : le chemin du fichier xml à lire, et le chemin du corpus txt à produire')
-	quit()
+
 infileName = sys.argv[1]
 outfileName = sys.argv[2]
 
