@@ -2,8 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 import regex as re
-import seaborn as sns
-from matplotlib import rcParams
 
 from nltk.tree import *
 import nltk
@@ -37,6 +35,8 @@ x = vec.fit_transform(df['text'])
 svd = TruncatedSVD(n_components=100)
 res = svd.fit_transform(x)
 # res.shape = (221, 100)
+
+### SVM 
 
 # model
 from sklearn import svm
