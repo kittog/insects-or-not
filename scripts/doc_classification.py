@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import os
 import regex as re
+import seaborn as sns
+from matplotlib import rcParams
 
 from nltk.tree import *
 import nltk
@@ -47,7 +49,7 @@ from sklearn.model_selection import cross_validate
 y = df['label'].values
 X = res
 
-cross_validation = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
+cross_validation = RepeatedKFold(n_splits=10, n_repeats=5, random_state=1)
 
 model = svm.SVC(kernel='linear', C=1, decision_function_shape='ovo')
 
@@ -58,7 +60,7 @@ metrics = cross_validate(model, res, y, scoring=['precision_macro', 'recall_macr
 p = np.mean(metrics['test_precision_macro'])
 p_std = np.std(metrics["test_precision_macro"])
 
-r = np.mean(metrics['test_precision_macro'])
+r = np.mean(metrics['test_recall_macro'])
 r_std = np.std(metrics["test_recall_macro"])
 
 # print results
